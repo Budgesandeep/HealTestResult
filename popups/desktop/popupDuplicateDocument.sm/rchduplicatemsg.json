@@ -1,0 +1,33 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        0
+    ],
+    "_skin_": "s6742f2773df427582847ff9a2109e4b",
+    "_text_": "<p> RichText </p>\n<p>  RichText </p>",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "rchduplicatemsg",
+    "info": null,
+    "isvisible": true,
+    "kuid": "af1ea7f35c414b9a9c666cfa4e65e21b",
+    "margininpixel": false,
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "vboxlogout",
+    "pf": "popupDuplicateDocument",
+    "wType": "RichText",
+    "widgetalignment": 5
+}

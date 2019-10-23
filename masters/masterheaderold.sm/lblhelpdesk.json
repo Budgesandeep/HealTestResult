@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_text_": "Helpdesk",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "35%"
+    },
+    "childInstances": [
+        "mf0f145dd39c493faa54672d13ce7491",
+        "m39908b590e745e9a5b38bd45ee7a860",
+        "m986dc7efa944eb8bceb32985bd56011",
+        "md077dd09d4a4593826a421ba0de8612"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblhelpdesk",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "30141805ff3d4e74a51596847743abf0",
+    "name": "kony.ui.Label",
+    "parent": "fccontacthelp",
+    "pf": "masterheaderold",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

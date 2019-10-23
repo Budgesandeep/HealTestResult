@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbdb2463fb714bca941bae64011239ca",
+    "_text_": "Test Results",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sce916e12269462d8178af01399f4b38"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s20bf4c8c1b24be48097c600f9d64058",
+    "id": "btnTestResults",
+    "info": null,
+    "isvisible": true,
+    "kuid": "h48ea60101564cad99758c4d419e9d00",
+    "name": "kony.ui.Button",
+    "parent": "fctreatmentbar",
+    "pf": "frmPatientTestResults",
+    "wType": "Button",
+    "zindex": 1
+}

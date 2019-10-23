@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2dd97c75f234b11b02c12c1da204ffd",
+    "_text_": "Follow Up:",
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 20,
+    "contentalignment": 4,
+    "id": "lblfollowup",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "0dafd74f72cd464ab5a25fdcb3316e59",
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        5.1,
+        0,
+        0,
+        0
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxfollowup",
+    "pf": "popupcreatetask",
+    "tooltip": "",
+    "wType": "Label"
+}

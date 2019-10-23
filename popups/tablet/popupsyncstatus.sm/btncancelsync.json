@@ -1,0 +1,47 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        25,
+        4,
+        25,
+        4
+    ],
+    "_padding_": [
+        1,
+        3,
+        1,
+        3
+    ],
+    "_skin_": "sb65b513974142b0a20fd3031f838da1",
+    "_text_": "Cancel Sync",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "donotUpdateContainerWeight": false,
+    "focusskin": "se841be24699446198f4aef5655df7b1",
+    "hexpand": true,
+    "id": "btncancelsync",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "dfb368b9d7f14ddebe85c934a3cdd2f6",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        6.14,
+        18.42,
+        6.14,
+        18.42
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxcancelsync",
+    "pf": "popupsyncstatus",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

@@ -1,0 +1,39 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        2,
+        1,
+        2,
+        2
+    ],
+    "_skin_": "s666bce447c04cf4982cbf121fd177f6",
+    "_text_": "See Exclusions from Outcome Calculations",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sce916e12269462d8178af01399f4b38"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s666bce447c04cf4982cbf121fd177f6",
+    "id": "btnExclusions",
+    "ide_onClick": "AS_Button_b39d5094892d4e90863f7ab7e38eaa3b",
+    "info": null,
+    "isvisible": false,
+    "kuid": "8712ea92cc4944e8927d7c0f2395a464",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "vboxInfo",
+    "pf": "popupInfo",
+    "wType": "Button"
+}

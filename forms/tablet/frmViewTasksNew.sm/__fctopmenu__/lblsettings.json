@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_srcKuid_": "4060c6a6d98745a084a507b25a0542e0",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblsettings",
+        "left": {
+            "type": "string",
+            "value": "35dp"
+        },
+        "text": "Settings",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblsettings",
+    "instanceOf": "4060c6a6d98745a084a507b25a0542e0",
+    "isvisible": true,
+    "kuid": "m31ac8cffe154fee9b8ca8b1f103b31e",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcsettings",
+    "pf": "frmViewTasksNew",
+    "topLevelInstanceKUID": "m15723d0f99a4a0eb8af4e91c87aae40",
+    "wType": "Label"
+}

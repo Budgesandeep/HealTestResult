@@ -1,0 +1,36 @@
+{
+    "AS_FlexContainer_4b3a1756e26e469fa5013d19c80aef5f": {
+        "id": "AS_FlexContainer_4b3a1756e26e469fa5013d19c80aef5f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "6a5ac136946645f392c3702ef128575e"
+        },
+        "sourceObj": {
+            "itemKUID": "85f7d9af654845e7a601e5b444d74516",
+            "widgetKUID": "673467e88add4c27b9d7afe71eb09835",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION___ide_onClick_06ff091d5aa9413ea04e22c9a6d23001",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_92d17d32b57d407d9eca64b02ccde833",
+            "display": "AS_FlexContainer_92d17d32b57d407d9eca64b02ccde833",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

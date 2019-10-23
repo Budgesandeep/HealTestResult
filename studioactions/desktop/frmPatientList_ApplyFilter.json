@@ -1,0 +1,31 @@
+{
+    "AS_Button_4f4bb9f9524245348b4bf40237bde71c": {
+        "id": "AS_Button_4f4bb9f9524245348b4bf40237bde71c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_ApplyFilter",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupsortandfilter",
+            "type": "popups",
+            "platform": "",
+            "KUID": "665d512a1254439f93272064ebd29760"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c23e257e18294ae681bbaff72b576edc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_FilterPopup_Clear_Apply",
+            "display": "frmPatientList_FilterPopup_Clear_Apply",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

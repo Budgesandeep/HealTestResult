@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_6e552b4719834320ba2396e0a861a772": {
+        "id": "AS_FlexContainer_6e552b4719834320ba2396e0a861a772",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_fcprint_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": null,
+            "KUID": "29d5bb05d3ed43388b36d9044efe616d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b7967e9d24844ff98aa72e0c7db82dde",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "show_printMenu",
+            "display": "show_printMenu",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

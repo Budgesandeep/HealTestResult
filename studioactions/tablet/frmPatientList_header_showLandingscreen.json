@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_d13fdbd914534013bd324c3710de691c": {
+        "id": "AS_FlexContainer_d13fdbd914534013bd324c3710de691c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_header_showLandingscreen",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "sourceObj": {
+            "itemKUID": "5b6f549504be45a7b888471691b5dd4f",
+            "widgetKUID": "10012846562346608f217f43ee55ca3a",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

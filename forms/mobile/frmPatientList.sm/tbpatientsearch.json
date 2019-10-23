@@ -1,0 +1,91 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextArea2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "75%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "First Name/ Last Name",
+    "_render_": true,
+    "_skin_": "s8ace5e46fe34397a2edc66b174c4f82",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "android": {
+        "render": true
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "closebuttontext": "",
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s8ace5e46fe34397a2edc66b174c4f82",
+    "id": "tbpatientsearch",
+    "ide_onTextChange": "AS_TextArea_f7b7a5b3082f4cec8099836fd4d6ad38",
+    "ide_onTouchEnd": "AS_TextArea_ge684e03efb9452c98b488d610b58699",
+    "info": null,
+    "iphone": {
+        "ide_onEndEditing": "AS_TextArea_j3b922de4f604258a220a772572f7705",
+        "render": true
+    },
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "d084902500a54b01b347e607d0da94c2",
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "paddinginpixel": false,
+    "parent": "fcheader",
+    "pf": "frmPatientList",
+    "securetextentry": false,
+    "showoprogressindicator": false,
+    "showprogressindicator": false,
+    "spaan": {
+        "render": true
+    },
+    "spabb": {
+        "render": true
+    },
+    "spaip": {
+        "render": true
+    },
+    "spawinphone8": {
+        "render": true
+    },
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextArea",
+    "winphone8": {
+        "render": true
+    },
+    "zindex": 10
+}

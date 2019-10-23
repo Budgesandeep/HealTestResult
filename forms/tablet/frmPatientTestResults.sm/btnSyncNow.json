@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        1,
+        0,
+        1,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "36%"
+    },
+    "_skin_": "s08d2506f34b4c27b5f2c5b4ff1fc653",
+    "_text_": "Sync Now",
+    "_width_": {
+        "type": "string",
+        "value": "9%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s08d2506f34b4c27b5f2c5b4ff1fc653",
+    "id": "btnSyncNow",
+    "ide_onClick": "AS_Button_j442f48d0f984e72a2963a76db1ca889",
+    "info": null,
+    "isvisible": false,
+    "kuid": "e835aaa61e334eb99e4ede1766933a99",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "fcbodyheader",
+    "pf": "frmPatientTestResults",
+    "wType": "Button",
+    "zindex": 1
+}

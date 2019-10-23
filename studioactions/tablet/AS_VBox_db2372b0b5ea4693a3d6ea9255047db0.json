@@ -1,0 +1,24 @@
+{
+    "AS_VBox_db2372b0b5ea4693a3d6ea9255047db0": {
+        "id": "AS_VBox_db2372b0b5ea4693a3d6ea9255047db0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_5f5b60eb10d34a8f82ebb23e45d22d32",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

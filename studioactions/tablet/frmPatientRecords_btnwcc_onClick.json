@@ -1,0 +1,39 @@
+{
+    "AS_Button_fada36c8f75445d7a917188d74d6eafa": {
+        "id": "AS_Button_fada36c8f75445d7a917188d74d6eafa",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_btnwcc_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": null,
+            "KUID": "29d5bb05d3ed43388b36d9044efe616d"
+        },
+        "sourceObj": {
+            "itemKUID": "ece4e70548614acebb6edf369b19b24f",
+            "widgetKUID": "f7a7c1c3fc06478e80e3ded7d5db089c",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____80a76bd76fc54ea385c07f2d233e0f3d",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Button_c9778bea743845b1b002ebbbae028bd4",
+            "display": "AS_Button_c9778bea743845b1b002ebbbae028bd4",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

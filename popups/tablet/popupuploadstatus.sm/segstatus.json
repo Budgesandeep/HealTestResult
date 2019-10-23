@@ -1,0 +1,126 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "lbldocname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "dfgfhfhkdflkgh_dfhfghj"
+            },
+            "lblsno": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1"
+            },
+            "lblstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "In Progress"
+            }
+        },
+        {
+            "lbldocname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "fdhfghgfjfddghghfakkfjfkjfijgkfbfhhj"
+            },
+            "lblsno": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            },
+            "lblstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Success"
+            }
+        },
+        {
+            "lbldocname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "akdfjfdgijg dgijdigdfkjh h"
+            },
+            "lblsno": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "3"
+            },
+            "lblstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Failure"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "alternaterowskin": "sfde659fa1fa429a833ce61a1ac7dead",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segstatus",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none",
+            "showProgressIndicator": true
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "ha1d123e24b648289793132142f79419",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "ScrollBox1",
+    "pf": "popupuploadstatus",
+    "retainselection": false,
+    "rowTemplateId": "j2fe231b9a324ee1b0958091b88c6a0f",
+    "rowcounter": 2,
+    "rowfocusskin": "s1424a1698dd48bc8967d8eeb4b44c33",
+    "rowskin": "s00ab971316d457ab74508aa12f2b715",
+    "rowtemplate": "hboxstatus",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showprogressindicator": true,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "hboxstatus": "hboxstatus",
+        "lbldocname": "lbldocname",
+        "lblsno": "lblsno",
+        "lblstatus": "lblstatus"
+    }
+}

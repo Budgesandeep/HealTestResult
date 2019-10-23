@@ -1,0 +1,29 @@
+{
+    "AS_Button_50ee04411936454a9627fd3552df6dd2": {
+        "id": "AS_Button_50ee04411936454a9627fd3552df6dd2",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_popupCheckbox2",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ac227b97c27e4acba18441624b89f1b4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdmin_popupcheckbox",
+            "display": "frmAdmin_popupcheckbox",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

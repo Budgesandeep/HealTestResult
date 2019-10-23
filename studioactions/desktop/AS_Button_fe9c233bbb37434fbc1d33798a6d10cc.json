@@ -1,0 +1,36 @@
+{
+    "AS_Button_fe9c233bbb37434fbc1d33798a6d10cc": {
+        "id": "AS_Button_fe9c233bbb37434fbc1d33798a6d10cc",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segNotificationFacility",
+            "type": "templates",
+            "platform": null,
+            "KUID": "f19d8eb9377f45a2b84281c671c15b56"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_j457acad94124c3b82f63b65021a44ed",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_segFacilityButtonHandler",
+            "display": "frmNotificationDashboard_segFacilityButtonHandler",
+            "inputparams": [{
+                "name": "selectedButtonObj",
+                "value": " eventobject"
+            }, {
+                "name": "SegContext",
+                "value": " context"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

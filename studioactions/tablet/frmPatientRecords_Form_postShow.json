@@ -1,0 +1,48 @@
+{
+    "AS_Form_1be38764c05f433d82d4302972cf1f59": {
+        "id": "AS_Form_1be38764c05f433d82d4302972cf1f59",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_Form_postShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "476b8fb01b9f4332a3aed88ac14b67f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_postShow_e44027f7267e4075842a42a7c5c36aef",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hideFormMenu",
+            "display": "hideFormMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION__ide_postShow_5e0706ba95eb4e2fad6bb8c891606e31",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "load_headerdata",
+            "display": "load_headerdata",
+            "inputparams": [{
+                "name": "currentForm"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___2839c5e20e8a4c90b610e720b57c6ce7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerTimeout",
+            "display": "registerTimeout",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "AS_Button_abeb31a549054431aa9accf99701169f": {
+        "id": "AS_Button_abeb31a549054431aa9accf99701169f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g05ad9ee8e5346a186c5b346a773ce78"
+        },
+        "sourceObj": {
+            "itemKUID": "ece4e70548614acebb6edf369b19b24f",
+            "widgetKUID": "e6bacd78fe30442b92411bd5860e8a7f",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____f342d21be07d4adaad94246b1c413273",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Button_ab7ab38888854e648fe58aaa2438a1a3",
+            "display": "AS_Button_ab7ab38888854e648fe58aaa2438a1a3",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s25bca7c27ec435ab9359af8e6827ede",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "9dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "22dp"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s25bca7c27ec435ab9359af8e6827ede",
+    "id": "btnDelete",
+    "ide_onClick": "AS_Button_ddb2b754190f4324a91a395036e7bbfc",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a0159d9fec264b09a1eeaf9bf7c8f2a0",
+    "name": "kony.ui.Button",
+    "parent": "fcDocumentList",
+    "pf": "segDocumentList",
+    "wType": "Button",
+    "zindex": 3
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_b7598941eef2458ba62c8e40cb696370": {
+        "id": "AS_Button_b7598941eef2458ba62c8e40cb696370",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_fe3139d5d5e344998d52b26c9e51a0e9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_addNotification",
+            "display": "frmNotificationDashboard_addNotification",
+            "inputparams": [{
+                "name": "eventObj"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

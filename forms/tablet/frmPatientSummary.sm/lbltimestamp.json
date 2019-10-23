@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        2,
+        1,
+        0,
+        0
+    ],
+    "_skin_": "s7efe55126894f1c82922d9b6ac477dc",
+    "_text_": "Label",
+    "_top_": {
+        "type": "string",
+        "value": "89%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "70%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lbltimestamp",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "ae72568c3d4541198b73f6c4ae660ea9",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "flximage",
+    "pf": "frmPatientSummary",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 2
+}

@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "8083480e77c34032993b2f6e35bc3d6f",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "imgExportExcel",
+        "imageScaleMode": 1,
+        "left": "3dp",
+        "src": "excel.png",
+        "width": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgExportExcel",
+    "instanceOf": "8083480e77c34032993b2f6e35bc3d6f",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m9ac06941ead43d1bc4477a4e3944566",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fcExportExcel",
+    "pf": "frmPatientSummary",
+    "topLevelInstanceKUID": "m71f9042be6740f49ccca9452f920a74",
+    "wType": "Image"
+}

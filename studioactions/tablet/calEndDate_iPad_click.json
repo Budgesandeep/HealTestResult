@@ -1,0 +1,32 @@
+{
+    "AS_Calendar_gab068f075fd46fca4e4d47936c97e3c": {
+        "id": "AS_Calendar_gab068f075fd46fca4e4d47936c97e3c",
+        "type": "ACTION_SEQUENCE",
+        "name": "calEndDate_iPad_click",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "boolean",
+            "name": "isValidDateSelected"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e5e541e4504f431b9f853878a56f9aed",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "createNotificationEndDateSelected",
+            "display": "createNotificationEndDateSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

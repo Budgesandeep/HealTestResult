@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "sa8abdf651b14f72be81ff5983d75713",
+    "_text_": "Yes",
+    "_top_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "55%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblsecondaryinsurancevalue",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b6e369a513894e60a8451a0c4409790c",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo3",
+    "pf": "frmPatientRecords",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

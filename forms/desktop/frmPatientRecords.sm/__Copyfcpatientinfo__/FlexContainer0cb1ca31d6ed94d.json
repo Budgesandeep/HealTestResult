@@ -1,0 +1,56 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa1111ea6188450386950c0abff2a271",
+    "_srcKuid_": "e567b42b3bdc42598cdae940fc7dcf6c",
+    "canUpdateUI": true,
+    "children": [
+        "imgpatient",
+        "fcpatientinfo1",
+        "fcpatientinfo2",
+        "fcpatientinfo3",
+        "FlexContainer0i2cfee5f99c245"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "FlexContainer0cb1ca31d6ed94d",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "FlexContainer0cb1ca31d6ed94d",
+    "instanceOf": "e567b42b3bdc42598cdae940fc7dcf6c",
+    "isvisible": true,
+    "kuid": "mf3c086e2fe14b949b20d47a98714cdc",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcpatientinfodetails",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "FlexContainer"
+}

@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_text_": "Switch Facility",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m0341e6023644a77908f900fa76cad45",
+        "m4e709d6a35243ef9886f3187f226f5b",
+        "m53b8fd44261404e82b10090695cd530",
+        "m0e13c55c19c475899ba62d352c718d1",
+        "m0df6db004c346548a837e59876f7133",
+        "m09fdb3cda4448739ffba4bc6b31b6c5",
+        "macde99621574ce695fe2455ab71c63b",
+        "m1af7a191df545ac8f33fff3a5595c2b"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblreports",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "85cb257965f24941be41566f04b9d8b5",
+    "name": "kony.ui.Label",
+    "parent": "fcreports",
+    "pf": "mastertopmenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

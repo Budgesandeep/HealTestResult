@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scdb84b003ba4e34b9759e13008dc48f",
+    "_text_": "December 5<sup>th</sup>, 2016",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m065d602baae4a498ce9a1cbacf6ee66",
+        "mf3f1ddd8c014a989fcfb454eb42d481",
+        "m7dcd4911be14a00acd95bdd15e4cdf1",
+        "m3b2424cc6a041ceb0b282da5eb7ad4b",
+        "m76e56b0fc95499fb18f2eb309140afc",
+        "ma8ffc8bda0549b997222e0ca27b03a3",
+        "mbafe555c66d47cb943bd85221a76a9c",
+        "m699bfb6c6364e6bbaf0d7f11af0dcc5",
+        "ma6a2610aa52449d898b5640edcf452a",
+        "mb43afc033e741a48aa6b377e6e70be6",
+        "mf63659b0e67496799c05557150aa354",
+        "m614d41ce0c14c5f86898e30fe05d43c",
+        "mc84b68172d84999bba5e11b23799654",
+        "m47b814bc3314cd8a488ab68c139aab0"
+    ],
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "rchdatelogin",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fc0058f89b1b4b2c9dca3621ebc6ba86",
+    "name": "kony.ui.RichText",
+    "parent": "fcusername",
+    "pf": "masterheader",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

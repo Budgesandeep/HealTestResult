@@ -1,0 +1,29 @@
+{
+    "AS_Button_87296c06a76444d799be5b86f4a94e3e": {
+        "id": "AS_Button_87296c06a76444d799be5b86f4a94e3e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmLanding_btnhuddle_click",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1fc12a8367d04f6cad416ed7ce1d5d0d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___aca3ac704d974454bfeed05bb0e0b299",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getFilter",
+            "display": "getFilter",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

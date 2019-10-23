@@ -1,0 +1,38 @@
+{
+    "AS_FlexContainer_236f797bc51b491e810a8e634a604a89": {
+        "id": "AS_FlexContainer_236f797bc51b491e810a8e634a604a89",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_topMenu_logoutClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "476b8fb01b9f4332a3aed88ac14b67f2"
+        },
+        "sourceObj": {
+            "itemKUID": "85f7d9af654845e7a601e5b444d74516",
+            "widgetKUID": "b0f4a6e002474b14a900be83b8fb4e44",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____54fd54a0c3884082bedab026d9c9846e",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_779f0b711ddb4f4fb61a8078ce6c3bd6",
+            "display": "AS_FlexContainer_779f0b711ddb4f4fb61a8078ce6c3bd6",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

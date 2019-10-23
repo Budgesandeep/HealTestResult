@@ -1,0 +1,35 @@
+{
+    "AS_Segment_5b37a00c458444bdafcd9e78b90a091b": {
+        "id": "AS_Segment_5b37a00c458444bdafcd9e78b90a091b",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_segpatientnames_onRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a47cd5c8b4344d0fb6212b46230e40b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___5073dd0af0194e2ca7721f4d58477574",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientListiPhone_onRowClick",
+            "display": "frmPatientListiPhone_onRowClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

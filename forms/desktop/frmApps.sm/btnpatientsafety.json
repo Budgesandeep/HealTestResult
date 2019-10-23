@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf9ea8f0aff541cfb7263b8a700f7eed",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sf4d0110e2db46a3b338f4640f9a27bf"
+        }
+    },
+    "displaytext": false,
+    "focusskin": "sf9ea8f0aff541cfb7263b8a700f7eed",
+    "id": "btnpatientsafety",
+    "ide_onClick": "AS_Button_gbdd2314e60e47c98a2cb417b8c8735f",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b419c8e960ed4f0c9b92c170f012c21e",
+    "name": "kony.ui.Button",
+    "parent": "fcrowone",
+    "pf": "frmApps",
+    "wType": "Button",
+    "zindex": 1
+}

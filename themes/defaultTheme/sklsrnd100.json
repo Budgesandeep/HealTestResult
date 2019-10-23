@@ -1,0 +1,20 @@
+{
+  "background_color": "e3e3e3ff",
+  "bg_type": "one",
+  "border_color": "4545457f",
+  "border_radius": 5,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 1,
+  "desktopweb": {
+    "font_name": "calibri"
+  },
+  "font_color": "000000ff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "isDefaultSkin": false,
+  "kuid": "s5093151ea9947ee96d5960d0baefac7",
+  "wType": "ListBox"
+}

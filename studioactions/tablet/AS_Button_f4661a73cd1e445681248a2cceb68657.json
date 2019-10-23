@@ -1,0 +1,27 @@
+{
+    "AS_Button_f4661a73cd1e445681248a2cceb68657": {
+        "id": "AS_Button_f4661a73cd1e445681248a2cceb68657",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb14c6f9d5a447179393e04161a90a24"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_1a986b3ceb45440e92a6a482fc3f97f3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSideMenu",
+            "display": "menu_toggleSideMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

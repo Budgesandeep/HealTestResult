@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s240b1d7c22740519b8482a8330d94df",
+    "_text_": "Clear Filters",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s763294beccd46eb9373add0f5a7b98c",
+    "id": "btnClearFilters",
+    "ide_onClick": "AS_Button_bdec5275cc5745bf937ea70c74ac4208",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "14a504bd2b2441c0a9f7e8ee0908fce4",
+    "name": "kony.ui.Button",
+    "parent": "fctasklisthdrbox",
+    "pf": "frmViewTasksNew",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

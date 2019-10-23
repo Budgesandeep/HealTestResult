@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "38dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_skin_": "sa1111ea6188450386950c0abff2a271",
+    "_top_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "imgclose"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sc7a69c7b2a5448c993ef880c865f670"
+        }
+    },
+    "enablescrolling": true,
+    "id": "fcimageclose",
+    "ide_onClick": "AS_FlexContainer_379732ddc12841279737bf05cbd5ca90",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5a20d26bd72a4e4f960baf65f3450077",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "flxheader",
+    "pf": "frmPatientSummary",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

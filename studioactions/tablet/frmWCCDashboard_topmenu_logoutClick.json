@@ -1,0 +1,38 @@
+{
+    "AS_FlexContainer_b5f1aa08fd0b4b1792d0d0376c8a25de": {
+        "id": "AS_FlexContainer_b5f1aa08fd0b4b1792d0d0376c8a25de",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_topmenu_logoutClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "sourceObj": {
+            "itemKUID": "85f7d9af654845e7a601e5b444d74516",
+            "widgetKUID": "b0f4a6e002474b14a900be83b8fb4e44",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____01b6babd40124b3fa373229ee4091fea",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_779f0b711ddb4f4fb61a8078ce6c3bd6",
+            "display": "AS_FlexContainer_779f0b711ddb4f4fb61a8078ce6c3bd6",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Button_368a26e541bb44e18c32cbe3a78707dd": {
+        "id": "AS_Button_368a26e541bb44e18c32cbe3a78707dd",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_MSRCheckBox3",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_32eb348280fe471f97cd5ff67bcc9e3f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_check",
+            "display": "frmPatientList_check",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

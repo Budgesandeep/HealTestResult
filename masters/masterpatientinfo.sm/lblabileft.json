@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s83dbab24ae44f83922161e51318e97c",
+    "_text_": "ABI Left:",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "mf236c2f199e48deb29072b4a59a4a21",
+        "m504627952f547dcba4779b2ebe629c5",
+        "mfa47df137b14b34b195460411012b58",
+        "m7e9eb7b82634af6abfcf3bbd271f773"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblabileft",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "5135a9854a68447996d97cb77e3651e2",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo1",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "9.90%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s41625d1db5846a89c3de11de529a451",
+    "_text_": "Login",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s41625d1db5846a89c3de11de529a451",
+    "id": "btnlogin",
+    "ide_onClick": "AS_Button_58c6c088aa5e404790bd2404bb62ab74",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "02816dd306044659a45f7f64a1c2340a",
+    "name": "kony.ui.Button",
+    "parent": "fcbtnlogin",
+    "pf": "frmLogin",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

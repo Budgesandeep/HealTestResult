@@ -1,0 +1,30 @@
+{
+    "AS_Button_dc9cab828b524a4ea27d8b1f8e495d18": {
+        "id": "AS_Button_dc9cab828b524a4ea27d8b1f8e495d18",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupSwitchFacilitySync",
+            "type": "popups",
+            "platform": null,
+            "KUID": "a357c009caf049348b76eb5857843a4b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ce280fb9b90a459d95b13aaa7c910f69",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

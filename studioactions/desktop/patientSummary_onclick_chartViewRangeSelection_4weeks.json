@@ -1,0 +1,34 @@
+{
+    "AS_Button_9cdb5f623e4047c0bd231f56e2625380": {
+        "id": "AS_Button_9cdb5f623e4047c0bd231f56e2625380",
+        "type": "ACTION_SEQUENCE",
+        "name": "patientSummary_onclick_chartViewRangeSelection_4weeks",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f4d35d689f7a4be9ac8126d10d3aca90",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "patientSummary_changeChartTimeLine",
+            "display": "patientSummary_changeChartTimeLine",
+            "inputparams": [{
+                "name": "selectedWeeks",
+                "value": "4"
+            }, {
+                "name": "isFirstTime"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

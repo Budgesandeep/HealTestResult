@@ -1,0 +1,52 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scb1155363fd4faa99975184a99b1885",
+    "_srcKuid_": "4fde44a53b564d8e8b961001b04b46a5",
+    "canUpdateUI": true,
+    "children": [
+        "btsmbilling"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "fcmenusix",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100.00%"
+        },
+        "zIndex": 1
+    },
+    "id": "fcmenusix",
+    "instanceOf": "4fde44a53b564d8e8b961001b04b46a5",
+    "isvisible": true,
+    "kuid": "md4eb22565e7495bb5b3f0775048ede5",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcmenu",
+    "pf": "frmNotificationDashboard",
+    "topLevelInstanceKUID": "me2fe0c311a44c439a860eb9d969d054",
+    "wType": "FlexContainer"
+}

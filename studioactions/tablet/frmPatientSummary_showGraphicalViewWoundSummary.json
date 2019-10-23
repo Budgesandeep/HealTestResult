@@ -1,0 +1,28 @@
+{
+    "AS_Button_6541e84a897d434c8c50f3ea576d1c27": {
+        "id": "AS_Button_6541e84a897d434c8c50f3ea576d1c27",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_showGraphicalViewWoundSummary",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_689e8ed8becc49689556d3ab002865f7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "patientSummary_showGraphicalView",
+            "display": "patientSummary_showGraphicalView",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

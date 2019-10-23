@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa1111ea6188450386950c0abff2a271",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "14.28%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyFlexContainer0j1343886b48e4a",
+        "Copylblline0f20a1156d7de4f",
+        "CopyFlexContainer0a6ce808e5bb340"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "Copyfcweeks0be4aa86ec1ab43",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b080bbb8fc7a4b70bf89c49d7cd37787",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "Copyfcpatientlisthdr0a0c2036873874f",
+    "pf": "seg9StepHealing",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 7
+}

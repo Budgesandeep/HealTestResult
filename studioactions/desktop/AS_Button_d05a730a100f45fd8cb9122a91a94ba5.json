@@ -1,0 +1,30 @@
+{
+    "AS_Button_d05a730a100f45fd8cb9122a91a94ba5": {
+        "id": "AS_Button_d05a730a100f45fd8cb9122a91a94ba5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f026c28f14647bd84e6085de5abce9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e30d88fbd2ab4730b9d37ef0f186b186",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClick_Menu",
+            "display": "onClick_Menu",
+            "inputparams": [{
+                "name": "option"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

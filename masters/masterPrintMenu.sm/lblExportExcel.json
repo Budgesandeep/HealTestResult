@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_text_": "Export Excel",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mb325a15259c4a9d8b1be476e91fc28c",
+        "m40faeb3f8aa49369434e513aa69c6b6",
+        "m0181b9c0ffe448281b99731e91bf3d0",
+        "m8d353f6fad24ba7a9d9e89d1dbae75c"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblExportExcel",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "2f7461d6f1ce4f208335543960b0d36d",
+    "name": "kony.ui.Label",
+    "parent": "fcExportExcel",
+    "pf": "masterPrintMenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

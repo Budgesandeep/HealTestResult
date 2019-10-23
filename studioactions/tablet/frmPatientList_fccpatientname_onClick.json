@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_a1fd211aca6a449a9b9aa600702e6ef5": {
+        "id": "AS_FlexContainer_a1fd211aca6a449a9b9aa600702e6ef5",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_fccpatientname_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segpatientlistnew",
+            "type": "templates",
+            "platform": "",
+            "KUID": "663b8a1041c041ab832bdc418558c92f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e5f8da1dc3a441aea4c1ed5d5758c4bd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientDashboard",
+            "display": "showPatientDashboard",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

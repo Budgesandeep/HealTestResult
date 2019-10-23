@@ -1,0 +1,38 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s272e7262b97424d91bab25cf10f71cd",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "vboxlogout"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "hboxlogout",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bfb9d99a3bb84bbf8c03795f6eb69112",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "parent": "popuplogout",
+    "pf": "popuplogout",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

@@ -1,0 +1,35 @@
+{
+    "AS_HBox_02d06c6dfbd841bfb31b7b01aa075e3e": {
+        "id": "AS_HBox_02d06c6dfbd841bfb31b7b01aa075e3e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_hboxpopupBluebookID_onHover",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "popupAdminSearchby",
+            "type": "popups",
+            "platform": "",
+            "KUID": "b561a14bc2b34b56b6cd46359591d6f4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___0fb0c3af0aec47ed94a0524b88f5f559",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdmin_toggleSkinSearchByPopup",
+            "display": "frmAdmin_toggleSkinSearchByPopup",
+            "inputparams": [{
+                "name": "hoverRow",
+                "value": " eventobject "
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

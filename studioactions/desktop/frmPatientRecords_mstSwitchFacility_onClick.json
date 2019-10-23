@@ -1,0 +1,39 @@
+{
+    "AS_FlexContainer_ed454bddfbc6483b84e059d05003bab5": {
+        "id": "AS_FlexContainer_ed454bddfbc6483b84e059d05003bab5",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_mstSwitchFacility_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2dadc999bf6b45babe7b7fd8757e2f92"
+        },
+        "sourceObj": {
+            "itemKUID": "85f7d9af654845e7a601e5b444d74516",
+            "widgetKUID": "668bcf621b7d40da9fee191b819161ee",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____d7aa081f733644b289bb3a2e98b4e64c",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_0e0ccec345a24b7698f9fcf140f5a3d6",
+            "display": "AS_FlexContainer_0e0ccec345a24b7698f9fcf140f5a3d6",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

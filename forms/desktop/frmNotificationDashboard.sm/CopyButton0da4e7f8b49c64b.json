@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "630dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3523ae37c9e45b39fdb25c12a4a0153",
+    "_text_": "Cancel",
+    "_top_": {
+        "type": "string",
+        "value": "431dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s96c8bda01954091a6f8d9995c5a46cf"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s3523ae37c9e45b39fdb25c12a4a0153",
+    "id": "CopyButton0da4e7f8b49c64b",
+    "ide_onClick": "AS_Button_i84b818de8574427a548b72c698333cd",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c0eb61b07fed4d439839cd55f01fe421",
+    "name": "kony.ui.Button",
+    "parent": "fccreatenotification",
+    "pf": "frmNotificationDashboard",
+    "wType": "Button",
+    "zindex": 1
+}

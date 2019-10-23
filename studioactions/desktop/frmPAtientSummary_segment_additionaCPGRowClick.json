@@ -1,0 +1,35 @@
+{
+    "AS_Segment_7001ff076bd44896bbd1964a27686988": {
+        "id": "AS_Segment_7001ff076bd44896bbd1964a27686988",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPAtientSummary_segment_additionaCPGRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___73fe69821cb24345a2c115239100ad6e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_openAdditionalCPGLinks",
+            "display": "frmPatientSummary_openAdditionalCPGLinks",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

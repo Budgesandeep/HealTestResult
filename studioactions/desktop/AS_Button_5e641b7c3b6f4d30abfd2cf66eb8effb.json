@@ -1,0 +1,26 @@
+{
+    "AS_Button_5e641b7c3b6f4d30abfd2cf66eb8effb": {
+        "id": "AS_Button_5e641b7c3b6f4d30abfd2cf66eb8effb",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "popups",
+            "platform": null,
+            "KUID": "e7088b63bc4f47a4bfa56efd8ec31817"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_409fc67b4c55471da5282155f95f370a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupUserAcknowledgement_onAccept",
+            "display": "popupUserAcknowledgement_onAccept",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

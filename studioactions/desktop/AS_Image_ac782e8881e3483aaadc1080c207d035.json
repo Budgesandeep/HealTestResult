@@ -1,0 +1,24 @@
+{
+    "AS_Image_ac782e8881e3483aaadc1080c207d035": {
+        "id": "AS_Image_ac782e8881e3483aaadc1080c207d035",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": "",
+            "KUID": "aa7f99a77a224b3c988261551c1c3549"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

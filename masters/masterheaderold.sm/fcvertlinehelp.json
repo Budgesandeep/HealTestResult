@@ -1,0 +1,60 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s8be2544c0e64c169deae00feaa26904",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m93a64cedadb41cfbef2d170be81acd3",
+        "m953368704f54b55bb371c6a20945720",
+        "m96df722453c453eb8262434de5d7b38"
+    ],
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcvertlinehelp",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5b3c33dfa4b74375bff2507b3e4fce90",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fccontacthelp",
+    "pf": "masterheaderold",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

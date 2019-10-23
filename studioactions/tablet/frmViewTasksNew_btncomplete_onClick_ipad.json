@@ -1,0 +1,25 @@
+{
+    "AS_Button_a78a77e20e5b4e8db29e4a1799cd579e": {
+        "id": "AS_Button_a78a77e20e5b4e8db29e4a1799cd579e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_btncomplete_onClick_ipad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c04fb7c2c09b45338dd0dc2c536edecc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasks_onClick_Complete",
+            "display": "frmViewTasks_onClick_Complete",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

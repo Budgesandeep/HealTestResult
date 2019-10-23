@@ -1,0 +1,30 @@
+{
+    "AS_Button_45e0d508c27348949dde7cff7764ca76": {
+        "id": "AS_Button_45e0d508c27348949dde7cff7764ca76",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_btnpatientlist_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": null,
+            "KUID": "29d5bb05d3ed43388b36d9044efe616d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_2846c58338d34659aedf82f7498ca122",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dashboard_showPatientList",
+            "display": "dashboard_showPatientList",
+            "inputparams": [{
+                "name": "str"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

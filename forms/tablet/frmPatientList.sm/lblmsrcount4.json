@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "90.50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "s763294beccd46eb9373add0f5a7b98c",
+    "_text_": "2",
+    "_width_": {
+        "type": "string",
+        "value": "4.97%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s763294beccd46eb9373add0f5a7b98c",
+    "id": "lblmsrcount4",
+    "ide_onClick": "AS_Button_5510014e9101431fa65fcf4fb300f04e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b17d710d71884997945296a8cb2c28a5",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "Copyfchealingdashboardhdr08a555dab5ab94a",
+    "pf": "frmPatientList",
+    "wType": "Button",
+    "zindex": 1
+}

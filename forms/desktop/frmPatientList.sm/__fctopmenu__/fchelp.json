@@ -1,0 +1,49 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0486f18541d4eeca1dfa643713e14ed",
+    "_srcKuid_": "673467e88add4c27b9d7afe71eb09835",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [
+        "imghelp",
+        "lblhelp"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        },
+        "id": "fchelp",
+        "layoutType": 2,
+        "left": "0dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 2
+    },
+    "id": "fchelp",
+    "ide_onClick": "AS_FlexContainer_e35eef6a38524f13916c91cad22549c3",
+    "instanceOf": "673467e88add4c27b9d7afe71eb09835",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m175e795f0b64d90a0f7934b87767b5b",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fctopmenu",
+    "pf": "frmPatientList",
+    "topLevelInstanceKUID": "m7e390e51f7f44f6b48043e91c8c5cb1",
+    "wType": "FlexContainer"
+}

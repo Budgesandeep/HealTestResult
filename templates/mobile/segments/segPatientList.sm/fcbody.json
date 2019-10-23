@@ -1,0 +1,47 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa1111ea6188450386950c0abff2a271",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblpatientname",
+        "lblseprator",
+        "lblpatientmsrstatus"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcbody",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "5f23291d8b2f4e7296afa64f50e9d236",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segPatientList",
+    "pf": "segPatientList",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

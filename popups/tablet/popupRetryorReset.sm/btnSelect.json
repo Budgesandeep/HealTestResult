@@ -1,0 +1,45 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        15,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        1,
+        3,
+        1,
+        3
+    ],
+    "_skin_": "sfc9d8806e11416a85961e54b0fcd304",
+    "_text_": "No, I want to retry sync",
+    "canUpdateUI": true,
+    "containerweight": 50,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sfc9d8806e11416a85961e54b0fcd304",
+    "id": "btnSelect",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "b90854eacea7410385753a88066ab6b5",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        2.56,
+        7.68,
+        2.56,
+        7.68
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxsave",
+    "pf": "popupRetryorReset",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

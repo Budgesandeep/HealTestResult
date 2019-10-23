@@ -1,0 +1,23 @@
+{
+    "AS_Button_1b6908a44b2f46c480c98778f2cedff7": {
+        "id": "AS_Button_1b6908a44b2f46c480c98778f2cedff7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_75875f1c856c4287844e5496603750ef",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onClickPatientList",
+            "display": "frmPatientList_onClickPatientList",
+            "inputparams": [{
+                "name": "weeks",
+                "value": "\"1\""
+            }],
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

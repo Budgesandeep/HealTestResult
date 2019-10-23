@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s8ea193fd0b941ac87f6de0fbf9f3aac",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "inTransitionConfig": {
+            "animation": 0
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "hboxNotification"
+    ],
+    "containerheight": 30,
+    "containerheightreference": 1,
+    "containerweight": 35,
+    "currentLocale": "default",
+    "device": "iPad3",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "header": "popupnotification_header",
+    "headersId": "cc30cd69b69d4b7781f91f0e7904d008",
+    "id": "popupnotification",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "transitionDirection": "none",
+        "transitionEffect": "transitionMoveIn"
+    },
+    "invokedProperty": "headers",
+    "ipad": {
+        "inTransitionConfig": {
+            "transitionDirection": "fromBottom",
+            "transitionEffect": "transitionMoveIn"
+        }
+    },
+    "ismodal": true,
+    "isvisible": true,
+    "kuid": "a83cdc3f5fca42ac90b91e646d6aef41",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "ipad",
+    "prevDevice": "iPad3",
+    "prevPlatform": "ipad",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPad3",
+    "spa": {
+        "inTransitionConfig": {
+            "popupTransition": "none"
+        }
+    },
+    "titlebar": true,
+    "transparencybehindthepopup": 60,
+    "wType": "Popup"
+}

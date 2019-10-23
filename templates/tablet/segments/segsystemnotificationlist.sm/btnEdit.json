@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se5d5a25c3fe45a3ac11b5df3b7e68c2",
+    "_text_": "Edit",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "se5d5a25c3fe45a3ac11b5df3b7e68c2",
+    "id": "btnEdit",
+    "ide_onClick": "AS_Button_dd8a3fc6c66645a1831a70e9b00087c6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e69cc07b833c47559f6fd1744c8ac4c3",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer0f56e24532ccf4a",
+    "pf": "segsystemnotificationlist",
+    "wType": "Button",
+    "zindex": 1
+}

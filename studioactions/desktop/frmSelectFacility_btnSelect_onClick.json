@@ -1,0 +1,23 @@
+{
+    "AS_Button_dff1a30c84684dda85c8404dfc9bb84a": {
+        "id": "AS_Button_dff1a30c84684dda85c8404dfc9bb84a",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSelectFacility_btnSelect_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d9225373828f4014a2fd09066ef4f33f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "SwitchFacility_UpdateFacility",
+            "display": "SwitchFacility_UpdateFacility",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "source": "module"
+        }]
+    }
+}

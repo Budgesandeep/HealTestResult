@@ -1,0 +1,29 @@
+{
+    "AS_Button_c048dce5a0b041efb4f2e9160cdc0920": {
+        "id": "AS_Button_c048dce5a0b041efb4f2e9160cdc0920",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmLanding_btnhbo_click",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "280892d65ab245a7a7f58f9cb4b12dc0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___be1fe4a743dd490faccb1b4f5c71f629",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_PostShow",
+            "display": "frmNotificationDashboard_PostShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

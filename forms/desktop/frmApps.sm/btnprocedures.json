@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s208a1893b0045cb8a6a8763cc77925c",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "30%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sd45bc4ac1224d1c8cfab991ed3c9184"
+        }
+    },
+    "displaytext": false,
+    "focusskin": "s208a1893b0045cb8a6a8763cc77925c",
+    "id": "btnprocedures",
+    "info": null,
+    "isvisible": true,
+    "kuid": "gdf223f8f2d341578ab52788af219d4a",
+    "name": "kony.ui.Button",
+    "parent": "fcrowthree",
+    "pf": "frmApps",
+    "wType": "Button",
+    "zindex": 1
+}

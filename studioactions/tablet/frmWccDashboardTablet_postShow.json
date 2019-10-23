@@ -1,0 +1,28 @@
+{
+    "AS_Form_a9dba575b47c40aeb8bdd7e7cba152f2": {
+        "id": "AS_Form_a9dba575b47c40aeb8bdd7e7cba152f2",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWccDashboardTablet_postShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb14c6f9d5a447179393e04161a90a24"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b867ec1e30444e72aa86f7ed6de8ede9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmWCCDashboard_postShow",
+            "display": "frmWCCDashboard_postShow",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

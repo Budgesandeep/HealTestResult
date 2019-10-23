@@ -1,0 +1,32 @@
+{
+    "AS_Button_027cd66068804b21b3abe90c9b0a04e1": {
+        "id": "AS_Button_027cd66068804b21b3abe90c9b0a04e1",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnallpatients",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___4e517f217deb4852b197f59f26caea3e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_patientTypeSelected",
+            "display": "frmPatientList_patientTypeSelected",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

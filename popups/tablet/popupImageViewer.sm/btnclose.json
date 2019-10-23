@@ -1,0 +1,42 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        96,
+        1,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se5ed3e2ac814eba95761d492bdb4723",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "donotUpdateContainerWeight": false,
+    "focusskin": "sa17c5bf68014a3f93fb266388b726ff",
+    "hexpand": false,
+    "id": "btnclose",
+    "ide_onClick": "AS_Button_fd6f5a92d8f54cf1b79ce9d857f8a081",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fb2cfb01f89c4afab22c4e2be889636e",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        55.28,
+        0,
+        0,
+        0
+    ],
+    "paddinginpixel": false,
+    "parent": "HBox0hcce4205aed14b",
+    "pf": "popupImageViewer",
+    "wType": "Button"
+}

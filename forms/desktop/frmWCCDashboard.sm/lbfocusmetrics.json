@@ -1,0 +1,106 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "22%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s915921c9a894036a80829b72e2f8972",
+    "_top_": {
+        "type": "string",
+        "value": "62dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmWCCDashboard",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s5e773f33dcc49fa8a2226d22dd48935"
+        }
+    },
+    "groupcells": false,
+    "id": "lbfocusmetrics",
+    "ide_onSelection": "AS_ListBox_37bc499c2e074582a6acc9d97a2427ed",
+    "ide_onTouchStart": "AS_ListBox_jdc2ae987ef54144be21fbc76df0a741",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bc19ba5a5c6441c3b39b11f2f9abea1f",
+    "masterdata": [
+        [
+            "1",
+            "September, 2016"
+        ],
+        [
+            "2",
+            "October, 2016"
+        ],
+        [
+            "3",
+            "November, 2016"
+        ],
+        [
+            "4",
+            "December, 2016"
+        ],
+        [
+            "5",
+            "January, 2017"
+        ],
+        [
+            "6",
+            "February, 2017"
+        ],
+        [
+            "7",
+            "March, 2017"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "fcusermetrics",
+    "pf": "frmWCCDashboard",
+    "selectedkey": "1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "1",
+        "September, 2016"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 2
+}

@@ -1,0 +1,32 @@
+{
+    "AS_Link_h3c72fb3643f4f6689a24c3be366e79a": {
+        "id": "AS_Link_h3c72fb3643f4f6689a24c3be366e79a",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupnotification_onclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segPushNotificationForPopup",
+            "type": "templates",
+            "platform": "",
+            "KUID": "a18baf9fa9714fa18b4b6e37a7420198"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ea94045896f74aa19ec243626c3757d6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupnotification_onHyperlinkClick",
+            "display": "popupnotification_onHyperlinkClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

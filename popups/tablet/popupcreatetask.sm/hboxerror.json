@@ -1,0 +1,38 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "scd97a16660f4a04bc0d512085a22dc0",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblerror"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "hboxerror",
+    "info": null,
+    "isvisible": false,
+    "kuid": "5c4672a6a71b4bad83e9c26e538fd4b8",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "parent": "vboxaddtask",
+    "pf": "popupcreatetask",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

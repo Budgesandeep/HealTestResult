@@ -1,0 +1,52 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf8895f2fe9042cdb69966204e72cb3b",
+    "_srcKuid_": "54411f909c46482e8b34976213cf20f3",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [
+        "imguser",
+        "fcusername"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "80dp"
+        },
+        "id": "fcuserinfo",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "10%"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "50%"
+        },
+        "zIndex": 1
+    },
+    "id": "fcuserinfo",
+    "instanceOf": "54411f909c46482e8b34976213cf20f3",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m1a8db2ead3e4d2fbda2fdd73a512b09",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcheaderright",
+    "pf": "frmLanding",
+    "topLevelInstanceKUID": "ma7d9bb9055f466785d3906defd56c05",
+    "wType": "FlexContainer"
+}

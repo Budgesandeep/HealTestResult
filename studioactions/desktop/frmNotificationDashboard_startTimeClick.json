@@ -1,0 +1,29 @@
+{
+    "AS_ListBox_be14ff8c49994808941b02f7585abe86": {
+        "id": "AS_ListBox_be14ff8c49994808941b02f7585abe86",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmNotificationDashboard_startTimeClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f965c254d41a487284425bab8fb1af10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ae77304a85084ec38b25c40db96a4dd2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_startTimeSelected",
+            "display": "frmNotificationDashboard_startTimeSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

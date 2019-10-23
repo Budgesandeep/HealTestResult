@@ -1,0 +1,35 @@
+{
+    "AS_ListBox_a4be2ceb82dd4aee968d22b3eaf33d94": {
+        "id": "AS_ListBox_a4be2ceb82dd4aee968d22b3eaf33d94",
+        "type": "ACTION_SEQUENCE",
+        "name": "startTimeListBox_touchStartiPad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e131013f5ab7414091f24823801b78d6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_startTimeSelected",
+            "display": "frmNotificationDashboard_startTimeSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

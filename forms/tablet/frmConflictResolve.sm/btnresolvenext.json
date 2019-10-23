@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "_text_": "Resolve",
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "id": "btnresolvenext",
+    "ide_onClick": "AS_Button_j038a58523b14174a2d446cf2b48f94e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "g214b1efc9a94669ab3f5914fe0dec6b",
+    "name": "kony.ui.Button",
+    "parent": "fcnextresolve",
+    "pf": "frmConflictResolve",
+    "wType": "Button",
+    "zindex": 1
+}

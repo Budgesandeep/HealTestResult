@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se13bb61e12c471a87dbd881ea39ca94",
+    "_srcKuid_": "cc71ed9b31364b6e9eaa39409f30c1e2",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "rtregsymbol",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "&reg;",
+        "top": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "rtregsymbol",
+    "instanceOf": "cc71ed9b31364b6e9eaa39409f30c1e2",
+    "isvisible": false,
+    "kuid": "mffebd899767481a8fae593c50f8f0ce",
+    "masterInstance": true,
+    "name": "kony.ui.RichText",
+    "parent": "fcheaderleft",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m05e9f99d3054402be7bdccb8e99e8f9",
+    "wType": "RichText"
+}

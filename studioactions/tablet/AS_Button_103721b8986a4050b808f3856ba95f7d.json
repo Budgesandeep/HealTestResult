@@ -1,0 +1,38 @@
+{
+    "AS_Button_103721b8986a4050b808f3856ba95f7d": {
+        "id": "AS_Button_103721b8986a4050b808f3856ba95f7d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb14c6f9d5a447179393e04161a90a24"
+        },
+        "sourceObj": {
+            "itemKUID": "ece4e70548614acebb6edf369b19b24f",
+            "widgetKUID": "286e52db9871403ea790a3317badef1d",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____9c6b9f8585a54096a3a35d1a0a6c1cad",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Button_8270577b082a49ac95ec7665458a3a33",
+            "display": "AS_Button_8270577b082a49ac95ec7665458a3a33",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

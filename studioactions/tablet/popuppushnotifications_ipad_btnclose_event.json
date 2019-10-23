@@ -1,0 +1,29 @@
+{
+    "AS_Button_f844fdf7d3dc49c5b03d166cf50da8ce": {
+        "id": "AS_Button_f844fdf7d3dc49c5b03d166cf50da8ce",
+        "type": "ACTION_SEQUENCE",
+        "name": "popuppushnotifications_ipad_btnclose_event",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupPushNotifications",
+            "type": "popups",
+            "platform": null,
+            "KUID": "c54f8e20b084431b8e8c20b3f011a805"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___db768732e6bf4c819923abc0f760d27c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "_closePushNotificaitonsPopup",
+            "display": "_closePushNotificaitonsPopup",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

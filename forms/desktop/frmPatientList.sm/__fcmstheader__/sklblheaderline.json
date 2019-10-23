@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s060ce6e58c54963a71034a7ad48e012",
+    "_srcKuid_": "5a8cd3e5fa2e4e15845feef325dacc72",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "5dp"
+        },
+        "id": "sklblheaderline",
+        "left": "0dp",
+        "text": "",
+        "textStyle": {},
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "sklblheaderline",
+    "instanceOf": "5a8cd3e5fa2e4e15845feef325dacc72",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m79109bc89b94a8da7dfbb9f98780be4",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcheaderline",
+    "pf": "frmPatientList",
+    "topLevelInstanceKUID": "mbb07e4e945e4ec39bd262a5fb4c4072",
+    "wType": "Label"
+}

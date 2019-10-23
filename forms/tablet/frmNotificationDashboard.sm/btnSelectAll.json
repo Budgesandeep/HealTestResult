@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "9%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "number",
+        "value": "25"
+    },
+    "_skin_": "sc09aca31d4e4664b5a2c73e6c01da48",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "disabledSkins": {
+        "focusSkin": "sa17c5bf68014a3f93fb266388b726ff"
+    },
+    "displaytext": true,
+    "id": "btnSelectAll",
+    "ide_onClick": "AS_Button_fd79d7b6a4254ba2857a415309d45d0b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dd4a04dfb35443ac9483c314406ebcd7",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "FlexGroup0j31bef59d20941",
+    "pf": "frmNotificationDashboard",
+    "wType": "Button",
+    "zindex": 1
+}

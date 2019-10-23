@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_srcKuid_": "baaa63870c5046f08e6857b5ed643330",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "35%",
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblhelpdesk",
+        "left": "20dp",
+        "text": "Helpdesk",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblhelpdesk",
+    "instanceOf": "baaa63870c5046f08e6857b5ed643330",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m4d5f2d2f7174911a502bd775f5dea1a",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fccontacthelp",
+    "pf": "frmNotificationDashboard",
+    "topLevelInstanceKUID": "m43e78b74c914cd2b1130d9763d2b8e4",
+    "wType": "Label"
+}

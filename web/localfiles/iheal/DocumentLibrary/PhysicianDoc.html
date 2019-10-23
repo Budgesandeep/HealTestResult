@@ -1,0 +1,662 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="head"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2aa4f2a399","applicationID":"12314312","transactionName":"NVJTYEVTXxIDW0QMDgwYcGdnHVUOAU1dAA8WW1hWRVNDGE1OWQAWBlhSQVpXXxVMWUMVGQ==","queueTime":0,"applicationTime":506,"ttGuid":"39A545DCEB2C2D12","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+    <base target="_self" />
+    <title>
+	Test5_17, Gabe(4656798)
+</title>
+    <script language="javascript" type="text/javascript" src="../include/jquery-latest.js?Version=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/CommonMethods.js?Version=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/CenteredDivMethods.js?Version=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/SecurityMethods.js?Version=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/PatientMedicationMethods.js?Version=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/DynamicValidationMethods.js?Version=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/jquery.positioning.js?Version=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/bootstrap.min.js?Version=5.0.110"></script>
+
+    <link id="lnkHtmlDiffStylesheet" href="../styles/iHeal/HtmlDiff.css?Version=5.0.110" rel="stylesheet" type="text/css" /><link id="lnkPrint1" href="../styles/PrintDetails/BaseTheme.css?Version=5.0.110" rel="stylesheet" type="text/css" /><link id="lnkPrint2" href="../styles/PrintDetails/CustomClasses.css?Version=5.0.110" rel="stylesheet" type="text/css" /><link id="Link3" href="../styles/DocumentLibrary/DocumentLibrary.css?Version=5.0.110" rel="Stylesheet" type="text/css" /><link id="lnkExtraStyleSheet" rel="Stylesheet" type="text/css" media="all" href="http://ihealinternal.prod.nhsinc.net//styles/SiteSpecificThemes/ihealinternal.prod.nhsinc.net.screen.css?Version=5.0.110" /><link href="../styles/bootstrap-popup-only.css?Version=5.0.110" rel="stylesheet" type="text/css" media="all" /><style id="litPrintSize" type="text/css">@media print
+{
+body, .DT { 
+	font-size: 9px;
+	line-height: 9px;
+ font-family: ;
+}
+
+.cg h2, .fakeContentGroupTitle {
+	font-size: 10px;
+	line-height: 10px;
+ font-family: ;
+}
+	
+.fakeContentGroupTitle  {
+	font-size: 10px;
+	line-height: 10px;		
+ font-family: ;
+}	
+	
+.scg h2 {
+	font-size: 9px;
+	line-height: 9px;
+ font-family: ;
+}
+
+.PrintButtons {
+	font-size: 11px;	
+ font-family: ;
+}	
+	
+h4 { 
+	font-size: 11px; 
+ font-family: ;
+}
+.cgH2Mimick {  
+	font-size: 10px; 
+ font-family: ;
+}
+.ProviderDeliverableFontWrapper, .ProviderDeliverableFontWrapper .DT {
+		font-size: 12px;
+		line-height: 1.2;
+   font-family: ;
+	}
+
+	.ProviderDeliverableFontWrapper h2,.ProviderDeliverableFontWrapper .viewPort h2, .ProviderDeliverableFontWrapper .cg h2, .ProviderDeliverableFontWrapper .fakeContentGroupTitle, .ProviderDeliverableFontWrapper .scg h2 {
+		font-size: 13px;
+		line-height: 1.2;
+   font-family: ;
+	}
+	
+
+	.ProviderDeliverableFontWrapper .PrintButtons {
+		font-size: 13px;	
+   font-family: ;
+	}	
+	
+	.ProviderDeliverableFontWrapper h4 {
+	font-size: 13px;
+	font-weight: bold;
+ font-family: ;
+	}
+
+	.ProviderDeliverableFontWrapper .cgH2Mimick	{ 
+	font-weight: bold;
+	font-size: 13px;	
+ font-family: ;
+	}	
+	
+	/* Big big print for patients */
+   .PatientDeliverableFontWrapper, .PatientDeliverableFontWrapper .DT {
+		font-size: 12pt;
+		line-height: 1.2;
+   font-family: ;
+	}
+
+	.PatientDeliverableFontWrapper h2, .PatientDeliverableFontWrapper .viewPort h3, .PatientDeliverableFontWrapper .cg h2, .PatientDeliverableFontWrapper .fakeContentGroupTitle {
+		font-size: 13pt;
+		line-height: 1.2;
+   font-family: ;
+	}
+	
+	.PatientDeliverableFontWrapper .scg h2 {
+		font-size: 13pt;
+		line-height: 1.2
+   font-family: ;
+	}
+
+	.PatientDeliverableFontWrapper .PrintButtons {
+		font-size: 13pt;	
+   font-family: ;
+	}	
+	
+	.PatientDeliverableFontWrapper h4 {
+	font-size: 13pt;
+	font-weight: bold;
+ font-family: ;
+	}
+
+	.PatientDeliverableFontWrapper .cgH2Mimick	{ 
+	font-weight: bold;
+	font-size: 13pt;	
+ font-family: ;
+	}
+
+.viewPort h2 {
+	font-size: 10px;
+	line-height:1.2;
+ font-family: ;
+}
+}
+</style>
+    <style type="text/css">
+        .compareFrom
+        {
+            color: #999; background-color:#FEC8C8;
+        }
+        .compareTo
+        {
+            background-color: #cfc;
+        }
+        .diff-view 
+        {
+            overflow-y:auto;
+        }
+
+        .scroll::-webkit-scrollbar {
+            width: 12px;
+        }
+
+        .scroll::-webkit-scrollbar-track {
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+            border-radius: 10px;
+        }
+
+        .scroll::-webkit-scrollbar-thumb {
+            border-radius: 10px;
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+        }
+
+ 
+    </style>
+    <script language="javascript" type="text/javascript">
+        var documentID, documentName, patientID, visitID, visitDate;
+        
+        $(function () {
+            $('#lnkPrintDocument').click(function () { Print(documentID, documentName, patientID, visitID, visitDate); });
+            $('#lnkCloseWindow').click(function () { window.close(); });
+            $('#CurrentTab').click(ShowCurrentTab);
+            $('#OldVersionTab').click(ShowOldVersionTab);
+            $('#TabsContainer select').change(function () {
+                if (this.value != "-1")
+                    $("#OldVersionContent div.viewPort:first").load('ViewerHTMLFactory.aspx%253FDocumentID=' + this.value, ShowOldVersionTab);
+            });
+
+            $("select[name$='selectCompareFrom'], select[name$='selectCompareTo']").on("change", function () {
+                var compareFromSelect = $("select[name$='selectCompareFrom']");
+                var compareToSelect = $("select[name$='selectCompareTo']");
+
+                if (compareFromSelect.val() == compareToSelect.val()) {
+                    $("#compareFromReference").removeClass("compareFrom");
+                    $("#compareToReference").removeClass("compareTo");
+                }
+                else {
+                    $("#compareFromReference").addClass("compareFrom");
+                    $("#compareToReference").addClass("compareTo");
+                }
+
+                $("#compareFromReference").html(compareFromSelect.find("option:selected").text());
+                $("#compareToReference").html(compareToSelect.find("option:selected").text());
+                $("#diffView").load('ViewerDiffHTMLFactory.aspx%253FfromDocumentId=' + compareFromSelect.val() + '&toDocumentId=' + compareToSelect.val());
+            });
+            $("#compareModal").on("show.bs.modal", function (e) {
+                setTimeout(function () {
+                    var modal = $("#compareModal");
+                    var height = $(window).height() * 0.9;
+                    var titleHeight = modal.find(".modal-header").outerHeight();
+                    var footerHeight = modal.find(".modal-footer").outerHeight();
+                    var bodyHeight = height - titleHeight - footerHeight;
+                    modal.find(".modal-body").height(bodyHeight);
+                    modal.find("#diffView").height(bodyHeight - modal.find("#diffHeader").outerHeight() - 15);
+                }, 800);
+                $("select[name$='selectCompareFrom'] option").eq(1).attr("selected", "").parent().triggerHandler("change");
+            });
+
+            $(document).on("screen:locked", function () {
+                setTimeout(function () { $("#compareModal").modal("hide"); }, 100);                
+            });
+
+        });
+        function ShowCurrentTab() {
+            $('.OldVersionOnly').css('display', 'none');
+            $('.CurrentVersionOnly').css('display', '');
+            $('#CurrentTab').addClass('active');
+            $('#OldVersionTab').removeClass('active');
+        }
+        function ShowOldVersionTab() {
+            if ($('#TabsContainer select:first')[0].value != "-1") {
+                $('.CurrentVersionOnly').css('display', 'none');
+                $('.OldVersionOnly').css('display', '');
+                $('#CurrentTab').removeClass('active');
+                $('#OldVersionTab').addClass('active');
+                var ddlChangeTrail = $('#TabsContainer select:first')[0];
+                var selectedText = ddlChangeTrail.options[ddlChangeTrail.selectedIndex].text;
+                $('#divOldVersionWarning span:first').html(selectedText + '<br />** Not a Current Record **');
+            }
+        }
+    </script>
+</head>
+<body id="PrintForm">
+    <div id="divHideContent" class="WholePage">
+        <form name="form1" method="post" action="ViewDocument.aspx%253FDocumentID=pCgJcQABI0Io6gBmv+iKPw==" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var NetHealth = new Object;
+NetHealth.uid = 'jqgF6HwPc%2fk%3d';
+NetHealth.fid = 'rpALtEm4sYY%3d';
+var PUBLIC_PAGES_FOLDER_URL = '/PublicPages';
+//]]>
+</script>
+
+<script src="../WebResource.axd%253Fd=L--OzeA6gmjdcSvGKpHMPz_oP6zw34PNSgOsxgge0_W_f_ZAq3odl0F9p_McslRnQoAFmn9BUIPNB0UOPnUy5q066zfDy_e3gf6O3-eRimtFq6InoupSQ3E8JdifgkcsXYB704y96Fvr_4T-Lao7NjeXY3KTL2ouQQPxEjHhbcjDzwTt0&amp;t=636310396160000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+documentID = 'pCgJcQABI0Io6gBmv%2biKPw%3d%3d';
+documentName = 'Physician Orders';
+patientID = 'uYc7fcal1zQ%3d';
+visitID = 'rb3zQalqcHzD2imTFW%2b3VQ%3d%3d';
+visitDate = '5/17/2017';
+ADMIN_FOLDER_URL = '/Admin';
+$(function(){ DocumentLibrary.JSONFactoryPath = '/DocumentLibrary/DocumentJSONFactory.aspx';});addEvent(window, 'load', function(){SESSION_CLIENT_MINUTES_BEFORE_TIMEOUT = 30;}, false);//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C7D9E874" />
+        <div id="pnlFontSizeWrapper" class="ProviderDeliverableFontWrapper">
+	
+            <div class="PrintPageMain">
+                <div id="printButtons" class="centered HideOnPrint PrintButtons">
+                    <a id="lnkPrintDocument" href="javascript:void(null);">
+                        <img style="vertical-align: middle;" src="../images/icn_print.gif" />
+                        <span style="vertical-align: middle;">Print</span> </a>&nbsp; <a id="lnkCloseWindow"
+                            href="javascript:void(null);"><span style="color: Red; font-weight: bolder; vertical-align: middle;">
+                                x</span> <span style="vertical-align: middle;">Close</span> </a>
+                </div>
+                <table>
+                <thead>
+                    <tr>
+                        <td>
+                            <span id="lblPrintHeader">Test5_17, Gabe (4656798)</span>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                <table width="100%">
+                    <thead>
+                        <tr>
+                            <td>
+                                
+                            </td>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <td>
+                                
+                            </td>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        <tr>
+                            <td>                                
+                                
+                                
+                                <div id="divOldVersionWarning" class="OldVersionOnly centered" style="display: none">
+                                    <span style="font-weight: bold; color: Red">&nbsp;</span>
+                                </div>
+                                <div id="viewPort" class="viewPort CurrentVersionOnly"><div id="ctl04_divDocPropViewer">
+
+<!--Control:ASP.documentlibrary_viewers_documentpropertiesviewer_documentpropertiesviewer_4_ascx-->
+<div id="ctl04_ctl06_divMigratedWarning" class="center" style="display:none">
+    <span id="ctl04_ctl06_spanMigratedWarningCurrent1" style="font-weight:bold;color:Red;display:none">** </span>
+    <span style="font-weight:bold;color:Red">This document represents migrated data. Not a Current Document</span>
+    <span id="ctl04_ctl06_spanMigratedWarningCurrent2" style="font-weight:bold;color:Red;display:none"> **</span>
+</div>
+<h2 id="ctl04_ctl06_headerDocumentName" class="contentGroupTitle">Physician Orders Details</h2>
+<hr id="ctl04_ctl06_headerUnderLine" class="contentGroupTitleUnderLine"/>
+<table class="DocumentPropertiesViewer">
+    <tr>
+        <td class="LeftColumn">
+            <table id="ctl04_ctl06_tblLeftColumn">
+		<tr>
+			<td><span class="patIDLabel">Patient Name:</span></td>
+			<td><span class="DT">Test5_17, Gabe</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Medical Record Number:</span></td>
+			<td><span class="DT">4656798</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Date of Birth/Sex:</span></td>
+			<td><span class="DT">4/25/1942 (75 y.o. Male)</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Primary Care Physician:</span></td>
+			<td><span class="DT">Flinstone, Fred</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Referring Physician:</span></td>
+			<td><span class="DT">Flinstone, Fred</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Weeks in Treatment:</span></td>
+			<td><span class="DT">0</span></td>
+		</tr>
+	</table>
+	
+        </td>
+        <td class="RightColumn">
+            <table id="ctl04_ctl06_tblRightColumn">
+		<tr>
+			<td><span class="patIDLabel">Date of Service:</span></td>
+			<td><span class="DT">5/17/2017&nbsp;9:00 AM</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Patient Account Number:</span></td>
+			<td><span class="DT"></span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Treating RN:</span></td>
+			<td><span class="DT">Ratchet, Nurse</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Other Clinician:</span></td>
+			<td><span class="DT">&nbsp;</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Treating Physician/Extender:</span></td>
+			<td><span class="DT">Donald, Mouse</span></td>
+		</tr>
+	</table>
+	
+        </td>
+    </tr>
+</table>
+
+</div>
+
+
+
+                
+
+
+<table id="tblVerbalOrders" style="width: 100%;">
+	<tr>
+		<td style="width: 190px;"><span class="vc">Verbal / Phone Orders:</span>
+			<span id="ctl04_chkVerbalOrders" class="vc">No</span>
+		</td>
+		
+		
+	</tr>
+</table>
+
+<div id="ctl04_cgICDCodes" class="cg">
+		<h2>Diagnosis Coding</h2><div id="ctl04_cgICDCodeschildDiv" class="cgBodyNoBGNoPad">
+			
+	
+	<div id="ctl04_cgICDCodes_cgICD10Codes" class="cg">
+				<h2>ICD-10 Coding</h2><div id="ctl04_cgICDCodes_cgICD10CodeschildDiv" class="cgBodyNoBGNoPad">
+					
+		
+				<table width="100%">
+					<tr>
+						<td width="15%">
+							<b><u>Code</u></b>
+						</td>
+						<td width="80%">
+							<b><u>Description</u></b>
+						</td>
+					</tr>
+			
+				<tr>
+					<td>
+						<span id="ctl04_cgICDCodes_cgICD10Codes_rptICD10Codes_ctl01_lblCodeAndModifier">E61.6</span>
+					</td>
+					<td>
+						Vanadium deficiency
+					</td>
+				</tr>
+				<tr>
+					<td></td>
+					<td style="vertical-align: top;">
+						<span id="ctl04_cgICDCodes_cgICD10Codes_rptICD10Codes_ctl01_lblRelatedICD9Code"></span>
+					</td>
+				</tr>
+				<td></td>
+			
+				</table>
+			
+	
+				</div><div></div>
+			</div>
+
+		</div><div></div>
+	</div>
+
+
+		<div id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle" class="cg">
+		<h2>Consults</h2><div id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitlechildDiv" class="cgBodyNoBG">
+			
+			
+					<ul>
+				
+					<li style="list-style-type: square;"><b>
+						<span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_chkItem">Vascular</span></b>
+						<span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_txtTestClass"></span><span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_txtAncillaryItem"> - (ICD10 E61.6 - Vanadium deficiency)</span>
+						<!--Added as a part of DF5363-->
+						
+						
+						<span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_lblLOINCNumberText"></span>
+						<!--Added as a part of DF5363-->
+						
+						
+						<!--Added as a part of DF5363-->
+						
+						
+						
+						<!--Added as a part of DF5363-->
+						
+					</li>
+					<br />
+				
+					<li style="list-style-type: square;"><b>
+						<span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl02_chkItem">Infectious Disease</span></b>
+						<span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl02_txtTestClass"></span><span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl02_txtAncillaryItem"></span>
+						<!--Added as a part of DF5363-->
+						
+						
+						<span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl02_lblLOINCNumberText"></span>
+						<!--Added as a part of DF5363-->
+						
+						
+						<!--Added as a part of DF5363-->
+						
+						
+						
+						<!--Added as a part of DF5363-->
+						
+					</li>
+					<br />
+				
+					<li style="list-style-type: square;"><b>
+						<span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl03_chkItem">Pain Clinic</span></b>
+						<span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl03_txtTestClass"></span><span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl03_txtAncillaryItem"></span>
+						<!--Added as a part of DF5363-->
+						
+						
+						<span id="ctl04_rptAncillaryGroups_ctl00_cgAncillaryGroupTitle_rptAncillaryItems_ctl03_lblLOINCNumberText"></span>
+						<!--Added as a part of DF5363-->
+						
+						
+						<!--Added as a part of DF5363-->
+						
+						
+						
+						<!--Added as a part of DF5363-->
+						
+					</li>
+					<br />
+				
+					</ul>
+				
+		
+		</div><div></div>
+	</div>
+	
+		<div id="ctl04_rptAncillaryGroups_ctl01_cgAncillaryGroupTitle" class="cg">
+		<h2>Radiology</h2><div id="ctl04_rptAncillaryGroups_ctl01_cgAncillaryGroupTitlechildDiv" class="cgBodyNoBG">
+			
+			
+					<ul>
+				
+					<li style="list-style-type: square;"><b>
+						<span id="ctl04_rptAncillaryGroups_ctl01_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_chkItem">MRI, lower extremity without contrast</span></b>
+						<span id="ctl04_rptAncillaryGroups_ctl01_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_txtTestClass"></span><span id="ctl04_rptAncillaryGroups_ctl01_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_txtAncillaryItem"> - (ICD10 E61.6 - Vanadium deficiency)</span>
+						<!--Added as a part of DF5363-->
+						
+						
+						<span id="ctl04_rptAncillaryGroups_ctl01_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_lblLOINCNumberText"></span>
+						<!--Added as a part of DF5363-->
+						
+						
+						<!--Added as a part of DF5363-->
+						
+						
+						
+						<!--Added as a part of DF5363-->
+						
+					</li>
+					<br />
+				
+					</ul>
+				
+		
+		</div><div></div>
+	</div>
+	
+		<div id="ctl04_rptAncillaryGroups_ctl02_cgAncillaryGroupTitle" class="cg">
+		<h2>Services and Therapies</h2><div id="ctl04_rptAncillaryGroups_ctl02_cgAncillaryGroupTitlechildDiv" class="cgBodyNoBG">
+			
+			
+					<ul>
+				
+					<li style="list-style-type: square;"><b>
+						<span id="ctl04_rptAncillaryGroups_ctl02_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_chkItem">Venous Duplex Doppler</span></b>
+						<span id="ctl04_rptAncillaryGroups_ctl02_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_txtTestClass"></span><span id="ctl04_rptAncillaryGroups_ctl02_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_txtAncillaryItem"></span>
+						<!--Added as a part of DF5363-->
+						
+						
+						<span id="ctl04_rptAncillaryGroups_ctl02_cgAncillaryGroupTitle_rptAncillaryItems_ctl01_lblLOINCNumberText"></span>
+						<!--Added as a part of DF5363-->
+						
+						
+						<!--Added as a part of DF5363-->
+						
+						
+						
+						<!--Added as a part of DF5363-->
+						
+					</li>
+					<br />
+				
+					</ul>
+				
+		
+		</div><div></div>
+	</div>
+	
+
+
+
+<br />
+<div><h2 class="fakeContentGroupTitle">Electronic Signature(s)</h2></div>
+<div id="ctl07_unsigned">Unsigned</div>
+                    </div>
+                                <div id="OldVersionContent" class="OldVersionOnly" style="display: none;">
+                                    <div class="viewPort">
+                                        &nbsp;</div>
+                                </div>
+                                <div class="CurrentVersionOnly" id="auditTrail">
+                                    
+                                    
+<div class="centered">
+    <br />
+    <span id="ctl09_lblEnteredBy"><b>Entered By:</b> Rockett, Jeffrey on 05/17/2017 08:35:24</span>
+    <br />
+</div>
+                                    
+                                </div>
+                                
+
+<div id="signatureLines" class="signatureLines">
+    
+    <table id="ctl10_tblSignature" width="100%" cellpadding="1" cellspacing="1">
+		<tr>
+			<td class="signatureDesc">
+                    Signature(s):
+                </td>
+			<td class="signatureDate">
+                    Date(s):
+                </td>
+		</tr>
+	</table>
+	
+</div>
+                                
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                </td>
+                    </tr>
+                </tbody>
+            </table>
+            </div>
+        
+</div>
+        
+<script language="javascript" type="text/javascript" src="../include/MedicationViewerMethods.js%253FVersion=5.0.110"></script></form>
+
+        
+    </div>
+
+
+    
+    <!-- Modal -->
+<div class="modal fade" id="compareModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h4 class="modal-title" id="myModalLabel">Compare Document Revisions</h4>
+      </div>
+      <div class="modal-body">
+          <div id="diffHeader">
+            <div>
+                <div>
+                    <div>
+                        Compare from: 
+                        <select name="selectCompareFrom" id="selectCompareFrom">
+</select>
+                    </div>
+                
+                    <div>
+                        Compare to: 
+                        <span style="padding-left: 18px;">
+                            <select name="selectCompareTo" id="selectCompareTo">
+</select>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div>
+                  Comparing <span id="compareFromReference" class="compareFrom"></span> with <span id="compareToReference" class="compareTo"></span> 
+              </div>
+           </div>
+            <div id="diffView" class="viewPort diff-view scroll">
+
+            </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,28 @@
+{
+    "AS_Button_f2a437232a7c48ecb1a59ac38036e742": {
+        "id": "AS_Button_f2a437232a7c48ecb1a59ac38036e742",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupaddtask_btnCancelClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "popups",
+            "platform": "",
+            "KUID": "2c50359740cf40149cfc381afceec625"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___953786dc2e164dafb824fd65c3fc2190",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popup_close",
+            "display": "popup_close",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

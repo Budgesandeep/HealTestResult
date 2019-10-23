@@ -1,0 +1,46 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        2,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        3,
+        0,
+        3
+    ],
+    "_skin_": "se841be24699446198f4aef5655df7b1",
+    "_text_": "No",
+    "canUpdateUI": true,
+    "containerweight": 25,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s35a2d5d39fb4100ba4310920d912a23"
+        }
+    },
+    "displaytext": true,
+    "donotUpdateContainerWeight": false,
+    "focusskin": "se841be24699446198f4aef5655df7b1",
+    "id": "btnlogoutno",
+    "ide_onClick": "AS_Button_ccd50229a992480e9a18a97799882dde",
+    "info": null,
+    "isvisible": true,
+    "kuid": "8fdcd6f5ea4345f286d495e886f338f8",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        0,
+        4.44,
+        0,
+        4.44
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxoptions",
+    "pf": "popuplogout",
+    "wType": "Button"
+}

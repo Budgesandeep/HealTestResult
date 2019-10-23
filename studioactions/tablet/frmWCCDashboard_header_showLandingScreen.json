@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_322b43ccc12349b298bf07f7a18e9d1c": {
+        "id": "AS_FlexContainer_322b43ccc12349b298bf07f7a18e9d1c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_header_showLandingScreen",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "sourceObj": {
+            "itemKUID": "5b6f549504be45a7b888471691b5dd4f",
+            "widgetKUID": "10012846562346608f217f43ee55ca3a",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

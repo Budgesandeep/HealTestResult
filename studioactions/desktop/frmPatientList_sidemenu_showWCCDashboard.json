@@ -1,0 +1,39 @@
+{
+    "AS_Button_08f4778929c745558da0c1aa42ad008b": {
+        "id": "AS_Button_08f4778929c745558da0c1aa42ad008b",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_sidemenu_showWCCDashboard",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "sourceObj": {
+            "itemKUID": "ece4e70548614acebb6edf369b19b24f",
+            "widgetKUID": "f7a7c1c3fc06478e80e3ded7d5db089c",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____1fe3ebca15fd44eb88ba024833ac7ab9",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Button_c9778bea743845b1b002ebbbae028bd4",
+            "display": "AS_Button_c9778bea743845b1b002ebbbae028bd4",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

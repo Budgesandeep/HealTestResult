@@ -1,0 +1,28 @@
+{
+    "AS_TextArea_j3b922de4f604258a220a772572f7705": {
+        "id": "AS_TextArea_j3b922de4f604258a220a772572f7705",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a47cd5c8b4344d0fb6212b46230e40b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c1f470c72e1c4a71a662f92021d1b451",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onSearchEnd",
+            "display": "frmPatientList_onSearchEnd",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "AS_Button_a009d7c217e34b6c904986d71da629fe": {
+        "id": "AS_Button_a009d7c217e34b6c904986d71da629fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_d35edcb2ad4a490d82668f42f744e159",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popuplogout.lblmsg.text=\"Are you sure you want to logout ?\";\npopuplogout.show();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7d79e6e54a441d3a41f1caf37b15220",
+    "_srcKuid_": "ma2c040f004849af96a1bf7de3b44272",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblpatientname",
+        "left": {
+            "type": "string",
+            "value": "5%"
+        },
+        "text": "John Smith",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblpatientname",
+    "instanceOf": "ma2c040f004849af96a1bf7de3b44272",
+    "isvisible": true,
+    "kuid": "mb4144e5081f4909ac862d8b18915a3b",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientnamemsr",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

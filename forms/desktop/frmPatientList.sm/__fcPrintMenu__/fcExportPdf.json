@@ -1,0 +1,49 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0486f18541d4eeca1dfa643713e14ed",
+    "_srcKuid_": "b9b0f935d30347a695c0bd62f516a008",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [
+        "imgExportPdf",
+        "lblExportPdf"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "42dp"
+        },
+        "id": "fcExportPdf",
+        "layoutType": 2,
+        "left": "0dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 2
+    },
+    "id": "fcExportPdf",
+    "ide_onClick": "AS_FlexContainer_da5f1df1d4fd40479aac148f93a9dd60",
+    "instanceOf": "b9b0f935d30347a695c0bd62f516a008",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m15479410c424373a22df331b4b529c7",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcPrintMenu",
+    "pf": "frmPatientList",
+    "topLevelInstanceKUID": "m38e9a21b918467aba27103ccbd77046",
+    "wType": "FlexContainer"
+}

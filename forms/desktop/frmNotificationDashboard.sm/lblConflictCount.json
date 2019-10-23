@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        5,
+        1,
+        6,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "14%"
+    },
+    "_skin_": "s2b23b7bc31043f6b0dce349097262a8",
+    "_text_": "",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "26%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblConflictCount",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "caa0c8e9c6b54132a095256931e54b07",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "fcConflictButton",
+    "pf": "frmNotificationDashboard",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 2
+}

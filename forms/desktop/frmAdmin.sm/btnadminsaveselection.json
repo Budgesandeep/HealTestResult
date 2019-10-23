@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "63%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfc9d8806e11416a85961e54b0fcd304",
+    "_text_": "Save",
+    "_top_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "74dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sfc9d8806e11416a85961e54b0fcd304",
+    "id": "btnadminsaveselection",
+    "ide_onClick": "AS_Button_a13f5d770d9b4cd0b0aee87ae2c50d02",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e87f9e962d334af995d2340e7676c1a0",
+    "name": "kony.ui.Button",
+    "parent": "fcadmincancelsave",
+    "pf": "frmAdmin",
+    "wType": "Button",
+    "zindex": 3
+}

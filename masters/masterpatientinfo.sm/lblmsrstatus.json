@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seca03be4be344e0a76689c59db257ca",
+    "_text_": "MSR",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "mf0bcd244d574cf78742ac07d1b93f41",
+        "m83007091575432591798bf66e528b32",
+        "m1ced82ef38740b5bc585d7dfe005fb7",
+        "mdd9ed6fb3504f90bfc8abe9f2b7312b",
+        "m13e1584f6744d6fb26a4e7a5e7d97a5",
+        "mf759930a81a4681969c6104aba51246"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblmsrstatus",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "90d94258583d4e40a37a89fbb7d96646",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfofooter",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "pdf.png",
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mac91a76c4a449f8b5ab197cbacbca03",
+        "mb3661e0db4b4422be613d120daa6248",
+        "mf4d2ad6dcf5477297240d5451f07597",
+        "meb79b710db94b668bfb02489b9385dc"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "masterPrintMenu",
+        "platform": "kiosk",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgExportPdf",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "273220bea8dd4b98a349ad7bd657b535",
+    "name": "kony.ui.Image2",
+    "parent": "fcExportPdf",
+    "pf": "masterPrintMenu",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

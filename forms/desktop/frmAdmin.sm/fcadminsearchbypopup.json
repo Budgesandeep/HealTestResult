@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s678ced2d7d14e1daae167805bcf85b1",
+    "_top_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "261px"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lbadminsearchbydropdown",
+        "imgadminsearchbydropdown"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sc7a69c7b2a5448c993ef880c865f670"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "sb2b3cfeedd1419b965a91464b05f6ea"
+    },
+    "enablescrolling": true,
+    "id": "fcadminsearchbypopup",
+    "ide_onClick": "AS_FlexContainer_e19b61fcf8904e9cb6fb84bc7cfb17cc",
+    "info": null,
+    "isvisible": true,
+    "kuid": "7ac30af6aefb440db1df28d47e955b83",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcadminsearch",
+    "pf": "frmAdmin",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 3
+}

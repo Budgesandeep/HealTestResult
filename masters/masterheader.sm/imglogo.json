@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_bottom_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "healogics_logo.png",
+    "_width_": {
+        "type": "string",
+        "value": "176dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "ma1a6a893568481bb20e4fe671901e4a",
+        "m17d0070a2c642e79563a6d990fc8efe",
+        "m13feec0d6d248bc860fa0e29726f05f",
+        "m823988a029e485b8537782390814e7c",
+        "mb482fff4d8b4f82b99ac756f52fdb17",
+        "m157e6fe271c49a4a965d1d8c97919bf",
+        "mef2a04b1dc74031b40cc2ad36cf38c4",
+        "m4b2ba01990646a6bc1d7137f8cea208",
+        "m51c50fc06374bc9951651f0a18d394a",
+        "md9674a2cc9c47209e9775300d48ed6d",
+        "md335a200eaf4ef582567f2501ea4c99",
+        "m61e349f6fb94217a5a1da0f79c2b362",
+        "mbfc22ccea254b18a35decf671c602d7",
+        "maf481eab0374f96a7e09696a90ec55a"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "masterheader",
+        "platform": "desktopweb",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imglogo",
+    "imagescalemode": 1,
+    "imagewhenfailed": "healogics_logo.png",
+    "imagewhiledownloading": "healogics_logo.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "57b264680220427488db5f716f9f982d",
+    "name": "kony.ui.Image2",
+    "parent": "fcheaderleft",
+    "pf": "masterheader",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

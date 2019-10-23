@@ -1,0 +1,35 @@
+{
+    "AS_Form_c1064143ce5549f7a172f769c1250917": {
+        "id": "AS_Form_c1064143ce5549f7a172f769c1250917",
+        "type": "ACTION_SEQUENCE",
+        "name": "onTouchFrmLanding",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "1fc12a8367d04f6cad416ed7ce1d5d0d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___274d47f508504f8ca102bd9043e0f1c8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hide_fctopmenu",
+            "display": "hide_fctopmenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

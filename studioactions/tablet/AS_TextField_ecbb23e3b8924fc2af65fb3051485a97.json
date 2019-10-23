@@ -1,0 +1,30 @@
+{
+    "AS_TextField_ecbb23e3b8924fc2af65fb3051485a97": {
+        "id": "AS_TextField_ecbb23e3b8924fc2af65fb3051485a97",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g05ad9ee8e5346a186c5b346a773ce78"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onEndEditing_f71748f4a8bc431e8b910d00333e8624",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onSearchEnd",
+            "display": "frmPatientList_onSearchEnd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

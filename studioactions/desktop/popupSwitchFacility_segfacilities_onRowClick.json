@@ -1,0 +1,35 @@
+{
+    "AS_Segment_6408b35212de4000bb54c26d00945688": {
+        "id": "AS_Segment_6408b35212de4000bb54c26d00945688",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupSwitchFacility_segfacilities_onRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "popupSwitchFacility",
+            "type": "popups",
+            "platform": "",
+            "KUID": "4d193c77d3b24c9b860e0757f764adaf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2cf70a56d64e46a88ce49bf5a316d5b7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmWCCDashboard_onFacilitySelection",
+            "display": "frmWCCDashboard_onFacilitySelection",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

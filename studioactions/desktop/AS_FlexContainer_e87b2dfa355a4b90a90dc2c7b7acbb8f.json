@@ -1,0 +1,33 @@
+{
+    "AS_FlexContainer_e87b2dfa355a4b90a90dc2c7b7acbb8f": {
+        "id": "AS_FlexContainer_e87b2dfa355a4b90a90dc2c7b7acbb8f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segDocumentsTestResult",
+            "type": "templates",
+            "platform": "",
+            "KUID": "g2a715b98b8d4546873f6a4930fc9b7a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onHover_ca340d7b29f44f788a02069839406b49",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "CallextenstionResultTest",
+            "display": "CallextenstionResultTest",
+            "inputparams": [{
+                "name": "context",
+                "value": "context"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

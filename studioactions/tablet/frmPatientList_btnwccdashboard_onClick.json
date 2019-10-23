@@ -1,0 +1,22 @@
+{
+    "AS_Button_67e850d409b34de7aed763d0b4300a79": {
+        "id": "AS_Button_67e850d409b34de7aed763d0b4300a79",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_btnwccdashboard_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_dda8f02a08724ffc8dae50c445999989",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dashboard_showWCCDashboard",
+            "display": "dashboard_showWCCDashboard",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

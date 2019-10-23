@@ -1,0 +1,50 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s530e2ba15914b74a5ba1b7d5044f669",
+    "_srcKuid_": "92d1a16bc1cd423dad1d79ba0d519a2c",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [],
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "50%"
+        },
+        "id": "fcvertline",
+        "layoutType": 2,
+        "left": "15dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": 0,
+        "width": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "zIndex": 1
+    },
+    "id": "fcvertline",
+    "instanceOf": "92d1a16bc1cd423dad1d79ba0d519a2c",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "md8091ee40ea4f9db14a49d7934e91b9",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcheaderleft",
+    "pf": "frmAdmin",
+    "topLevelInstanceKUID": "m5bdbe74ce994fbe990f0786389898e2",
+    "vizProps": {
+        "hide": true
+    },
+    "wType": "FlexContainer"
+}

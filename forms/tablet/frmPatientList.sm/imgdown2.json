@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "s6cc4c34dac448b5984b1afb430d31d7",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sa17c5bf68014a3f93fb266388b726ff"
+    },
+    "displaytext": true,
+    "id": "imgdown2",
+    "ide_onClick": "AS_Button_42e5a2b4d9744370a530678197f3c46e",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "5340afaee3b44445a7348c25f10220b8",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer0c76bf83ca0b343",
+    "pf": "frmPatientList",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

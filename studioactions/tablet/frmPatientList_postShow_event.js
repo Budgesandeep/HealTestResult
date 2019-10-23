@@ -1,0 +1,10 @@
+function frmPatientList_postShow_event(eventobject) {
+    return AS_Form_ea20b05608804242a106d1fc40b0eb36(eventobject);
+}
+
+function AS_Form_ea20b05608804242a106d1fc40b0eb36(eventobject) {
+    hideFormMenu.call(this);
+    load_headerdata.call(this, null);
+    clear_PatientList.call(this);
+    registerTimeout.call(this);
+}

@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "54dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "scb1155363fd4faa99975184a99b1885",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100.00%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "mc3d4c84a98847b8a4197df40164caef",
+        "m6dd68b11a2845d5b8d8cdf24ef45ec0",
+        "m17d6bd8bcb442448cd7ac74c61cd001",
+        "m1e07bb006874df181083fd4e1dd52a6",
+        "ma836fc5b38241efb9b7b61c328428ba",
+        "mdf2774eb52e4a2fa74213769cbdf7dc"
+    ],
+    "children": [
+        "btsmwcc"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcmenuitemone",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5d3cb9fdfee447aba742c0bae31b3786",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcmenu",
+    "pf": "mastermenu",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

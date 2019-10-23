@@ -1,0 +1,41 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        6,
+        0,
+        2,
+        0
+    ],
+    "_padding_": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "_skin_": "sfbaebba43c04bffaffbaee9f2bfd580",
+    "_text_": "Ok",
+    "canUpdateUI": true,
+    "containerweight": 28,
+    "contentalignment": 5,
+    "displaytext": true,
+    "donotUpdateContainerWeight": false,
+    "focusskin": "sb65b513974142b0a20fd3031f838da1",
+    "id": "btnok",
+    "ide_onClick": "AS_Button_b378e1684edc418089973020f711582e",
+    "info": null,
+    "isvisible": true,
+    "kuid": "50d69d7af582491c90b093375e009f25",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        18,
+        18,
+        18,
+        18
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxbtns",
+    "pf": "popupdocumnetsuccess",
+    "wType": "Button"
+}

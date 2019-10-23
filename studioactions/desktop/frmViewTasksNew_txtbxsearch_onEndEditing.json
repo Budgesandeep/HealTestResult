@@ -1,0 +1,25 @@
+{
+    "AS_TextField_e28894c17a9843dc8a1c107f9361820b": {
+        "id": "AS_TextField_e28894c17a9843dc8a1c107f9361820b",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_txtbxsearch_onEndEditing",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onEndEditing_94cfb9ac471d484397184f9d4e5bb96b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onSearchEnd",
+            "display": "frmPatientList_onSearchEnd",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s83dbab24ae44f83922161e51318e97c",
+    "_text_": "Next Appt. Date:",
+    "_top_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m727389cecdd4474b7518761bec826e9",
+        "m210635403ce4e3484bfcd831d3a0422",
+        "mfd4f2a17f534afdade207c6f47ed352",
+        "m5de6349e81b4e188c895414af61ac55",
+        "m9da9ec44b6c42d294bc30f742c521b3",
+        "m5ad06928aab413299ff8f8f9dc84642",
+        "ma7b1c1c86744b648cda73e2b233bc30",
+        "meefe2e19d7946f19a240236aa8900e0",
+        "m73c239197f042e99a22e112bd9db4a4"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblnextapptdate",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "e44dc5b0a39141379e7c9fbdcf860165",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo3",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

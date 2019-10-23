@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_6306da8ac0c14bcc8c9c90476386bb38": {
+        "id": "AS_FlexContainer_6306da8ac0c14bcc8c9c90476386bb38",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b5e70fff1b8248359ac70f3916a99d98",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "show_printMenu",
+            "display": "show_printMenu",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

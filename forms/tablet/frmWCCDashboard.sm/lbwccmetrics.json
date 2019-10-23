@@ -1,0 +1,102 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        1,
+        0
+    ],
+    "_skin_": "s915921c9a894036a80829b72e2f8972",
+    "_top_": {
+        "type": "string",
+        "value": "63dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "tablet",
+        "formID": "frmWCCDashboard",
+        "platform": "ipad",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "headerarrow.png",
+    "focusskin": "s915921c9a894036a80829b72e2f8972",
+    "groupcells": false,
+    "id": "lbwccmetrics",
+    "ide_onSelection": "AS_ListBox_c4a74fb05ffc4d429787c8c2d87045ae",
+    "ide_onTouchStart": "AS_ListBox_c76920cfeff24e51b1ae88c8e3b43909",
+    "info": null,
+    "ipad": {
+        "dropDownImage": "listboxarrow.png",
+        "viewType": 0
+    },
+    "isvisible": true,
+    "kuid": "e1dcada9b76047ec80b7e874bec4bdfa",
+    "masterdata": [
+        [
+            "1",
+            "September, 2016"
+        ],
+        [
+            "2",
+            "October, 2016"
+        ],
+        [
+            "3",
+            "November, 2016"
+        ],
+        [
+            "4",
+            "December, 2016"
+        ],
+        [
+            "5",
+            "January, 2017"
+        ],
+        [
+            "6",
+            "February, 2017"
+        ],
+        [
+            "7",
+            "March, 2017"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "fcwccmetrics",
+    "pf": "frmWCCDashboard",
+    "selectedkey": "1",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "1",
+        "September, 2016"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 2
+}

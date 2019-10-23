@@ -1,0 +1,26 @@
+{
+    "AS_Button_b19721d085224d6c96c9de35ed1b649c": {
+        "id": "AS_Button_b19721d085224d6c96c9de35ed1b649c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "d238422dd90d4211b3ab81fe2a212bcb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_fcdc97553e934438abbd8e4fa6d1b2c6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_btnWoundSummary_onclick_call",
+            "display": "frmPatientRecords_btnWoundSummary_onclick_call",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

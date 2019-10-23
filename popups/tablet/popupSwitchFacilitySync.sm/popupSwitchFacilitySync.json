@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "secb9352359a487cb74c2c94bd6010ee",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "hboxSwitchFacilitySync"
+    ],
+    "containerweight": 55,
+    "currentLocale": "default",
+    "desktopweb": {
+        "psp": {
+            "titleBarConfig": {
+                "closeIcon": "close.png",
+                "maxIcon": "max.png",
+                "minIcon": "min.png"
+            }
+        }
+    },
+    "device": "iPad3",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "popupSwitchFacilitySync",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ismodal": false,
+    "isvisible": true,
+    "kuid": "eeffb814df4146f9a01b3e47edaa167c",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "ipad",
+    "prevDevice": "iPad3",
+    "prevPlatform": "ipad",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPad3",
+    "titlebar": true,
+    "transparencybehindthepopup": 30,
+    "wType": "Popup"
+}

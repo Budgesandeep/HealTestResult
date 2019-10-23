@@ -1,0 +1,19 @@
+{
+    "AS_AppEvents_gc476518fed141c3883a71d1ba743f60": {
+        "id": "AS_AppEvents_gc476518fed141c3883a71d1ba743f60",
+        "type": "ACTION_SEQUENCE",
+        "name": "Desktop_pre_appinit",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ace0b8a152534ac7bc7f513d15754f6a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"pre appinit service MF init\")\n//serviceIntegration.initMF();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

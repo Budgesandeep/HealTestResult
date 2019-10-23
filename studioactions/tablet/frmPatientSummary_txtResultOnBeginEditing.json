@@ -1,0 +1,20 @@
+{
+    "AS_NamedActions_a44b54f66a834bc2ac98d5aab7c42200": {
+        "id": "AS_NamedActions_a44b54f66a834bc2ac98d5aab7c42200",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_txtResultOnBeginEditing",
+        "params": [],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j34a337bb2b840c4b43befb0bedc3ea7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "searchPatient_closeSearchList",
+            "display": "searchPatient_closeSearchList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

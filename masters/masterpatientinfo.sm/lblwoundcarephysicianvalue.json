@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "sa8abdf651b14f72be81ff5983d75713",
+    "_text_": "Dr. Loreta",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m6fb3554305744579956fb67e8b71cdf",
+        "m6294a2a93ed49b8b974f093862a5c95",
+        "mbdc3fe1de7748ad9c38c0d7ba5a3f8d",
+        "mb0e6f1a0803495da46b1cf99b07f517"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblwoundcarephysicianvalue",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "05514d095a22427da3580bc3eeed820a",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo2",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

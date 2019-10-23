@@ -1,0 +1,28 @@
+{
+    "AS_Button_ff2ff78d9cec4a038b5d86d945727e36": {
+        "id": "AS_Button_ff2ff78d9cec4a038b5d86d945727e36",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_breadcrumb_homeClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_966f1e6cbc55439ebcd6c9ba363a0037",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showLandingScreen",
+            "display": "showLandingScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

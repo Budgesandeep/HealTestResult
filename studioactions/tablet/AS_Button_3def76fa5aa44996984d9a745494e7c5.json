@@ -1,0 +1,20 @@
+{
+    "AS_Button_3def76fa5aa44996984d9a745494e7c5": {
+        "id": "AS_Button_3def76fa5aa44996984d9a745494e7c5",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_db0ae8e382fa4beaa6d766dffb114391",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "clearFilterClick",
+            "display": "clearFilterClick",
+            "inputparams": [],
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

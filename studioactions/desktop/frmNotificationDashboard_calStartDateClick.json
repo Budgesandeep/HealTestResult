@@ -1,0 +1,32 @@
+{
+    "AS_Calendar_cc34eab860c8404185a2f5ac572325dd": {
+        "id": "AS_Calendar_cc34eab860c8404185a2f5ac572325dd",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmNotificationDashboard_calStartDateClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "boolean",
+            "name": "isValidDateSelected"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f965c254d41a487284425bab8fb1af10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e2273b52356b46b69ae4f9affd61d1c5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_startDateSelected",
+            "display": "frmNotificationDashboard_startDateSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

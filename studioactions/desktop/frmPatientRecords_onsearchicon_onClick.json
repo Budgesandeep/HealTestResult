@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_ea81ca2c52ea424aba974fd1168c9386": {
+        "id": "AS_FlexContainer_ea81ca2c52ea424aba974fd1168c9386",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_onsearchicon_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2dadc999bf6b45babe7b7fd8757e2f92"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___jb1c491cca3b4e13a22c004a8ac9bdfc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickSearchClose",
+            "display": "onClickSearchClose",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_87f4c03631de4dd880379c5f827bf875": {
+        "id": "AS_Button_87f4c03631de4dd880379c5f827bf875",
+        "type": "ACTION_SEQUENCE",
+        "name": "popuplogout_btnlogoutno_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b88341e9a5234ea28b55b9c9e1a391d0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

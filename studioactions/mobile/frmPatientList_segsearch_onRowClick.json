@@ -1,0 +1,35 @@
+{
+    "AS_Segment_06a65d95d8714731859351190b95f496": {
+        "id": "AS_Segment_06a65d95d8714731859351190b95f496",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_segsearch_onRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a47cd5c8b4344d0fb6212b46230e40b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cf8b856ca5a943a3a5a8437f46d0e58f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientListIPhone_searchRowClick",
+            "display": "frmPatientListIPhone_searchRowClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

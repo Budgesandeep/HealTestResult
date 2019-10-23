@@ -1,0 +1,41 @@
+{
+    "AS_Form_d159291f1b324711a9e384024141fdc9": {
+        "id": "AS_Form_d159291f1b324711a9e384024141fdc9",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTaskNew_Preshow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewTasksNew",
+            "type": "forms",
+            "platform": "",
+            "KUID": "15b91c763b4247dcbffb17a1665e772c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j016eb65a9ca429bb0f675336f75c043",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeConnectionStatus",
+            "display": "changeConnectionStatus",
+            "inputparams": [{
+                "name": "isOnLine"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___e159aa759b72485c961ef30913843a16",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hideSearchDropdown",
+            "display": "hideSearchDropdown",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_ListBox_b0f5b4dbf06f463baed08dd60df01835": {
+        "id": "AS_ListBox_b0f5b4dbf06f463baed08dd60df01835",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmNotificationDashboard_endTimeClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f965c254d41a487284425bab8fb1af10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ca78f433fa0d44a2881092f5d44406f9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_endTimeSelected",
+            "display": "frmNotificationDashboard_endTimeSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

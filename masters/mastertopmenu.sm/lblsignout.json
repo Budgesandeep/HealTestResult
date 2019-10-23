@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_text_": "Logout",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m22a4c0040684413a3d3de666bea131f",
+        "m562fe70443945788a085b00d69d2431",
+        "m6962113987d43f1a4bc88dc9aa09374",
+        "m5d4e2f69b974af7b866a3c999e1de69",
+        "meeff8ec951e4e71a9c30d610f29ec86",
+        "mb2df6c0376a44f79b8992b3c6d94977",
+        "m562d3b8d1d54e06bb4c180b6d0d5037",
+        "m1f20816675648c080b8acd950396d71"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblsignout",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "dc26fe2c829d4ed5be4cab145702e5ae",
+    "name": "kony.ui.Label",
+    "parent": "fcsignout",
+    "pf": "mastertopmenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

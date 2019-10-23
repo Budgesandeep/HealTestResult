@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_ef240bbbee06423daf28cb7042b57db0": {
+        "id": "AS_FlexContainer_ef240bbbee06423daf28cb7042b57db0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segDocumentsTestResult",
+            "type": "templates",
+            "platform": "",
+            "KUID": "g2a715b98b8d4546873f6a4930fc9b7a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c08dba5971fd4b42a23f09ae5531e2e2",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//CallextenstionResultTest();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

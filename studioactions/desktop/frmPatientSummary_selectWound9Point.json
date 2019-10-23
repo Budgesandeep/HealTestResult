@@ -1,0 +1,37 @@
+{
+    "AS_Segment_d1dd0d6db7774e419eab77b06b8d2f23": {
+        "id": "AS_Segment_d1dd0d6db7774e419eab77b06b8d2f23",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_selectWound9Point",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_5390caefaf8449dcaebee650c712f409",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_segWound9PointsRowClick",
+            "display": "frmPatientSummary_segWound9PointsRowClick",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " rowNumber"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

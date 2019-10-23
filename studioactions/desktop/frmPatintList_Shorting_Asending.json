@@ -1,0 +1,32 @@
+{
+    "AS_HBox_0b8d7c74e5ca4d019959c56aed3af638": {
+        "id": "AS_HBox_0b8d7c74e5ca4d019959c56aed3af638",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatintList_Shorting_Asending",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupsortandfilter",
+            "type": "popups",
+            "platform": "",
+            "KUID": "665d512a1254439f93272064ebd29760"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e64640af8f9a475f87ef53381656e7f5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_Shorting",
+            "display": "frmPatientList_Shorting",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

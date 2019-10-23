@@ -1,0 +1,49 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "_skin_": "s8495de19ae14478a4519885873b7c18",
+    "_srcKuid_": "m193e4662f6649c7a9ac8c51f51a2389",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "bottom": {
+            "type": "string",
+            "value": "5dp"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblallergiesvalue",
+        "left": {
+            "type": "string",
+            "value": "30.30%"
+        },
+        "text": "None Lorem ipsum dolor sit met, consetetur sadipscing eliter, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "58%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblallergiesvalue",
+    "instanceOf": "m193e4662f6649c7a9ac8c51f51a2389",
+    "isvisible": true,
+    "kuid": "m64a3e219a454879b5047b424695b508",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfofooter",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

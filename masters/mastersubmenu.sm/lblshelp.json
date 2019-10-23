@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        5,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb98d1eefda64652ae901d6aca0a922d",
+    "_text_": "Help",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "scc8e5e836834c239598f409516a978b"
+        }
+    },
+    "id": "lblshelp",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "89d254a8b8894000906f6768f9ec2a5a",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "fchelp",
+    "pf": "mastersubmenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

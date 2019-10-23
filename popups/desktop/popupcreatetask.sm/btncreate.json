@@ -1,0 +1,46 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        4,
+        1,
+        2,
+        1
+    ],
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_skin_": "sfc9d8806e11416a85961e54b0fcd304",
+    "_text_": "Create",
+    "canUpdateUI": true,
+    "containerweight": 20,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s22e930b1db24c2a93ec1def531259de"
+        }
+    },
+    "displaytext": true,
+    "donotUpdateContainerWeight": false,
+    "focusskin": "sfc9d8806e11416a85961e54b0fcd304",
+    "id": "btncreate",
+    "ide_onClick": "AS_Button_0a2161418a09482aad30b1c81af59c86",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4fc86261344b463f891ba5219ef2c8f6",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        40.88,
+        40.88,
+        40.88,
+        40.88
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxcreate",
+    "pf": "popupcreatetask",
+    "wType": "Button"
+}

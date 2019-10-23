@@ -1,0 +1,25 @@
+{
+    "AS_Form_g7e44d8968a34bca92685592cefc344c": {
+        "id": "AS_Form_g7e44d8968a34bca92685592cefc344c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmLogin_deviceback",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "efa63e013ac343628ece37d3f15d5b1c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ce1a5521604a407288cb298d5ea935d0",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"Login deviceBack cliked\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

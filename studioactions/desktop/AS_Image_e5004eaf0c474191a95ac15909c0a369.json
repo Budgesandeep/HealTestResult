@@ -1,0 +1,30 @@
+{
+    "AS_Image_e5004eaf0c474191a95ac15909c0a369": {
+        "id": "AS_Image_e5004eaf0c474191a95ac15909c0a369",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchStart_e62ce9f7a7a447d99eedcc4a3264141c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "sortOrderDateTestResultSelection",
+            "display": "sortOrderDateTestResultSelection",
+            "inputparams": [{
+                "name": "eventName",
+                "value": "\"A\""
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

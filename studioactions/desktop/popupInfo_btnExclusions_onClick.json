@@ -1,0 +1,29 @@
+{
+    "AS_Button_b39d5094892d4e90863f7ab7e38eaa3b": {
+        "id": "AS_Button_b39d5094892d4e90863f7ab7e38eaa3b",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupInfo_btnExclusions_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupInfo",
+            "type": "popups",
+            "platform": "",
+            "KUID": "401b3c45748449b4ba120421652791da"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___232dbe9a8e814cf58aa5ac112e0b35be",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupInfo_showExclusionsData",
+            "display": "popupInfo_showExclusionsData",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

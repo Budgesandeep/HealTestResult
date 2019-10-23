@@ -1,0 +1,35 @@
+{
+    "AS_Button_9cf4f50c7f69433da7179404a53db2d8": {
+        "id": "AS_Button_9cf4f50c7f69433da7179404a53db2d8",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasks_onClick_Completed",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "d493fbc8f7f943c48f5705954bffc978"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b7937393d4444c34b7bfc03a4402bde3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showLoadingScreen();\ntaskListModule.frmViewTaks_removeCircles();\nfrmViewTasks.btnopentask.skin=\"sknbtntransbgwhite85\";\nfrmViewTasks.btnCompleted.skin=\"sknbtnwhitebgblack85\";\nfrmViewTasks.btnall.skin=\"sknbtntransbgwhite85\";\ntaskListModule.processTaskList(task_info.STATUS_COMPLETE);",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true
+        }, {
+            "id": "INVOKE_FUNCTION___8ee09495836a4bffb62f2306cd03f4bf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasks_getCompletedTasks",
+            "display": "frmViewTasks_getCompletedTasks",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

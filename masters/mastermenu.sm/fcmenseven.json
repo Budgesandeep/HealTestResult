@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "57dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "scb1155363fd4faa99975184a99b1885",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100.00%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m5b73eab4f294747afd22295121d238a",
+        "m4b74257c21e4d75a19ea0e0469d38c1",
+        "mb38a49234834980997962d077ea050d",
+        "mdc3fb5342b94024baafa89e5ec8371d",
+        "m334562e3ee44c7083c838a637906518",
+        "m75e6fb262f84ff5b92eec8dbcba296e"
+    ],
+    "children": [
+        "btnregistration"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcmenseven",
+    "info": null,
+    "isvisible": true,
+    "kuid": "64f9c9aa5d074194a4b2a89cd10f1428",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcmenu",
+    "pf": "mastermenu",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

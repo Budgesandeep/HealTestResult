@@ -1,0 +1,18 @@
+{
+    "AS_Button_fa6e90ae072f45ea89171ac8346c8170": {
+        "id": "AS_Button_fa6e90ae072f45ea89171ac8346c8170",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupupladstatus_btnok_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b49e8fd907d643af91132efbc1898f9f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popupuploadstatus.dismiss();",
+            "callbackType": null
+        }]
+    }
+}

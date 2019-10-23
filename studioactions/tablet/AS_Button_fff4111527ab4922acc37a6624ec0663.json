@@ -1,0 +1,28 @@
+{
+    "AS_Button_fff4111527ab4922acc37a6624ec0663": {
+        "id": "AS_Button_fff4111527ab4922acc37a6624ec0663",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLanding",
+            "type": "forms",
+            "platform": "",
+            "KUID": "280892d65ab245a7a7f58f9cb4b12dc0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e0fc46567bfc440b8987f8db802d28e7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_show",
+            "display": "frmNotificationDashboard_show",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

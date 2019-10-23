@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "75dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4b03b48ec8c4e0f9515253ab76f8ca3",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "101.63%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Copyfcdate0ddec0ef5884d48",
+        "CopyLabel0b98faeabb15344",
+        "Copyfcdate0b67a41cb084341",
+        "CopyLabel0be3be7bcb96e4d",
+        "Copyfcdate0c8763604ec294e",
+        "CopyLabel0fc0a008b67d04d",
+        "Copyfcdate0eb08e1d7d15e47",
+        "CopyLabel0ebfc82d9cec94d"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "Copyfcnotificationlisthdr0jf8a79e3f13442",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "ce33ff590ec248678e470c9572ed707f",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexContainer0db6a976bb7ec40",
+    "pf": "frmNotificationDashboard",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

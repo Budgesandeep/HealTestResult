@@ -1,0 +1,32 @@
+{
+    "AS_TextField_337d2ded58b2411d9dcc071627ad83b5": {
+        "id": "AS_TextField_337d2ded58b2411d9dcc071627ad83b5",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_tbsearch_onEndEditing",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a87c9c1a0dbc43dcb0ca8b49f0c5b204",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onSearchEnd",
+            "display": "frmPatientList_onSearchEnd",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

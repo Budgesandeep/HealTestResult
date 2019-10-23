@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_srcKuid_": "baaa63870c5046f08e6857b5ed643330",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "35%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblhelpdesk",
+        "left": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "text": "Helpdesk",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblhelpdesk",
+    "instanceOf": "baaa63870c5046f08e6857b5ed643330",
+    "isvisible": true,
+    "kuid": "m19b018ca5e346a792e9682aca2a608d",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fccontacthelp",
+    "pf": "frmPatientTestResults",
+    "topLevelInstanceKUID": "m71ea3e8782847089a41f99c9befc2ea",
+    "wType": "Label"
+}

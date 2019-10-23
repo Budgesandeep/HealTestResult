@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s9e36f7659d3473a84d753b83a6fe9e6",
+    "_srcKuid_": "e6bacd78fe30442b92411bd5860e8a7f",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "btsmhbo",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "Button",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "btsmhbo",
+    "ide_onClick": "AS_Button_h3289854061445689d8427b00bb736d4",
+    "instanceOf": "e6bacd78fe30442b92411bd5860e8a7f",
+    "isvisible": true,
+    "kuid": "m0b0f52a6c39417e8b6b8d593ceb2a4c",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "fcmenuitemthree",
+    "pf": "frmAdmin",
+    "topLevelInstanceKUID": "m0ae11f3de5744ed815bc187b474ab90",
+    "wType": "Button"
+}

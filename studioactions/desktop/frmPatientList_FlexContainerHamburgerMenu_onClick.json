@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_bca9281f3d3844ec90f66b432fc5546a": {
+        "id": "AS_FlexContainer_bca9281f3d3844ec90f66b432fc5546a",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_FlexContainerHamburgerMenu_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_fbbe3a6730cd4b72ad1d4609cb7e568d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSideMenu",
+            "display": "menu_toggleSideMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

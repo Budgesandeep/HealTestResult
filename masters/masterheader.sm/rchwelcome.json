@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scdb84b003ba4e34b9759e13008dc48f",
+    "_text_": "Welcome <b> James </b>\n",
+    "_top_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m4a5e0afda04419bb0b4bf9dd988c0bd",
+        "mc1b9cfe170745479467157880de1345",
+        "m8828ffd1b834519b671eabc5199f5c2",
+        "m1318fd6aa00400cbbddea1379acc3cd",
+        "m6ae05f918e14c659309007e01aba37b",
+        "mcb0ccfd599740eeb9cf5f11a9e2a6ee",
+        "m3f7f617d8a347b49e582f192aa74aef",
+        "m6ae4795ccea463684e3139d3fba3840",
+        "m3b8fd2aa26c4b65853a5af0b24bae14",
+        "m1658bae882b4bed8ff4cf5da67fcce3",
+        "mb2a696d41d44951add7e1dab5296c90",
+        "md89479727604f64ac9a32130ff23e05",
+        "m1fcb094d2034b8897f2a5ebc502b7bc",
+        "m71fad846ef6418cb597226bef183c5c"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rchwelcome",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a05a8ba4446549348f07de847ea5d2c5",
+    "name": "kony.ui.RichText",
+    "parent": "fcusername",
+    "pf": "masterheader",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

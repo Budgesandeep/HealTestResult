@@ -1,0 +1,28 @@
+{
+    "AS_ListBox_28abca49ca2b4aa7b94bd4ac111df777": {
+        "id": "AS_ListBox_28abca49ca2b4aa7b94bd4ac111df777",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb14c6f9d5a447179393e04161a90a24"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___892c0ef256334b809147a8d1a3b4b4a1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "userMetrics_OnMonthSelection",
+            "display": "userMetrics_OnMonthSelection",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

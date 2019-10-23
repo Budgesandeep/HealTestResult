@@ -1,0 +1,71 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s0486f18541d4eeca1dfa643713e14ed",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m328ddc59c2041c5b9d3fdaf67407cc0",
+        "me671095c88840069dbe869cdb4c13a0",
+        "m23ae1b80b404e8c8bc9299ed6fad483",
+        "md8f1180a5af44da9c5619e8e4644ce7"
+    ],
+    "children": [
+        "imgExportExcel",
+        "lblExportExcel",
+        "lblmenuline"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s679c73ca2144ce7beed99f8efa4534f"
+        }
+    },
+    "enablescrolling": true,
+    "id": "fcExportExcel",
+    "ide_onClick": "AS_FlexContainer_68f9ff553459408a9d48b64cf63df781",
+    "info": null,
+    "isvisible": true,
+    "kuid": "511d130ddaf54948b93320874c983eb7",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcPrintMenu",
+    "pf": "masterPrintMenu",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 2
+}

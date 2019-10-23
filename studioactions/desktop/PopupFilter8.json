@@ -1,0 +1,25 @@
+{
+    "AS_Button_2af8b20d75b14d5c83300033318ac2c1": {
+        "id": "AS_Button_2af8b20d75b14d5c83300033318ac2c1",
+        "type": "ACTION_SEQUENCE",
+        "name": "PopupFilter8",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a0bb1cb527e64c1a815321a15437d9ee",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_show_sortpopup",
+            "display": "frmPatientList_show_sortpopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

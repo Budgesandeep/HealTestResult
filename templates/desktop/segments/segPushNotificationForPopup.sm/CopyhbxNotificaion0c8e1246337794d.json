@@ -1,0 +1,39 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s272e7262b97424d91bab25cf10f71cd",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "vboxNotification"
+    ],
+    "containerId": true,
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "CopyhbxNotificaion0c8e1246337794d",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "ice5160124574a2cbc33ca3b12c2f3ce",
+    "layouttype": 0,
+    "name": "kony.ui.Box",
+    "parent": "segPushNotificationForPopup",
+    "pf": "segPushNotificationForPopup",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

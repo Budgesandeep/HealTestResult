@@ -1,0 +1,32 @@
+{
+    "AS_Button_da357824da0248c6b77bf21a4a56f40f": {
+        "id": "AS_Button_da357824da0248c6b77bf21a4a56f40f",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_uploadDocuments",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3a5f03151ea344e0a3e9f2eedf23c78e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f3bf8b322d3b426b9785316cc32dac48",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_callFFIforUploadDocuments",
+            "display": "frmPatientRecords_callFFIforUploadDocuments",
+            "inputparams": [{
+                "name": "eventObjectType",
+                "value": "\"button\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

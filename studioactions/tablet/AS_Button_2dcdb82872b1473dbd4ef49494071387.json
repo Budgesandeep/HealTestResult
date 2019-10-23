@@ -1,0 +1,23 @@
+{
+    "AS_Button_2dcdb82872b1473dbd4ef49494071387": {
+        "id": "AS_Button_2dcdb82872b1473dbd4ef49494071387",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popuplogout",
+            "type": "popups",
+            "platform": null,
+            "KUID": "b1201516c5e441308fd521b1b3fe56cc"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_614977a863a048568ac2a662f8aa4500",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "    //Akshay - for checking whether online or offline\n//     //var isNetworkAvailable = kony.net.isNetworkAvailable(constants.NETWORK_TYPE_ANY);\n\n//     if (isNetworkAvailable()) {\n//         loginModule.logoutUserService();\n//     }\n    ///need to check this condition - only be called if user is in iPad and offline\n//     if (isIpad) {\n//         login_cntrl_offline.invalidateUser();\n//     }\n\nvar error_label = ERROR_CONSTANTS.LOGOUT_SUCCESS_MESSAGE;\nif(isIpad){\n\tloginModule.showLoginScreen(error_label);\n  \n}    \n",
+            "callbackType": null
+        }]
+    }
+}

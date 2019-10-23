@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s83dbab24ae44f83922161e51318e97c",
+    "_text_": "Comorbidities:",
+    "_top_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m4037ce436854f31b777db33635aa1be",
+        "mabccb885f38432eb7bf278f19f4fce7",
+        "m6aac830e4e24e5faadf6cf3d1dc9e12",
+        "m989ed1302e9465fa1006f537eb3a7a7"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lbldiabeticstatus",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "bfbdf3c73c784966b96ceafc383b0768",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo1",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

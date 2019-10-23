@@ -1,0 +1,31 @@
+{
+    "AS_Form_c70bfb8a5b5d480eadc944fcbd510cb2": {
+        "id": "AS_Form_c70bfb8a5b5d480eadc944fcbd510cb2",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSwitchFacility_iPhone_Post_Show",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSwitchFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f1bbfb796cb44a289f99041d537885c4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j1251d216b274c21b8dce5e665a5b0c1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "displayAppVersion",
+            "display": "displayAppVersion",
+            "inputparams": [{
+                "name": "currentForm"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

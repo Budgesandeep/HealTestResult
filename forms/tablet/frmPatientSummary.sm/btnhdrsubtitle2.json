@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s23803215264423f81102854342fdf9c",
+    "_text_": "Patient List",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s23803215264423f81102854342fdf9c",
+    "id": "btnhdrsubtitle2",
+    "ide_onClick": "AS_Button_6a7c4139f1d2409aa4e995b40adcd76c",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "fbc69e516a2d4b649866a6411e61709e",
+    "name": "kony.ui.Button",
+    "parent": "fcbreadcrumb",
+    "pf": "frmPatientSummary",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,38 @@
+{
+    "AS_FlexContainer_0d73a182d5dd4eed9fc2b6fb36fa06cf": {
+        "id": "AS_FlexContainer_0d73a182d5dd4eed9fc2b6fb36fa06cf",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmEncounters_patientDemographics_showHidePatientInfo",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "876d38c2de1848c78efa56e8dcb9c8d5"
+        },
+        "sourceObj": {
+            "itemKUID": "c10a8adc2c6b49d5aa96dc629fefee62",
+            "widgetKUID": "8a843f1e4a964c6a8fb310f8c2ceef56",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____c1e5a1aed53f4db2bb841dabe52cc0b2",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_e0b3c760470d4bfa88bfe89b8df6a33a",
+            "display": "AS_FlexContainer_e0b3c760470d4bfa88bfe89b8df6a33a",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

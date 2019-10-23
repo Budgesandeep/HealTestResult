@@ -1,0 +1,29 @@
+{
+    "AS_TextField_b3dc02433d4f422987e15a64dae47dfe": {
+        "id": "AS_TextField_b3dc02433d4f422987e15a64dae47dfe",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupSwitchfacility_searchFacility_onKeyUp",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupSwitchFacility",
+            "type": "popups",
+            "platform": "",
+            "KUID": "4d193c77d3b24c9b860e0757f764adaf"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___da4ead7c0b1d45dcbbebf503ced999bd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectFacility_search",
+            "display": "selectFacility_search",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "27%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s763294beccd46eb9373add0f5a7b98c",
+    "_text_": "Conflict of interest statement",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "se76e0f4fc164461a20ee08052bff756"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s763294beccd46eb9373add0f5a7b98c",
+    "id": "btnconflict",
+    "ide_onClick": "AS_Button_7ebcdc7ef16e4daea144c1faa3ecad8b",
+    "info": null,
+    "isvisible": false,
+    "kuid": "8380b737ec364f4badcc19a8eaffa937",
+    "name": "kony.ui.Button",
+    "parent": "fcconflictbtn",
+    "pf": "frmWCCDashboard",
+    "wType": "Button",
+    "zindex": 1
+}

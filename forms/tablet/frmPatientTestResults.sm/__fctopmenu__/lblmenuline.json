@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd6b5cdfa284490f8070f616fc5cd242",
+    "_srcKuid_": "96bc579301804c0199ab37b81a3a1229",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "bottom": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "height": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "id": "lblmenuline",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "",
+        "textStyle": {},
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 3
+    },
+    "id": "lblmenuline",
+    "instanceOf": "96bc579301804c0199ab37b81a3a1229",
+    "isvisible": true,
+    "kuid": "m8d62f6db94c484db973d284c6e5e943",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcsignout",
+    "pf": "frmPatientTestResults",
+    "topLevelInstanceKUID": "md5074ccd26e4e88ae46662e725c1c47",
+    "wType": "Label"
+}

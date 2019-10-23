@@ -1,0 +1,68 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "126dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_skin_": "s326f2a7939848fe99556b2e6f811587",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "150dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m38e9a21b918467aba27103ccbd77046",
+        "m080fa0a440f4e9ab78b1e694b229e58",
+        "mb97a79f02704924943be07e91183bfd",
+        "mf9f1545a5ad4b97a345b0ec7dd6021b"
+    ],
+    "children": [
+        "fcPrint",
+        "fcExportPdf",
+        "fcExportExcel"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcPrintMenu",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ma2f984994cc4c318c931a75b4a2cf55",
+    "layouttype": 4,
+    "masterTopLevelFlex": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "masterPrintMenu",
+    "pf": "masterPrintMenu",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

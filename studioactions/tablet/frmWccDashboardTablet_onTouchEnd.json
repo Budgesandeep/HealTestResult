@@ -1,0 +1,44 @@
+{
+    "AS_Form_c4310b35458e4f8f93488af739836741": {
+        "id": "AS_Form_c4310b35458e4f8f93488af739836741",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWccDashboardTablet_onTouchEnd",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb14c6f9d5a447179393e04161a90a24"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___114049d414814d3aaa2ae1fcc8ef299d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_TouchEnd",
+            "display": "frmPatientList_TouchEnd",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___367ff82a029748b9b3545112ee81d534",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hideFormMenu",
+            "display": "hideFormMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

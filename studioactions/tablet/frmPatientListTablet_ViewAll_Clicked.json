@@ -1,0 +1,30 @@
+{
+    "AS_Button_99e3dfd80fe6422cb286cf87e13d9d73": {
+        "id": "AS_Button_99e3dfd80fe6422cb286cf87e13d9d73",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientListTablet_ViewAll_Clicked",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_dfaccc93b2504f0b9ee2ac13f2176d1e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "viewOptionClicked",
+            "display": "viewOptionClicked",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": "  eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_85c9abf99bd3485eab9db8070802f889",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"view all clicked\");",
+            "callbackType": null
+        }]
+    }
+}

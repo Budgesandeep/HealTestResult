@@ -1,0 +1,144 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgBackground": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "onelinearrownormal.png"
+            },
+            "imgUpload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "upload.png"
+            },
+            "lblTestResultsType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Consults"
+            }
+        },
+        {
+            "imgBackground": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "onelinearrownormal.png"
+            },
+            "imgUpload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "upload.png"
+            },
+            "lblTestResultsType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Laboratory"
+            }
+        },
+        {
+            "imgBackground": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "onelinearrownormal.png"
+            },
+            "imgUpload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "upload.png"
+            },
+            "lblTestResultsType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Radiology"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "22%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentTestResults",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "h84ac46730214a58af204d403c1d0aca",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "fcTestResults",
+    "pf": "frmPatientTestResults",
+    "retainselection": false,
+    "rowTemplateId": "c69d7199e77e4f93a0a9ccb477c8c49f",
+    "rowcounter": 2,
+    "rowfocusskin": "s1424a1698dd48bc8967d8eeb4b44c33",
+    "rowskin": "s7ea18051b4b45cdab1f4e8743cbfd1b",
+    "rowtemplate": "flxTestResults",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "flxTestResults": "flxTestResults",
+        "flxUpload": "flxUpload",
+        "imgBackground": "imgBackground",
+        "imgUpload": "imgUpload",
+        "lblTestResultsType": "lblTestResultsType"
+    },
+    "zindex": 1
+}

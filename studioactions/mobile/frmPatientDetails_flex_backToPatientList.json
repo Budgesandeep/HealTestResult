@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_c7b6b448c6b84288ae7379f07faa9d68": {
+        "id": "AS_FlexContainer_c7b6b448c6b84288ae7379f07faa9d68",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientDetails_flex_backToPatientList",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientDetails",
+            "type": "forms",
+            "platform": "",
+            "KUID": "3a5f03151ea344e0a3e9f2eedf23c78e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cd2cc56bbe7b41cab6b20a795f6a76fa",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClick_back",
+            "display": "onClick_back",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Form_da27652a02c542bba8dd1fd7052cc57e": {
+        "id": "AS_Form_da27652a02c542bba8dd1fd7052cc57e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_onDeviceBack_handler",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b72c3e5745bc479db97492341e01ecaf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_formBackHandler",
+            "display": "frmPatientRecords_formBackHandler",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

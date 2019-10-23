@@ -1,0 +1,17 @@
+{
+  "background_color": "ffffffff",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "calibri"
+  },
+  "ipad": {
+    "font_name": "calibri"
+  },
+  "isDefaultSkin": false,
+  "kuid": "s89929f1e9b346e58cd0b35db55e0163",
+  "wType": "Segment"
+}

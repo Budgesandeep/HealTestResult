@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "609dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se5d5a25c3fe45a3ac11b5df3b7e68c2",
+    "_text_": "S",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sf1af344cb5548ff97748f3d59046e43"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s3523ae37c9e45b39fdb25c12a4a0153",
+    "id": "btnalphabets",
+    "ide_onClick": "AS_Button_856a3b1c63e840b0a8e8948d02efadde",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d125271084524f659ad209f2c8801e8d",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "fcalphabets",
+    "pf": "frmAdmin",
+    "wType": "Button",
+    "zindex": 1
+}

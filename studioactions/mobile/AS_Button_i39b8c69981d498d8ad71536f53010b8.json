@@ -1,0 +1,17 @@
+{
+    "AS_Button_i39b8c69981d498d8ad71536f53010b8": {
+        "id": "AS_Button_i39b8c69981d498d8ad71536f53010b8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_db93211b4c7a42f8a6191753888c67ea",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popuplogout.show();",
+            "callbackType": null
+        }]
+    }
+}

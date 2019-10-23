@@ -1,0 +1,38 @@
+{
+    "AS_Label_ce0209ffc83845f9b647e6e26f2080da": {
+        "id": "AS_Label_ce0209ffc83845f9b647e6e26f2080da",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_Label_onClickMsr4",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___42bdb68cf9f54d35b3b6a09de129f261",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onClickPatientList",
+            "display": "frmPatientList_onClickPatientList",
+            "inputparams": [{
+                "name": "weeks",
+                "value": "\"4\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

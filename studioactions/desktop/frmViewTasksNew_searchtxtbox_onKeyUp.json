@@ -1,0 +1,29 @@
+{
+    "AS_TextField_3c8878e5e4464656ac40d4ce19fa9734": {
+        "id": "AS_TextField_3c8878e5e4464656ac40d4ce19fa9734",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_searchtxtbox_onKeyUp",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewTasksNew",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bfb191a286c647a0b17af3319a39e54b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___6cc4618ab47746b59ef4988d4fdf43a7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onSearchStart",
+            "display": "frmPatientList_onSearchStart",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

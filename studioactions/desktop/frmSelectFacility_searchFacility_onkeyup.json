@@ -1,0 +1,29 @@
+{
+    "AS_TextField_e1553a0990ff443d93f6251fd43ceea7": {
+        "id": "AS_TextField_e1553a0990ff443d93f6251fd43ceea7",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSelectFacility_searchFacility_onkeyup",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "960b9e97c6434d4690c4676a81b9c91a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___hc65c6f6084c4e3d8f3940d8d7d1937b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectFacility_search",
+            "display": "selectFacility_search",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

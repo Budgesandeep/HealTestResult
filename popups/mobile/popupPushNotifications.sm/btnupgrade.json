@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        2,
+        2,
+        12,
+        2
+    ],
+    "_padding_": [
+        1,
+        4,
+        1,
+        4
+    ],
+    "_skin_": "sfc9d8806e11416a85961e54b0fcd304",
+    "_text_": "Go to App Store",
+    "canUpdateUI": true,
+    "containerweight": 50,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sfc9d8806e11416a85961e54b0fcd304",
+    "id": "btnupgrade",
+    "ide_onClick": "AS_Button_iac91bb23f1546caaf26ea6405db0092",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "a81d674974614023ae4fab765b0bde99",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        4.92,
+        19.68,
+        4.92,
+        19.68
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxbuttons",
+    "pf": "popupPushNotifications",
+    "showprogressindicator": false,
+    "vexpand": true,
+    "wType": "Button",
+    "widgetalignment": 4
+}

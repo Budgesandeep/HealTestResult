@@ -1,0 +1,36 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizVBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lbsegpopupAdminSearchby"
+    ],
+    "containerId": true,
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "VBox012f2bd904b4048",
+    "info": null,
+    "isGeneratedTemplate": true,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "d16e739fe5bd491695c518cb17f0baf2",
+    "name": "kony.ui.Box",
+    "pf": "VBox012f2bd904b4048",
+    "wType": "VBox"
+}

@@ -1,0 +1,39 @@
+{
+    "AS_Form_572bd58bcfb0481f937b5cf31bb78258": {
+        "id": "AS_Form_572bd58bcfb0481f937b5cf31bb78258",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSelectFacility_postShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "960b9e97c6434d4690c4676a81b9c91a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___15fdec8cfc634ea28372119792941422",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerTimeout",
+            "display": "registerTimeout",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___a7c78ccfd9634d1da2ba2dea6e3fa858",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setFacilityData_showAll",
+            "display": "setFacilityData_showAll",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

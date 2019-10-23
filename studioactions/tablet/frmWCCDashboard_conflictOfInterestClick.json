@@ -1,0 +1,29 @@
+{
+    "AS_Button_7ebcdc7ef16e4daea144c1faa3ecad8b": {
+        "id": "AS_Button_7ebcdc7ef16e4daea144c1faa3ecad8b",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_conflictOfInterestClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c1731623ca234b17823966196fe8eaf1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "show_popuptermsandconditions",
+            "display": "show_popuptermsandconditions",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc09aca31d4e4664b5a2c73e6c01da48",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {}
+    },
+    "disabledSkins": {
+        "focusSkin": "sc09aca31d4e4664b5a2c73e6c01da48",
+        "hoverSkin": "sf1af344cb5548ff97748f3d59046e43"
+    },
+    "displaytext": true,
+    "id": "btncheckbox2",
+    "ide_onClick": "AS_Button_ab64e78517f84e74aec92f4b60662d2f",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c4ae81c0149d43a6a16ae8f7691fa525",
+    "name": "kony.ui.Button",
+    "parent": "fcphotomobiles",
+    "pf": "segFacilityList",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,68 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_footers_": [],
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s8ea193fd0b941ac87f6de0fbf9f3aac",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "hboxaddtask"
+    ],
+    "containerheight": "",
+    "containerheightreference": 1,
+    "containerweight": 30,
+    "currentLocale": "default",
+    "desktopweb": {
+        "psp": {
+            "titleBarConfig": {
+                "closeIcon": "",
+                "maxIcon": "",
+                "minIcon": ""
+            }
+        }
+    },
+    "device": "desktopweb",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "footer": "popupnotification_footer",
+    "header": "popupnotification_header",
+    "headersId": "f822bca781b145f8b1ffd5b9eac1bfc8",
+    "id": "popupnotification",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "intransitionconfig": {
+        "transitionDirection": "none",
+        "transitionEffect": "transitionMoveIn"
+    },
+    "invokedProperty": "headers",
+    "ismodal": true,
+    "isvisible": true,
+    "kuid": "dbc3276eed0841319b13d6ce4e495a71",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "desktopweb",
+    "prevDevice": "desktopweb",
+    "prevPlatform": "desktopweb",
+    "retainscrollposition": false,
+    "shellCSS": "desktop",
+    "titlebar": true,
+    "transparencybehindthepopup": 60,
+    "wType": "Popup"
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Button_07f186599cf64f11ba7591e1b0cbbe9f": {
+        "id": "AS_Button_07f186599cf64f11ba7591e1b0cbbe9f",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnshowPatientRecordsShowForms",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "aff0e22661a84ff18e2172ef3f676cde"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___23279184d8604fdf9f925e9d1c65085f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_showForm",
+            "display": "frmPatientRecords_showForm",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

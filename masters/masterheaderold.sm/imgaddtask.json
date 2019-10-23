@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "addtaskheader.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "60%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mae218a741bd4de48b462289e183f3f6",
+        "me2fb97afb8c4982b8cbf97a971c0a0a",
+        "mfc471cd8d3a49d79cfe8f3807c102c3",
+        "m1c2308af00449b9933b333dd8d2db7a"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "masterheaderold",
+        "platform": "desktopweb",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgaddtask",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "tasks.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "b0ec82093ce64c6a81f145caf2023c3e",
+    "name": "kony.ui.Image2",
+    "parent": "fcaddtask",
+    "pf": "masterheaderold",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

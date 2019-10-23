@@ -1,0 +1,36 @@
+{
+    "AS_Button_cde0b303a89442ee99609b5c4559c4a7": {
+        "id": "AS_Button_cde0b303a89442ee99609b5c4559c4a7",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupSwitchFacilityFacilitySync_btnYes_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupSwitchFacilitySync",
+            "type": "popups",
+            "platform": null,
+            "KUID": "a357c009caf049348b76eb5857843a4b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b396717fc15748229bf0374ae1b07239",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_d46d8dc6d6c04c9280e208e0988f66b8",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(isIphone){\n   if(isSearchFacility){\n    clearSearchFacilityText();\n  }\n  frmSelectFacility.show();\n}",
+            "callbackType": null
+        }]
+    }
+}

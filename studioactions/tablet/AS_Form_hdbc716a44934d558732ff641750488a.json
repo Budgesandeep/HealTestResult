@@ -1,0 +1,24 @@
+{
+    "AS_Form_hdbc716a44934d558732ff641750488a": {
+        "id": "AS_Form_hdbc716a44934d558732ff641750488a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": "",
+            "KUID": "g05ad9ee8e5346a186c5b346a773ce78"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i03d8d50739641e4a7c0ab0060b97b67",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "changeConnectionStatus(isOnLine);\nhideSearchDropdown();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

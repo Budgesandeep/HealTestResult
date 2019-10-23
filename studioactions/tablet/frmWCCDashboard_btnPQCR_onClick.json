@@ -1,0 +1,29 @@
+{
+    "AS_Button_43ed00abb2014c0ba4c86566a07d2944": {
+        "id": "AS_Button_43ed00abb2014c0ba4c86566a07d2944",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_btnPQCR_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb14c6f9d5a447179393e04161a90a24"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___da635a58f8ad4f439222bd7d2722abb7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmWCCDashboard_getPQCRData",
+            "display": "frmWCCDashboard_getPQCRData",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

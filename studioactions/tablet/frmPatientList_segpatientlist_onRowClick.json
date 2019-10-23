@@ -1,0 +1,28 @@
+{
+    "AS_Segment_4cbb68b697bc4f94a9fb2d346a85d16e": {
+        "id": "AS_Segment_4cbb68b697bc4f94a9fb2d346a85d16e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_segpatientlist_onRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_7b1c3374e674415ca6cee4ce97eb9aba",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientDashboard",
+            "display": "showPatientDashboard",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

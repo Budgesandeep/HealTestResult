@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scf80ae99c664185921a48b488aa877f",
+    "_text_": "8 Weeks",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "16%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "scf80ae99c664185921a48b488aa877f",
+    "id": "btn8weeks",
+    "ide_onClick": "AS_Button_ffc13fd71a3d429d8c71ff5f7083427a",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "0070a26cad64437495b4b052ba1e6c3d",
+    "name": "kony.ui.Button",
+    "parent": "fccharttimeline",
+    "pf": "frmPatientSummary",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

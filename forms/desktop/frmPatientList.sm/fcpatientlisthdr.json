@@ -1,0 +1,66 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "75dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4b03b48ec8c4e0f9515253ab76f8ca3",
+    "_top_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "fcpatientname",
+        "fccasemanager",
+        "fcphysician",
+        "fcnextappt",
+        "fcappttype",
+        "fcwounds",
+        "fcweeks",
+        "fchealper",
+        "fcTransmissionPrecautions",
+        "fctransferstatus"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcpatientlisthdr",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "9b95e0dbdfde4c09bc9e484d599acb84",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcpatientlistcontainer",
+    "pf": "frmPatientList",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

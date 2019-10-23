@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "_text_": "View More",
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "40%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "id": "btnViewMore",
+    "ide_onClick": "AS_Button_091a899d5f8d427788578a037c6bfccb",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "02c9de058e4c42cd8afd58d7784b43f4",
+    "name": "kony.ui.Button",
+    "parent": "fcpaginatebuttons",
+    "pf": "frmPatientList",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

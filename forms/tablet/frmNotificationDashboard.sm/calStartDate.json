@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": "29/3/2019",
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "11.50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbfea216ed5f46679d1a376ca29aee8a",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        29,
+        3,
+        2019,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "MM/dd/yyyy",
+    "day": 29,
+    "daytextalignmentincell": 5,
+    "focusskin": "sbfea216ed5f46679d1a376ca29aee8a",
+    "format": "MM/dd/yyyy",
+    "formatteddate": "03/29/2019",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "calStartDate",
+    "ide_onSelection": "AS_Calendar_id282a20fff9476dba6fef9dd0c52b40",
+    "ide_onTouchStart": "AS_Calendar_b7e6136dc95f4a39a6fe42edae8063c4",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c7492541907d4fa5b1d705eb85340d6d",
+    "minutes": 0,
+    "month": 3,
+    "name": "kony.ui.Calendar",
+    "noofmonths": 1,
+    "pagedate": "/2019",
+    "parent": "CopyFlexGroup0fc6d0387cca641",
+    "pf": "frmNotificationDashboard",
+    "seconds": 0,
+    "selectdate": "//2019",
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "year": 2019,
+    "zindex": 1
+}

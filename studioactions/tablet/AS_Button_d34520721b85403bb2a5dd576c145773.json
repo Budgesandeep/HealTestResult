@@ -1,0 +1,29 @@
+{
+    "AS_Button_d34520721b85403bb2a5dd576c145773": {
+        "id": "AS_Button_d34520721b85403bb2a5dd576c145773",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_i64bc57c205044f3b372566b668aa30b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onClickPatientList",
+            "display": "frmPatientList_onClickPatientList",
+            "inputparams": [{
+                "name": "weeks",
+                "value": "\"3\""
+            }],
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

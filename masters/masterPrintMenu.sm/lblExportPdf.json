@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_text_": "Export PDF",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m3bf0c9627d24330839107eadebabcd3",
+        "mdbe0b9445c544a594318da4a2a1ff91",
+        "m807566e1ea348808227bbe35631847a",
+        "meb91c297ed44e5da9cc06bd1239a94a"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblExportPdf",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "499cc6d43ced4b29a4bdc21d5928116b",
+    "name": "kony.ui.Label",
+    "parent": "fcExportPdf",
+    "pf": "masterPrintMenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

@@ -1,0 +1,39 @@
+{
+    "AS_FlexContainer_e50c6bcd263846fd9b7f2182a3d4413f": {
+        "id": "AS_FlexContainer_e50c6bcd263846fd9b7f2182a3d4413f",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmRecords_fcLogout_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2dadc999bf6b45babe7b7fd8757e2f92"
+        },
+        "sourceObj": {
+            "itemKUID": "85f7d9af654845e7a601e5b444d74516",
+            "widgetKUID": "b0f4a6e002474b14a900be83b8fb4e44",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____f11c56898700416195a1e578ed36ef98",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_779f0b711ddb4f4fb61a8078ce6c3bd6",
+            "display": "AS_FlexContainer_779f0b711ddb4f4fb61a8078ce6c3bd6",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

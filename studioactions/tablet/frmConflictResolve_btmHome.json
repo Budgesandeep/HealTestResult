@@ -1,0 +1,29 @@
+{
+    "AS_Button_a5ece5b592ff4a3bab0444e4454cf2f2": {
+        "id": "AS_Button_a5ece5b592ff4a3bab0444e4454cf2f2",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmConflictResolve_btmHome",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConflictResolve",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c57f1ccc3bf940bbafbe60b3b671edfe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j361ba5fca804810a6e4137cb47194dd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showLandingScreen",
+            "display": "showLandingScreen",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

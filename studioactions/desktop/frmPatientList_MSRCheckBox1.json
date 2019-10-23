@@ -1,0 +1,32 @@
+{
+    "AS_Button_ee1cb85251a0440c963279098056820a": {
+        "id": "AS_Button_ee1cb85251a0440c963279098056820a",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_MSRCheckBox1",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___34d48884d65d4ca3beba96a2c7748660",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_check",
+            "display": "frmPatientList_check",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

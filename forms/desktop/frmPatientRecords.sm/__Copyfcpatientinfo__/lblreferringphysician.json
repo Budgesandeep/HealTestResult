@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7d79e6e54a441d3a41f1caf37b15220",
+    "_srcKuid_": "m25120db213f45e9baa2cef3e681d856",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lblreferringphysician",
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Referring Physician:",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "75dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "50%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblreferringphysician",
+    "instanceOf": "m25120db213f45e9baa2cef3e681d856",
+    "isvisible": true,
+    "kuid": "me99d4675df64e209b0eea4e58dcc0aa",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo2",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

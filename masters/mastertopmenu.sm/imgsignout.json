@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "logout.png",
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mb3423cf0d184ecda198920c014772ed",
+        "md57477abe5f4aaea895da07cf719670",
+        "m334a3db442c4b958ce90574ca5b72ed",
+        "mc6cec022c2b4fb394bcfc15c531e42a",
+        "m17bcdc7f39d43748a4674ff2740f9e0",
+        "mfd35c0929fc40bca0c68cdceed35502",
+        "m2a51c0afb5a408d904276e07254ca6f",
+        "mcd333c9867d4140ad4102e56c20974e"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "mastertopmenu",
+        "platform": "desktopweb",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgsignout",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "c07b3781f6d44843a6d47937dc988489",
+    "name": "kony.ui.Image2",
+    "parent": "fcsignout",
+    "pf": "mastertopmenu",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

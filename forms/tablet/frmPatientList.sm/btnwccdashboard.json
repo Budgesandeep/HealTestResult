@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s763294beccd46eb9373add0f5a7b98c",
+    "_text_": "WCC Dashboard",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s763294beccd46eb9373add0f5a7b98c",
+    "id": "btnwccdashboard",
+    "ide_onClick": "AS_Button_268a74b7a9e342ab8c4196be45aff6e9",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "869562b1a9e0428a8a786483b027c003",
+    "name": "kony.ui.Button",
+    "parent": "fcsubhdrlinks",
+    "pf": "frmPatientList",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

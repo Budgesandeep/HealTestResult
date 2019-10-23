@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se13bb61e12c471a87dbd881ea39ca94",
+    "_text_": "&reg;",
+    "_top_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "childInstances": [
+        "me94297ff83b4c4ab851a55e5e6c0ee8",
+        "mdd3358f5d8848249b2513b6b28ce8e4",
+        "m377de4abd3e4a158614d8ce7b4f73e5",
+        "m3fb249f0f354c6fa8892e2067825877",
+        "me233aa2425d427799f32bef3f5539fb",
+        "md5ed5fbb09744f78374d5a6049006a8",
+        "mf12a1c44d3545dbb277f2f91d34a144",
+        "mfbbaf8bd26d47d3ad0c6ae0b660d3d9",
+        "mbdb00bac1c24b1cb1ee142a419ffda8",
+        "mbfe388ef5e543cfbce5402f60861910",
+        "mf0d1bb5f02843f69bb4c58879169dc1",
+        "mb43d1c8003f4e5882a95e9c652b3f1d",
+        "m18193a11935412caa24b3ea4cf78a6a",
+        "mffebd899767481a8fae593c50f8f0ce"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rtregsymbol",
+    "info": null,
+    "isvisible": false,
+    "kuid": "cc71ed9b31364b6e9eaa39409f30c1e2",
+    "name": "kony.ui.RichText",
+    "parent": "fcheaderleft",
+    "pf": "masterheader",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

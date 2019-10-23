@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        2,
+        10,
+        2
+    ],
+    "_padding_": [
+        1,
+        4,
+        1,
+        4
+    ],
+    "_skin_": "sfc9d8806e11416a85961e54b0fcd304",
+    "_text_": "Close",
+    "canUpdateUI": true,
+    "containerweight": 50,
+    "contentalignment": 5,
+    "displaytext": true,
+    "donotUpdateContainerWeight": false,
+    "focusskin": "se841be24699446198f4aef5655df7b1",
+    "hexpand": true,
+    "id": "btnClose",
+    "ide_onClick": "AS_Button_ieae404ab78b46b6a0c9e242fae0eb09",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "feafdcc43084472994c97bd0a781b275",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        4.92,
+        19.68,
+        4.92,
+        19.68
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxbuttons",
+    "pf": "popupPushNotifications",
+    "showprogressindicator": false,
+    "vexpand": true,
+    "wType": "Button",
+    "widgetalignment": 6
+}

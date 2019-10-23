@@ -1,0 +1,19 @@
+{
+    "AS_AppEvents_d90572b0c9104c84ae599ba3c5a5699b": {
+        "id": "AS_AppEvents_d90572b0c9104c84ae599ba3c5a5699b",
+        "type": "ACTION_SEQUENCE",
+        "name": "Desktop_post_appinit",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__7fea59e7852e449dbf2b02a9147e2a3a",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"post appinit serviceIntegration.initMF:::\"+deepLinkInfo.isDeepLinkFlow );\n\n//serviceIntegration.initMF();\n\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

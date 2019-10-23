@@ -1,0 +1,28 @@
+{
+    "AS_Button_1e963f1679574ca893a95e395080af1b": {
+        "id": "AS_Button_1e963f1679574ca893a95e395080af1b",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupaddtask_selectUserClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "popups",
+            "platform": "",
+            "KUID": "2c50359740cf40149cfc381afceec625"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___752b61c47d03450aa1b3825be17ea351",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupaddtask_selectuser",
+            "display": "popupaddtask_selectuser",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

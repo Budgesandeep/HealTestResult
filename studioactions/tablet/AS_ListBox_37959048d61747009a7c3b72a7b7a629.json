@@ -1,0 +1,27 @@
+{
+    "AS_ListBox_37959048d61747009a7c3b72a7b7a629": {
+        "id": "AS_ListBox_37959048d61747009a7c3b72a7b7a629",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "6a5ac136946645f392c3702ef128575e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onSelection_1219e600deae41e9ac7ad1af422f5243",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "patientListTypeSelected",
+            "display": "patientListTypeSelected",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,34 @@
+{
+  "background_image": "hamburgerhover.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "background_image": "hamburgerhover.png",
+    "bg_type": "image",
+    "customCSS": "border: 0px solid #000000;\ncolor: #000000;\nbackground: url(./images/hamburgerhover.png) no-repeat;\ncursor:pointer;",
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "ipad": {
+    "background_image": "hamburgerhover.png",
+    "bg_type": "image"
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "background_image": "hamburgerhover.png",
+    "bg_type": "image"
+  },
+  "kuid": "s6045ba6d23a477aa426369e15daea2c",
+  "spaip": {
+    "background_image": "hamburgerhover.png",
+    "bg_type": "image"
+  },
+  "spaipad": {
+    "background_image": "hamburgerhover.png",
+    "bg_type": "image"
+  },
+  "wType": "FlexContainer"
+}

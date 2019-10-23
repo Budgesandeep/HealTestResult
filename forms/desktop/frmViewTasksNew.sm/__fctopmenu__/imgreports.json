@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "5e3f35d6cf8540d4bd66fba16277fa54",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "imgreports",
+        "imageScaleMode": 1,
+        "left": {
+            "type": "string",
+            "value": "8dp"
+        },
+        "src": "facilitysmall.png",
+        "width": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgreports",
+    "instanceOf": "5e3f35d6cf8540d4bd66fba16277fa54",
+    "isvisible": true,
+    "kuid": "mdc88aed67c54118a0e3d6089785653a",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fcreports",
+    "pf": "frmViewTasksNew",
+    "topLevelInstanceKUID": "m205549e0e934338a642f66bd4540c79",
+    "wType": "Image"
+}

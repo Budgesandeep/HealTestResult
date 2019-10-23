@@ -1,0 +1,35 @@
+{
+    "AS_Button_d85d4b6e6532424aad9b3403b344ac97": {
+        "id": "AS_Button_d85d4b6e6532424aad9b3403b344ac97",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmadmin_Filter_A",
+        "params": [{
+            "name": "eventobject",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f026c28f14647bd84e6085de5abce9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___6367cd471b5a4a4d8cf04c5cac1670d4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdmin_filterAlphabetically",
+            "display": "frmAdmin_filterAlphabetically",
+            "inputparams": [{
+                "name": "Str",
+                "value": "\"A\""
+            }, {
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

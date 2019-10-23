@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "125dp"
+    },
+    "_skin_": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "_text_": "Review MSR",
+    "_width_": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "56%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "id": "btnReviewMSR",
+    "ide_onClick": "AS_Button_35736dc8c56e48338864de88f3781c23",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bd41751ff8bd489c8e651e9b3ebff6cd",
+    "name": "kony.ui.Button",
+    "parent": "fcwounddetailsheader",
+    "pf": "frmPatientSummary",
+    "wType": "Button",
+    "zindex": 1
+}

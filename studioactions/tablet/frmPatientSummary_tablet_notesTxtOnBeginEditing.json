@@ -1,0 +1,29 @@
+{
+    "AS_TextArea_b934ec43dd784574b8d6fd56ddd8f78e": {
+        "id": "AS_TextArea_b934ec43dd784574b8d6fd56ddd8f78e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_tablet_notesTxtOnBeginEditing",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d168d91e1ff54481a67c8a7c906d9ef9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j0056e2d90194e718334e426f5830557",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_notesOnBeginEditing",
+            "display": "frmPatientSummary_notesOnBeginEditing",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

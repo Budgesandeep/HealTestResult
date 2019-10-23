@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "3%"
+    },
+    "_skin_": "s6cc4c34dac448b5984b1afb430d31d7",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "sa17c5bf68014a3f93fb266388b726ff"
+    },
+    "displaytext": true,
+    "id": "imgdown8",
+    "ide_onClick": "AS_Button_d306bcbb7c464d44828cfd45050ba000",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "9ebac7dde23540e29af761f89b6f411f",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer0cddca5c7ce6e4a",
+    "pf": "frmViewTasksNew",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 3
+}

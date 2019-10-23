@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "excel.png",
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m1b649c8bcc841f39107c90240294c11",
+        "mfda896e2dea4d7485e5f09982ee5806",
+        "m15a8d4b67554333a6779a4bead0f3a6",
+        "m20c09429a7042fba09dd58fd9d34494"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "masterPrintMenu",
+        "platform": "kiosk",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgExportExcel",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "8083480e77c34032993b2f6e35bc3d6f",
+    "name": "kony.ui.Image2",
+    "parent": "fcExportExcel",
+    "pf": "masterPrintMenu",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

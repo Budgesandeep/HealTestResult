@@ -1,0 +1,27 @@
+{
+    "AS_VBox_eba08519efa54ed4bb143a49b4fb73de": {
+        "id": "AS_VBox_eba08519efa54ed4bb143a49b4fb73de",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupHTMLviewer",
+            "type": "popups",
+            "platform": null,
+            "KUID": "b5fb9e75f1f64a64abc0d35c7154e26d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_da13e3b9051b42df9b5c84467422ce8b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismissHTMLContent",
+            "display": "dismissHTMLContent",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

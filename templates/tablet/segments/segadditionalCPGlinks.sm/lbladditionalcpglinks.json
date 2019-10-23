@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scf80ae99c664185921a48b488aa877f",
+    "_text_": "Vascular Assessment of Lower Extremity W05.01.01",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s6d36af5537f48fbb5914533f6726b37",
+    "id": "lbladditionalcpglinks",
+    "ide_onClick": "AS_Button_5f60b7019743426395bad7454efca525",
+    "info": null,
+    "isvisible": true,
+    "kuid": "8cd72f923ea54d19b60f955734e126aa",
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "fcadditionalCPGlinks",
+    "pf": "segadditionalCPGlinks",
+    "wType": "Button",
+    "zindex": 1
+}

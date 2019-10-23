@@ -1,0 +1,33 @@
+{
+    "AS_Form_be88944604bb444bb576cea70aca67f4": {
+        "id": "AS_Form_be88944604bb444bb576cea70aca67f4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmApps",
+            "type": "forms",
+            "platform": null,
+            "KUID": "a26fd60bc1a0449fb7700ae169380372"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchEnd_f7a171c94df14a2491f6a47edb02d220",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hide_fctopmenu",
+            "display": "hide_fctopmenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

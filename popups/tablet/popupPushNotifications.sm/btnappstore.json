@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        25,
+        2,
+        25,
+        2
+    ],
+    "_padding_": [
+        1,
+        4,
+        1,
+        4
+    ],
+    "_skin_": "sfc9d8806e11416a85961e54b0fcd304",
+    "_text_": "Go to App Store",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sfc9d8806e11416a85961e54b0fcd304",
+    "id": "btnappstore",
+    "ide_onClick": "AS_Button_eef43afbd3514dd1b38ae9533d7ff0de",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "j2ccc22929434290a1af3ebd8fc36f22",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        4.92,
+        19.68,
+        4.92,
+        19.68
+    ],
+    "paddinginpixel": false,
+    "parent": "vboxpushnotifications",
+    "pf": "popupPushNotifications",
+    "showprogressindicator": false,
+    "vexpand": true,
+    "wType": "Button",
+    "widgetalignment": 5
+}

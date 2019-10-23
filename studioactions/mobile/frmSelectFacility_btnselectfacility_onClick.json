@@ -1,0 +1,29 @@
+{
+    "AS_Button_436839fad0f743c388870ae25295a54c": {
+        "id": "AS_Button_436839fad0f743c388870ae25295a54c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSelectFacility_btnselectfacility_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6f552161c8be4bdf93b45065023bec0d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d4b52df16b0c4ab08007ebbb94e5c554",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "switchFaclityonClick",
+            "display": "switchFaclityonClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

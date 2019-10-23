@@ -1,0 +1,919 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "CopyLabel0c2a4cab25b9e40": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "CopyLabel0db54d455c6d647": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "CopyLabel0dc93a584db904c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "CopyLabel0e134999606e849": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "CopyLabel0g77a0f911e8444": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "CopyLabel0gbb0064eaff44f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblappttype0c2efc2d3d4aa40": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Updated by"
+            },
+            "Copylblappttype0i4272d4a76204d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Updated by"
+            },
+            "Copylblcasemanager0cd75a0233ccb4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Result"
+            },
+            "Copylblcasemanager0e1f576811cb740": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Result"
+            },
+            "Copylblline0a1537330e9c041": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0a1e24826e71745": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0a8486cbe8daf45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0aa76fb67226042": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0b27e939521cc43": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0b3e85339652944": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ba571ca326234f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0c0d7a9deb4cf48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0c20c4bae03234a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0c6e1f20ac5a049": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0c70b66ce3e1840": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0c79c93c1f29b4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0db12bce855f54c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0ddef6550cd5745": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0deaa1171a54846": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ea83c840edd148": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ed3e53231bc94f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0eef9f0b9d62949": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0f20a1156d7de4f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0f4a6cea6a5174f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0f886a08c34fe45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0facbfca863ca45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0g39c764c90b44d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0g795183d0c3b44": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ga96abf52e9e4d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0gd8e68d4228943": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ge6daa7bbd9841": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0h50a0714a1da48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0h62e540145d84f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0i3ab7e6f60d048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ia30247127634a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0j6e0ac51e2a846": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0jbe577ef17974d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblnextappt0f92a82a2ca394c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Completed Date"
+            },
+            "Copylblnextappt0j0e8305ab6b04b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Completed Date"
+            },
+            "Copylblpatientname0e8740e62ac4d44": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblpatientname0fce2ec256a9742": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblphysician0aaf11c0392ad4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblphysician0e98e5b11a4a448": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Order Date"
+            },
+            "Copylblupdatedby0a4ee5b56856749": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblupdatedby0af1feb91689a48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblweeks0b26a3473a65e45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Resolution"
+            },
+            "Copylblweeks0c4196c65459d43": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Resolution"
+            },
+            "Copylblwounds0bba732a3314046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Updated at"
+            },
+            "Copylblwounds0e183c8c7b67245": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Updated at"
+            },
+            "btnkeepmyversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "btnkeepotherversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblcompleteddate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblcompleteddate2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lbldescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "palpable Pulse"
+            },
+            "lblhdrcompletedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Updated by"
+            },
+            "lblhdrcompleteddate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Completed Date"
+            },
+            "lblhdrorderdate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Order Date"
+            },
+            "lblhdrresolution": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Resolution"
+            },
+            "lblhdrresult": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Result"
+            },
+            "lblhdrupdatedat": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Updated at"
+            },
+            "lblkeepmyversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "“Keep Others Version\""
+            },
+            "lblkeepotherversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "“Keep Others Version\""
+            },
+            "lblmyversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblorderdate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblorderdate2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblresult": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblresult2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblserverversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblupdatedat": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblupdatedat2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblupdatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblupdatedby2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        },
+        {
+            "CopyLabel0c2a4cab25b9e40": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "CopyLabel0db54d455c6d647": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "CopyLabel0dc93a584db904c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "CopyLabel0e134999606e849": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "CopyLabel0g77a0f911e8444": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "CopyLabel0gbb0064eaff44f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblappttype0c2efc2d3d4aa40": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Updated by"
+            },
+            "Copylblappttype0i4272d4a76204d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblcasemanager0cd75a0233ccb4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Result"
+            },
+            "Copylblcasemanager0e1f576811cb740": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0a1537330e9c041": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0a1e24826e71745": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0a8486cbe8daf45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0aa76fb67226042": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0b27e939521cc43": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0b3e85339652944": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0ba571ca326234f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0c0d7a9deb4cf48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0c20c4bae03234a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0c6e1f20ac5a049": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0c70b66ce3e1840": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0c79c93c1f29b4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0db12bce855f54c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "we"
+            },
+            "Copylblline0ddef6550cd5745": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0deaa1171a54846": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ea83c840edd148": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0ed3e53231bc94f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0eef9f0b9d62949": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0f20a1156d7de4f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0f4a6cea6a5174f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0f886a08c34fe45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0facbfca863ca45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0g39c764c90b44d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0g795183d0c3b44": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0ga96abf52e9e4d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0gd8e68d4228943": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ge6daa7bbd9841": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0h50a0714a1da48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0h62e540145d84f": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0i3ab7e6f60d048": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ia30247127634a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "we"
+            },
+            "Copylblline0j6e0ac51e2a846": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblline0jbe577ef17974d": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblnextappt0f92a82a2ca394c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Completed Date"
+            },
+            "Copylblnextappt0j0e8305ab6b04b": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblpatientname0e8740e62ac4d44": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblpatientname0fce2ec256a9742": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblphysician0aaf11c0392ad4c": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblphysician0e98e5b11a4a448": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblupdatedby0a4ee5b56856749": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblupdatedby0af1feb91689a48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblweeks0b26a3473a65e45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Resolution"
+            },
+            "Copylblweeks0c4196c65459d43": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "Copylblwounds0bba732a3314046": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Updated at"
+            },
+            "Copylblwounds0e183c8c7b67245": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "btnkeepmyversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "btnkeepotherversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblcompleteddate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblcompleteddate2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lbldescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "ewe"
+            },
+            "lblhdrcompletedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblhdrcompleteddate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblhdrorderdate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "wee"
+            },
+            "lblhdrresolution": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblhdrresult": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "we"
+            },
+            "lblhdrupdatedat": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblkeepmyversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "“Keep Others Version\""
+            },
+            "lblkeepotherversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblmyversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblorderdate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblorderdate2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblresult": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblresult2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblserverversion": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblupdatedat": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblupdatedat2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblupdatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblupdatedby2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "alternaterowskin": "s89929f1e9b346e58cd0b35db55e0163",
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "01",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segninestephealing",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "jcb11b4826f94d62a4113868ba4146dd",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "fcpatientlistcontainer",
+    "pf": "frmConflictResolve",
+    "retainselection": false,
+    "rowTemplateId": "d73f0c0f8fcd4b13adefed9c2841d576",
+    "rowcounter": 1,
+    "rowfocusskin": "s1424a1698dd48bc8967d8eeb4b44c33",
+    "rowskin": "sb40fc88c0ca4d888db9510b56a4a907",
+    "rowtemplate": "fcninestephealing",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showprogressindicator": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "CopyFlexContainer0a0c67162e0cb4b": "CopyFlexContainer0a0c67162e0cb4b",
+        "CopyFlexContainer0a6ce808e5bb340": "CopyFlexContainer0a6ce808e5bb340",
+        "CopyFlexContainer0a939fe6acc4344": "CopyFlexContainer0a939fe6acc4344",
+        "CopyFlexContainer0ae83589bb4d649": "CopyFlexContainer0ae83589bb4d649",
+        "CopyFlexContainer0b1cfb788c0044e": "CopyFlexContainer0b1cfb788c0044e",
+        "CopyFlexContainer0b4e25780565e43": "CopyFlexContainer0b4e25780565e43",
+        "CopyFlexContainer0b5fe8913fc5949": "CopyFlexContainer0b5fe8913fc5949",
+        "CopyFlexContainer0b70bae376a084f": "CopyFlexContainer0b70bae376a084f",
+        "CopyFlexContainer0b9a8f603ce6849": "CopyFlexContainer0b9a8f603ce6849",
+        "CopyFlexContainer0bc9cfb92f2e545": "CopyFlexContainer0bc9cfb92f2e545",
+        "CopyFlexContainer0bd268331a6a14d": "CopyFlexContainer0bd268331a6a14d",
+        "CopyFlexContainer0bf543196afa445": "CopyFlexContainer0bf543196afa445",
+        "CopyFlexContainer0bfe1015914fd4d": "CopyFlexContainer0bfe1015914fd4d",
+        "CopyFlexContainer0c1a2c83b595b40": "CopyFlexContainer0c1a2c83b595b40",
+        "CopyFlexContainer0c29a43e568be49": "CopyFlexContainer0c29a43e568be49",
+        "CopyFlexContainer0c40317958dd14c": "CopyFlexContainer0c40317958dd14c",
+        "CopyFlexContainer0c97392bc2e5b4d": "CopyFlexContainer0c97392bc2e5b4d",
+        "CopyFlexContainer0c9fab8f838e240": "CopyFlexContainer0c9fab8f838e240",
+        "CopyFlexContainer0ce263789468d4e": "CopyFlexContainer0ce263789468d4e",
+        "CopyFlexContainer0ce86b95c7bda48": "CopyFlexContainer0ce86b95c7bda48",
+        "CopyFlexContainer0cea02ffdf88845": "CopyFlexContainer0cea02ffdf88845",
+        "CopyFlexContainer0cfd49499c92d4d": "CopyFlexContainer0cfd49499c92d4d",
+        "CopyFlexContainer0d098c7813a674d": "CopyFlexContainer0d098c7813a674d",
+        "CopyFlexContainer0d5a40c189a6541": "CopyFlexContainer0d5a40c189a6541",
+        "CopyFlexContainer0d717f3ef16f940": "CopyFlexContainer0d717f3ef16f940",
+        "CopyFlexContainer0d7cb62cb275342": "CopyFlexContainer0d7cb62cb275342",
+        "CopyFlexContainer0d7fdc6c2332248": "CopyFlexContainer0d7fdc6c2332248",
+        "CopyFlexContainer0d88f92676b914d": "CopyFlexContainer0d88f92676b914d",
+        "CopyFlexContainer0d895ebb0b7ed42": "CopyFlexContainer0d895ebb0b7ed42",
+        "CopyFlexContainer0d8fc863e0ca74b": "CopyFlexContainer0d8fc863e0ca74b",
+        "CopyFlexContainer0dbd49ac012f043": "CopyFlexContainer0dbd49ac012f043",
+        "CopyFlexContainer0de9753d2ab8941": "CopyFlexContainer0de9753d2ab8941",
+        "CopyFlexContainer0dff24a4a9b1c46": "CopyFlexContainer0dff24a4a9b1c46",
+        "CopyFlexContainer0e0e67e94c4764a": "CopyFlexContainer0e0e67e94c4764a",
+        "CopyFlexContainer0e2fff4fdf58848": "CopyFlexContainer0e2fff4fdf58848",
+        "CopyFlexContainer0e4c9c55370304d": "CopyFlexContainer0e4c9c55370304d",
+        "CopyFlexContainer0e65b690999c84a": "CopyFlexContainer0e65b690999c84a",
+        "CopyFlexContainer0ea87c368f67048": "CopyFlexContainer0ea87c368f67048",
+        "CopyFlexContainer0eaa62b9bd52247": "CopyFlexContainer0eaa62b9bd52247",
+        "CopyFlexContainer0ead36aea72864e": "CopyFlexContainer0ead36aea72864e",
+        "CopyFlexContainer0ecfa66571d054d": "CopyFlexContainer0ecfa66571d054d",
+        "CopyFlexContainer0ee2bd1ae34494c": "CopyFlexContainer0ee2bd1ae34494c",
+        "CopyFlexContainer0efd727a155cf41": "CopyFlexContainer0efd727a155cf41",
+        "CopyFlexContainer0effe3a1f69a24b": "CopyFlexContainer0effe3a1f69a24b",
+        "CopyFlexContainer0f110b22c1adb40": "CopyFlexContainer0f110b22c1adb40",
+        "CopyFlexContainer0f29fa14e125740": "CopyFlexContainer0f29fa14e125740",
+        "CopyFlexContainer0f3389cbad28145": "CopyFlexContainer0f3389cbad28145",
+        "CopyFlexContainer0ffa66598509945": "CopyFlexContainer0ffa66598509945",
+        "CopyFlexContainer0g08cac89d8554e": "CopyFlexContainer0g08cac89d8554e",
+        "CopyFlexContainer0g3284889c54948": "CopyFlexContainer0g3284889c54948",
+        "CopyFlexContainer0gb84108d61cd47": "CopyFlexContainer0gb84108d61cd47",
+        "CopyFlexContainer0gc95928b646148": "CopyFlexContainer0gc95928b646148",
+        "CopyFlexContainer0gf636ce5ee7648": "CopyFlexContainer0gf636ce5ee7648",
+        "CopyFlexContainer0gff2d24de36f4d": "CopyFlexContainer0gff2d24de36f4d",
+        "CopyFlexContainer0h36ffafe896143": "CopyFlexContainer0h36ffafe896143",
+        "CopyFlexContainer0h4c9cbe250a740": "CopyFlexContainer0h4c9cbe250a740",
+        "CopyFlexContainer0h6363c2b1f704f": "CopyFlexContainer0h6363c2b1f704f",
+        "CopyFlexContainer0i17c133951f04d": "CopyFlexContainer0i17c133951f04d",
+        "CopyFlexContainer0i9d90226c37243": "CopyFlexContainer0i9d90226c37243",
+        "CopyFlexContainer0ic867fdf5d1548": "CopyFlexContainer0ic867fdf5d1548",
+        "CopyFlexContainer0icfcfe567b8448": "CopyFlexContainer0icfcfe567b8448",
+        "CopyFlexContainer0j1343886b48e4a": "CopyFlexContainer0j1343886b48e4a",
+        "CopyFlexContainer0j33fda29387a40": "CopyFlexContainer0j33fda29387a40",
+        "CopyFlexContainer0j411c645403948": "CopyFlexContainer0j411c645403948",
+        "CopyFlexContainer0j4456c8c25754e": "CopyFlexContainer0j4456c8c25754e",
+        "CopyFlexContainer0j4e9c38ccd7342": "CopyFlexContainer0j4e9c38ccd7342",
+        "CopyFlexContainer0j99bb3c3dbec44": "CopyFlexContainer0j99bb3c3dbec44",
+        "CopyFlexContainer0jcce4a57c4bf48": "CopyFlexContainer0jcce4a57c4bf48",
+        "CopyFlexContainer0jdee24b69f5b4c": "CopyFlexContainer0jdee24b69f5b4c",
+        "CopyLabel0c2a4cab25b9e40": "CopyLabel0c2a4cab25b9e40",
+        "CopyLabel0db54d455c6d647": "CopyLabel0db54d455c6d647",
+        "CopyLabel0dc93a584db904c": "CopyLabel0dc93a584db904c",
+        "CopyLabel0e134999606e849": "CopyLabel0e134999606e849",
+        "CopyLabel0g77a0f911e8444": "CopyLabel0g77a0f911e8444",
+        "CopyLabel0gbb0064eaff44f": "CopyLabel0gbb0064eaff44f",
+        "Copyfcappttype0ca7a61042ca240": "Copyfcappttype0ca7a61042ca240",
+        "Copyfcappttype0f0e97c73d74a47": "Copyfcappttype0f0e97c73d74a47",
+        "Copyfcappttype0f5980969c0c74e": "Copyfcappttype0f5980969c0c74e",
+        "Copyfccasemanager0b75655a502cf47": "Copyfccasemanager0b75655a502cf47",
+        "Copyfccasemanager0e36b6ce58e494e": "Copyfccasemanager0e36b6ce58e494e",
+        "Copyfccasemanager0i438a5f9e2694b": "Copyfccasemanager0i438a5f9e2694b",
+        "Copyfccompleteddate0a238b35e89614e": "Copyfccompleteddate0a238b35e89614e",
+        "Copyfccompleteddate0d391cca0e37647": "Copyfccompleteddate0d391cca0e37647",
+        "Copyfcnextappt0b3fc46aadb4b4e": "Copyfcnextappt0b3fc46aadb4b4e",
+        "Copyfcnextappt0b55fed96880248": "Copyfcnextappt0b55fed96880248",
+        "Copyfcnextappt0d457ab258b9444": "Copyfcnextappt0d457ab258b9444",
+        "Copyfcninestephealing0ae2c3d29793e43": "Copyfcninestephealing0ae2c3d29793e43",
+        "Copyfcninestephealing0h58888c3d18f43": "Copyfcninestephealing0h58888c3d18f43",
+        "Copyfcorderdate0ae7e308fbc5941": "Copyfcorderdate0ae7e308fbc5941",
+        "Copyfcorderdate0aeaf7be4571c41": "Copyfcorderdate0aeaf7be4571c41",
+        "Copyfcpalpablepulse0c594f2be1dd045": "Copyfcpalpablepulse0c594f2be1dd045",
+        "Copyfcpalpablepulse0ee4be9808c444b": "Copyfcpalpablepulse0ee4be9808c444b",
+        "Copyfcpatientlisthdr0a0c2036873874f": "Copyfcpatientlisthdr0a0c2036873874f",
+        "Copyfcpatientlisthdr0ded8d4879cba47": "Copyfcpatientlisthdr0ded8d4879cba47",
+        "Copyfcpatientlisthdr0fac5026b85c246": "Copyfcpatientlisthdr0fac5026b85c246",
+        "Copyfcpatientname0ea4ef81d8e5242": "Copyfcpatientname0ea4ef81d8e5242",
+        "Copyfcpatientname0f75d0e9fa11544": "Copyfcpatientname0f75d0e9fa11544",
+        "Copyfcpatientname0iceb80f303c44e": "Copyfcpatientname0iceb80f303c44e",
+        "Copyfcphysician0a13549da051c47": "Copyfcphysician0a13549da051c47",
+        "Copyfcphysician0e609b89d285b49": "Copyfcphysician0e609b89d285b49",
+        "Copyfcphysician0geceeffc178c4c": "Copyfcphysician0geceeffc178c4c",
+        "Copyfcresolution0ae95adf395eb41": "Copyfcresolution0ae95adf395eb41",
+        "Copyfcresolution0e0fd3e31a35d4d": "Copyfcresolution0e0fd3e31a35d4d",
+        "Copyfcresult0c0c8550904454a": "Copyfcresult0c0c8550904454a",
+        "Copyfcresult0d03841dfb81c43": "Copyfcresult0d03841dfb81c43",
+        "Copyfcupdatedat0eb6c2b1db4744c": "Copyfcupdatedat0eb6c2b1db4744c",
+        "Copyfcupdatedat0gbf489af59d043": "Copyfcupdatedat0gbf489af59d043",
+        "Copyfcupdatedby0d8dfc77362da40": "Copyfcupdatedby0d8dfc77362da40",
+        "Copyfcupdatedby0i04b814f15be4b": "Copyfcupdatedby0i04b814f15be4b",
+        "Copyfcweeks0a36adc32168648": "Copyfcweeks0a36adc32168648",
+        "Copyfcweeks0be4aa86ec1ab43": "Copyfcweeks0be4aa86ec1ab43",
+        "Copyfcweeks0e1ac8b7eb4774a": "Copyfcweeks0e1ac8b7eb4774a",
+        "Copyfcwounds0b1c6da2ffb5a45": "Copyfcwounds0b1c6da2ffb5a45",
+        "Copyfcwounds0ef07ec542d9340": "Copyfcwounds0ef07ec542d9340",
+        "Copyfcwounds0i1c7b6d91ba541": "Copyfcwounds0i1c7b6d91ba541",
+        "Copylblappttype0c2efc2d3d4aa40": "Copylblappttype0c2efc2d3d4aa40",
+        "Copylblappttype0i4272d4a76204d": "Copylblappttype0i4272d4a76204d",
+        "Copylblcasemanager0cd75a0233ccb4c": "Copylblcasemanager0cd75a0233ccb4c",
+        "Copylblcasemanager0e1f576811cb740": "Copylblcasemanager0e1f576811cb740",
+        "Copylblline0a1537330e9c041": "Copylblline0a1537330e9c041",
+        "Copylblline0a1e24826e71745": "Copylblline0a1e24826e71745",
+        "Copylblline0a8486cbe8daf45": "Copylblline0a8486cbe8daf45",
+        "Copylblline0aa76fb67226042": "Copylblline0aa76fb67226042",
+        "Copylblline0b27e939521cc43": "Copylblline0b27e939521cc43",
+        "Copylblline0b3e85339652944": "Copylblline0b3e85339652944",
+        "Copylblline0ba571ca326234f": "Copylblline0ba571ca326234f",
+        "Copylblline0c0d7a9deb4cf48": "Copylblline0c0d7a9deb4cf48",
+        "Copylblline0c20c4bae03234a": "Copylblline0c20c4bae03234a",
+        "Copylblline0c6e1f20ac5a049": "Copylblline0c6e1f20ac5a049",
+        "Copylblline0c70b66ce3e1840": "Copylblline0c70b66ce3e1840",
+        "Copylblline0c79c93c1f29b4c": "Copylblline0c79c93c1f29b4c",
+        "Copylblline0db12bce855f54c": "Copylblline0db12bce855f54c",
+        "Copylblline0ddef6550cd5745": "Copylblline0ddef6550cd5745",
+        "Copylblline0deaa1171a54846": "Copylblline0deaa1171a54846",
+        "Copylblline0ea83c840edd148": "Copylblline0ea83c840edd148",
+        "Copylblline0ed3e53231bc94f": "Copylblline0ed3e53231bc94f",
+        "Copylblline0eef9f0b9d62949": "Copylblline0eef9f0b9d62949",
+        "Copylblline0f20a1156d7de4f": "Copylblline0f20a1156d7de4f",
+        "Copylblline0f4a6cea6a5174f": "Copylblline0f4a6cea6a5174f",
+        "Copylblline0f886a08c34fe45": "Copylblline0f886a08c34fe45",
+        "Copylblline0facbfca863ca45": "Copylblline0facbfca863ca45",
+        "Copylblline0g39c764c90b44d": "Copylblline0g39c764c90b44d",
+        "Copylblline0g795183d0c3b44": "Copylblline0g795183d0c3b44",
+        "Copylblline0ga96abf52e9e4d": "Copylblline0ga96abf52e9e4d",
+        "Copylblline0gd8e68d4228943": "Copylblline0gd8e68d4228943",
+        "Copylblline0ge6daa7bbd9841": "Copylblline0ge6daa7bbd9841",
+        "Copylblline0h50a0714a1da48": "Copylblline0h50a0714a1da48",
+        "Copylblline0h62e540145d84f": "Copylblline0h62e540145d84f",
+        "Copylblline0i3ab7e6f60d048": "Copylblline0i3ab7e6f60d048",
+        "Copylblline0ia30247127634a": "Copylblline0ia30247127634a",
+        "Copylblline0j6e0ac51e2a846": "Copylblline0j6e0ac51e2a846",
+        "Copylblline0jbe577ef17974d": "Copylblline0jbe577ef17974d",
+        "Copylblnextappt0f92a82a2ca394c": "Copylblnextappt0f92a82a2ca394c",
+        "Copylblnextappt0j0e8305ab6b04b": "Copylblnextappt0j0e8305ab6b04b",
+        "Copylblpatientname0e8740e62ac4d44": "Copylblpatientname0e8740e62ac4d44",
+        "Copylblpatientname0fce2ec256a9742": "Copylblpatientname0fce2ec256a9742",
+        "Copylblphysician0aaf11c0392ad4c": "Copylblphysician0aaf11c0392ad4c",
+        "Copylblphysician0e98e5b11a4a448": "Copylblphysician0e98e5b11a4a448",
+        "Copylblupdatedby0a4ee5b56856749": "Copylblupdatedby0a4ee5b56856749",
+        "Copylblupdatedby0af1feb91689a48": "Copylblupdatedby0af1feb91689a48",
+        "Copylblweeks0b26a3473a65e45": "Copylblweeks0b26a3473a65e45",
+        "Copylblweeks0c4196c65459d43": "Copylblweeks0c4196c65459d43",
+        "Copylblwounds0bba732a3314046": "Copylblwounds0bba732a3314046",
+        "Copylblwounds0e183c8c7b67245": "Copylblwounds0e183c8c7b67245",
+        "FlexContainer0b9d02fd9816445": "FlexContainer0b9d02fd9816445",
+        "FlexContainer0e3d158ce8f5f4a": "FlexContainer0e3d158ce8f5f4a",
+        "btnkeepmyversion": "btnkeepmyversion",
+        "btnkeepotherversion": "btnkeepotherversion",
+        "fcninestephealing": "fcninestephealing",
+        "lblcompleteddate": "lblcompleteddate",
+        "lblcompleteddate2": "lblcompleteddate2",
+        "lbldescription": "lbldescription",
+        "lblhdrcompletedby": "lblhdrcompletedby",
+        "lblhdrcompleteddate": "lblhdrcompleteddate",
+        "lblhdrorderdate": "lblhdrorderdate",
+        "lblhdrresolution": "lblhdrresolution",
+        "lblhdrresult": "lblhdrresult",
+        "lblhdrupdatedat": "lblhdrupdatedat",
+        "lblkeepmyversion": "lblkeepmyversion",
+        "lblkeepotherversion": "lblkeepotherversion",
+        "lblmyversion": "lblmyversion",
+        "lblorderdate": "lblorderdate",
+        "lblorderdate2": "lblorderdate2",
+        "lblresult": "lblresult",
+        "lblresult2": "lblresult2",
+        "lblserverversion": "lblserverversion",
+        "lblupdatedat": "lblupdatedat",
+        "lblupdatedat2": "lblupdatedat2",
+        "lblupdatedby": "lblupdatedby",
+        "lblupdatedby2": "lblupdatedby2"
+    },
+    "zindex": 20
+}

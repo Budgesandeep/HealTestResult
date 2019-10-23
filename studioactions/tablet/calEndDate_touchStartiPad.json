@@ -1,0 +1,35 @@
+{
+    "AS_Calendar_i0e2e8adbe84411f9abff3220ba4aeb8": {
+        "id": "AS_Calendar_i0e2e8adbe84411f9abff3220ba4aeb8",
+        "type": "ACTION_SEQUENCE",
+        "name": "calEndDate_touchStartiPad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ed57084c2f734241a6e9bdfe785ab44d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "createNotificationEndDateSelected",
+            "display": "createNotificationEndDateSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

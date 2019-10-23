@@ -1,0 +1,22 @@
+{
+    "AS_Button_0609b028a0f24e2288642869a0f64f97": {
+        "id": "AS_Button_0609b028a0f24e2288642869a0f64f97",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_btnHome_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_dcbe16d3ef7c47ff8710fe6fc5614fb2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showLandingScreen",
+            "display": "showLandingScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

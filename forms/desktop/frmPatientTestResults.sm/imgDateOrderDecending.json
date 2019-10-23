@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s14763b12b924593bfdfe09f65de328c",
+    "_src_": "downarrowheadwhite.png",
+    "_top_": {
+        "type": "number",
+        "value": "-8"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "9dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmPatientTestResults",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "id": "imgDateOrderDecending",
+    "ide_onTouchStart": "AS_Image_a53d4db3453e47a49bf725bb1bdb975b",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "df0f42562cd24445bcd5b00ae5c523ab",
+    "name": "kony.ui.Image2",
+    "parent": "sortFlexOrderDate",
+    "pf": "frmPatientTestResults",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "abff1bdf66bf4c8890dbae8ff4bb8407",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerX": "50%",
+        "centerY": "50%",
+        "height": {
+            "type": "string",
+            "value": "8dp"
+        },
+        "id": "imgmenu",
+        "imageScaleMode": 1,
+        "imageWhenFailed": "downarrow.png",
+        "imageWhileDownloading": "downarrow.png",
+        "left": "0dp",
+        "src": "headerarrow.png",
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "13dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgmenu",
+    "instanceOf": "abff1bdf66bf4c8890dbae8ff4bb8407",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "maab5118d9274311a7f5ad3a26501c8b",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fcsubmenu",
+    "pf": "frmConflictResolve",
+    "topLevelInstanceKUID": "m22fc4232785416bb4366c49191b2fa2",
+    "wType": "Image"
+}

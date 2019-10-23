@@ -1,0 +1,35 @@
+{
+    "AS_Form_d2078da1122140ea935107684c7cefea": {
+        "id": "AS_Form_d2078da1122140ea935107684c7cefea",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_touchend",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f026c28f14647bd84e6085de5abce9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a9b49ff10dc7487f90624e94d841d479",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerTimeout",
+            "display": "registerTimeout",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

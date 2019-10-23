@@ -1,0 +1,181 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bounces_": false,
+    "_data_": [
+        {
+            "imgFacility": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "facility.png"
+            },
+            "lblFacility": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgFacility": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "facility.png"
+            },
+            "lblFacility": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgFacility": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "facility.png"
+            },
+            "lblFacility": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgFacility": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "facility.png"
+            },
+            "lblFacility": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgFacility": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "facility.png"
+            },
+            "lblFacility": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgFacility": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "facility.png"
+            },
+            "lblFacility": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgFacility": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "facility.png"
+            },
+            "lblFacility": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgFacility": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "facility.png"
+            },
+            "lblFacility": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "07",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentFacilities",
+    "ide_onRowClick": "AS_Segment_a4c645d065c44ba197c444c692017b43",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "bounces": false,
+            "indicator": "none",
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "7082835714ce4c67b61c10b476382745",
+    "masterdata": {},
+    "maxheight": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "fcFacilities",
+    "pf": "frmSelectFacility",
+    "retainselection": false,
+    "rowTemplateId": "aa22608e7eb24b60abf16c0e42e6035c",
+    "rowcounter": 7,
+    "rowfocusskin": "s1424a1698dd48bc8967d8eeb4b44c33",
+    "rowskin": "s00ab971316d457ab74508aa12f2b715",
+    "rowtemplate": "fcFacility",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "separatorthickness": 0,
+    "showprogressindicator": false,
+    "showscrollbars": true,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "fcFacility": "fcFacility",
+        "imgFacility": "imgFacility",
+        "lblFacility": "lblFacility"
+    },
+    "zindex": 1
+}

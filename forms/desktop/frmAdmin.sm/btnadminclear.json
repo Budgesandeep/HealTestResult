@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "92dp"
+    },
+    "_skin_": "s538ba8654ea4f66b55600b6d3080b91",
+    "_text_": "Clear",
+    "_top_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "74dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sf1af344cb5548ff97748f3d59046e43"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "sfc9d8806e11416a85961e54b0fcd304"
+    },
+    "displaytext": true,
+    "id": "btnadminclear",
+    "ide_onClick": "AS_Button_67a5a06581994a33ac2548bee103173b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "1d94f1dac7f144fc81a13236f73acaf4",
+    "name": "kony.ui.Button",
+    "parent": "fcadminclearsave",
+    "pf": "frmAdmin",
+    "wType": "Button",
+    "zindex": 3
+}

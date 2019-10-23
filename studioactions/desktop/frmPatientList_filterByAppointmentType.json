@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_f94ea79411e047cda83d38d5557beae0": {
+        "id": "AS_FlexContainer_f94ea79411e047cda83d38d5557beae0",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_filterByAppointmentType",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "0602ade0f56d44d399a07dabb337da25"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a5537db77701452fb860ff28a43a4397",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segPatientListSelectedCoulmn",
+            "display": "segPatientListSelectedCoulmn",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

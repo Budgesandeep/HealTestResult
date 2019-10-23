@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "number",
+        "value": "13"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "phoneicon.png",
+    "_top_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "mddaadcaa7614cbdaf0cd36b5823d095",
+        "mc2dd4185a914646969e0ff0bde084a5",
+        "m5aa663f333c48a49f24a49d49e8db42"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "masterheaderold",
+        "platform": "desktopweb",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgphone",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "phoneicon.png",
+    "info": null,
+    "isvisible": false,
+    "kuid": "d6b3d3d89fdb416894b0473470b75866",
+    "name": "kony.ui.Image2",
+    "parent": "fccontacthelp",
+    "pf": "masterheaderold",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Button_j15bd29ed0a046fcbe861744d78867bf": {
+        "id": "AS_Button_j15bd29ed0a046fcbe861744d78867bf",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupnotification_OkayButtonHandler",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "popups",
+            "platform": "",
+            "KUID": "he6782af7f9c429c9192572d06fbaa67"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___i7f89fd8f35f4b78a60e35ef6c1e96a7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupnotification_okayButtonHandler",
+            "display": "popupnotification_okayButtonHandler",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

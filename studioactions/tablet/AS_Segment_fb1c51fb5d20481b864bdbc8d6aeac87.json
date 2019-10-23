@@ -1,0 +1,27 @@
+{
+    "AS_Segment_fb1c51fb5d20481b864bdbc8d6aeac87": {
+        "id": "AS_Segment_fb1c51fb5d20481b864bdbc8d6aeac87",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_f587f83a26134506b7925b1c1e37ccc4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_setUnit",
+            "display": "frmPatientSummary_setUnit",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

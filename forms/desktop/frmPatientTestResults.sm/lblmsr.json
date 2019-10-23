@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seca03be4be344e0a76689c59db257ca",
+    "_text_": "MSR",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblmsr",
+    "info": null,
+    "isvisible": false,
+    "kuid": "a95573f9c36d4293acdf3751ab27abf1",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientnamemsr",
+    "pf": "frmPatientTestResults",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

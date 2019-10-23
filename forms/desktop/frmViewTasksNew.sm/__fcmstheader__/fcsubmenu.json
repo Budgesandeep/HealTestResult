@@ -1,0 +1,49 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7d45bf2820a43c7ae43389d63cae3be",
+    "_srcKuid_": "91483c091be548af9f9850622050c1e5",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [
+        "imgmenu"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "83dp"
+        },
+        "id": "fcsubmenu",
+        "layoutType": 2,
+        "right": "0dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "10%"
+        },
+        "zIndex": 1
+    },
+    "id": "fcsubmenu",
+    "ide_onClick": "AS_FlexContainer_cb74bd8c614240a2bb795d6934be80f1",
+    "instanceOf": "91483c091be548af9f9850622050c1e5",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m8b0478d83124ae697bf0a4fc7edcc17",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcheaderright",
+    "pf": "frmViewTasksNew",
+    "topLevelInstanceKUID": "meccfb9b5583420f946ab4cc0d6b2a30",
+    "wType": "FlexContainer"
+}

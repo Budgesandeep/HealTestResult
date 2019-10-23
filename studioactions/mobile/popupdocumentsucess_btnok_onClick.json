@@ -1,0 +1,25 @@
+{
+    "AS_Button_b378e1684edc418089973020f711582e": {
+        "id": "AS_Button_b378e1684edc418089973020f711582e",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupdocumentsucess_btnok_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupdocumnetsuccess",
+            "type": "popups",
+            "platform": "",
+            "KUID": "8708794c7373437198440f4e7e81f0f6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__7877a9ff37a24e7e96c4ab00aeaa9894",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popupdocumnetsuccess.dismiss();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

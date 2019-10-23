@@ -1,0 +1,22 @@
+{
+    "AS_Button_796967a12ef44c0eaa13798d8f6d3285": {
+        "id": "AS_Button_796967a12ef44c0eaa13798d8f6d3285",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_btnmenu_onclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_0dd26e9a051c42d9a1b249b2b4cce79b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSideMenu",
+            "display": "menu_toggleSideMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

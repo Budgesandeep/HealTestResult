@@ -1,0 +1,31 @@
+{
+    "AS_VBox_d7089db01b074cfb9bf563661e657dc5": {
+        "id": "AS_VBox_d7089db01b074cfb9bf563661e657dc5",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupAdminsortfilter_dismiss",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupAdminSortFilter",
+            "type": "popups",
+            "platform": null,
+            "KUID": "3d6611cd03724cb68943b89d374d26d1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_1c0836103709466eb7de978c20caf3bd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

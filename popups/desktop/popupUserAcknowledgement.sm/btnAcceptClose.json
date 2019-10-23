@@ -1,0 +1,39 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        82,
+        2,
+        3,
+        3
+    ],
+    "_padding_": [
+        3,
+        2,
+        3,
+        2
+    ],
+    "_skin_": "se841be24699446198f4aef5655df7b1",
+    "_text_": "Close",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s35a2d5d39fb4100ba4310920d912a23"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "se841be24699446198f4aef5655df7b1",
+    "id": "btnAcceptClose",
+    "ide_onClick": "AS_Button_7ab30bebe4f049a3b507355ce45e81bc",
+    "info": null,
+    "isvisible": true,
+    "kuid": "86a595ac1da14df1968915b3bed3a6c7",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "vboxAcceptAck",
+    "pf": "popupUserAcknowledgement",
+    "wType": "Button"
+}

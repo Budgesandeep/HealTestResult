@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1.50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8b71eba7c8944118a81d12f4b37b93f",
+    "_text_": "=",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "28dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s41668f6f23e45f9aaa5ea84c64cc45d"
+        }
+    },
+    "displaytext": false,
+    "focusskin": "s3d4e1b1c3d241d9bbd1a309a9f85c50",
+    "id": "btnmenu",
+    "info": null,
+    "isvisible": false,
+    "kuid": "1542eaa5a7fb4d4fb12f9ae5024b2a41",
+    "name": "kony.ui.Button",
+    "parent": "fcbodyheader",
+    "pf": "frmPatientRecords",
+    "wType": "Button",
+    "zindex": 1
+}

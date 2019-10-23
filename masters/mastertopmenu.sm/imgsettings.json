@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "settings.png",
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "me6b17c220de4f659b3ce8080d397f6c",
+        "mccbfa4211eb4e64a52c0edbbe92471e",
+        "m5f3d146eb1a4a1e9ea2edf7ee1d441e",
+        "mb902024cbef4387a2fbf24bc5c7a86d",
+        "m11cee98cda94ff4bdac4286cc27f82d",
+        "m1a1ac4ad8fc4069a3c120fab331b711",
+        "mb6d25fa34f04c389c8863d2175c968d",
+        "m08715d48d8a4fb69aaa1e58eeaff598"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "mastertopmenu",
+        "platform": "desktopweb",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgsettings",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "edbb613411aa49838a56ca1988ff4d9b",
+    "name": "kony.ui.Image2",
+    "parent": "fcsettings",
+    "pf": "mastertopmenu",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

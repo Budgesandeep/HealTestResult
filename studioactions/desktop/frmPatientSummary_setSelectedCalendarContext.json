@@ -1,0 +1,37 @@
+{
+    "AS_Calendar_3c346fad42a841818f7ccf1ee51395f4": {
+        "id": "AS_Calendar_3c346fad42a841818f7ccf1ee51395f4",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_setSelectedCalendarContext",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "2c036a328549447d974633eb128be102"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ebe8cae3d4304aa390409e9f7829e114",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_SetCalendarContext",
+            "display": "frmPatientSummary_SetCalendarContext",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

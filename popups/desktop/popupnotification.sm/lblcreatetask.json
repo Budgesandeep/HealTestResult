@@ -1,0 +1,43 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        2,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2b2411d13b44d58a4a604fbb1cacd61",
+    "_text_": "Clinical Optimization Notification",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 79,
+    "contentalignment": 4,
+    "id": "lblcreatetask",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "be8724598dc746f8a6f6b53492901c27",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "hboxheader",
+    "pf": "popupnotification",
+    "tooltip": "",
+    "wType": "Label"
+}

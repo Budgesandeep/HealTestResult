@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "upload.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "segTestResult",
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "id": "imgTestResultUpload",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "upload.png",
+    "info": null,
+    "invokedProperty": "imageWhileDownloading",
+    "isvisible": true,
+    "kuid": "a0f359c78ac34320b8243ef11ee4bbd6",
+    "name": "kony.ui.Image2",
+    "parent": "fcUpload",
+    "pf": "segTestResult",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

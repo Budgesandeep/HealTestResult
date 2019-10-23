@@ -1,0 +1,24 @@
+{
+    "AS_Button_f2ad6175aa8940238c22fd3caf259a21": {
+        "id": "AS_Button_f2ad6175aa8940238c22fd3caf259a21",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_Button_onbcpatientlistClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_2b1b1cc62b8546ab93f1e66ec321d1a0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dashboard_showPatientList",
+            "display": "dashboard_showPatientList",
+            "inputparams": [{
+                "name": "str"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

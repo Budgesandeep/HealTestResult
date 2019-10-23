@@ -1,0 +1,29 @@
+{
+    "AS_Button_b871412f06bd487b9a91ae16114d5693": {
+        "id": "AS_Button_b871412f06bd487b9a91ae16114d5693",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_gbebf786524548c785a399e184a05d09",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "viewOptionClicked",
+            "display": "viewOptionClicked",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": "  eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_b41dea5cbcfb4f6d85512086bbdb1609",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"view all clicked\");",
+            "callbackType": null
+        }]
+    }
+}

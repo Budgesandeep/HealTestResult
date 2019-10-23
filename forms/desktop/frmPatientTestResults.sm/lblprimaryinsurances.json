@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s83dbab24ae44f83922161e51318e97c",
+    "_text_": "Primary Insurance:",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblprimaryinsurances",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dec19b3f4dfa493e9d9002f6ec9730b0",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo3",
+    "pf": "frmPatientTestResults",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

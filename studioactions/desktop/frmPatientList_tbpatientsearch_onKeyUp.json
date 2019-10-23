@@ -1,0 +1,22 @@
+{
+    "AS_TextField_acee6b36555b49b6a6e951b54bf5c55a": {
+        "id": "AS_TextField_acee6b36555b49b6a6e951b54bf5c55a",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_tbpatientsearch_onKeyUp",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onKeyUp_dbc707f5ba9d4c0b84ba86efae3cdf90",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onSearchStart",
+            "display": "frmPatientList_onSearchStart",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

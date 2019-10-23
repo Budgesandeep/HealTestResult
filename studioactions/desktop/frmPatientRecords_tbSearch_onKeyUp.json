@@ -1,0 +1,29 @@
+{
+    "AS_TextField_27a37eda67c042f8abbcd31b4e5e0199": {
+        "id": "AS_TextField_27a37eda67c042f8abbcd31b4e5e0199",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_tbSearch_onKeyUp",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2dadc999bf6b45babe7b7fd8757e2f92"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f69ba5333ab84deeb300ddcf70ec55b8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onSearchStart",
+            "display": "frmPatientList_onSearchStart",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "sd43c73bf5964787bb45b3f90a78d652",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "Copybtnclosepdf0cd6ffbc5ed6f4e",
+        "btnclosepdf"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "HBox0f663b4ccd16b45",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c0d9efc5aa634caba6f2c74a0b884b71",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "parent": "VBox0feb211df39254d",
+    "pf": "popupImageViewer",
+    "wType": "HBox",
+    "widgetalignment": 3
+}

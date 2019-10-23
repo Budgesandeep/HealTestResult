@@ -1,0 +1,38 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s24565fc171c46f3a9bdb963a92f3ba1",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "btncancelsync"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "hboxcancelsync",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b522b89eb9f14b129ea2a6ba8b3da948",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "parent": "vboxsyncstatus",
+    "pf": "popupsyncstatus",
+    "wType": "HBox",
+    "widgetalignment": 4
+}

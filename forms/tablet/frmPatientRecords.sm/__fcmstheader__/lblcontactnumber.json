@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s03a52d667dc4d75b6a139b3465feb12",
+    "_srcKuid_": "1306787e1535458dade859f0d241bc64",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "65%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblcontactnumber",
+        "left": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "text": "1-866-412-3680 ",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblcontactnumber",
+    "instanceOf": "1306787e1535458dade859f0d241bc64",
+    "isvisible": true,
+    "kuid": "me70985efb1243c1832d73206fd6cb5b",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fccontacthelp",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m05e9f99d3054402be7bdccb8e99e8f9",
+    "wType": "Label"
+}

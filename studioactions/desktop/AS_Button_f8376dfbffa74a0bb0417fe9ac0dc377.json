@@ -1,0 +1,27 @@
+{
+    "AS_Button_f8376dfbffa74a0bb0417fe9ac0dc377": {
+        "id": "AS_Button_f8376dfbffa74a0bb0417fe9ac0dc377",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segDocumentsTestResult",
+            "type": "templates",
+            "platform": "",
+            "KUID": "g2a715b98b8d4546873f6a4930fc9b7a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ha256dc220a6477d9a38eaf8cf74b2e1",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "CallextenstionResultTest();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

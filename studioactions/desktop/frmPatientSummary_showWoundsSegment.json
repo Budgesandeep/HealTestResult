@@ -1,0 +1,29 @@
+{
+    "AS_Button_f133cbdeacca41f2aea5424a3acc5e87": {
+        "id": "AS_Button_f133cbdeacca41f2aea5424a3acc5e87",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_showWoundsSegment",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___301bd51149504b01b09d2af55eac8099",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_showSegWounds",
+            "display": "frmPatientSummary_showSegWounds",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

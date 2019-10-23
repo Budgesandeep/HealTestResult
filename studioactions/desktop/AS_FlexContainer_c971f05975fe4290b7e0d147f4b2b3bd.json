@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_c971f05975fe4290b7e0d147f4b2b3bd": {
+        "id": "AS_FlexContainer_c971f05975fe4290b7e0d147f4b2b3bd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b3e9ef02cb9c4bf5b9b48ea755fed476",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientDashboard",
+            "display": "showPatientDashboard",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

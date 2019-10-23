@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd4070a8158946ab885a01b58653133f",
+    "_text_": "Patient Records",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1f3bb39c54441eb8f998c4e3e0df0af",
+    "id": "btnpatientrecords",
+    "ide_onClick": "AS_Button_5ea6328f23a54fbdb5362cc59e089da4",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "e8bb9922d1db49619caa2296a24a46ee",
+    "name": "kony.ui.Button",
+    "parent": "fctreatmentbar",
+    "pf": "frmPatientSummary",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

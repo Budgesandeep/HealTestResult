@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_srcKuid_": "499cc6d43ced4b29a4bdc21d5928116b",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblExportPdf",
+        "left": {
+            "type": "string",
+            "value": "35dp"
+        },
+        "text": "Export PDF",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblExportPdf",
+    "instanceOf": "499cc6d43ced4b29a4bdc21d5928116b",
+    "isvisible": true,
+    "kuid": "m61257ebf17649d0a8eef7bfd801985a",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcExportPdf",
+    "pf": "frmViewTasksNew",
+    "topLevelInstanceKUID": "m3a7ff3d9f1842f68d6c9dd7539f94e2",
+    "wType": "Label"
+}

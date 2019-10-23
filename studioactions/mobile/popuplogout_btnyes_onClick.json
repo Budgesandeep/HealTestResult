@@ -1,0 +1,18 @@
+{
+    "AS_Button_73f86e2a5150432db9c0e72a0f5646a4": {
+        "id": "AS_Button_73f86e2a5150432db9c0e72a0f5646a4",
+        "type": "ACTION_SEQUENCE",
+        "name": "popuplogout_btnyes_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_4cf5c1ea624947c1ba27aa384e703667",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "// loginModule.logoutUserService();\nvar error_label = ERROR_CONSTANTS.LOGOUT_SUCCESS_MESSAGE;\nloginModule.showLoginScreen(error_label);",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1.50%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s23803215264423f81102854342fdf9c",
+    "_text_": "Patient List",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s23803215264423f81102854342fdf9c",
+    "id": "btnhdrsubtitle2",
+    "ide_onClick": "AS_Button_45e0d508c27348949dde7cff7764ca76",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4e9ddbc898e64b44afabf5b0afe3a67b",
+    "name": "kony.ui.Button",
+    "parent": "fcbreadcrumb",
+    "pf": "frmPatientRecords",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sadcb9b77a3243c0a1b1b0d22d4981e5",
+    "_src_": "patient_photo.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "mb96bef3e6dd48649e0d43c4479ea20a",
+        "m06ba1eef2bf4864bea64170f3ca7c87",
+        "mdcfd9ab8fdc4dd380c671a10df841e1",
+        "mecc523616624585b75cec18974d94b7"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "masterpatientinfo",
+        "platform": "desktopweb",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgpatient",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "patient_photo.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "d15c741350684b18897dcb7ac61a6e8d",
+    "name": "kony.ui.Image2",
+    "parent": "fcpatientinfodetails",
+    "pf": "masterpatientinfo",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

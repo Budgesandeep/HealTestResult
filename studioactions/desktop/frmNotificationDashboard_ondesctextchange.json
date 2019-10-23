@@ -1,0 +1,32 @@
+{
+    "AS_TextArea_ga235b94e0ce402a99fe9a058b83b906": {
+        "id": "AS_TextArea_ga235b94e0ce402a99fe9a058b83b906",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmNotificationDashboard_ondesctextchange",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f965c254d41a487284425bab8fb1af10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___be734f67dc0a4cdfafaaa60beee99b35",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_textBoxEditing",
+            "display": "frmNotificationDashboard_textBoxEditing",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

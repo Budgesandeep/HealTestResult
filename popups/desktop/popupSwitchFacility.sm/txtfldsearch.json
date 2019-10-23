@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "_margin_": [
+        18,
+        3,
+        0,
+        1
+    ],
+    "_padding_": [
+        1,
+        2,
+        0,
+        2
+    ],
+    "_placeholder_": "Search Facility",
+    "_skin_": "s98b904c3673430ca52553598f32d4c8",
+    "_text_": "",
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 86,
+    "contentalignment": 4,
+    "desktopweb": {
+        "ide_onKeyUp": "AS_TextField_b3dc02433d4f422987e15a64dae47dfe"
+    },
+    "id": "txtfldsearch",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "b6264bff970e433492eb4c4b8ab761b0",
+    "margininpixel": false,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddInPixel": [
+        3.18,
+        6.36,
+        0,
+        6.36
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxsearch",
+    "pf": "popupSwitchFacility",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField"
+}

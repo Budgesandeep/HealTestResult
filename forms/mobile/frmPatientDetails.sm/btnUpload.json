@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5.94%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb19e43a12274cb9b8ec5ef9151a3d4d",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "88%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb65b513974142b0a20fd3031f838da1",
+    "id": "btnUpload",
+    "ide_onClick": "AS_Button_da357824da0248c6b77bf21a4a56f40f",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f9a8736394714ac4b94828ee3c4f4601",
+    "name": "kony.ui.Button",
+    "parent": "fcmain",
+    "pf": "frmPatientDetails",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

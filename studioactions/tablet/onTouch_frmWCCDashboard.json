@@ -1,0 +1,35 @@
+{
+    "AS_Form_834b63bbe4e2423ab221e4bce2199cb9": {
+        "id": "AS_Form_834b63bbe4e2423ab221e4bce2199cb9",
+        "type": "ACTION_SEQUENCE",
+        "name": "onTouch_frmWCCDashboard",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f7c4a021d7e945d18fce82c5e7df3158",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hide_fctopmenu",
+            "display": "hide_fctopmenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

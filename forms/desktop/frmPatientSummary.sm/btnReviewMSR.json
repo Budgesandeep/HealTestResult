@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "_skin_": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "_text_": "Review MSR",
+    "_width_": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s22e930b1db24c2a93ec1def531259de"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "id": "btnReviewMSR",
+    "ide_onClick": "AS_Button_7954326210c242ab968c70f12cc4edd8",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e71c45960a9945068ebf29fdcad1857e",
+    "name": "kony.ui.Button",
+    "parent": "fcwounddetailsheader",
+    "pf": "frmPatientSummary",
+    "wType": "Button",
+    "zindex": 1
+}

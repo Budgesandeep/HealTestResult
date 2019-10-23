@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s58970ce497b4a7280bad6dc170a34df",
+    "_srcKuid_": "214c8a06b0b548a980cc2a8e4572ba09",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "rcfooter",
+        "left": "40dp",
+        "text": "&copy; All Rights Reserved.",
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "rcfooter",
+    "instanceOf": "214c8a06b0b548a980cc2a8e4572ba09",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "mf7060894c6345c885f30a17f044e320",
+    "masterInstance": true,
+    "name": "kony.ui.RichText",
+    "parent": "fcmstfooter",
+    "pf": "frmApps",
+    "topLevelInstanceKUID": "m21212376a4a4d8b9806c3613a0e9566",
+    "wType": "RichText"
+}

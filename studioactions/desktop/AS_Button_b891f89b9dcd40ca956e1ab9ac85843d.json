@@ -1,0 +1,33 @@
+{
+    "AS_Button_b891f89b9dcd40ca956e1ab9ac85843d": {
+        "id": "AS_Button_b891f89b9dcd40ca956e1ab9ac85843d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segsystemnotificationlist",
+            "type": "templates",
+            "platform": null,
+            "KUID": "d464b9e354f6408ab3d88169f853e3bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_d255657f7a434dcd95bfbabc30b0b604",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_editNotification",
+            "display": "frmNotificationDashboard_editNotification",
+            "inputparams": [{
+                "name": "selected",
+                "value": " context"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

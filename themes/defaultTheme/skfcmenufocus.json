@@ -1,0 +1,31 @@
+{
+  "background_image": "hamburgerclick.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "background_image": "hamburgerclick.png",
+    "bg_type": "image"
+  },
+  "ipad": {
+    "background_image": "hamburgerclick.png",
+    "bg_type": "image"
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "background_image": "hamburgerclick.png",
+    "bg_type": "image"
+  },
+  "kuid": "sd5cd025f0b04592b680802fef03273f",
+  "spaip": {
+    "background_image": "hamburgerclick.png",
+    "bg_type": "image"
+  },
+  "spaipad": {
+    "background_image": "hamburgerclick.png",
+    "bg_type": "image"
+  },
+  "wType": "FlexContainer"
+}

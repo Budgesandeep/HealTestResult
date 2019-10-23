@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se3c5f03d1c047d186d2873a1c03906a",
+    "_srcKuid_": "fadedeb3d9cc4959ab0ad7bfc36755ff",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "btsmadministration",
+        "left": "0dp",
+        "text": "Button",
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "btsmadministration",
+    "instanceOf": "fadedeb3d9cc4959ab0ad7bfc36755ff",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m5bb46b2cdde478ca0a73883f2890201",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "fcmenufour",
+    "pf": "frmPatientSummary",
+    "topLevelInstanceKUID": "m64c885ce31d438eb5ae9c0d24e4f83e",
+    "wType": "Button"
+}

@@ -1,0 +1,10 @@
+{
+  "applicableblockedUIWidget": "Button",
+  "background_color": "56a9dd7f",
+  "bg_type": "one",
+  "blockedImgLocation": "middle",
+  "blockedimgURL": "loading.png",
+  "isDefaultSkin": false,
+  "kuid": "sc9a5fe495b4405cba86a5ead06e7f10",
+  "wType": "Blocked UI"
+}

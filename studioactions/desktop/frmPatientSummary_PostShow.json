@@ -1,0 +1,61 @@
+{
+    "AS_Form_330e4b0de5824fff878d7fb7a37278b1": {
+        "id": "AS_Form_330e4b0de5824fff878d7fb7a37278b1",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_PostShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___8e1d529d03ca4c15b4ee1093083016aa",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerTimeout",
+            "display": "registerTimeout",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___d3bed267576f4716b0cac001c13a299a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hideFormMenu",
+            "display": "hideFormMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___d808a52cf31e439297f2c73e6441cf58",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "load_headerdata",
+            "display": "load_headerdata",
+            "inputparams": [{
+                "name": "currentForm"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___5c04ea1e061c47b1aac4f47d5f8d359c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_resetFormData",
+            "display": "frmPatientSummary_resetFormData",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "facilitysmall.png",
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 20,
+    "context": {
+        "channel": "tablet",
+        "formID": "segFacility",
+        "ispercent": true,
+        "platform": "ipad",
+        "templateType": "segments",
+        "topLevelBox": true
+    },
+    "id": "imgFacility",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "d8a5f68281c943e38bd227306bcac172",
+    "name": "kony.ui.Image2",
+    "parent": "hboxFacility",
+    "pf": "segFacility",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

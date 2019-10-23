@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s83dbab24ae44f83922161e51318e97c",
+    "_text_": "Care Approach:",
+    "_top_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m4b9ee5fbe0c4b62b56bef8a65434d65",
+        "md0df8667e0f4692917f074f6b23ef43",
+        "m1374c64b1ed4ad885134e9552f5c444",
+        "m8ba5e57f1fd43b6aa9fc71c2f0ed246"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblcareapproach",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "2539233b2e5d48179c6c320f6e52a20f",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo1",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

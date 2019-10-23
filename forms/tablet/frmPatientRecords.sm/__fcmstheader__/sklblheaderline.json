@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s060ce6e58c54963a71034a7ad48e012",
+    "_srcKuid_": "5a8cd3e5fa2e4e15845feef325dacc72",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "5dp"
+        },
+        "id": "sklblheaderline",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "sklblheaderline",
+    "instanceOf": "5a8cd3e5fa2e4e15845feef325dacc72",
+    "isvisible": true,
+    "kuid": "maaebc36e9c14a48b8504fe91dcb5dfe",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcheaderline",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m05e9f99d3054402be7bdccb8e99e8f9",
+    "wType": "Label"
+}

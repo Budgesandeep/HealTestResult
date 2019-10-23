@@ -1,0 +1,26 @@
+{
+    "AS_Button_eb1f27f647ff488a8301e67c50b2f383": {
+        "id": "AS_Button_eb1f27f647ff488a8301e67c50b2f383",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ed0633c26ccb4b6c944c03c15a3a3681",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "CallextenstionResultTest",
+            "display": "CallextenstionResultTest",
+            "inputparams": [{
+                "name": "context"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "AS_Button_f2cc95af481248e3886005dae35ab118": {
+        "id": "AS_Button_f2cc95af481248e3886005dae35ab118",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e3112f4bd02f45e283682478ce558399",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupCreateTask_ValidateTask",
+            "display": "popupCreateTask_ValidateTask",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

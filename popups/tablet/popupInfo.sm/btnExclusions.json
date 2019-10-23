@@ -1,0 +1,40 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        2,
+        1,
+        2,
+        2
+    ],
+    "_skin_": "s666bce447c04cf4982cbf121fd177f6",
+    "_text_": "See Exclusions from Outcome Calculations",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "displaytext": true,
+    "focusskin": "s666bce447c04cf4982cbf121fd177f6",
+    "id": "btnExclusions",
+    "ide_onClick": "AS_Button_f45554b6defc4667b5f745dd4ac82167",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": false,
+    "kuid": "6256bab7fd5445ef9394f336e9e2ef38",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddinginpixel": false,
+    "parent": "vboxInfo",
+    "pf": "popupInfo",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

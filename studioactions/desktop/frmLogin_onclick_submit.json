@@ -1,0 +1,25 @@
+{
+    "AS_Button_58c6c088aa5e404790bd2404bb62ab74": {
+        "id": "AS_Button_58c6c088aa5e404790bd2404bb62ab74",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmLogin_onclick_submit",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "efa63e013ac343628ece37d3f15d5b1c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c700a97806ca4556b096a7383f3c09fc",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "loginModule.ValidateCredentials();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

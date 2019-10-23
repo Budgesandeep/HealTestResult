@@ -1,0 +1,59 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94ea975972e47e59838807a209c44e2",
+    "_srcKuid_": "m808497aa09d469b94ab989b9ef82f96",
+    "canUpdateUI": true,
+    "children": [
+        "lblwoundcarephysician",
+        "lblcasemanager",
+        "lblprimarycarephysician",
+        "lblwoundcarephysicianvalue",
+        "lblcasemanagervalue",
+        "lblprimarycarephysicianvalue",
+        "lblreferringphysician",
+        "lblreferringphysicianvalue"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "fcpatientinfo2",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "44%"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "27%"
+        },
+        "zIndex": 1
+    },
+    "id": "fcpatientinfo2",
+    "instanceOf": "m808497aa09d469b94ab989b9ef82f96",
+    "isvisible": true,
+    "kuid": "mf93272b35834de2bd9a66fc3e1b06f1",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexContainer0cb1ca31d6ed94d",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "FlexContainer"
+}

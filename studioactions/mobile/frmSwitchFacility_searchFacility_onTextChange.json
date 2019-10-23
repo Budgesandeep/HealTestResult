@@ -1,0 +1,32 @@
+{
+    "AS_TextField_b634a670ff6e49b6af5413b3675919a0": {
+        "id": "AS_TextField_b634a670ff6e49b6af5413b3675919a0",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSwitchFacility_searchFacility_onTextChange",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmSwitchFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f1bbfb796cb44a289f99041d537885c4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___de78e0910f9b4bb591006cfc0b76da47",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectFacility_search",
+            "display": "selectFacility_search",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_hcbf8fe301b146d3bc99ebe0a0d839af": {
+        "id": "AS_Button_hcbf8fe301b146d3bc99ebe0a0d839af",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_resolveConflict",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ca932c38b5dc48bc9d987268002f8937",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_btnResolveConflict",
+            "display": "frmPatientSummary_btnResolveConflict",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

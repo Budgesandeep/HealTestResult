@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_25ba4932f5094dba8c1a1b18dbcbddd8": {
+        "id": "AS_FlexContainer_25ba4932f5094dba8c1a1b18dbcbddd8",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "mastertopmenu",
+            "type": "masters",
+            "KUID": "85f7d9af654845e7a601e5b444d74516"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___519a3bb2d8e44edfa079f7ead76df43a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClick_Menu",
+            "display": "onClick_Menu",
+            "inputparams": [{
+                "name": "option",
+                "value": "\"settings\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

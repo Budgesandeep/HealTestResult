@@ -1,0 +1,27 @@
+{
+    "AS_Button_4e7d1fcefc8d4e5aabfa333afa5a4083": {
+        "id": "AS_Button_4e7d1fcefc8d4e5aabfa333afa5a4083",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmEncounters_breadcrumb_sideMenuClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "876d38c2de1848c78efa56e8dcb9c8d5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_4f503c52cc5d40bca874bc00e3febe9a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSideMenu",
+            "display": "menu_toggleSideMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

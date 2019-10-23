@@ -1,0 +1,29 @@
+{
+    "AS_Button_8a89f73938364e4a811d3469ee499e39": {
+        "id": "AS_Button_8a89f73938364e4a811d3469ee499e39",
+        "type": "ACTION_SEQUENCE",
+        "name": "popuptermsandconditions_btnAgreeclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupUserAcknowledgement",
+            "type": "popups",
+            "platform": "",
+            "KUID": "bc00232fcb234518a8bab5c466175596"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c5f2f1facc8b4a789668b95e62fd5c03",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popuptnc_onAccept",
+            "display": "popuptnc_onAccept",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

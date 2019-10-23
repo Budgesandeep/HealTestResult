@@ -1,0 +1,24 @@
+{
+    "AS_FlexContainer_a42ac1584ada454fbe4e958649d539e4": {
+        "id": "AS_FlexContainer_a42ac1584ada454fbe4e958649d539e4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_bda695a7fb0645d4b9cdda9cbb92a2d3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onClickPatientList",
+            "display": "frmPatientList_onClickPatientList",
+            "inputparams": [{
+                "name": "weeks",
+                "value": "\"1\""
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

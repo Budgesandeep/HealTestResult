@@ -1,0 +1,25 @@
+{
+    "AS_Form_h44072be3c3d457aa06f7a77865b41a5": {
+        "id": "AS_Form_h44072be3c3d457aa06f7a77865b41a5",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmHome_deeplink_authenticateByToken",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d9bc528d8e3a40d8b0e9930513508d69"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__j9217ae9b82744f2afe815e9fed0c688",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "\n//if(deepLinkInfo!=null && deepLinkInfo.isDeepLinkFlow!=null && deepLinkInfo.isDeepLinkFlow == true){\n // kony.print(\"frmHome_deeplink_authenticateByToken start\");\n  //loginModule.loginAuthenticateByToken();\n//}\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Button_566ba64e17464e1295f443d42d6cc21e": {
+        "id": "AS_Button_566ba64e17464e1295f443d42d6cc21e",
+        "type": "ACTION_SEQUENCE",
+        "name": "Popupnotes_Button_onClickSave",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e9875ae3a68a4a2aae88dc33b69a8e83",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "validate_Notes",
+            "display": "validate_Notes",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "AS_Button_d508ab6e89ea4430aee45034f1a9d773": {
+        "id": "AS_Button_d508ab6e89ea4430aee45034f1a9d773",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f0966a2184154b0d8d504284a22a054d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dashboard_showWCCDashboard",
+            "display": "dashboard_showWCCDashboard",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

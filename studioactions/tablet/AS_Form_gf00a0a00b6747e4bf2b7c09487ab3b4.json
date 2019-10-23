@@ -1,0 +1,40 @@
+{
+    "AS_Form_gf00a0a00b6747e4bf2b7c09487ab3b4": {
+        "id": "AS_Form_gf00a0a00b6747e4bf2b7c09487ab3b4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___g585ca9ff7f149e7a69a3abdfe053e10",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeConnectionStatus",
+            "display": "changeConnectionStatus",
+            "inputparams": [{
+                "name": "isOnLine"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___badc3f9126384d3bacdd0b3fe5728f53",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_closeSideMenu",
+            "display": "menu_closeSideMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

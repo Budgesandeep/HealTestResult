@@ -1,0 +1,74 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s0486f18541d4eeca1dfa643713e14ed",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "mab3a96f6bf4474d828c7f3a91e5742a",
+        "m9f1c087fadf43b6a374836d939a3d3c",
+        "mc450851eb89437fbb965173994215d5",
+        "m1cbc7f79bb04aa3967eb3bbf1106ba6",
+        "m9432d08655643d2b8861686de3f2129",
+        "m0a6a6a095964e26b09dcd05ddd1b8fc",
+        "mbfb2b8fe01b48e0a0a1347bcea720de",
+        "m180bcfff38a46b98fce4bb515cb3381"
+    ],
+    "children": [
+        "imgsettings",
+        "lblsettings"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s679c73ca2144ce7beed99f8efa4534f"
+        }
+    },
+    "enablescrolling": true,
+    "id": "fcsettings",
+    "ide_onClick": "AS_FlexContainer_25ba4932f5094dba8c1a1b18dbcbddd8",
+    "info": null,
+    "isvisible": false,
+    "kuid": "dc4e182c69604a749196391e195f5642",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fctopmenu",
+    "pf": "mastertopmenu",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 2
+}

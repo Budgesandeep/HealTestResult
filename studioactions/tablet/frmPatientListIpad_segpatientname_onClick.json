@@ -1,0 +1,32 @@
+{
+    "AS_Button_ba729b46883e4aabadc3e87ef7960b86": {
+        "id": "AS_Button_ba729b46883e4aabadc3e87ef7960b86",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientListIpad_segpatientname_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segpatientlistnew",
+            "type": "templates",
+            "platform": "",
+            "KUID": "663b8a1041c041ab832bdc418558c92f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cf336e54fdc048c0ac9e0d269902e3ae",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientDashboard",
+            "display": "showPatientDashboard",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

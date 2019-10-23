@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "169dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_render_": true,
+    "_skin_": "sde880ca22754d0e8380747987538a15",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "175dp"
+    },
+    "android": {
+        "render": true
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": false,
+    "focusskin": "sc1adbc800b74a6a9e4f38388b1ca70c",
+    "id": "btnhbo",
+    "ide_onClick": "AS_Button_fff4111527ab4922acc37a6624ec0663",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        },
+        "render": true
+    },
+    "isvisible": true,
+    "kuid": "b3c4cc9415374e89bd24fc503daed675",
+    "name": "kony.ui.Button",
+    "parent": "fcrowone",
+    "pf": "frmLanding",
+    "showprogressindicator": false,
+    "spaandroidtablet": {
+        "render": true
+    },
+    "spaipad": {
+        "render": true
+    },
+    "spawindowstablet": {
+        "render": true
+    },
+    "wType": "Button",
+    "windows8": {
+        "render": true
+    },
+    "zindex": 1
+}

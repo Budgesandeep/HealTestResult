@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_0484826dfd95447a923b7a7e085dff3c": {
+        "id": "AS_FlexContainer_0484826dfd95447a923b7a7e085dff3c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_fcupload_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_9ef618cf015a45749bc4070554cffbf5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onUpload_Click",
+            "display": "onUpload_Click",
+            "inputparams": [{
+                "name": "eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

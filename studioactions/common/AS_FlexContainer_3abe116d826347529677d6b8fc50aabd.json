@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_3abe116d826347529677d6b8fc50aabd": {
+        "id": "AS_FlexContainer_3abe116d826347529677d6b8fc50aabd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "masterpatientinfo",
+            "type": "masters",
+            "KUID": "c10a8adc2c6b49d5aa96dc629fefee62"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cb808124d90440f9a666ebfd19a2a64d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "patientSummary_togglePatientInfo",
+            "display": "patientSummary_togglePatientInfo",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

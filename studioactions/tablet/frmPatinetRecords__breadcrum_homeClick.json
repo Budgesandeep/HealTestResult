@@ -1,0 +1,27 @@
+{
+    "AS_Button_2f7f9a0e1a4546d2a7c1a3f6d184befd": {
+        "id": "AS_Button_2f7f9a0e1a4546d2a7c1a3f6d184befd",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatinetRecords__breadcrum_homeClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "476b8fb01b9f4332a3aed88ac14b67f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_0c228fc790d24767a48c69546c0fdd39",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showLandingScreen",
+            "display": "showLandingScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "AS_ListBox_59aed1fcddac466e95cfc6c99f3fdfcd": {
+        "id": "AS_ListBox_59aed1fcddac466e95cfc6c99f3fdfcd",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onSelection_1da98597378e4b91b8ca85854b942121",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "patientListTypeSelected",
+            "display": "patientListTypeSelected",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

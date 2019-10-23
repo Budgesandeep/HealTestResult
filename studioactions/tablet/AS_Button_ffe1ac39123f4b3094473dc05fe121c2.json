@@ -1,0 +1,35 @@
+{
+    "AS_Button_ffe1ac39123f4b3094473dc05fe121c2": {
+        "id": "AS_Button_ffe1ac39123f4b3094473dc05fe121c2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g05ad9ee8e5346a186c5b346a773ce78"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e26e5cfc75554b408e799f4a30ad50eb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "viewOptionClicked",
+            "display": "viewOptionClicked",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_g250d3f90b474b2cb1a3294f52f8ce46",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"view more clicked\");",
+            "callbackType": null
+        }]
+    }
+}

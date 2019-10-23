@@ -1,0 +1,35 @@
+{
+    "AS_Button_8c0d45f793774be3a0bb444cd32d982e": {
+        "id": "AS_Button_8c0d45f793774be3a0bb444cd32d982e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasks_onClick_OpenTasks",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "d493fbc8f7f943c48f5705954bffc978"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__43497be8bc884a94a5736dfa088d1a61",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "showLoadingScreen();\ntaskListModule.frmViewTaks_removeCircles();\nfrmViewTasks.btnopentask.skin=\"sknbtnwhitebgblack85\";\nfrmViewTasks.btnCompleted.skin=\"sknbtntransbgwhite85\";\nfrmViewTasks.btnall.skin=\"sknbtntransbgwhite85\";\ntaskListModule.processTaskList(task_info.STATUS_OPEN);\n",
+            "parentId": null,
+            "callbackType": null,
+            "disabled": true
+        }, {
+            "id": "INVOKE_FUNCTION___2ddb446318d34db9895584ab8621e678",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasks_getOpenTasks",
+            "display": "frmViewTasks_getOpenTasks",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

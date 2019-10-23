@@ -1,0 +1,75 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s530e2ba15914b74a5ba1b7d5044f669",
+    "_top_": {
+        "type": "number",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "1dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m52e403d88c3493395533683145dae0b",
+        "mb08039922c14f4faf92071398e52470",
+        "mf12602da270460eb7c7422ed591c608",
+        "m57efd9de78a4e0480f0f23e17633590",
+        "mb81314a354a4c2e85d37dde323c051f",
+        "m3a4b57e3de7443eb6a39b7d12b84e62",
+        "m1f07dc8dbe54b9980dce3d2943f9987",
+        "m390e41003da454fa562f8486e01779f",
+        "mf74938241ee46a4b386278cb8551aa6",
+        "m7e7c2c8d03945f29b737a8fce809f36",
+        "m3dd896af02045e884caaab125826603",
+        "me451827e89846fb93ae76649fe8ee22",
+        "md8091ee40ea4f9db14a49d7934e91b9",
+        "m1de31169ae54a26ad2e159e6097e4a5"
+    ],
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcvertline",
+    "info": null,
+    "isvisible": true,
+    "kuid": "92d1a16bc1cd423dad1d79ba0d519a2c",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcheaderleft",
+    "pf": "masterheader",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

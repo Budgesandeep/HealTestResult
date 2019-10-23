@@ -1,0 +1,29 @@
+{
+    "AS_Button_eaf00fc9ca61425689e0e3d5be677fda": {
+        "id": "AS_Button_eaf00fc9ca61425689e0e3d5be677fda",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_showPatientList",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c1036ed9851b4e349468b163cfd17033",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getFilter",
+            "display": "getFilter",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

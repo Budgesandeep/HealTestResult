@@ -1,0 +1,22 @@
+{
+    "AS_Button_21a4737bb9544968a5d937783f8b46bf": {
+        "id": "AS_Button_21a4737bb9544968a5d937783f8b46bf",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmEncounters_showPatientRecords",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_6be83a0bb54d4da9bfaf336a918698b4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_showForm",
+            "display": "frmPatientRecords_showForm",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "AS_TextField_he9133a8a6c149839b3b4117e8511742": {
+        "id": "AS_TextField_he9133a8a6c149839b3b4117e8511742",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmNotificationDashboard_TitlechangeiPad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cab4726e98a54a46b502cec3bf459b1a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_textBoxEditing",
+            "display": "frmNotificationDashboard_textBoxEditing",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Button_877b209598c94c0999abab314c138cc9": {
+        "id": "AS_Button_877b209598c94c0999abab314c138cc9",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmencounters_breadcrumb_homeClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "876d38c2de1848c78efa56e8dcb9c8d5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_0ad6d5c6399f40c187a1d75955e55dc9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showLandingScreen",
+            "display": "showLandingScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

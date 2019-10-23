@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s58970ce497b4a7280bad6dc170a34df",
+    "_text_": "&copy; All Rights Reserved.",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m29a72b610cb4a12a1b0f141cde40f21",
+        "m59fcf88bdf94cd2a3e2be314a20590e",
+        "m1590162f8f44117b5a0df7a4c5560f4",
+        "m5d2dbf41121449ead640654cdfddc79",
+        "md3b156bd85e4089a8f79006070cdfae",
+        "md40d4e93c164dc0905ce4036bab2adf",
+        "meccf2f39ef44a3281bdebe1acabe534",
+        "mab95ce3c9734aa7a159568455dfd766"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rcfooter",
+    "info": null,
+    "isvisible": true,
+    "kuid": "214c8a06b0b548a980cc2a8e4572ba09",
+    "name": "kony.ui.RichText",
+    "paddingLocked": false,
+    "parent": "fcmstfooter",
+    "pf": "masterfooter",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

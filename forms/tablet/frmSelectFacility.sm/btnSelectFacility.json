@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s41625d1db5846a89c3de11de529a451",
+    "_text_": "Select",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s41625d1db5846a89c3de11de529a451",
+    "id": "btnSelectFacility",
+    "ide_onClick": "AS_Button_8aca4f8d4505493ba67df7b0ec4ae133",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "e3c2ed2d342a406d86efea2237a77f11",
+    "name": "kony.ui.Button",
+    "parent": "fcloginmainbody",
+    "pf": "frmSelectFacility",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

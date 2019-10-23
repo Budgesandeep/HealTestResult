@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7d79e6e54a441d3a41f1caf37b15220",
+    "_srcKuid_": "mfdec51ef63c4b54b1de51f7fc080b82",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lblcareapproach",
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Care Approach:",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "50%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblcareapproach",
+    "instanceOf": "mfdec51ef63c4b54b1de51f7fc080b82",
+    "isvisible": true,
+    "kuid": "m007fe9a54394dcc9f7d6e7d1305b25a",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo1",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

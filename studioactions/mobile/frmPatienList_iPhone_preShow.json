@@ -1,0 +1,29 @@
+{
+    "AS_Form_a373a6c6606646e585440838a7b29b6e": {
+        "id": "AS_Form_a373a6c6606646e585440838a7b29b6e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatienList_iPhone_preShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a47cd5c8b4344d0fb6212b46230e40b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___eae1764830c14aa99e9b26c6c94859e0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientListiPhone_PreShow",
+            "display": "frmPatientListiPhone_PreShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

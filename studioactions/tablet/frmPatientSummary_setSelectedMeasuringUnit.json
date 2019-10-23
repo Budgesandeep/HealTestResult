@@ -1,0 +1,35 @@
+{
+    "AS_Segment_757dc97032b8427f9341392322c6c82f": {
+        "id": "AS_Segment_757dc97032b8427f9341392322c6c82f",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_setSelectedMeasuringUnit",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a04638feb25441c698e4c914625922c8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_setUnit",
+            "display": "frmPatientSummary_setUnit",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

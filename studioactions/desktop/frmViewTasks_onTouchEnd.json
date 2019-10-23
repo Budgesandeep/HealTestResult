@@ -1,0 +1,34 @@
+{
+    "AS_Form_fd0f31e7709f482bbfd94a6d091b366c": {
+        "id": "AS_Form_fd0f31e7709f482bbfd94a6d091b366c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasks_onTouchEnd",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "d493fbc8f7f943c48f5705954bffc978"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bf57bbd6e6e246d191fedf41c106d5b2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasks_onTouchEnd",
+            "display": "frmViewTasks_onTouchEnd",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

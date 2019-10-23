@@ -1,0 +1,18 @@
+{
+    "AS_Button_5a2fd09361534b529abe789748387bf0": {
+        "id": "AS_Button_5a2fd09361534b529abe789748387bf0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "960b9e97c6434d4690c4676a81b9c91a"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

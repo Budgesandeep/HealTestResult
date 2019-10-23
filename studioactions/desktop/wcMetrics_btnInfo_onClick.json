@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_c34f938f0a7a4b3b9e2468c7c039fb81": {
+        "id": "AS_FlexContainer_c34f938f0a7a4b3b9e2468c7c039fb81",
+        "type": "ACTION_SEQUENCE",
+        "name": "wcMetrics_btnInfo_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___78f297f542e14b1fa695e72763237237",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmWCCMetrics_btnInfo_onClick",
+            "display": "frmWCCMetrics_btnInfo_onClick",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

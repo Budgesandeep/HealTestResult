@@ -1,0 +1,28 @@
+{
+    "AS_Button_6a7c4139f1d2409aa4e995b40adcd76c": {
+        "id": "AS_Button_6a7c4139f1d2409aa4e995b40adcd76c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d168d91e1ff54481a67c8a7c906d9ef9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___jba52ed896244a759ceb5876f7c4e466",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getFilter",
+            "display": "getFilter",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

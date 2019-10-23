@@ -1,0 +1,84 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "8dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "headerarrow.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m10bbe4134ed42d1a06071cd5d853476",
+        "mf03452bd53b460f8dbbc1ad4608f6c2",
+        "m264c4ebb5564609aa6b719b31c71196",
+        "m019657ee49b4f339b8f23c8e1039a96",
+        "m7910de14274469a9508597ea0d1e62b",
+        "m897c6e8d5d14f42a595359adbeaca4a",
+        "me43accbe34b43d38f5215dbc3eb7116",
+        "md41f049516c4a3899c21f73c82e727a",
+        "m3f33148601b44e8a1cb8d2ac2595331",
+        "m1195a3ae67b417eaf2c9028d3cf2d2c",
+        "mf86351993fb47529194522dfaf0395a",
+        "m0f527f8fb344c0482b2650116f5336b",
+        "m4d7c6fd4b58480ab6fcfd29a9f9f12a",
+        "mb010dadb00c4393a1b6fa9f88ffcdf7"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "masterheader",
+        "platform": "desktopweb",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgmenu",
+    "imagescalemode": 1,
+    "imagewhenfailed": "downarrow.png",
+    "imagewhiledownloading": "downarrow.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "abff1bdf66bf4c8890dbae8ff4bb8407",
+    "name": "kony.ui.Image2",
+    "parent": "fcsubmenu",
+    "pf": "masterheader",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

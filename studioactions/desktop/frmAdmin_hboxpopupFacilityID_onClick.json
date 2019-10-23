@@ -1,0 +1,32 @@
+{
+    "AS_HBox_e07a648c5f544bbea4b848cff06863b8": {
+        "id": "AS_HBox_e07a648c5f544bbea4b848cff06863b8",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_hboxpopupFacilityID_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupAdminSearchby",
+            "type": "popups",
+            "platform": "",
+            "KUID": "b561a14bc2b34b56b6cd46359591d6f4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___08b0695f209d48f5bd5fb1fa595adfa4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdmin_OnSearchTypeSegmentSelection",
+            "display": "frmAdmin_OnSearchTypeSegmentSelection",
+            "inputparams": [{
+                "name": "selectedRow",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

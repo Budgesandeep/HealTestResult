@@ -1,0 +1,19 @@
+{
+    "AS_AppEvents_f252aa906b34423bb8e95c8261dfc192": {
+        "id": "AS_AppEvents_f252aa906b34423bb8e95c8261dfc192",
+        "type": "ACTION_SEQUENCE",
+        "name": "Mobile_postapponit_call",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__b83f308c67ab483295f0e74c69a08746",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "// serviceIntegration.initMF();\n\nvar isFirstTimeSync = getDataFromLocalStore(SYNC_CONSTANTS.syncInit);///To know whether this is firstTimeSync or not.\nkony.print(\"The value in isFirstTimeSync is -> \", isFirstTimeSync);\nif(isFirstTimeSync !== null)////will not be null if value already stored for first time.\n{\n    if(isNetworkAvailable()){///network is there and then go inside\n      ///At all time mfInit has to be initialized but not initSyncSession\n      \n      if (!com.healogics.mfutility.mfConnected()){///If MF Init not initialized\n\t\t\t\tserviceIntegration.initMF();\n        \t//if(isFirstTimeSync == \"false\")///if the value is set to false, we have to initialize the MF Init.\n     \t\t{\n         \t \tinitSyncSession();   ///if already once initSyncSession happens, no need to start again. \n        \t}\n  \t\t}\n      \n//   \t\tif(isFirstTimeSync == \"false\")///if the value is set to false, we have to initialize the MF Init.\n//      \t{\n//        \t\tif (!com.healogics.mfutility.mfConnected()){///If MF Init not initialized\n// \t\t\t\tserviceIntegration.initMF();\n// \t\t\t\tinitSyncSession();    \n//   \t\t\t}\n//      \t}else{///if key is true but the app was started again - will be called always when app is relaunched\n//           if (!com.healogics.mfutility.mfConnected()){///If MF Init not initialized\n// \t\t\t\tserviceIntegration.initMF();\n// \t\t\t\tinitSyncSession();    \n//   \t\t\t}\n//           kony.print(\"When isFirstTimeSync Key is True, initMF again -> \", isFirstTimeSync);\n//         }\n\t}else{///if network not there, check whether values of applist is there or not.\n      var isApplistAvailable = getDataFromLocalStore(SYNC_CONSTANTS.isAppListDownload);\n      kony.print(\"The value in isApplistAvailable is -> \", isApplistAvailable);\n      if(isApplistAvailable !== null)////will not be null if value already stored for first time.\n\t  {\n        if(isApplistAvailable == \"false\")///if the value is set to false, we have to initialize the MF Init.\n     \t{\n         \tkony.print(\"The value in isApplistAvailable inside is -> \", isApplistAvailable);\n          ///No values saved yet for Applist\n          if (!com.healogics.mfutility.mfConnected()){///Since in offline and no data, user has to restart the app\n\t\t\t\tkony.print(\"The value in isApplistAvailable deep inside is -> \", isApplistAvailable);\t\n            \tserviceIntegration.initMF();\n            \t//initSyncSession();\n  \t\t\t}\n        }///in true nothing needs to be done and let the user work\n        \n        initSyncSession();\n        \n      }else{////check whether the data is available or not (for offline condition only)\n        com.healogics.utility.displayAlert(\"Offline data not available, please relaunch the app when network is available.\");\n      }\n    }\n}else{///Doesn't matter if internet or not there. Have to get MF initialized before entering the app.\n         if (!com.healogics.mfutility.mfConnected()){///If MF Init not initialized\n\t\t\tserviceIntegration.initMF();\n\t\t\tinitSyncSession();    \n  \t\t}\n}\n\nsetCallBacks();\n",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

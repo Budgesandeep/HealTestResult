@@ -1,0 +1,44 @@
+{
+    "AS_TextField_a23620c4343740b6915ad81b558df99b": {
+        "id": "AS_TextField_a23620c4343740b6915ad81b558df99b",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_txbox_onBeginediting",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "b121a89f1f3c4ff480bb9fd56c40d598"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___db7312f44fca4df59c6a44ffaed9a04f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "searchPatient_closeSearchList",
+            "display": "searchPatient_closeSearchList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___bb8da2220f1d4e4ea0272ffdd7a2cc2a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "healingsubsteps_txtxboxListener",
+            "display": "healingsubsteps_txtxboxListener",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

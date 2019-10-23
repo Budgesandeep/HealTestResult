@@ -1,0 +1,31 @@
+{
+    "AS_Button_b3bb7f616a7e4e4aa65697fbea944c50": {
+        "id": "AS_Button_b3bb7f616a7e4e4aa65697fbea944c50",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_Button_onBcPatientListClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2cbce3ebd4494532a8714a859adbb8b2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dashboard_showPatientList",
+            "display": "dashboard_showPatientList",
+            "inputparams": [{
+                "name": "str"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

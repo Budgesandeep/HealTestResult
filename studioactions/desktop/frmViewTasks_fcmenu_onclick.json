@@ -1,0 +1,22 @@
+{
+    "AS_FlexContainer_e2ed401d33b54459809b469b301b3d7e": {
+        "id": "AS_FlexContainer_e2ed401d33b54459809b469b301b3d7e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasks_fcmenu_onclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_fcc74b69cc744494a5f059a9659e841f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSideMenu",
+            "display": "menu_toggleSideMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

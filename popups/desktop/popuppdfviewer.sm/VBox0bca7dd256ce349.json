@@ -1,0 +1,44 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizVBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s0e154f3b32f46ef8d5740e8ebd60080",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "HBox0f663b4ccd16b45",
+        "brwsWidget"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "VBox0bca7dd256ce349",
+    "info": null,
+    "isvisible": true,
+    "kuid": "da03d91dab924073a2a79fb07d4c9322",
+    "layouttype": 0,
+    "name": "kony.ui.Box",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "hboxaddtask",
+    "pf": "popuppdfviewer",
+    "wType": "VBox",
+    "widgetalignment": 1
+}

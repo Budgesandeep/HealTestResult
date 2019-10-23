@@ -1,0 +1,27 @@
+{
+    "AS_Button_69ac0b3722e947869da960095a6313df": {
+        "id": "AS_Button_69ac0b3722e947869da960095a6313df",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb14c6f9d5a447179393e04161a90a24"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e7edd6c99f054701bd1602eef46b66d0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getFilter",
+            "display": "getFilter",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "AS_Button_e879a21227c44f1eabdd6cd11b6116b9": {
+        "id": "AS_Button_e879a21227c44f1eabdd6cd11b6116b9",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b57ea925e8f04989b474703bb95aaeb4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_showGraphicalView",
+            "display": "frmPatientSummary_showGraphicalView",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

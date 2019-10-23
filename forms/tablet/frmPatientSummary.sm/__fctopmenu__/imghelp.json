@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "e7cd777916044cb595e12df0e2f0cde4",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "imghelp",
+        "imageScaleMode": 1,
+        "left": "3dp",
+        "src": "help.png",
+        "width": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imghelp",
+    "instanceOf": "e7cd777916044cb595e12df0e2f0cde4",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m83e7394772442688eb23601d3c1c2ee",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fchelp",
+    "pf": "frmPatientSummary",
+    "topLevelInstanceKUID": "mfb0179d080d4e079db9ff09612f2bcd",
+    "wType": "Image"
+}

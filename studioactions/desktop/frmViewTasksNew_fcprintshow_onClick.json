@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_884f6192550848638aa9fbc7257966b4": {
+        "id": "AS_FlexContainer_884f6192550848638aa9fbc7257966b4",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_fcprintshow_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewTasksNew",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bfb191a286c647a0b17af3319a39e54b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___fdac89d3d98a40cdad8b3a7a685b8322",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "show_printMenu",
+            "display": "show_printMenu",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

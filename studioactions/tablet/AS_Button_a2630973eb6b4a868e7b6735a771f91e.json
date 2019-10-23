@@ -1,0 +1,27 @@
+{
+    "AS_Button_a2630973eb6b4a868e7b6735a771f91e": {
+        "id": "AS_Button_a2630973eb6b4a868e7b6735a771f91e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c23c24cb5f7a4905b17e0738887ef72f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_btnOpenCPGLinksClick",
+            "display": "frmPatientSummary_btnOpenCPGLinksClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

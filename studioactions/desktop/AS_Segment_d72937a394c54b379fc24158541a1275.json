@@ -1,0 +1,37 @@
+{
+    "AS_Segment_d72937a394c54b379fc24158541a1275": {
+        "id": "AS_Segment_d72937a394c54b379fc24158541a1275",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "popupAdminSearchby",
+            "type": "popups",
+            "platform": null,
+            "KUID": "b561a14bc2b34b56b6cd46359591d6f4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a42591854eed45a5871eceac0f7ef391",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdmin_OnSearchTypeSegmentSelection",
+            "display": "frmAdmin_OnSearchTypeSegmentSelection",
+            "inputparams": [{
+                "name": "selectedRow",
+                "value": " rowNumber"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "42dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf8895f2fe9042cdb69966204e72cb3b",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m15479410c424373a22df331b4b529c7",
+        "ma8b9231ea7c4907af44d005abde7686",
+        "m75c99f908d74a97b29c4ffc84d0a82c",
+        "mdc9abf609c041c0a682e1f68af3dfd1"
+    ],
+    "children": [
+        "imgExportPdf",
+        "lblExportPdf"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s679c73ca2144ce7beed99f8efa4534f"
+        }
+    },
+    "enablescrolling": true,
+    "id": "fcExportPdf",
+    "ide_onClick": "AS_FlexContainer_15e764ba0b38408184de4529f3a50bdd",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b9b0f935d30347a695c0bd62f516a008",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcPrintMenu",
+    "pf": "masterPrintMenu",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 2
+}

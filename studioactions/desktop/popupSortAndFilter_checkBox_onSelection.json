@@ -1,0 +1,32 @@
+{
+    "AS_CheckBoxGroup_330ea310a2554f46b953c54b20b143ba": {
+        "id": "AS_CheckBoxGroup_330ea310a2554f46b953c54b20b143ba",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupSortAndFilter_checkBox_onSelection",
+        "params": [{
+            "name": "eventobject",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "popupsortandfilter",
+            "type": "popups",
+            "platform": "",
+            "KUID": "665d512a1254439f93272064ebd29760"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ae500fbb629943e885d5009f392ed023",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupFilter_checkBox_onSelection",
+            "display": "popupFilter_checkBox_onSelection",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

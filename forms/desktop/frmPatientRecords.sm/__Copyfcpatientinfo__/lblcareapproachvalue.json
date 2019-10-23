@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8495de19ae14478a4519885873b7c18",
+    "_srcKuid_": "mabaa48e946a4356896088eed0af19c6",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lblcareapproachvalue",
+        "right": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Palliative",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "50%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblcareapproachvalue",
+    "instanceOf": "mabaa48e946a4356896088eed0af19c6",
+    "isvisible": true,
+    "kuid": "m409f0d75ce043ec9e1ad0b1d2f9dc95",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo1",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

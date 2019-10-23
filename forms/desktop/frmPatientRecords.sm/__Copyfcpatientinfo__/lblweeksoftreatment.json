@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7d79e6e54a441d3a41f1caf37b15220",
+    "_srcKuid_": "m91b2965b0974ae3b046a03881396b53",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lblweeksoftreatment",
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Weeks in treatment:",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "75dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "45%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblweeksoftreatment",
+    "instanceOf": "m91b2965b0974ae3b046a03881396b53",
+    "isvisible": true,
+    "kuid": "m907ad26ff0f4cd0a0c5895c98e6eda3",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo3",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

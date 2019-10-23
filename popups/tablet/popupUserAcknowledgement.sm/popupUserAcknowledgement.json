@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sb21be05299c4689b5743889cad85d65",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "hboxtermsandconditions"
+    ],
+    "containerweight": 70,
+    "currentLocale": "default",
+    "device": "iPad3",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "popupUserAcknowledgement",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ismodal": true,
+    "isvisible": true,
+    "kuid": "6a5fab464d934f37a5d743f140e1c715",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "ipad",
+    "prevDevice": "iPad3",
+    "prevPlatform": "ipad",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPad3",
+    "titlebar": true,
+    "transparencybehindthepopup": 30,
+    "wType": "Popup"
+}

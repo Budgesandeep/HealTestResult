@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0d48d4a79bd4d1498e302e07415b738",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "30%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sfa6c12673c24ac0b768c5c00d76cac4"
+        }
+    },
+    "displaytext": false,
+    "focusskin": "s0d48d4a79bd4d1498e302e07415b738",
+    "id": "btnphotomobile",
+    "info": null,
+    "isvisible": false,
+    "kuid": "cdef54a4db9a4dcbaab4dce117432ecd",
+    "name": "kony.ui.Button",
+    "parent": "fcrowtwo",
+    "pf": "frmApps",
+    "wType": "Button",
+    "zindex": 1
+}

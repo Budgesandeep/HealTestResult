@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "_text_": "View More",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "200dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "53%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "id": "btnViewMore",
+    "ide_onClick": "AS_Button_091a899d5f8d427788578a037c6bfccb",
+    "info": null,
+    "isvisible": true,
+    "kuid": "60976434485c4554ba0dfefa465203bd",
+    "name": "kony.ui.Button",
+    "parent": "fcpaginatebuttons",
+    "pf": "frmPatientRecords",
+    "wType": "Button",
+    "zindex": 1
+}

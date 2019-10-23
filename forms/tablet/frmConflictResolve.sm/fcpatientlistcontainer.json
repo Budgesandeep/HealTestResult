@@ -1,0 +1,55 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s530e2ba15914b74a5ba1b7d5044f669",
+    "_top_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "fcpatientlistline",
+        "FlexScrollContainer0f3a99313eb5343",
+        "segninestephealing"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcpatientlistcontainer",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b87b6781bb0d48c4a595935b37929bf9",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcparentpatientlist",
+    "pf": "frmConflictResolve",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

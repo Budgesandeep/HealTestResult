@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_5ac1b8b9fdda46bda495091efd3c308b": {
+        "id": "AS_FlexContainer_5ac1b8b9fdda46bda495091efd3c308b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLanding",
+            "type": "forms",
+            "platform": null,
+            "KUID": "280892d65ab245a7a7f58f9cb4b12dc0"
+        },
+        "sourceObj": {
+            "itemKUID": "5b6f549504be45a7b888471691b5dd4f",
+            "widgetKUID": "10012846562346608f217f43ee55ca3a",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

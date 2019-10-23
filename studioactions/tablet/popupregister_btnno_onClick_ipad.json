@@ -1,0 +1,25 @@
+{
+    "AS_Button_gbb83b0ce833405d84e47dea5c769536": {
+        "id": "AS_Button_gbb83b0ce833405d84e47dea5c769536",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupregister_btnno_onClick_ipad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_eaab8d1ead0e410a8589592edec4d952",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerPopup_click",
+            "display": "registerPopup_click",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

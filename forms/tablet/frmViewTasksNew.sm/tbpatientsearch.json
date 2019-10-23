@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "First Name / Last Name",
+    "_right_": {
+        "type": "string",
+        "value": "5.50%"
+    },
+    "_skin_": "s98b904c3673430ca52553598f32d4c8",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "s98b904c3673430ca52553598f32d4c8",
+    "id": "tbpatientsearch",
+    "ide_onTextChange": "AS_TextField_180f725b5a084422bfb654d4bc180424",
+    "info": null,
+    "ipad": {
+        "ide_onEndEditing": "AS_TextField_56d21a3a973043509d1e44bbd7fc80a8",
+        "psp": {
+            "showClearButton": false
+        }
+    },
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "6e48415eee604f3e8878e0d390468a54",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "fctasksearch",
+    "pf": "frmViewTasksNew",
+    "securetextentry": false,
+    "showclearbutton": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

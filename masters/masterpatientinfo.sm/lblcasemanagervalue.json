@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "sa8abdf651b14f72be81ff5983d75713",
+    "_text_": "Dr. Eric Mathew",
+    "_top_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "50%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "md4d9adabfcc4787a9f6a07293e1e2c2",
+        "mf0e3749e9be47ba8072318d3ad3b500",
+        "m0f264a727214781b0ae46f84e5b3d6e",
+        "m6d25394f14149338f3b343ccff236a1"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblcasemanagervalue",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "647c3fce223e4ea8a390be8f45e543fd",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo2",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

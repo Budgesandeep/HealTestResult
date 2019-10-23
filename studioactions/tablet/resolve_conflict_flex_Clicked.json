@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_cc36a9843fc74a44a5672bbcef8e2d0a": {
+        "id": "AS_FlexContainer_cc36a9843fc74a44a5672bbcef8e2d0a",
+        "type": "ACTION_SEQUENCE",
+        "name": "resolve_conflict_flex_Clicked",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb14c6f9d5a447179393e04161a90a24"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cd30b50aed4c40b493f4790e99d4ba9e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showConflictResolution",
+            "display": "showConflictResolution",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

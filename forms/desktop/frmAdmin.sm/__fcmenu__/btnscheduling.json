@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s591dcd3a2c6408ebc2c73c5ad212969",
+    "_srcKuid_": "d1c21d5d2a1842d4bfdda63bbcd8bc1a",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "btnscheduling",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "Button",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "btnscheduling",
+    "instanceOf": "d1c21d5d2a1842d4bfdda63bbcd8bc1a",
+    "isvisible": true,
+    "kuid": "m08ec290186c4ed48362890e0ea9c5b4",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "fcmenunine",
+    "pf": "frmAdmin",
+    "topLevelInstanceKUID": "m0ae11f3de5744ed815bc187b474ab90",
+    "wType": "Button"
+}

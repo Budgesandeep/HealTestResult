@@ -1,0 +1,21 @@
+{
+    "AS_Button_j9cdf7f955154c54865881e39dc89bef": {
+        "id": "AS_Button_j9cdf7f955154c54865881e39dc89bef",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_hf0ac0ecb69c4b9e917ac2b889a2691c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "_openAppStoreLink",
+            "display": "_openAppStoreLink",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

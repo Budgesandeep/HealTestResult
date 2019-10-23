@@ -1,0 +1,157 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgBackground": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "onelinearrownormal.png"
+            },
+            "imgTestResultUpload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "upload.png"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTestType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Consults"
+            }
+        },
+        {
+            "imgBackground": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "onelinearrownormal.png"
+            },
+            "imgTestResultUpload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "upload.png"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTestType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Laboratory"
+            }
+        },
+        {
+            "imgBackground": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "onelinearrownormal.png"
+            },
+            "imgTestResultUpload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "upload.png"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTestType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Radiology"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "22%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentTestResults",
+    "ide_onRowClick": "AS_Segment_f11c2d432de2455e85af51c415d877b5",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "f82a925221cf4aaea2552f5efeca146e",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "fcTestResults",
+    "pf": "frmPatientTestResults",
+    "retainselection": false,
+    "rowTemplateId": "de82b313df0b452d9d2e805f829e2164",
+    "rowcounter": 2,
+    "rowfocusskin": "s1424a1698dd48bc8967d8eeb4b44c33",
+    "rowskin": "s89929f1e9b346e58cd0b35db55e0163",
+    "rowtemplate": "fcTestResult",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff00",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "fcTestResult": "fcTestResult",
+        "fcUpload": "fcUpload",
+        "imgBackground": "imgBackground",
+        "imgTestResultUpload": "imgTestResultUpload",
+        "lblLine": "lblLine",
+        "lblTestType": "lblTestType"
+    },
+    "zindex": 1
+}

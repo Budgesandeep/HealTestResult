@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scdb84b003ba4e34b9759e13008dc48f",
+    "_srcKuid_": "96e72c1c4ba14835b955d669f11482f1",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "rchfacility",
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Facility: AA007 Training Facility Facility: AA007 Training Facility Facility: AA007 Training Facility Facility: AA007 Training Facility Facility: AA007 Training Facility ",
+        "top": {
+            "type": "string",
+            "value": "2dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "rchfacility",
+    "instanceOf": "96e72c1c4ba14835b955d669f11482f1",
+    "isvisible": true,
+    "kuid": "me10bd17bd6342928326af49aec2ab31",
+    "masterInstance": true,
+    "name": "kony.ui.RichText",
+    "parent": "fcusername",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m05e9f99d3054402be7bdccb8e99e8f9",
+    "wType": "RichText"
+}

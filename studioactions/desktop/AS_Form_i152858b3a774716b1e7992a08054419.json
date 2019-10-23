@@ -1,0 +1,25 @@
+{
+    "AS_Form_f970dd483282468a8aa2006d3863c773": {
+        "id": "AS_Form_f970dd483282468a8aa2006d3863c773",
+        "type": "ACTION_SEQUENCE",
+        "name": "AS_Form_i152858b3a774716b1e7992a08054419",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d9bc528d8e3a40d8b0e9930513508d69"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a78fd8d4e7b744e69802b22ba978f948",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.timer.cancel(\"loadingTimer\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

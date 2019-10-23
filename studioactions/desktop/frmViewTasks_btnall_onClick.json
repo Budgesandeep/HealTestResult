@@ -1,0 +1,28 @@
+{
+    "AS_Button_fca752c68a1c4dc4bdea69ae71c2a304": {
+        "id": "AS_Button_fca752c68a1c4dc4bdea69ae71c2a304",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasks_btnall_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "d493fbc8f7f943c48f5705954bffc978"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___24cb9f0f035b42e9b7370950fa3d3e43",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasks_getAllTasks",
+            "display": "frmViewTasks_getAllTasks",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

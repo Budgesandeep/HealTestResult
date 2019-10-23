@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_a84d8417483c4a5ca217208e96549eae": {
+        "id": "AS_FlexContainer_a84d8417483c4a5ca217208e96549eae",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g05ad9ee8e5346a186c5b346a773ce78"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a65eb673c71c4f7b8a6df45ce518aa3e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickSearchClose",
+            "display": "onClickSearchClose",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "AS_Button_9e27781643594821939a2e37ae3984a6": {
+        "id": "AS_Button_9e27781643594821939a2e37ae3984a6",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_btnmenu_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_33d5fd4c069341c799fba15d42a7471c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSideMenu",
+            "display": "menu_toggleSideMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

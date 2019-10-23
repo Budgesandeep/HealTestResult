@@ -1,0 +1,46 @@
+{
+    "AS_Form_8affbd4f91c74503b8b501cde7b3f1ed": {
+        "id": "AS_Form_8affbd4f91c74503b8b501cde7b3f1ed",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "bbd3da3a8fe1433684456a0103e8e1c6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_postShow_32356d0817154539805324d779a293d8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hideFormMenu",
+            "display": "hideFormMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION__ide_postShow_91385a54e3a74c899330d5689ccee9ca",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "load_headerdata",
+            "display": "load_headerdata",
+            "inputparams": [{
+                "name": "currentForm"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION__ide_postShow_31c404dfd4dc48fab0abe3f75bb8e60b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerTimeout",
+            "display": "registerTimeout",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

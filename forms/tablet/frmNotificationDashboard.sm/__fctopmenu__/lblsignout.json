@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_srcKuid_": "dc26fe2c829d4ed5be4cab145702e5ae",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblsignout",
+        "left": "35dp",
+        "text": "Logout",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblsignout",
+    "instanceOf": "dc26fe2c829d4ed5be4cab145702e5ae",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "mdd3c83441d54479a3f15c0ecdb07c88",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcsignout",
+    "pf": "frmNotificationDashboard",
+    "topLevelInstanceKUID": "mba2251a7e2c4dbbb68a9280f10a4c22",
+    "wType": "Label"
+}

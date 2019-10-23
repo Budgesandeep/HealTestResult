@@ -1,0 +1,29 @@
+{
+    "AS_Button_2e09a9b069e44ecf826003aa5a42a707": {
+        "id": "AS_Button_2e09a9b069e44ecf826003aa5a42a707",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupsortandfilter",
+            "type": "popups",
+            "platform": null,
+            "KUID": "0e6984a8a37d41779e423469a004eea7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f9b3f06c46ab4c64944d383cecf96b41",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_FilterPopup_Clear_Apply",
+            "display": "frmPatientList_FilterPopup_Clear_Apply",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

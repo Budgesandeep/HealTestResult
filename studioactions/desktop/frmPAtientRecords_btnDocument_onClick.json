@@ -1,0 +1,35 @@
+{
+    "AS_Button_80612a6cc9354212a5dab9b6293bb8eb": {
+        "id": "AS_Button_80612a6cc9354212a5dab9b6293bb8eb",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPAtientRecords_btnDocument_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segDocumentList",
+            "type": "templates",
+            "platform": "",
+            "KUID": "c3842b422b84461f9b763561326de87b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a05c17fd103d4f86a1b8fbf7f0704396",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_showDocument",
+            "display": "frmPatientRecords_showDocument",
+            "inputparams": [{
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

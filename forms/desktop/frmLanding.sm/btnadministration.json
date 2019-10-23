@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc2d410f3a9d4700811d4894b5a66681",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s2a2d8fbc726458d964c08a3f7c44b56"
+        }
+    },
+    "displaytext": false,
+    "focusskin": "sc2d410f3a9d4700811d4894b5a66681",
+    "id": "btnadministration",
+    "ide_onClick": "AS_Button_3ebf16d6c7804591a07f376ae05558ab",
+    "info": null,
+    "isvisible": true,
+    "kuid": "818711a707384c008be09f33df78c4df",
+    "name": "kony.ui.Button",
+    "parent": "fcrowone",
+    "pf": "frmLanding",
+    "wType": "Button",
+    "zindex": 1
+}

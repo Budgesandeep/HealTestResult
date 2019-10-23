@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s08d2506f34b4c27b5f2c5b4ff1fc653",
+    "_text_": "Conflicts",
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s08d2506f34b4c27b5f2c5b4ff1fc653",
+    "id": "btnConflict",
+    "ide_onClick": "AS_FlexContainer_cc36a9843fc74a44a5672bbcef8e2d0a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "h4549c1ae2e340ec937f99a9455e5297",
+    "name": "kony.ui.Button",
+    "parent": "fcConflictButton",
+    "pf": "frmPatientSummary",
+    "wType": "Button",
+    "zindex": 1
+}

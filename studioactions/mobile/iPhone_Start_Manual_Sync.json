@@ -1,0 +1,18 @@
+{
+    "AS_Button_i43f165b53b442b890b2e6d8de414c04": {
+        "id": "AS_Button_i43f165b53b442b890b2e6d8de414c04",
+        "type": "ACTION_SEQUENCE",
+        "name": "iPhone_Start_Manual_Sync",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_e17a9c2ea31c46da8c87121b031f74c6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(isIphone && !SYNC_CONSTANTS.isAppOffline){///Only work when the app is in online mode\n  if(SYNC_CONSTANTS.isSyncInProgress == true){\n    com.healogics.utility.displayAlert(\"Sync in Progress. Please try after some time.\");\n  }else{\n    \n    if(userInfo.headerAccessToken!=null && userInfo.headerAccessToken!=\"\"){\n      \n      SYNC_CONSTANTS.isSyncInProgress = true;\n      com.healogics.utility.showLoading(\"Updating Data!\"); \n      modSyncScopes_offline_initialAndDeltaScopes();\n      syncInitialDownload(sync_successCallBack, sync_errorCallBack);\n    \n    }else{\n      var error_label = ERROR_CONSTANTS.SESSION_EXPIRED_MESSAGE;\n      loginModule.showLoginScreen(error_label);\n    }\n    \n    \n  }\n}\n\n",
+            "callbackType": null
+        }]
+    }
+}

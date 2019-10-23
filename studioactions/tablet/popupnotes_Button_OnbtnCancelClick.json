@@ -1,0 +1,29 @@
+{
+    "AS_Button_0b6bb8706b58452d9e6d3cab8a4aeb46": {
+        "id": "AS_Button_0b6bb8706b58452d9e6d3cab8a4aeb46",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupnotes_Button_OnbtnCancelClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___54ca60ed467a4196ae79ced48f5cc8ad",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popup_close",
+            "display": "popup_close",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

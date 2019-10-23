@@ -1,0 +1,25 @@
+{
+    "AS_Button_eb3bf8fd23e0405b8ad332291dcd5950": {
+        "id": "AS_Button_eb3bf8fd23e0405b8ad332291dcd5950",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSelectFacility_btnlogout_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6f552161c8be4bdf93b45065023bec0d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__fdb8417726a94d29b8027377ff4aab7c",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popuplogout.lblmsg.text=\"Are you sure you want to logout ?\";\npopuplogout.show();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

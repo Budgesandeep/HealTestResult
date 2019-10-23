@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se5d5a25c3fe45a3ac11b5df3b7e68c2",
+    "_text_": "Edit",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15.08%"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s63ebcbba79540f8a82bc53d43376b62"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "se5d5a25c3fe45a3ac11b5df3b7e68c2"
+    },
+    "displaytext": true,
+    "id": "btnEdit",
+    "ide_onClick": "AS_Button_dee8a4a3508847a6bd51031172f68dfa",
+    "info": null,
+    "isvisible": true,
+    "kuid": "g6834603d02f45a0a0a38df105292bf5",
+    "name": "kony.ui.Button",
+    "parent": "Copyfctransferstatus0e1b3a80c5b1946",
+    "pf": "segsystemnotificationlist",
+    "wType": "Button",
+    "zindex": 1
+}

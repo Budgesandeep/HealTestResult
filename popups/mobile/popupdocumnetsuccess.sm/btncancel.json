@@ -1,0 +1,40 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        7,
+        0,
+        2,
+        0
+    ],
+    "_padding_": [
+        3,
+        3,
+        3,
+        3
+    ],
+    "_skin_": "sa832bd15c2f4042b9a0b37c9b93b2df",
+    "_text_": "Cancel",
+    "canUpdateUI": true,
+    "containerweight": 32,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sa832bd15c2f4042b9a0b37c9b93b2df",
+    "id": "btncancel",
+    "ide_onClick": "AS_Button_9fb2c401348c45ce9d8a149409d1a1d6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "8d39f7e1057b4e2ea7610a5d03b93645",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        24,
+        24,
+        24,
+        24
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxbtns",
+    "pf": "popupdocumnetsuccess",
+    "wType": "Button"
+}

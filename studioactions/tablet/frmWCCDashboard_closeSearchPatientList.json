@@ -1,0 +1,35 @@
+{
+    "AS_ListBox_jdc2ae987ef54144be21fbc76df0a741": {
+        "id": "AS_ListBox_jdc2ae987ef54144be21fbc76df0a741",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_closeSearchPatientList",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ba9a73204cc046d0a8def59b09c987dc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "searchPatient_closeSearchList",
+            "display": "searchPatient_closeSearchList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

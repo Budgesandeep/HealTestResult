@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        1,
+        0
+    ],
+    "_skin_": "s5093151ea9947ee96d5960d0baefac7",
+    "_width_": {
+        "type": "string",
+        "value": "220dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "desktop",
+        "formID": "frmPatientList",
+        "platform": "desktopweb",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "groupcells": false,
+    "id": "listhealingstatus",
+    "info": null,
+    "isvisible": true,
+    "kuid": "531b23fb7803487aa059fe491f2b595e",
+    "masterdata": [
+        [
+            "all",
+            "All"
+        ],
+        [
+            "healingasplanned",
+            "Healing as Planned"
+        ],
+        [
+            "healingatrisk",
+            "Healing at Risk"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "fclegend",
+    "pf": "frmPatientList",
+    "selectedkey": "all",
+    "selectedkeys": null,
+    "selectedkeyvalue": [
+        "all",
+        "All"
+    ],
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

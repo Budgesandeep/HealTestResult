@@ -1,0 +1,29 @@
+{
+    "AS_Button_e6d500e9f1cc4438bc49ff4457e4d3e0": {
+        "id": "AS_Button_e6d500e9f1cc4438bc49ff4457e4d3e0",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmConflictResolve_btnSideMenu",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConflictResolve",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c57f1ccc3bf940bbafbe60b3b671edfe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bf0cdb3813d642f9b6fc0e32a03a46b3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSideMenu",
+            "display": "menu_toggleSideMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Image_8a13a7751406471cb89c6ed159bce821": {
+        "id": "AS_Image_8a13a7751406471cb89c6ed159bce821",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6a5ac136946645f392c3702ef128575e"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

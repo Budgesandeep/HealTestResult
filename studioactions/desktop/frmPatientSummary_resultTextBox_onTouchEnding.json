@@ -1,0 +1,38 @@
+{
+    "AS_TextField_b2cc0c2f4a3a4921bcbdee9b0b882fcc": {
+        "id": "AS_TextField_b2cc0c2f4a3a4921bcbdee9b0b882fcc",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_resultTextBox_onTouchEnding",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "efa63e013ac343628ece37d3f15d5b1c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___eb759621e5684529a8f00d173886f32b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_resultTxtBoxEndEditing",
+            "display": "frmPatientSummary_resultTxtBoxEndEditing",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }, {
+                "name": "fromWhere",
+                "value": "\"onEndEditing\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

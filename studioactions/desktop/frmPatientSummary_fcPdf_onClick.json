@@ -1,0 +1,39 @@
+{
+    "AS_FlexContainer_ff31a21435db48fd89971bf6032c5485": {
+        "id": "AS_FlexContainer_ff31a21435db48fd89971bf6032c5485",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_fcPdf_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "sourceObj": {
+            "itemKUID": "aea4d3ca881f4b469750e57bfaaaf48b",
+            "widgetKUID": "b9b0f935d30347a695c0bd62f516a008",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____f646a70947b24063b99622ce38c29834",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_15e764ba0b38408184de4529f3a50bdd",
+            "display": "AS_FlexContainer_15e764ba0b38408184de4529f3a50bdd",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

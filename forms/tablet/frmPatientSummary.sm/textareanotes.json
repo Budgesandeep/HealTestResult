@@ -1,0 +1,72 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextArea2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_placeholder_": "Enter text",
+    "_skin_": "sd0b001acec9464e922bc44263e03aa6",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "closebuttontext": "",
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "disabledSkins": {},
+    "focusskin": "sd0b001acec9464e922bc44263e03aa6",
+    "id": "textareanotes",
+    "ide_onTextChange": "AS_TextArea_a85c8bc347224613bf7c27e86ff908ed",
+    "info": null,
+    "ipad": {
+        "ide_onBeginEditing": "AS_TextArea_b934ec43dd784574b8d6fd56ddd8f78e",
+        "ide_onEndEditing": "AS_TextArea_febe543186d94b95bf06321e7b0b2823"
+    },
+    "isvisible": true,
+    "keyboardstyle": "A",
+    "keyboardtype": "A",
+    "kuid": "e48a1c8fd0f548b3b09bf1cab126e5bf",
+    "maxtextlength": 1000,
+    "mode": "A",
+    "name": "kony.ui.TextArea2",
+    "numberofvisiblelines": 3,
+    "parent": "fcnotes",
+    "pf": "frmPatientSummary",
+    "securetextentry": false,
+    "showoprogressindicator": false,
+    "showprogressindicator": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextArea",
+    "zindex": 1
+}

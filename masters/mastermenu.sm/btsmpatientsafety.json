@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "64dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s43f83b74f854cd393a136405d0c69e1",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m8094a6255534b749999b18720d2625d",
+        "mbf5ada00670489bb0e9055ac5317626",
+        "m76de319835649089b8ac4c80c1074f7",
+        "m8f7400b143a4e51bd8ce27a3ea57a2f",
+        "m5e420f105084e37bfa7a05c1133510e",
+        "mc6121fd3e504910a757420d095ca893"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s6c11cb0d04249ceb9548b85bfdc5ee9"
+        }
+    },
+    "displaytext": false,
+    "focusskin": "s090480eb63240d6be9198ff7b747fa3",
+    "id": "btsmpatientsafety",
+    "ide_onClick": "AS_Button_8270577b082a49ac95ec7665458a3a33",
+    "info": null,
+    "isvisible": true,
+    "kuid": "286e52db9871403ea790a3317badef1d",
+    "name": "kony.ui.Button",
+    "parent": "fcmenuitemtwo",
+    "pf": "mastermenu",
+    "wType": "Button",
+    "zindex": 1
+}

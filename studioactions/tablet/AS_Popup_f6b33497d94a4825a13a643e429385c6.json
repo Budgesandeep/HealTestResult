@@ -1,0 +1,27 @@
+{
+    "AS_Popup_f6b33497d94a4825a13a643e429385c6": {
+        "id": "AS_Popup_f6b33497d94a4825a13a643e429385c6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "popups",
+            "platform": "",
+            "KUID": "he6782af7f9c429c9192572d06fbaa67"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j0bfbd42bf794c3e8bcf647e6d34bde4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupnotification_getPushNotifications",
+            "display": "popupnotification_getPushNotifications",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

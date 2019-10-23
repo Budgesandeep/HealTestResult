@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "c07b3781f6d44843a6d47937dc988489",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "imgsignout",
+        "imageScaleMode": 1,
+        "left": "3dp",
+        "src": "logout.png",
+        "width": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgsignout",
+    "instanceOf": "c07b3781f6d44843a6d47937dc988489",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "mb3423cf0d184ecda198920c014772ed",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fcsignout",
+    "pf": "frmLanding",
+    "topLevelInstanceKUID": "mdc224aa24594067afbebea6d78e61f9",
+    "wType": "Image"
+}

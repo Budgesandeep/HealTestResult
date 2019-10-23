@@ -1,0 +1,32 @@
+{
+    "AS_Form_g0f3f0963c874f5f8a90d2fb64983308": {
+        "id": "AS_Form_g0f3f0963c874f5f8a90d2fb64983308",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmLogin_iPhone_postShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6b74b6a8351c43cc8a9a008f955d0e58"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e326a23c77334729ae4792e50b9b3206",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "displayAppVersion",
+            "display": "displayAppVersion",
+            "inputparams": [{
+                "name": "currentForm",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_714e7ed99825401a9a1d32fd04dbfcf7": {
+        "id": "AS_FlexContainer_714e7ed99825401a9a1d32fd04dbfcf7",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_onClick_saveConfirmation",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f026c28f14647bd84e6085de5abce9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___945580c85eeb4bd98e8d0ae78a3c3f51",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupadmin_SaveConfirmation",
+            "display": "popupadmin_SaveConfirmation",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

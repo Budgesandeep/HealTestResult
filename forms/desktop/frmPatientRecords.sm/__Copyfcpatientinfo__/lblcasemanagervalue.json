@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8495de19ae14478a4519885873b7c18",
+    "_srcKuid_": "m57d75fd85a44f1580912d6c0ef021cf",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lblcasemanagervalue",
+        "right": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Dr. Eric Mathew",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "50%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblcasemanagervalue",
+    "instanceOf": "m57d75fd85a44f1580912d6c0ef021cf",
+    "isvisible": true,
+    "kuid": "ma857e8dd59343e590eec2194bb32832",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo2",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

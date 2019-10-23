@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLink",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s32dbf9970934fc09be0b913066e6f5e",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 98,
+    "contentalignment": 4,
+    "donotUpdateContainerWeight": false,
+    "focusskin": "s32dbf9970934fc09be0b913066e6f5e",
+    "id": "lnkWebsite",
+    "ide_onClick": "AS_Link_i16307688fab43cabad1c6e5e5026a30",
+    "info": null,
+    "isvisible": true,
+    "kuid": "j6b945009973483eb40d415330941be8",
+    "name": "kony.ui.Link",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "hboxHyperlink",
+    "pf": "segPushNotificationForPopup",
+    "wType": "Link",
+    "watchos": {
+        "render": false
+    },
+    "widgetalignment": 5,
+    "windows10": {
+        "render": false
+    },
+    "winphone10": {
+        "render": false
+    }
+}

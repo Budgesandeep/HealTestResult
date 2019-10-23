@@ -1,0 +1,29 @@
+{
+    "AS_Button_7954326210c242ab968c70f12cc4edd8": {
+        "id": "AS_Button_7954326210c242ab968c70f12cc4edd8",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_btnReviewMSR_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___aa0d56d98ad34af4ac12e5addbd9e7d3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Review_MSR",
+            "display": "Review_MSR",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Form_h0cc6e56e8854e54afb8b9ce7603564b": {
+        "id": "AS_Form_h0cc6e56e8854e54afb8b9ce7603564b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onHide_c4b3f55efc0443e8bb40ab96077edeaf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_closeSideMenu",
+            "display": "menu_closeSideMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

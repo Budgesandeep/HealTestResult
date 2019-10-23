@@ -1,0 +1,63 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "print.png",
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "mdc01a18ed1e4d35a8aa79108d6ef302",
+        "m60b0b8dccbd4c59859ceafc4c7f5afe",
+        "mb85d873e6a446538321aee43324b947",
+        "m096fec1fa094c27a7fcbaa76b8fe4e6"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "masterPrintMenu",
+        "platform": "kiosk",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgPrint",
+    "imagescalemode": 1,
+    "info": null,
+    "isvisible": true,
+    "kuid": "02bbb8682c3b49a68ebe9532f0ebab84",
+    "name": "kony.ui.Image2",
+    "parent": "fcPrint",
+    "pf": "masterPrintMenu",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

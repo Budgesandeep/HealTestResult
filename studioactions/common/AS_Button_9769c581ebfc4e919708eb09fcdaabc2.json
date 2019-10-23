@@ -1,0 +1,27 @@
+{
+    "AS_Button_9769c581ebfc4e919708eb09fcdaabc2": {
+        "id": "AS_Button_9769c581ebfc4e919708eb09fcdaabc2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "mastermenu",
+            "type": "masters",
+            "KUID": "ece4e70548614acebb6edf369b19b24f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9f13595069eb422591aa2a41a8bf9768",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dashboard_showAdministration",
+            "display": "dashboard_showAdministration",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

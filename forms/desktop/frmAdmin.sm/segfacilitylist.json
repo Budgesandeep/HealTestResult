@@ -1,0 +1,466 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "lblbluebookid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345"
+            },
+            "lblcity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New York"
+            },
+            "lblfacilityid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "lblfacilityname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WCC1"
+            },
+            "lblfacilitytype": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WCC"
+            },
+            "lblline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline4": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline5": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline6": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline7": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline9": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbllineseperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblstate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NY"
+            },
+            "lblzone": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            }
+        },
+        {
+            "lblbluebookid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345"
+            },
+            "lblcity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New York"
+            },
+            "lblfacilityid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "lblfacilityname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WCC1"
+            },
+            "lblfacilitytype": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WCC"
+            },
+            "lblline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline4": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline5": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline6": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline7": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline9": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbllineseperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblstate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NY"
+            },
+            "lblzone": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            }
+        },
+        {
+            "lblbluebookid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345"
+            },
+            "lblcity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New York"
+            },
+            "lblfacilityid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "lblfacilityname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WCC1"
+            },
+            "lblfacilitytype": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WCC"
+            },
+            "lblline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline4": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline5": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline6": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline7": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline9": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbllineseperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblstate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NY"
+            },
+            "lblzone": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            }
+        },
+        {
+            "lblbluebookid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345"
+            },
+            "lblcity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New York"
+            },
+            "lblfacilityid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "lblfacilityname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WCC1"
+            },
+            "lblfacilitytype": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WCC"
+            },
+            "lblline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline4": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline5": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline6": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline7": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline9": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbllineseperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblstate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NY"
+            },
+            "lblzone": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            }
+        },
+        {
+            "lblbluebookid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "12345"
+            },
+            "lblcity": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "New York"
+            },
+            "lblfacilityid": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "10"
+            },
+            "lblfacilityname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WCC1"
+            },
+            "lblfacilitytype": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "WCC"
+            },
+            "lblline": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline4": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline5": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline6": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline7": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblline9": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lbllineseperator": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblstate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "NY"
+            },
+            "lblzone": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "89%"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "alternaterowskin": "s89929f1e9b346e58cd0b35db55e0163",
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "04",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segfacilitylist",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "e335f978893846739aa85c0df0bfeffa",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "fcseg",
+    "pf": "frmAdmin",
+    "retainselection": false,
+    "rowTemplateId": "bc44894c3ed04a20a70b41b93fa9f827",
+    "rowcounter": 4,
+    "rowfocusskin": "s1424a1698dd48bc8967d8eeb4b44c33",
+    "rowskin": "sb40fc88c0ca4d888db9510b56a4a907",
+    "rowtemplate": "fcfacilitylist",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorrequired": false,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {
+        "lock": true
+    },
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer0ccbb3bc6038d4e": "FlexContainer0ccbb3bc6038d4e",
+        "btncheckbox1": "btncheckbox1",
+        "btncheckbox2": "btncheckbox2",
+        "fcbluebookid": "fcbluebookid",
+        "fcbluebookids": "fcbluebookids",
+        "fccity": "fccity",
+        "fccitys": "fccitys",
+        "fcfacilityid": "fcfacilityid",
+        "fcfacilityids": "fcfacilityids",
+        "fcfacilitylist": "fcfacilitylist",
+        "fcfacilityname": "fcfacilityname",
+        "fcfacilitynames": "fcfacilitynames",
+        "fcfacilitytype": "fcfacilitytype",
+        "fcfacilitytypes": "fcfacilitytypes",
+        "fchuddletool": "fchuddletool",
+        "fchuddletools": "fchuddletools",
+        "fcphotomobile": "fcphotomobile",
+        "fcphotomobiles": "fcphotomobiles",
+        "fcstate": "fcstate",
+        "fcstates": "fcstates",
+        "fczone": "fczone",
+        "fczones": "fczones",
+        "lblbluebookid": "lblbluebookid",
+        "lblcity": "lblcity",
+        "lblfacilityid": "lblfacilityid",
+        "lblfacilityname": "lblfacilityname",
+        "lblfacilitytype": "lblfacilitytype",
+        "lblline": "lblline",
+        "lblline2": "lblline2",
+        "lblline3": "lblline3",
+        "lblline4": "lblline4",
+        "lblline5": "lblline5",
+        "lblline6": "lblline6",
+        "lblline7": "lblline7",
+        "lblline9": "lblline9",
+        "lbllineseperator": "lbllineseperator",
+        "lblstate": "lblstate",
+        "lblzone": "lblzone"
+    },
+    "zindex": 1
+}

@@ -1,0 +1,23 @@
+{
+    "AS_Button_b433c89774c8481dbf9c4779cb5a9073": {
+        "id": "AS_Button_b433c89774c8481dbf9c4779cb5a9073",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_39544284ce9146b789a68eda80541f21",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_check",
+            "display": "frmPatientList_check",
+            "inputparams": [{
+                "name": "eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "AS_TextField_56d21a3a973043509d1e44bbd7fc80a8": {
+        "id": "AS_TextField_56d21a3a973043509d1e44bbd7fc80a8",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_search_onEndEditing_ipad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmViewTasksNew",
+            "type": "forms",
+            "platform": "",
+            "KUID": "15b91c763b4247dcbffb17a1665e772c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___223afa280b5f4a93853b90aeee041985",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onSearchEnd",
+            "display": "frmPatientList_onSearchEnd",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

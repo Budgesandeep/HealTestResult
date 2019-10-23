@@ -1,0 +1,46 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "28.60%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s088037159484b259f1dfa4e68be581f",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "fcweeknum",
+        "fcweekdetailshdr"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcweeknumber",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "6954707c6d104476819ea0d62ea16cdf",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "segweekdetailshdr",
+    "pf": "segweekdetailshdr",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

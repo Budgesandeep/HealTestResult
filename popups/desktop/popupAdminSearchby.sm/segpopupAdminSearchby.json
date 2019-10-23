@@ -1,0 +1,102 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "_data_": [
+        {
+            "lbsegpopupAdminSearchby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Facility ID"
+            }
+        },
+        {
+            "lbsegpopupAdminSearchby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Facility Name"
+            }
+        },
+        {
+            "lbsegpopupAdminSearchby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Bluebook ID"
+            }
+        }
+    ],
+    "_indicator_": "none",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "canUpdateUI": true,
+    "containerheight": "",
+    "containerheightreference": 1,
+    "containerweight": 100,
+    "counter": "02",
+    "disabledSkins": {
+        "alternateRowSkin": "s9169a2894ff4e0e8fbaf59dbf9ba4fe",
+        "rowFocusSkin": "se5f4c2d89be4e39b571e6f42f29f630"
+    },
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "d16e739fe5bd491695c518cb17f0baf2",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segpopupAdminSearchby",
+    "ide_onRowClick": "AS_Segment_d72937a394c54b379fc24158541a1275",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": false,
+    "kuid": "22446a8aaeb4472bb8211a302b9be172",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "popupAdminSearchby",
+    "pf": "popupAdminSearchby",
+    "retainselection": false,
+    "rowTemplateId": "d16e739fe5bd491695c518cb17f0baf2",
+    "rowcounter": 2,
+    "rowskin": "s95e15fe09b74640a9c85c8b436a34c3",
+    "rowtemplate": "VBox012f2bd904b4048",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "efefef64",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "lbsegpopupAdminSearchby": "lbsegpopupAdminSearchby"
+    }
+}

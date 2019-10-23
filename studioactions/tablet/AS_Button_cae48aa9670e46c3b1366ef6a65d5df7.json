@@ -1,0 +1,22 @@
+{
+    "AS_Button_cae48aa9670e46c3b1366ef6a65d5df7": {
+        "id": "AS_Button_cae48aa9670e46c3b1366ef6a65d5df7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c0ed524cf83b4ee5b53450573b3f92e4",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_patientTypeSelected",
+            "display": "frmPatientList_patientTypeSelected",
+            "inputparams": [{
+                "name": "eventobject"
+            }],
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

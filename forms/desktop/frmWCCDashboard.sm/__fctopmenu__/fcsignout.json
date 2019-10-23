@@ -1,0 +1,50 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf8895f2fe9042cdb69966204e72cb3b",
+    "_srcKuid_": "b0f4a6e002474b14a900be83b8fb4e44",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [
+        "imgsignout",
+        "lblsignout",
+        "lblmenuline"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        },
+        "id": "fcsignout",
+        "layoutType": 2,
+        "left": "0dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 2
+    },
+    "id": "fcsignout",
+    "ide_onClick": "AS_FlexContainer_b5f1aa08fd0b4b1792d0d0376c8a25de",
+    "instanceOf": "b0f4a6e002474b14a900be83b8fb4e44",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m01fa3550f0741568404ef73c982fe39",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fctopmenu",
+    "pf": "frmWCCDashboard",
+    "topLevelInstanceKUID": "mb0c61b2746e4fa4ae5d29491a5c8f92",
+    "wType": "FlexContainer"
+}

@@ -1,0 +1,30 @@
+{
+    "AS_VBox_c83596f8e228478e81d0712ffe1b3360": {
+        "id": "AS_VBox_c83596f8e228478e81d0712ffe1b3360",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupUserAcknowledgement",
+            "type": "popups",
+            "platform": null,
+            "KUID": "6a5fab464d934f37a5d743f140e1c715"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a78b28d6b2094efb938945ce4b1fe8f6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

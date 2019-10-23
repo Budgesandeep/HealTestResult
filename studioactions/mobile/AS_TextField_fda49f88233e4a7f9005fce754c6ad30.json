@@ -1,0 +1,24 @@
+{
+    "AS_TextField_fda49f88233e4a7f9005fce754c6ad30": {
+        "id": "AS_TextField_fda49f88233e4a7f9005fce754c6ad30",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTextChange_c905b9806f9e4d34ae65fb61f1f94162",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectFacility_search",
+            "display": "selectFacility_search",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

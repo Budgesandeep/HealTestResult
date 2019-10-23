@@ -1,0 +1,25 @@
+{
+    "AS_Button_bf13b5ddbcb24ed7ad0577229b702386": {
+        "id": "AS_Button_bf13b5ddbcb24ed7ad0577229b702386",
+        "type": "ACTION_SEQUENCE",
+        "name": "popuppdfviewer_buttonclose",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popuppdfviewer",
+            "type": "popups",
+            "platform": "",
+            "KUID": "3d463b6a3caa4ac998af5766cd85f1c9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__a02e403b9fa543338d8c6be1d9b3b68f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "//WOUN 1851- Resetting the scroll in the PDFViewer browser instance to 1st page, and closing the popup after a minor delay\npopuppdfviewer.brwsWidget.evaluateJavaScript(\"PDFViewerApplication.pdfViewer.scrollPageIntoView({pageNumber : 1});\");\npopuppdfviewer.brwsWidget.evaluateJavaScript(\"PDFViewerApplication.page =1  \");\nsetTimeout(function(){ popuppdfviewer.dismiss(); }, 150);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Button_d669e73fbc7948e0ad14706b18615fbe": {
+        "id": "AS_Button_d669e73fbc7948e0ad14706b18615fbe",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmpatientList_patientTypeSlected2",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "56c1e97ccb21438aabe2e25446e10972"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___cffa60eefb474282951ad40b4cadb1b1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "patientTypeSelected",
+            "display": "patientTypeSelected",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

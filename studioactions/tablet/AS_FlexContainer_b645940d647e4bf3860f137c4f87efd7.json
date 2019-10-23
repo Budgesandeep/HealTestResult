@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_b645940d647e4bf3860f137c4f87efd7": {
+        "id": "AS_FlexContainer_b645940d647e4bf3860f137c4f87efd7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g05ad9ee8e5346a186c5b346a773ce78"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f89d4937469c4028bb24eeabc4fbc1f2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_callFFIforUploadDocuments",
+            "display": "frmPatientRecords_callFFIforUploadDocuments",
+            "inputparams": [{
+                "name": "eventObjectType",
+                "value": "\"button\""
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

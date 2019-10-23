@@ -1,0 +1,32 @@
+{
+    "AS_HBox_0e04ed5d1a4248b9aed3596efc13dacb": {
+        "id": "AS_HBox_0e04ed5d1a4248b9aed3596efc13dacb",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdministration_Shorting_Asending",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupAdminSortFilter",
+            "type": "popups",
+            "platform": null,
+            "KUID": "3d6611cd03724cb68943b89d374d26d1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___99d97f88483a4696b1e5104ef0272e94",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdministration_Shorting",
+            "display": "frmAdministration_Shorting",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

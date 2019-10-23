@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scdb84b003ba4e34b9759e13008dc48f",
+    "_text_": "Facility: AA007 Training Facility Facility: AA007 Training Facility Facility: AA007 Training Facility Facility: AA007 Training Facility Facility: AA007 Training Facility ",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "childInstances": [
+        "mf634c05d54b4028b396618ccc61a75e",
+        "m00be754f74f44d7ad17f5b80592fa8d",
+        "m751977d5879473da5237ef5b2e8ffd4",
+        "m79c6856df3d45df8fe7da43d239cc5f",
+        "m63b44f9128f4aafbce4d474f1ba473c",
+        "mbabc04d3f844d13a53773556eb8b7bd",
+        "m8575d734eac451b9ca0e1694e762359",
+        "m34c6655f09c418aa282077da26a8323",
+        "mf3dde009dc845fba72c2e13c43966d2",
+        "m71dafabe527455daf23e4d9ed0ed78d",
+        "m27815c899ca497a848b48545c205534",
+        "m29196e021e44b3a86e6bc6a69d56b2f",
+        "mb76771e248a4a278badbbc2a3f04553",
+        "me10bd17bd6342928326af49aec2ab31"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rchfacility",
+    "info": null,
+    "isvisible": true,
+    "kuid": "96e72c1c4ba14835b955d669f11482f1",
+    "name": "kony.ui.RichText",
+    "parent": "fcusername",
+    "pf": "masterheader",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

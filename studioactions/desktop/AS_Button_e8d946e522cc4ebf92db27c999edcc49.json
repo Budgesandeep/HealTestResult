@@ -1,0 +1,30 @@
+{
+    "AS_Button_e8d946e522cc4ebf92db27c999edcc49": {
+        "id": "AS_Button_e8d946e522cc4ebf92db27c999edcc49",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": null,
+            "KUID": "aa7f99a77a224b3c988261551c1c3549"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c16b2c1eb4cd44fe8b524d3a8a13530b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "viewOptionClickedModified",
+            "display": "viewOptionClickedModified",
+            "inputparams": [{
+                "name": "eventName",
+                "value": "\"btnViewAll\""
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

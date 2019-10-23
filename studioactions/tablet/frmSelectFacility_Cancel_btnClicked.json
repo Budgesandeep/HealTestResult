@@ -1,0 +1,29 @@
+{
+    "AS_Button_d998fa8cbe924f9cad1b3214de6b2bec": {
+        "id": "AS_Button_d998fa8cbe924f9cad1b3214de6b2bec",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSelectFacility_Cancel_btnClicked",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0c07a8810ac54e34bb2b02a891bd8b1c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c96394b3a3734aa78f913eb864c86547",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "stopSyncSession",
+            "display": "stopSyncSession",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

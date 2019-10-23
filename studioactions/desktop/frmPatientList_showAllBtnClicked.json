@@ -1,0 +1,32 @@
+{
+    "AS_Button_cc811036f3df41ad8366931b02002e3e": {
+        "id": "AS_Button_cc811036f3df41ad8366931b02002e3e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_showAllBtnClicked",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___058f9eb8872344a5a235533376b0f0a1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "viewOptionClickedModified",
+            "display": "viewOptionClickedModified",
+            "inputparams": [{
+                "name": "eventName",
+                "value": "\"btnViewAll\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

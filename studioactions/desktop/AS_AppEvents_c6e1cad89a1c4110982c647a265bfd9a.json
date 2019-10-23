@@ -1,0 +1,18 @@
+{
+    "AS_AppEvents_c6e1cad89a1c4110982c647a265bfd9a": {
+        "id": "AS_AppEvents_c6e1cad89a1c4110982c647a265bfd9a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__8dae3de949134887889e4201a6e6c4c4",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"appservice\");",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

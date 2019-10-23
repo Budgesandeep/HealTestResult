@@ -1,0 +1,36 @@
+{
+    "AS_Segment_1ca163fa7b5c49f38a3a3acfcc8ca6e3": {
+        "id": "AS_Segment_1ca163fa7b5c49f38a3a3acfcc8ca6e3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "popupSwitchFacility",
+            "type": "popups",
+            "platform": null,
+            "KUID": "6c50b8bbc1f64d1e85ed2678062840c7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___77a182283bb741fbbe5af9607ffefd07",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectFacility_onRowClick",
+            "display": "selectFacility_onRowClick",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

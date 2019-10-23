@@ -1,0 +1,47 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s71ca4d762174bed97a4d6e3d20dbd5a",
+    "_text_": "adadasdhagdah jkasdhjkagsd g hgahsgdjh . hgashdg ahjsdgajhgs djahgdjas\najskhdkaj djdjkasjdhasjdhasjdhjakshd sadahskjdhaskjd asjkdshdjas kjdahsjkd 111\n",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rchTxtDescription",
+    "info": null,
+    "isvisible": true,
+    "kuid": "gc8583fcef4c41e5a63ca6c4c34ccb48",
+    "name": "kony.ui.RichText",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "hboxdesc",
+    "pf": "segPushNotificationForPopup",
+    "wType": "RichText",
+    "watchos": {
+        "render": false
+    },
+    "widgetalignment": 5,
+    "windows10": {
+        "render": false
+    },
+    "winphone10": {
+        "render": false
+    }
+}

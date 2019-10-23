@@ -1,0 +1,30 @@
+{
+    "AS_Button_091a899d5f8d427788578a037c6bfccb": {
+        "id": "AS_Button_091a899d5f8d427788578a037c6bfccb",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientListTablet_VIewMore_Clicked",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_1197bd07211d4b8a854f21919fab00bb",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "viewOptionClicked",
+            "display": "viewOptionClicked",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_37d5a064e4f047d89ee438f0b1787958",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"view more clicked\");",
+            "callbackType": null
+        }]
+    }
+}

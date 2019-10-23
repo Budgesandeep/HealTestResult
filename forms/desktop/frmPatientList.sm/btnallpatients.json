@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "15%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s58d52c2d22d4e84a98a01acc2d8e69b",
+    "_text_": "All Patients",
+    "_width_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s26822ca8b11483294e145159644f74a"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "sd79af2ba1354069826c202831cdf9be"
+    },
+    "displaytext": false,
+    "id": "btnallpatients",
+    "ide_onClick": "AS_Button_027cd66068804b21b3abe90c9b0a04e1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "8d0d7e18baed4024b7b3bbd5ba4ebc10",
+    "name": "kony.ui.Button",
+    "parent": "fcdashboardpatients",
+    "pf": "frmPatientList",
+    "wType": "Button",
+    "zindex": 1
+}

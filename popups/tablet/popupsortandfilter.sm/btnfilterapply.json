@@ -1,0 +1,47 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        6,
+        5,
+        2,
+        5
+    ],
+    "_padding_": [
+        4,
+        4,
+        4,
+        4
+    ],
+    "_skin_": "s7a7dd7a10c64b33ac0d14fe40e9f3b4",
+    "_text_": "Apply",
+    "canUpdateUI": true,
+    "containerweight": 40,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "donotUpdateContainerWeight": false,
+    "focusskin": "s7a7dd7a10c64b33ac0d14fe40e9f3b4",
+    "id": "btnfilterapply",
+    "ide_onClick": "AS_Button_2e09a9b069e44ecf826003aa5a42a707",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "6e95440380c54173a9e417985e08328f",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        7.6,
+        7.6,
+        7.6,
+        7.6
+    ],
+    "parent": "hboxsave",
+    "pf": "popupsortandfilter",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

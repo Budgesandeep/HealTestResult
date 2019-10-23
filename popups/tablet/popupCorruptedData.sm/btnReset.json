@@ -1,0 +1,47 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        1,
+        1,
+        1,
+        2
+    ],
+    "_skin_": "sfc9d8806e11416a85961e54b0fcd304",
+    "_text_": "Reset Data and Sync",
+    "canUpdateUI": true,
+    "containerweight": 33,
+    "contentalignment": 5,
+    "displaytext": true,
+    "donotUpdateContainerWeight": false,
+    "focusskin": "se841be24699446198f4aef5655df7b1",
+    "hexpand": true,
+    "id": "btnReset",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "6bf0300fa7124759aa3e60b2b30bdacf",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        6.14,
+        6.14,
+        6.14,
+        6.14
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxsave",
+    "pf": "popupCorruptedData",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

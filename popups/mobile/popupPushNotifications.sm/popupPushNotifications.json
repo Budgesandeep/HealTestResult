@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s9523e23b86e47efaefde54c46e584d4",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "hboxpushnotifications"
+    ],
+    "containerweight": 90,
+    "currentLocale": "default",
+    "device": "iPhone6",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "popupPushNotifications",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ismodal": true,
+    "isvisible": true,
+    "kuid": "d553ad97f8d647ef912d51c29e45e8ab",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "iphone",
+    "prevDevice": "iPhone6",
+    "prevPlatform": "iphone",
+    "retainscrollposition": false,
+    "shellCSS": "iOS_iPhone6",
+    "titlebar": true,
+    "transparencybehindthepopup": 30,
+    "wType": "Popup"
+}

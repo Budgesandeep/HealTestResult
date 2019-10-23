@@ -1,0 +1,45 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        2,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s2dd97c75f234b11b02c12c1da204ffd",
+    "_text_": "Release Version",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 70,
+    "contentalignment": 4,
+    "donotUpdateContainerWeight": false,
+    "id": "lblTitle",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "ge04b6af4ed543ed822f7874a8d20a17",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "hbxRelease",
+    "pf": "segPushNotificationForPopup",
+    "tooltip": "",
+    "wType": "Label"
+}

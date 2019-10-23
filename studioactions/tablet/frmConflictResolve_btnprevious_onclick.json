@@ -1,0 +1,29 @@
+{
+    "AS_Button_be7a9c692dcf409f804c0bd2d5b6e057": {
+        "id": "AS_Button_be7a9c692dcf409f804c0bd2d5b6e057",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmConflictResolve_btnprevious_onclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConflictResolve",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c57f1ccc3bf940bbafbe60b3b671edfe"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e860cd9c389249758e55b5387cf1b074",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "resolveConflict_cntrl_offline_getPreviousConflictData",
+            "display": "resolveConflict_cntrl_offline_getPreviousConflictData",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

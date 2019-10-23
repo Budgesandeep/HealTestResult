@@ -1,0 +1,54 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "5111612010dd4e839f221a11f6abddb5",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "imgtasks",
+        "imageScaleMode": 1,
+        "imageWhileDownloading": "tasks.png",
+        "left": {
+            "type": "string",
+            "value": "20dp"
+        },
+        "src": "tasklistheader.png",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "32dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgtasks",
+    "instanceOf": "5111612010dd4e839f221a11f6abddb5",
+    "isvisible": true,
+    "kuid": "mc2f6cfdd67142c4b7298731844a7c38",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fctaskcount",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m05e9f99d3054402be7bdccb8e99e8f9",
+    "wType": "Image"
+}

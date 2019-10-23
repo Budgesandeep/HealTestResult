@@ -1,0 +1,34 @@
+{
+    "AS_Button_i1eb89496a314ddb9c7303a0c9d54056": {
+        "id": "AS_Button_i1eb89496a314ddb9c7303a0c9d54056",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ac8bcf5656e047a3bc3e5e81a0dd9ffb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_fb624caf7ce64b2396ff49706f67d626",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "viewOptionClicked",
+            "display": "viewOptionClicked",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_a45100f9170e47bb9f9f53392ae523a9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"view more clicked\");",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_skin_": "s3b7e0d070404cc8a43885f2beddd232",
+    "_text_": "user acknowledgement text...",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rttermsconditions",
+    "info": null,
+    "isvisible": true,
+    "kuid": "78fc05e1569043759e5de7b907492cae",
+    "margininpixel": false,
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "vboxtnc",
+    "pf": "popupUserAcknowledgement",
+    "wType": "RichText",
+    "widgetalignment": 5
+}

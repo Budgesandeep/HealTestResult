@@ -1,0 +1,32 @@
+{
+    "AS_Button_db6780a9371b4e308f5ffb5363fb020f": {
+        "id": "AS_Button_db6780a9371b4e308f5ffb5363fb020f",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmConflictResolve_btnkeepotherversion",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "seg9StepHealing",
+            "type": "templates",
+            "platform": "",
+            "KUID": "d73f0c0f8fcd4b13adefed9c2841d576"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ff99d3b6a05a48b6a2870a454a678ad9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmConflictResolve_rbKeepOtherVersion",
+            "display": "frmConflictResolve_rbKeepOtherVersion",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s060ce6e58c54963a71034a7ad48e012",
+    "_srcKuid_": "86cc8bcfd1a04c6cab4062dcd46dba16",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "bottom": "1dp",
+        "height": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "id": "lblmenuline",
+        "left": "0dp",
+        "text": "",
+        "textStyle": {},
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 3
+    },
+    "id": "lblmenuline",
+    "instanceOf": "86cc8bcfd1a04c6cab4062dcd46dba16",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "mafd0bd5da284d2d801820b0237fb711",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcExportExcel",
+    "pf": "frmPatientList",
+    "topLevelInstanceKUID": "m38e9a21b918467aba27103ccbd77046",
+    "wType": "Label"
+}

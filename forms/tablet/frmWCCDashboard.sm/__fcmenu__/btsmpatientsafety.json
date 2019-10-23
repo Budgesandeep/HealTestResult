@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s43f83b74f854cd393a136405d0c69e1",
+    "_srcKuid_": "286e52db9871403ea790a3317badef1d",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "btsmpatientsafety",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "Button",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "btsmpatientsafety",
+    "ide_onClick": "AS_Button_0439001272ff4a57b2df9c27e4c7d611",
+    "instanceOf": "286e52db9871403ea790a3317badef1d",
+    "isvisible": true,
+    "kuid": "mbf5ada00670489bb0e9055ac5317626",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "fcmenuitemtwo",
+    "pf": "frmWCCDashboard",
+    "topLevelInstanceKUID": "m25a7a438fe44928baa13aeb6e8b5db8",
+    "wType": "Button"
+}

@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_ffdab12828bd43ebb6df94b78b2504c3": {
+        "id": "AS_FlexContainer_ffdab12828bd43ebb6df94b78b2504c3",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSumaryIpad_patientname_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d168d91e1ff54481a67c8a7c906d9ef9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f9e122ab773949fab53a063d263736fd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_togglePatientInfo",
+            "display": "frmPatientSummary_togglePatientInfo",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

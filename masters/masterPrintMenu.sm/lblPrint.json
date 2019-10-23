@@ -1,0 +1,71 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_text_": "Print",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m302eff2aca34325afb084d4fdbc48f0",
+        "m15e78069557468f8856891ed77cd4a3",
+        "m877e84b08c4431f82d251b412274c64",
+        "me1c39d0d2e14943806140c222ee51af"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblPrint",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "4b7975da35ce45cb9277fbcc7cb403ec",
+    "name": "kony.ui.Label",
+    "parent": "fcPrint",
+    "pf": "masterPrintMenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

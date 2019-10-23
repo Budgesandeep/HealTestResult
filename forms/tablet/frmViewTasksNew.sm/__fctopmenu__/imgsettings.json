@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "edbb613411aa49838a56ca1988ff4d9b",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "imgsettings",
+        "imageScaleMode": 1,
+        "left": {
+            "type": "string",
+            "value": "3dp"
+        },
+        "src": "settings.png",
+        "width": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgsettings",
+    "instanceOf": "edbb613411aa49838a56ca1988ff4d9b",
+    "isvisible": true,
+    "kuid": "mb6d25fa34f04c389c8863d2175c968d",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fcsettings",
+    "pf": "frmViewTasksNew",
+    "topLevelInstanceKUID": "m15723d0f99a4a0eb8af4e91c87aae40",
+    "wType": "Image"
+}

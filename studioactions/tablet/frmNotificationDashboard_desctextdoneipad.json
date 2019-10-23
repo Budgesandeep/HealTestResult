@@ -1,0 +1,32 @@
+{
+    "AS_TextArea_b288a996b1244f0d8786ce6fa43fa05e": {
+        "id": "AS_TextArea_b288a996b1244f0d8786ce6fa43fa05e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmNotificationDashboard_desctextdoneipad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___abd8b103987145a7810ba7e3e9a13433",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_textBoxEditing",
+            "display": "frmNotificationDashboard_textBoxEditing",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

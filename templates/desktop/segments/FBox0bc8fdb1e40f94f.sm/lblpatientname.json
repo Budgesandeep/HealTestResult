@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s80c9ee5a68f4f16a18a3bfc3a63c13d",
+    "_text_": "Patient",
+    "_width_": {
+        "type": "string",
+        "value": "95%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "40%"
+    },
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s5a9e2377b29461ca4787b947af01c9f"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s80c9ee5a68f4f16a18a3bfc3a63c13d",
+    "id": "lblpatientname",
+    "info": null,
+    "isSegmentChild": true,
+    "isvisible": true,
+    "kuid": "i19e557e20e34c13a2d0badf16f04139",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer",
+    "pf": "FBox0bc8fdb1e40f94f",
+    "wType": "Button",
+    "zindex": 1
+}

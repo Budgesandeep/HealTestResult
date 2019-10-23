@@ -1,0 +1,32 @@
+{
+    "AS_Button_841af0f4966248ab892a3219ccfbded7": {
+        "id": "AS_Button_841af0f4966248ab892a3219ccfbded7",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupAdminFilter1",
+        "params": [{
+            "name": "eventobject",
+            "datatype": "collection"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f026c28f14647bd84e6085de5abce9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___328743f24ace4b949a98ae24fedec387",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmFacilityList_show_sortpopup",
+            "display": "frmFacilityList_show_sortpopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        10,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3702d79e59e4d5482fe7cd4d8a0232b",
+    "_text_": "% Healing",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 1,
+    "id": "lblpercentagehealing",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "1a8dba94cebb4cb0a372b6fbec35b2e6",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "fcpercentagehealing",
+    "pf": "segweekdetailshdr",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

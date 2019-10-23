@@ -1,0 +1,46 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        1,
+        7,
+        5
+    ],
+    "_padding_": [
+        1,
+        2,
+        1,
+        2
+    ],
+    "_skin_": "se841be24699446198f4aef5655df7b1",
+    "_text_": "Close",
+    "canUpdateUI": true,
+    "containerweight": 30,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s35a2d5d39fb4100ba4310920d912a23"
+        }
+    },
+    "displaytext": true,
+    "donotUpdateContainerWeight": false,
+    "focusskin": "se841be24699446198f4aef5655df7b1",
+    "id": "btnCancel",
+    "ide_onClick": "AS_Button_31124aeac89a4c63a6594832a0bfc6ef",
+    "info": null,
+    "isvisible": true,
+    "kuid": "48b50cc7323147a58006a612d6196067",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        3.84,
+        11.52,
+        3.84,
+        7.68
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxsave",
+    "pf": "popupSwitchFacility",
+    "wType": "Button"
+}

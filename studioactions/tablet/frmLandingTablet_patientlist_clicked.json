@@ -1,0 +1,29 @@
+{
+    "AS_Button_2f4eaa292f6f4361a6c0f2b5a098fe7e": {
+        "id": "AS_Button_2f4eaa292f6f4361a6c0f2b5a098fe7e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmLandingTablet_patientlist_clicked",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLanding",
+            "type": "forms",
+            "platform": null,
+            "KUID": "280892d65ab245a7a7f58f9cb4b12dc0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b3ea83921767459188cb83dc2a2414dd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getFilter",
+            "display": "getFilter",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

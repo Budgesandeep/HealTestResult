@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8495de19ae14478a4519885873b7c18",
+    "_srcKuid_": "mee2806a652444f6bb3c44547b470111",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lblprimarycarephysicianvalue",
+        "right": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Dr. Loreta",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "50%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblprimarycarephysicianvalue",
+    "instanceOf": "mee2806a652444f6bb3c44547b470111",
+    "isvisible": true,
+    "kuid": "m84e7a6faa7a4118a40f7b9bfc8fa82a",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo2",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

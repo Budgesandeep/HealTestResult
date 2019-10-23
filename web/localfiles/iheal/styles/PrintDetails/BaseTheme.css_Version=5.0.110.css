@@ -1,0 +1,1658 @@
+
+@media print
+{
+	body, .DT {
+		font-size: 9px;
+		line-height: 9px;
+	}
+
+	.cg h2, .fakeContentGroupTitle {
+		font-size: 10px;
+		line-height: 10px;
+	}
+	
+	hr.contentGroupTitleUnderLine
+	{	
+		border: 1px solid #000;
+		padding: 0px;
+		margin: 0px;		
+	}
+	
+	.contentGroupTitle
+	{		
+		font-size: 10px;			
+		text-decoration: none;
+		line-height: 10px;				
+		color: #000;		
+		margin: 0;
+		margin-bottom: 0px;
+		padding: 0;	
+		display:inline;
+	}
+	
+	.fakeContentGroupTitle 
+	{
+		font-size: 10px;
+		line-height: 10px;		
+	}	
+	
+	.scg h2 {
+		font-size: 9px;
+		line-height: 9px;
+	}
+
+	.PrintButtons {
+		padding-bottom: 0px; /*4/7/2008 was changed from 3.*/
+		font-size: 11px;	
+	}	
+	
+	h4 {
+	font-size: 11px;
+	font-weight: bold;
+	}
+
+	.cgH2Mimick	{ 
+	font-weight: bold;
+	font-size: 10px;	
+	}
+
+	.cg h2 {
+	font-weight: bold;
+	/*width: 100;*/
+	margin: 0;	
+	margin-top: 3px;
+	padding: 0;
+	color: #000000;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;	
+	text-decoration: none;	
+	}
+
+	.cg, .cgNoMargin /* Content Group */ {
+	margin: 0px;
+	padding-top: 0px;
+	}
+
+	.cgBody, .cgBodyNoBG, .cgBodyGrayBG, .scgBodyNoBG {
+	border-top: 1px solid #000;
+	padding-top: 0px;
+	padding-left: 4px;
+	padding-right: 2px;
+	padding-bottom: 0px;	
+	}
+
+	ul	{ 
+	margin-top: 0px;
+	padding-left: 15px;
+	}
+
+	li	{ padding-left: 0; margin-left: 20px; }
+	
+	* html ul { padding-left: 0; margin-left: 1px; }
+
+	.cgBody, .cgBodyNoPad { background-color: #fff; }
+
+	.scg /* SubContent Group */ {
+	margin-left: 15px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0;
+	}
+
+	.scg h2 {
+	margin: 0;	
+	margin-top: 1px;
+	padding: 0;
+	color: #000000;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	text-decoration: none;	    
+	}
+
+	.scgBody {
+	border-top: 1px solid #000;
+	padding-top: 0px;
+	padding-left: 4px;
+	padding-right: 2px;
+	padding-bottom: 0px;
+	margin: 0;
+	}
+
+	.scgBodyNoBG {
+	padding: 0 4px;	
+	}
+	
+	
+	/* Bigger font for documents that are intended to be read by actual people, such as referrals */
+	.ProviderDeliverableFontWrapper, .ProviderDeliverableFontWrapper .DT {
+		font-size: 12px;
+		line-height: 12px;
+	}
+
+	.ProviderDeliverableFontWrapper .cg h2, .ProviderDeliverableFontWrapper .fakeContentGroupTitle {
+		font-size: 13px;
+		line-height: 13px;
+	}
+	
+	.ProviderDeliverableFontWrapper .scg h2 {
+		font-size: 13px;
+		line-height: 13px;
+	}
+
+	.ProviderDeliverableFontWrapper .PrintButtons {
+		padding-bottom: 0px; /*4/7/2008 was changed from 3.*/
+		font-size: 13px;	
+	}	
+	
+	.ProviderDeliverableFontWrapper h4 {
+	font-size: 13px;
+	font-weight: bold;
+	}
+
+	.ProviderDeliverableFontWrapper .cgH2Mimick	{ 
+	font-weight: bold;
+	font-size: 13px;	
+	}	
+	
+	/* Big big print for patients */
+   .PatientDeliverableFontWrapper, .PatientDeliverableFontWrapper .DT {
+		font-size: 12pt;
+		line-height: 12pt;
+	}
+
+	.PatientDeliverableFontWrapper .cg h2, .PatientDeliverableFontWrapper .fakeContentGroupTitle {
+		font-size: 13pt;
+		line-height: 13pt;
+	}
+	
+	.PatientDeliverableFontWrapper .scg h2 {
+		font-size: 13pt;
+		line-height: 13pt;
+	}
+
+	.PatientDeliverableFontWrapper .PrintButtons {
+		padding-bottom: 0px; /*4/7/2008 was changed from 3.*/
+		font-size: 13pt;	
+	}	
+	
+	.PatientDeliverableFontWrapper h4 {
+	font-size: 13pt;
+	font-weight: bold;
+	}
+
+	.PatientDeliverableFontWrapper .cgH2Mimick	{ 
+	font-weight: bold;
+	font-size: 13pt;	
+	}
+	
+	.avoidPageBreaks {
+		page-break-inside: avoid;
+	}	
+	
+}
+
+@media screen
+{
+	body, .DT {
+	font-size: 11px;
+	line-height: 1.2;
+	}
+
+	.cg h2 {
+		font-size: 13px;
+		line-height: 13px;		
+	}
+
+	.PrintButtons
+	{
+		padding-bottom: 0px; /*4/7/2008 was changed from 3.*/
+		font-size: 11px;	
+	}	
+	
+	h4 {
+	font-size: 13px;
+	font-weight: bold;
+	}
+
+	.cgH2Mimick
+	{ 
+		font-weight: bold;
+		font-size: 13px;	
+		}
+
+
+	.cg h2 {
+		font-weight: bold;
+		/*width: 100;*/
+		margin: 0;	
+		margin-top: 3px;
+		margin-bottom: 0px;
+		padding: 0;
+		color: #000000;
+		font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;	
+		text-decoration: none;	
+	}
+
+	.cg, .cgNoMargin /* Content Group */ {
+		margin: 0px;
+		padding-top: 0px;
+	}
+
+	.cgBody, .cgBodyNoBG, .cgBodyGrayBG, .scgBodyNoBG {
+		border-top: 1px solid #000;
+		padding-top: 1px;
+		padding-left: 4px;
+		padding-right: 2px;
+		padding-bottom: 0px;	
+	}
+
+	ul
+	{ 
+		margin-top: 0px;
+		padding-left: 15px;
+		
+	}
+
+	li
+	{ padding-left: 0; margin-left: 20px; }
+
+	* html ul { padding-left: 0; margin-left: 1px; }
+
+	.cgBody, .cgBodyNoPad {
+		background-color: #fff;
+	}
+
+	.scg /* SubContent Group */ {
+		margin-left: 15px;
+		margin-top: 0px;
+		margin-bottom: 0px;
+		padding: 0;
+	}
+
+	.scg h2 {
+		margin: 0;	
+		margin-top: 1px;
+		padding: 0;
+		color: #000000;
+		font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+		font-weight: bold;
+		text-decoration: none;	
+		font-size: 13px;
+		line-height: 13px;
+	}
+
+	.scgBody {
+		border-top: 1px solid #000;
+		padding-top: 1px;
+		padding-left: 4px;
+		padding-right: 2px;
+		padding-bottom: 0px;
+		margin: 0;
+	}
+
+	.scgBodyNoBG {
+		padding: 0 4px;	
+	}	
+}
+
+
+
+* html #MainContent, * html .MainContent {
+	margin-top: -1px;
+	margin-bottom: -1px;
+}
+
+* html .cgCmd {
+	padding-bottom: 1px; /*Fixes cgcmd images being cut off by 1px in ie6 */
+}
+
+/*IE 6 and below */
+* html .divNoHistoricalTabs {
+	margin-bottom: -7px;
+}
+
+* html .HistoricalTabs {
+	margin-bottom: -2px;
+	/* I don't know where the extra 2 are coming from */
+	width: 762px;
+}
+
+* html .HistoricalTabs  {
+	padding-left: 2px;
+}
+
+*:first-child+html #MainContent {
+	margin-bottom: -1px;
+}
+
+*:first-child+html .ClockInput {
+	margin-top: -2px;
+	_margin-left: -3px;
+}
+
+/*ie7*/
+*:first-child+html .divNoHistoricalTabs {
+	margin-bottom: -7px;
+}
+
+*:first-child+html .HistoricalTabs {
+	margin-bottom: -1px;
+}
+
+*:first-child+html .MainContent {
+	margin-bottom: -1px;
+}
+
+a {
+	color: #001779;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #001779;
+	font-weight: normal;
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 16px;
+}
+
+a:hover {
+	color: #f50000;
+	font-weight: normal;
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 16px;
+}
+
+a:active {
+	color: #bf0000;
+	font-weight: normal;
+	font-weight: normal;
+	text-decoration: none;
+	line-height: 16px;
+}
+
+A.cpTodayText  {
+	color: #000000;
+}
+
+A.cpTodayText, SPAN.cpTodayTextDisabled  {
+	height: 20px;
+}
+
+body {
+	color: #000000;
+	background-color: #ffffff;
+	font-family: verdana, arial, helvetica, sans-serif;
+	font-weight: normal;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;		
+}
+
+
+img {
+	border: 0;
+}
+
+label, input, select  {
+	vertical-align: middle; /*We may want to add span to this list */
+}
+
+legend {
+	/* background-color: red;	*/
+}
+
+li > p {
+	margin-top: 0.2em;
+}
+
+p {
+	margin: 1.2em 0em 1.2em 0em;
+}
+
+strong, b {
+	font-weight: bold;
+}
+
+TD.cpCurrentDate  {
+	border-width: 1px;
+	border: solid thin #800000;
+	color: #000;
+	background-color: #fff;
+}
+
+TD.cpCurrentDateDisabled  {
+	border-width: 1px;
+	border: solid thin #fff;
+}
+
+TD.cpDayColumnHeader  {
+	border: solid thin #c0c0c0;
+	border-width: 0px 0px 1px 0px;
+	text-align: right;
+}
+
+TD.cpTodayText, TD.cpTodayTextDisabled  {
+	border: solid thin #c0c0c0;
+	border-width: 1px 0px 0px 0px;
+}
+
+/* End Date Control Styles */
+textarea {
+	overflow: auto;
+	max-width: 100%;
+}
+
+th {
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+}
+
+th a:hover {
+	font-weight: bold;
+}
+
+ul {
+	list-style: outside;
+}
+
+.bb /* border bottom */ {
+	border-bottom: 1px dotted #a0a8b3;
+	padding-bottom: 10px;
+}
+
+
+.br /* border right */ {
+	border-right: 1px dotted #a0a8b3;
+}
+
+.CallOutBG {
+	background-color: #000 !important;
+}
+
+.centered {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+
+.cgBodyGrayBG {
+	background-color: #fff;
+}
+
+.cgBodyHidden {
+	border-top: 1px solid #000;
+}
+
+.cgBodyNoBGNoPad {
+	padding: 0;
+	border-top: 1px solid #000;
+}
+
+.cgBodyNoPad {
+	padding: 0;
+	border-top: 1px solid #000;
+}
+
+.cgBodyNoPad table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.cgBodyReport {
+	border-top: 2px solid #000;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin: 0;
+	background-color: #fff;
+}
+
+.cgBottomTouch {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.cgCmd {
+	float: right;
+}
+
+/*Added by Kyle to try to hide the cg on the Details Page*/
+.cgHiddenBody {
+	padding: 0;
+}
+
+hr.contentGroupTitleUnderLine
+{	
+	border: 1px solid #3D5BB1;
+	padding: 0px;
+	margin: 0px;		
+}
+
+.contentGroupTitle
+{		
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	font-size: 13px;
+	line-height: 13px;
+	text-decoration: none;
+	color: #000;
+	margin: 0;
+	margin-bottom: 0px;
+	padding: 0;
+	display:inline;
+}
+
+.cgHR {
+	border-bottom: 1px solid #000;
+	clear: both;
+	line-height: 1px;
+	height: 1px;
+}
+
+.cgX {
+	padding: 0;
+	margin: 0;
+	background-color: #fff;
+	height: 20px;
+}
+
+.cgZ {
+	padding: 0;
+	margin: 0;
+	background-color: #fff;
+	height: 20px;
+}
+
+/* Page Template Positioning */
+.cl {
+	clear: both;
+}
+
+.ClockInput {
+	display: block;
+	white-space: nowrap;
+	_margin-left: -2px; /* ie only to fix offset of span */
+	_margin-top: -2px; /* ie only to fix offset of span */
+}
+
+.contentGroupTitleText {
+	color: #000000;		
+	font-weight: bold;
+	text-decoration: none;	
+}
+
+.cpBorder  {
+	border: solid thin #808080;
+}
+
+.cpCurrentMonthDate, .cpCurrentDate  {
+	color: #000000;
+}
+
+.cpCurrentMonthDate, .cpOtherMonthDate, .cpCurrentDate   {
+	text-align: right;
+	text-decoration: none;
+}
+
+.cpCurrentMonthDateDisabled, .cpOtherMonthDateDisabled, .cpCurrentDateDisabled  {
+	color: #d0d0d0;
+	text-align: right;
+	text-decoration: line-through;
+}
+
+.cpDayColumnHeader, .cpYearNavigation,.cpMonthNavigation,.cpCurrentMonthDate,.cpCurrentMonthDateDisabled,.cpOtherMonthDate,.cpOtherMonthDateDisabled,.cpCurrentDate,.cpCurrentDateDisabled,.cpTodayText,.cpTodayTextDisabled,.cpText  {
+	font-family: arial;
+	font-size: 8pt;
+}
+
+.cpOtherMonthDate  {
+	color: #808080;
+}
+
+.cpTodayTextDisabled  {
+	color: #d0d0d0;
+}
+
+/*Styles for the calendar control. This could get written by the control's javascript, but I don't have the time*/
+.cpYearNavigation,.cpMonthNavigation  {
+	background-color: #c0c0c0;
+	color: #000000;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+}
+
+.current .aa, .current .bb, .current .cc {
+	border-bottom: 1px solid #f5ecd9;
+	position: relative;
+	top: 2px;
+}
+
+.divNoHistoricalTabs {
+	margin-top: 25px;
+}
+
+.facilityImage {
+	float: left;
+}
+
+.FacilityTitle {
+	color: #000000;
+	font-family: Verdana;
+	font-size: 17px;
+	font-style: normal;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.fadeTextBoxText {
+	vertical-align: bottom;
+}
+
+.fakeContentGroupTitle {
+	margin: 0;
+	margin-bottom: 0px;
+	padding: 0;
+	border-bottom: 1px solid #000;
+	color: #000000;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	text-decoration: none;
+	line-height: 20px;
+}
+
+.Hidden {
+	visibility: hidden;
+}
+
+.HistoricalTabs img {
+	width: 760px;
+	height: 10px;
+}
+
+.i {
+	text-indent: 4em;
+}
+
+.left, .left span, .left SPAN {
+	text-align: left;
+}
+
+
+.menu {
+	clear: both;
+	margin-bottom: -0em; /* NOTE:  WIL:  I screwed this line up 10/6 */
+	line-height: 1.7em;
+}
+
+.menu .aa {
+	width: 12px;
+	float: left;
+	padding: 5px 0 2px 0;
+	border-bottom: 1px solid #999999;
+	background: url(../../images/taglft.gif);
+}
+
+.menu .bb {
+	float: left;
+	padding: 5px 0px 2px 0;
+	border-bottom: 1px solid #999999;
+	background: url(../../images/tagmid.gif);
+	text-align: center;
+}
+
+.menu .cc {
+	width: 12px;
+	float: left;
+	padding: 5px 0 2px 0;
+	border-bottom: 1px solid #999999;
+	background: url(../../images/tagrgt.gif);
+}
+
+.menu a, .menu a:visited {
+	color: #444444;
+	font-weight: bold;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.menu a:hover {
+	color: #000000;
+	background: #ffffff;
+}
+
+.menu a:hover span {
+	border-bottom: 1px solid #f9f4ee;
+	background-position: 0 150px;
+	text-decoration: none;
+}
+
+.menu dd {
+	margin: 0px;
+	padding: 0;
+}
+
+.menu dt {
+	display: none;
+}
+
+.menu input {
+	margin: 0px;
+	padding: 0px;
+	margin-bottom: -5px;
+	height: 15px;
+	vertical-align: middle;
+}
+
+.menu span {
+}
+
+.modalControls {
+	padding: 0;
+	margin: 0;
+	float: right;
+	display: block;
+	color: #ffffff;
+	text-align: right;
+}
+
+.modalControls a:link, .modalControls a:visited {
+	color: #ffffff;
+}
+
+.modalControls a:hover {
+	color: #f50000;
+}
+
+.modalControls img {
+	vertical-align: middle;
+}
+
+.noBorders {
+	border: none;
+}
+
+.NoMargin {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+/* Behavior.  Dependant on javascript */
+.NonVisible {
+	display: none;
+}
+
+.noPad {
+	padding: 0;
+}
+
+.NoPadding {
+	padding-top: 0;
+	padding-bottom: 0;
+}
+
+/* Reusable classes */
+.NotToday, .CallOut /* validators */ {
+	color: #f86700 !important;
+}
+
+.OneCell {
+	width: 150px;
+	vertical-align: top;
+}
+
+.OneCellNoPadding {
+	width: 170px;
+}
+
+.p /* Previous Values */ {
+	color: #718090;
+	font-size: 9px;
+	font-weight: normal;
+}
+
+.Pager a:link, .Pager a:hover, .Pager a:visited {
+	font-weight: bold; /*
+	background-image: url(../../images/th_bg.gif);
+	background-color: #aaa;
+	color: #fff;		
+	height: 25px;
+	text-decoration: none;	
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+	*/
+}
+
+.PrintHeader {
+	margin-bottom: 10px;
+	display: block;
+	font-size: 16px;
+	font-weight: bold;
+	line-height: 16px;
+}
+
+.PrintHidden {
+	display: none;
+}
+
+.rb {
+	width: 760px;
+	padding: 0;
+	margin: 0 auto;
+	line-height: 10px;
+	height: 10px !important;
+	min-height: 10px;
+	max-height: 10px;
+}
+
+.rb {
+	vertical-align: middle;
+}
+
+.rb img {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border: none;
+}
+
+.rows1 {
+	height: 6ex;
+}
+
+.rows2 {
+	height: 7ex;
+}
+
+.rows3 {
+	height: 10ex;
+}
+
+
+.SecondaryTabs {
+	margin: 0 auto 0 auto;
+	padding: 0;
+	border-bottom: 2px solid #000;
+	width: 100%;
+	clear: both;
+	height: 28px;
+}
+
+.SecondaryTabs a:link, .SecondaryTabs a:hover, .SecondaryTabs a:visited {
+	float: left;
+	width: 100px;
+	padding: 0px;
+	margin-left: 4px;
+	border: none;
+	display: block;
+	background-image: url(../../images/tab_sub_off.gif);
+	background-repeat: no-repeat;
+	color: #5f6d7e;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 28px;
+	text-align: center;
+	text-decoration: none;
+	max-width: 100px;
+	max-height: 28px;
+	height: 28px;
+	vertical-align: middle;
+}
+
+.SecondaryTabs a:link.active, .SecondaryTabs a:hover.active, .SecondaryTabs a:visited.active {
+	color: #ffffff;
+	background-image: url(../../images/tab_sub_on.gif);
+	background-repeat: no-repeat;
+}
+
+.SecondaryTabs a:hover {
+	color: #ffffff;
+}
+
+.SecondaryTabsLarge {
+	margin: 0 auto 0 auto;
+	padding: 0;
+	border-bottom: 2px solid #000;
+	width: 100%;
+	clear: both;
+	height: 28px;
+}
+
+.SecondaryTabsLarge a:link, .SecondaryTabsLarge a:hover, .SecondaryTabsLarge a:visited {
+	float: left;
+	width: 204px;
+	padding: 0px;
+	margin-left: 4px;
+	border: none;
+	display: block;
+	background-image: url(../../images/tab_sub_off_big.gif);
+	background-repeat: no-repeat;
+	color: #5f6d7e;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 28px;
+	text-align: center;
+	text-decoration: none;
+	max-width: 204px;
+	max-height: 28px;
+	height: 28px;
+	vertical-align: middle;
+}
+
+.SecondaryTabsLarge a:link.active, .SecondaryTabsLarge a:hover.active, .SecondaryTabsLarge a:visited.active {
+	color: #ffffff;
+	background-image: url(../../images/tab_sub_on_big.gif);
+	background-repeat: no-repeat;
+}
+
+.SecondaryTabsLarge a:hover {
+	color: #ffffff;
+}
+
+.ShowBullet {
+	list-style: disc outside;
+}
+
+.statusWrap {
+	width: 760px;
+	margin: 0 auto;
+	padding: 0px;
+}
+
+.Stretch {
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.subItem {
+	text-indent: 1.5em;
+}
+
+.Submit {
+	margin-bottom: 2px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 160px;
+	white-space: nowrap!important;
+	height: 32px;
+}
+
+.Submit * {
+	vertical-align: top;
+}
+
+.Submit a {
+	border: none;
+	padding: 0 5px;
+	margin-top: 0px;
+	margin-left: 5px;
+	margin-right: 5px;
+	display: inline;
+}
+
+.Submit input {
+	border: none;
+	padding: 0 5px;
+	margin-top: 0px;
+	margin-left: 5px;
+	margin-right: 5px;
+	display: inline;
+}
+
+.SubNav {
+	padding-top: 2ex;
+	display: none;
+}
+
+.SubNav ul {
+	float: left;
+	width: 200px;
+	text-align: center;
+}
+
+.SubNav, .SubNav div, #subNav {
+	border-left: 1px solid #999999;
+	white-space: nowrap;
+	background-color: #f5ecd9; /* this will fix the missing top right of the submenu need to make an image 	background-image: url(http://www.dubtastic.com/tutorials/border/border02.gif); 	background-repeat: no-repeat; 	background-position: top right;	 	*/
+}
+
+.SubTabNav {
+	margin: 0;
+	padding: 0;
+	margin-bottom: -25px;
+	position: relative;
+}
+
+.SubTabNav a:link, .SubTabNav a:visited {
+	float: left;
+	width: 100px;
+	padding: 0px;
+	margin-left: 4px;
+	padding-top: 5px;
+	border: none;
+	background-image: url(../../images/tab_sub_off.gif);
+	background-repeat: no-repeat;
+	color: #5f6d7e;
+	font-weight: bold;
+	font-size: 11px;
+	text-align: center;
+	text-decoration: none;
+	max-width: 100px;
+	max-height: 28px;
+	height: 28px;
+}
+
+.SubTabNav a:link.active, .SubTabNav a:visited.active {
+	color: #ffffff;
+	background-image: url(../../images/tab_sub_on.gif);
+	background-repeat: no-repeat;
+}
+
+.SubTabNav a:hover {
+	color: #ffffff;
+}
+
+.ThreeCells {
+	width: 530px;
+	vertical-align: top;
+}
+
+.ThreeCellsNoPadding {
+	width: 550px;
+}
+
+.TimeBox {
+	margin: 0;
+	padding: 0;
+	white-space: nowrap;
+	line-height: 18px;
+	height: 18px;
+	vertical-align: top;
+}
+
+.timeInput {
+	width: 75px;
+}
+
+.timeSelect {
+	margin: 0;
+}
+
+.ToolTipBody {
+	width: 300px;
+}
+
+/* More stuff to be sorted  */
+.ToolTipHeader {
+	width: 300px;
+}
+
+.TwoCells {
+	width: 340px;
+	vertical-align: top;
+}
+
+.TwoCellsNoPadding {
+	width: 360px;
+}
+
+.UnHidden {
+	visibility: visible;
+}
+
+.valSummary {
+	width: 95%;
+	margin: 0 auto;
+	text-align: left;
+}
+
+.valSummary {
+	width: 376px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.valSummary ul, .valSummary li {
+	padding-right: 10px;
+	list-style: circle;
+}
+
+.vb  {
+	vertical-align: bottom;
+}
+
+.vc {
+	vertical-align: middle;
+}
+
+.vd /* vertical divider */ {
+	background-repeat: repeat-y;
+	background-position: center;
+	background-image: url(../../images/vertical_rule.gif);
+}
+
+.Visible {
+	: ; /*We don't need anything here since we just want to take away the display style*/
+}
+
+.VisitMade, .VisitMade a:link, .VisitMade a:visited {
+	color: #862A0D!important;
+}
+
+.VisitPending {
+	color: #001779;
+}
+
+.VisitPending a:link, .VisitPending a:visited {
+	color: #001779!important;
+}
+
+/*.VisitPending a:hover {
+	: ;  color: #001779; This is just wrong... 
+}*/
+
+.vm {
+	vertical-align: middle;
+}
+
+.vt {
+	vertical-align: top;
+}
+
+.vt, .Vt {
+	vertical-align: top;
+}
+
+.WholePage {
+	width: 720px;	
+}
+
+.WholePageNoPadding {
+	width: 740px;
+}
+
+.yesNo {
+	width: 5em;
+}
+
+#controlBlocker {
+	width: 100%;
+	display: none;
+	background-color: #333333;
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	z-index: 1001;
+	z-index: 1001;
+	-moz-opacity: 0.7;
+	opacity: .75;
+	filter: alpha(opacity=75);
+	filter: progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=5);
+}
+
+#divFormSave {
+	width: 50%;
+	padding: 0;
+	margin: 0 auto;
+	margin-bottom: 1px;
+	line-height: 22px;
+	height: 22px;
+}
+
+#Footer {
+	width: 760px;
+	margin: 20px auto;
+	color: #ffffff;
+	text-align: center;
+}
+
+#MainContent, .MainContent {
+	width: 740px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0px;
+	padding: 10px;
+	background-color: #ffffff;
+}
+
+#nav {
+	width: 760px;
+	padding: 0;
+	margin: 20px auto 0;
+}
+
+#overlay {
+	width: 100%;
+	display: none;
+	background-color: #333333;
+	background-image: url(../../images/pagebg.jpg);
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	z-index: 1000;
+	-moz-opacity: 0.7;
+	opacity: .75;
+	filter: alpha(opacity=75);
+}
+
+#overlay[id] {
+	position: fixed; /* IE6 and below Can't See This */
+}
+
+#StatusBar {
+	margin-top: 7px;
+	float: right;
+	text-align: right;
+}
+
+#StatusBar a {
+	color: #ffffff;
+}
+
+#StatusBar a:visited {
+	color: #ffffff;
+}
+
+#StatusBar a:hover {
+	color: #4595fa;
+}
+
+#statusstrip {
+	background: url(../../images/StatusBarBg.gif);
+	background-color: #738eac;
+	height: 44px;
+}
+
+#statusstrip {
+	border-bottom: 1px solid #4d7096;
+	color: #4d7096;
+}
+
+#statusstrip span {
+	color: #ffffff;
+}
+
+#StickyTabNav {
+	margin: 0;
+	padding: 0;
+	margin-bottom: -25px;
+	/* z-index: 2001; */
+	position: relative;
+}
+
+#StickyTabNav a:link, #StickyTabNav a:visited {
+	float: left;
+	width: 100px;
+	padding: 0px;
+	margin-left: 4px;
+	padding-top: 5px;
+	border: none;
+	/*background-image: url(../../images/tab_sub_off_no_gap.gif);	*/
+	background-image: url(../../images/tab_sub_off.gif);
+	background-repeat: no-repeat;
+	color: #5f6d7e;
+	font-weight: bold;
+	font-size: 11px;
+	text-align: center;
+	text-decoration: none;
+	max-width: 100px;
+	max-height: 28px;
+	height: 28px;
+}
+
+#StickyTabNav a:link.active, #StickyTabNav a:visited.active {
+	color: #ffffff;
+	background-image: url(../../images/tab_sub_on.gif);
+	background-repeat: no-repeat;
+}
+
+#StickyTabNav a:hover {
+	color: #ffffff;
+}
+
+#subNav {
+	clear: both;
+	margin-top: -8ex;
+	vertical-align: middle;
+}
+
+#subNav {
+	border: none;
+	border-right: 1px solid #999999;
+	border-bottom: 1px solid #aaaaaa;
+	background-color: #f5ecd9;
+	background-image: url(../../images/submenubg.jpg);
+	background-repeat: repeat-y;
+	background-position: 0 0;
+}
+
+#subNav a {
+	display: block;
+	line-height: 25px;
+	position: relative;
+	height: 25px;
+}
+
+#subNav a {
+	margin: -7px; /*	padding-left: 1.5em; space for an icon */
+	color: #4d7096;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#subNav a:hover {
+	background-color: #dddddd;
+}
+
+#TabNav {
+	margin: 0;
+	padding: 0;
+	float: right;
+	margin-bottom: -4px;
+	/* z-index: 2001; */
+	position: relative;
+}
+
+#TabNav a:link, #TabNav a:visited {
+	float: left;
+	width: 100px;
+	padding: 0px;
+	margin-left: 0;
+	padding-top: 4px;
+	border: none;
+	background-image: url(../../images/tab_menu_off.gif);
+	background-repeat: no-repeat;
+	color: #5f6d7e;
+	font-weight: bold;
+	font-size: 11px;
+	line-height: 20px;
+	text-align: center;
+	text-decoration: none;
+	max-width: 100px;
+	max-height: 28px;
+	height: 28px;
+}
+
+#TabNav a:link.active, #TabNav a:visited.active {
+	color: #ffffff;
+	background-image: url(../../images/tab_menu_on.gif);
+	background-repeat: no-repeat;
+}
+
+#TabNav a:hover {
+	color: #ffffff;
+}
+
+
+
+	.MainCalendar
+	{
+		table-layout: fixed;
+		width: 666px;
+	}
+
+	.MainCalendar td
+	{
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+		border-collapse: collapse;
+	}
+	.MainCalendar th
+	{
+		border-top: 1px solid black;
+		border-bottom: 1px solid black;
+		border-collapse: collapse;
+	}
+
+	.Break
+	{
+		page-break-after: always;
+	}
+
+
+	.z
+	{
+		background-color: white;
+		color: Black;
+	}
+
+	.CalendarHeader, .CalendarHeader th
+	{
+		background-image: none;
+		background-color: #fff;
+		color: #000;		
+	}
+
+		.OneCell
+	{
+		width: 140px;
+	}
+
+	.TwoCells
+	{
+		width: 350px;
+	}
+
+
+	.ThreeCells
+	{
+		width: 500px;
+	}
+
+	.WholePage
+	{
+		width: 680px;		
+	}
+
+
+	.OneCellNoPadding
+	{
+		width: 160px;
+	}
+
+	.TwoCellsNoPadding
+	{
+		width: 340px;
+	}
+
+
+	.ThreeCellsNoPadding
+	{
+		width: 520px;
+	}
+
+	.WholePageNoPadding
+	{
+		width: 700px;
+	}
+
+	
+	.SearchResults 
+	{
+		border: 1px solid #c5cad0!important;
+	}	
+	
+	.VisitPending, .NotToday
+	{
+	  font-weight: bold;
+	  color: Black;	  
+	}
+
+	
+	#MainContent 
+	{
+		width: 100%;
+		padding: 0;
+		margin: 0;
+		border: none;
+	}
+
+	.UnFloat
+	{
+		float: none;	
+	}
+
+	.patIDLabel
+	{
+		font-weight: bold;	
+	}
+	
+	.HistoricalFormOptions
+	{
+		width: 760px;
+		margin: 30px auto 0 auto;
+		padding-left: 0;	
+	}
+
+	.HistoricalFormOptions #TabsContainer
+	{
+		margin: 0;
+		padding: 0;
+			
+		float: left;			
+		position: relative;	
+		margin-bottom: -4px;
+	}
+
+	.HistoricalFormOptions a:link, .HistoricalFormOptions a:visited
+	{
+		float: left;		
+		width: 100px;
+		max-width: 100px;
+		max-height: 28px;
+		height: 28px;		
+		padding: 0px;	
+		margin-left: 0;
+		padding-top: 4px;
+		line-height: 20px;
+		
+		background-image: url(../../images/tab_menu_off.gif);	
+		background-repeat: no-repeat;				
+		border: none;
+		
+		font-weight: bold;
+		font-size: 11px;
+		color: #5F6D7E;
+		text-align: center;	
+		text-decoration: none;	
+	}
+
+	.HistoricalFormOptions a:link.active, .HistoricalFormOptions a:visited.active
+	{		
+		color: #FFF;
+		background-image: url(../../images/tab_menu_on.gif);
+		background-repeat: no-repeat;				
+	}
+
+	.HistoricalFormOptions a:hover
+	{
+		color: #FFF;
+	}
+
+	.HistoricalFormOptions select
+	{
+		margin-left: 20px;
+		margin-top: 3px;	
+	}
+
+	hr.contentGroupTitleUnderLine
+	{	
+		border: 1px solid #0EBBE6;
+		padding: 0px;
+		margin: 0px;		
+	}
+
+	@media print
+{	
+	.HideOnPrint { display: none;	}
+	.PrintHidden { display: block; }
+	
+	.SplitPage
+	{
+		page-break-after: always;
+	}
+	
+	#Footer, 
+	#MainLogo, 
+	#nav, 
+	#StatusBar, 
+	#statusstrip,	
+	#StickyTabNav, 
+	#subNav, 	
+	.NonVisible, 
+	.NoPrint	
+	 { 
+		display:none;				
+	 }
+
+	a, A 
+	{
+		text-decoration: none;
+	}
+	
+
+	.NoPrint, .HideOnPrint
+	{
+		width: 0;
+		height: 0;
+		line-height:0;		
+		max-width: 0;
+		min-width: 0;
+		padding: 0;
+		margin: 0;		
+		border: none;
+		visibility: collapse;
+	}	
+}
+
+/*Treatment Notes Specific Styles */
+.cgBodyNoBGTreatmentNotes, .scgBodyNoBGTreatmentNotes
+{
+	padding-top: 0px;
+	padding-left: 4px;
+	padding-right: 2px;
+	padding-bottom: 0px;
+}
+
+.scgBodyNoBGTreatmentNotes 
+{
+  border-top: 1px solid #000;
+	padding: 0 4px;	
+}
+
+.scgBodyNoBGTreatmentNotes .ShowBullet
+{
+  list-style: disc outside;
+}
+
+.scgBodyNoBGTreatmentNotes ul
+{ 
+	margin-top: 0px;
+	padding-left: 15px;
+}
+
+.scgBodyNoBGTreatmentNotes li
+{ 
+  padding-left: 0; 
+  margin-left: 20px; 
+}
+
+.scgTreatmentNotes 
+{
+	margin-left: 15px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 0;
+}

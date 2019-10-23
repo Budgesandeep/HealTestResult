@@ -1,0 +1,44 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizVBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s0e154f3b32f46ef8d5740e8ebd60080",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "hboxheader",
+        "hboxpatient",
+        "hboxWound",
+        "hboxfollowup",
+        "hboxduedate",
+        "hboxdesc",
+        "hboxerror",
+        "hboxcreate"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "vboxaddtask",
+    "info": null,
+    "isvisible": true,
+    "kuid": "dfc4ae278abb4149905faff562bb669d",
+    "layouttype": 0,
+    "name": "kony.ui.Box",
+    "parent": "hboxaddtask",
+    "pf": "popupcreatetask",
+    "wType": "VBox",
+    "widgetalignment": 1
+}

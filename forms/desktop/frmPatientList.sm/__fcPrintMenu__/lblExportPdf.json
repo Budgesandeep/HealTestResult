@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_srcKuid_": "499cc6d43ced4b29a4bdc21d5928116b",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblExportPdf",
+        "left": "35dp",
+        "text": "Export PDF",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblExportPdf",
+    "instanceOf": "499cc6d43ced4b29a4bdc21d5928116b",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m3bf0c9627d24330839107eadebabcd3",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcExportPdf",
+    "pf": "frmPatientList",
+    "topLevelInstanceKUID": "m38e9a21b918467aba27103ccbd77046",
+    "wType": "Label"
+}

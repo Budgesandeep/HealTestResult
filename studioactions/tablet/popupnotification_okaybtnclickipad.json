@@ -1,0 +1,29 @@
+{
+    "AS_Button_c63c2ae8990b4503ba42b70a4a758816": {
+        "id": "AS_Button_c63c2ae8990b4503ba42b70a4a758816",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupnotification_okaybtnclickipad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupnotification",
+            "type": "popups",
+            "platform": "",
+            "KUID": "a83cdc3f5fca42ac90b91e646d6aef41"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j6f084e5877b4b9ead944fe1ee6bb210",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupnotification_okayButtonHandler",
+            "display": "popupnotification_okayButtonHandler",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

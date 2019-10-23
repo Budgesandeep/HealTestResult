@@ -1,0 +1,32 @@
+{
+    "AS_Button_30725be1dbf94aea845e07d26295796a": {
+        "id": "AS_Button_30725be1dbf94aea845e07d26295796a",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_markcomplete_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segViewTasks",
+            "type": "templates",
+            "platform": "",
+            "KUID": "b5114c4da9ef47568e48de5e5b6d0001"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f468b1f25a5e425f985213d8ef694559",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasks_onClick_Complete",
+            "display": "frmViewTasks_onClick_Complete",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

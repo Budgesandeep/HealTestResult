@@ -1,0 +1,57 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s060ea0194aa4600ae0969c1957bd0f2",
+    "_text_": "Reset it.",
+    "_top_": {
+        "type": "string",
+        "value": "24.50%"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s060ea0194aa4600ae0969c1957bd0f2",
+    "id": "btnReset",
+    "ide_onClick": "AS_Button_j1babfc6bf61412c9984334df719c154",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "i4b49fac3a3d4319bc6e01e649289840",
+    "name": "kony.ui.Button",
+    "parent": "fcReset",
+    "pf": "frmLogin",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

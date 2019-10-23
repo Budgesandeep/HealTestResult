@@ -1,0 +1,29 @@
+{
+    "AS_Button_i877499999854b01b4a0b6662a9bf7e5": {
+        "id": "AS_Button_i877499999854b01b4a0b6662a9bf7e5",
+        "type": "ACTION_SEQUENCE",
+        "name": "popuppushnotifications_ipad_btnupgrade_event",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupPushNotifications",
+            "type": "popups",
+            "platform": null,
+            "KUID": "c54f8e20b084431b8e8c20b3f011a805"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bcbf667db9b6405da4ddfd0ce4184d7d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "_openAppStoreLink",
+            "display": "_openAppStoreLink",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

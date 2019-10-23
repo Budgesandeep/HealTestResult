@@ -1,0 +1,25 @@
+{
+    "AS_Button_795de2f8cdf749b699ccdb83017d76ee": {
+        "id": "AS_Button_795de2f8cdf749b699ccdb83017d76ee",
+        "type": "ACTION_SEQUENCE",
+        "name": "popuplogout_btnYesClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popuplogout",
+            "type": "popups",
+            "platform": null,
+            "KUID": "a20a34f7764e49a1bbecdb6251d4f697"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__c103ed9c227d412ab6cd524e38903fd9",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "loginModule.logoutUserService();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

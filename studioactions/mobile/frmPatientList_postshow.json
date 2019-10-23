@@ -1,0 +1,29 @@
+{
+    "AS_Form_85a12b50e2a4442f84bd0d48502ac01f": {
+        "id": "AS_Form_85a12b50e2a4442f84bd0d48502ac01f",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_postshow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a47cd5c8b4344d0fb6212b46230e40b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f2a0b6ecf66247f781a00b62f571da6f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientListiPhone_postShow",
+            "display": "frmPatientListiPhone_postShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

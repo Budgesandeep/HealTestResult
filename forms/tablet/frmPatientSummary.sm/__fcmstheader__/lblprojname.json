@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s928e039258247169c891ddeca5c0b5b",
+    "_srcKuid_": "d3e90fd66b94494caeb5a61f889ab475",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblprojname",
+        "left": "15dp",
+        "text": "i-heal 3.0",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblprojname",
+    "instanceOf": "d3e90fd66b94494caeb5a61f889ab475",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m4f9762bc7d1419787e591c894ff8e82",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcheaderleft",
+    "pf": "frmPatientSummary",
+    "topLevelInstanceKUID": "m5ad896e195048f4bc1ffd172dea4196",
+    "wType": "Label"
+}

@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        8,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s3702d79e59e4d5482fe7cd4d8a0232b",
+    "_text_": "Date Completed",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblwoundfeaturedatecompleted",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "721f3951a8154a5c8fc9297d0998cc95",
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "fcdatecompletedhdr",
+    "pf": "frmPatientSummary",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

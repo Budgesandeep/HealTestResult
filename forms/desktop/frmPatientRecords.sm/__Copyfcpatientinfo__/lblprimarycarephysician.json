@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7d79e6e54a441d3a41f1caf37b15220",
+    "_srcKuid_": "m4febb8a47054502a9a991024ba91ac1",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lblprimarycarephysician",
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Primary Care Physician:",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "50%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblprimarycarephysician",
+    "instanceOf": "m4febb8a47054502a9a991024ba91ac1",
+    "isvisible": true,
+    "kuid": "m6caef1987da48f2a0b27a23bdfa512a",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo2",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

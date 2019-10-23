@@ -1,0 +1,28 @@
+{
+    "AS_Form_1c38c271d42b46ab9b454eadb9d61320": {
+        "id": "AS_Form_1c38c271d42b46ab9b454eadb9d61320",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientDetailsPostShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "2e9dd019fe0149f08a8f3c60bf683504"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___676bd85fcad643ad85ccb43fbd21bd3b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "setWoundDummyData",
+            "display": "setWoundDummyData",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

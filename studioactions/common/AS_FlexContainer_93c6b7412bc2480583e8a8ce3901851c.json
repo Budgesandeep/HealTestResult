@@ -1,0 +1,17 @@
+{
+    "AS_FlexContainer_93c6b7412bc2480583e8a8ce3901851c": {
+        "id": "AS_FlexContainer_93c6b7412bc2480583e8a8ce3901851c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "masterheaderold",
+            "type": "masters",
+            "KUID": "5b6f549504be45a7b888471691b5dd4f"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

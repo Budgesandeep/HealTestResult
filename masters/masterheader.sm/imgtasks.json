@@ -1,0 +1,83 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "tasklistheader.png",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "32dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m660d468ae614bd0a0ec0eda17dccb53",
+        "m5cd72f9d66843d8b344a596a7f3fd16",
+        "m429e70b1f924bbfa9dc48bdc8c86ce4",
+        "m3342bf1940c4ab49af6e51b99da9e5d",
+        "m9042cdb5258446da3a3ef78de671b57",
+        "m7bf00f3175845dca28f6dc86390a258",
+        "mfeec6012957443b8b4ee6f466c5549d",
+        "m78be2a0bdde42f4a9801330fceb6464",
+        "m0effdfc31344deda7498ae802c4496a",
+        "ma7dc0b4893e44bdbd47b31d486649a2",
+        "mc80002ffdd24771a9c84f25a02ef4e6",
+        "m03373366ca045b8be292ec8f7c6a59f",
+        "me06a2fb93824561875b4d28e89ffae0",
+        "mc2f6cfdd67142c4b7298731844a7c38"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "masterheader",
+        "platform": "desktopweb",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imgtasks",
+    "imagescalemode": 1,
+    "imagewhiledownloading": "tasks.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "5111612010dd4e839f221a11f6abddb5",
+    "name": "kony.ui.Image2",
+    "parent": "fctaskcount",
+    "pf": "masterheader",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

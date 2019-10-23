@@ -1,0 +1,60 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa1111ea6188450386950c0abff2a271",
+    "_srcKuid_": "m4972ef4efef492fa2548200b8ffaed2",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [
+        "fcmenuitemone",
+        "fcmenuitemtwo",
+        "fcmenuitemthree",
+        "fcmenufour",
+        "fcmenufive",
+        "fcmenusix",
+        "fcmenseven",
+        "fcmenueight",
+        "fcmenunine",
+        "fcmenuten",
+        "fcmenueleven",
+        "fcmenutweleve"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "fcmenu",
+        "layoutType": 4,
+        "left": "0dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "200dp"
+        }
+    },
+    "id": "fcmenu",
+    "instanceOf": "m4972ef4efef492fa2548200b8ffaed2",
+    "isTopFlexInstance": true,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m738b346430a4ddda5b7b73c57a2b787",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fscsidemenu",
+    "pf": "frmPatientRecords",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

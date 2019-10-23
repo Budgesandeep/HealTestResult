@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_b384db2414ff44a288fe779c94a35634": {
+        "id": "AS_FlexContainer_b384db2414ff44a288fe779c94a35634",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_d65a58c8435646cda0483ab69849db60",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientDashboard",
+            "display": "showPatientDashboard",
+            "inputparams": [],
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

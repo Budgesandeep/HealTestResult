@@ -1,0 +1,30 @@
+{
+    "AS_Button_cb83b2afcce44f56b326052f66e0a157": {
+        "id": "AS_Button_cb83b2afcce44f56b326052f66e0a157",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmpatientList_checkMSR3",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "56c1e97ccb21438aabe2e25446e10972"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7a4e91bfe7934b5f9391f8ab7c7056c8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_check",
+            "display": "frmPatientList_check",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

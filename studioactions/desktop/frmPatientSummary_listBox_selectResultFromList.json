@@ -1,0 +1,31 @@
+{
+    "AS_ListBox_6c7103092d534bcf98e4f7747e2d7239": {
+        "id": "AS_ListBox_6c7103092d534bcf98e4f7747e2d7239",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_listBox_selectResultFromList",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "2c036a328549447d974633eb128be102"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a9aa3238c4aa4e27838ad372dda364c2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_selectResultValueFromList",
+            "display": "frmPatientSummary_selectResultValueFromList",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

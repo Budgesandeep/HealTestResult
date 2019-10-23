@@ -1,0 +1,65 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "number",
+        "value": "10"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "139dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s41625d1db5846a89c3de11de529a451",
+    "_text_": "Cancel Sync",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "35%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s41625d1db5846a89c3de11de529a451",
+    "id": "btncancelsync",
+    "ide_onClick": "AS_Button_fe3fe8326c8040f2b1c2590255ad08c7",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "f05bfb4790cd4757b0efdd561d7073b1",
+    "name": "kony.ui.Button",
+    "parent": "fcloader",
+    "pf": "frmSelectFacility",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

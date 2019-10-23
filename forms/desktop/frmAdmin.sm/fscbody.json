@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": 10,
+    "_height_": {
+        "type": "string",
+        "value": "98%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_skin_": "s326f2a7939848fe99556b2e6f811587",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "98%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "fcdashboardsubheader",
+        "fcadminsearch",
+        "fcalphabets",
+        "fcadminclearsave",
+        "fcseg",
+        "FlexContainer0a3bf80e31c7648"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fscbody",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ef8bc4e52a994cdd8f3d43aa122cb693",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fscbodyScroll",
+    "pf": "frmAdmin",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

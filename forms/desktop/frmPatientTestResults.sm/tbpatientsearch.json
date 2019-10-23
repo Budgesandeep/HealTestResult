@@ -1,0 +1,66 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "71%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "First Name / Last Name",
+    "_right_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_skin_": "se49eeacca5a48e49ab4f29b60076e11",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "ide_onEndEditing": "AS_TextField_ff1f930c0d4941dbaac816bd7d05ca76",
+        "ide_onKeyUp": "AS_TextField_ibff771ff82e42ecacf4f8cfaad50264",
+        "onEndEditing": "AS_TextField_8d8dddc36bea45a39202bfc3c080f6fc",
+        "onKeyUp": "AS_TextField_7c77cb4191d445a5a17e8755011d7d29"
+    },
+    "id": "tbpatientsearch",
+    "info": null,
+    "isvisible": true,
+    "keyboardtype": "A",
+    "kuid": "cc4af306836143589a37f9e657b56816",
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "paddinginpixel": false,
+    "parent": "fcpatienthdrbox",
+    "pf": "frmPatientTestResults",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

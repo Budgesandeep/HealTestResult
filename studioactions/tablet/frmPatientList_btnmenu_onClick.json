@@ -1,0 +1,22 @@
+{
+    "AS_Button_8039f944c93b43f39ab42240b04ef78e": {
+        "id": "AS_Button_8039f944c93b43f39ab42240b04ef78e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_btnmenu_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f7aac72e5ff442f8ae14b90cfb1e3977",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSideMenu",
+            "display": "menu_toggleSideMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

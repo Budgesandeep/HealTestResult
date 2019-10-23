@@ -1,0 +1,27 @@
+{
+    "AS_Button_d583a61009894a23a9aba0354520c136": {
+        "id": "AS_Button_d583a61009894a23a9aba0354520c136",
+        "type": "ACTION_SEQUENCE",
+        "name": "patientSummary_onclick_chartViewRangeSelection_6months",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_7ab63da79ed34b309a2702d471f8815a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "patientSummary_changeChartTimeLine",
+            "display": "patientSummary_changeChartTimeLine",
+            "inputparams": [{
+                "name": "selectedWeeks",
+                "value": "26"
+            }, {
+                "name": "isFirstTime"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

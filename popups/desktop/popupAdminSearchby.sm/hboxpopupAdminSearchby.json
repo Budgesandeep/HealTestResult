@@ -1,0 +1,41 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s145b1126db14216abcc7a9c08d8e413",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "vboxpopupAdminSearchby"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "desktopweb": {
+        "psp": {}
+    },
+    "id": "hboxpopupAdminSearchby",
+    "info": null,
+    "isvisible": true,
+    "kuid": "2c1191fc09ca4586996aa5b36c4c484d",
+    "layoutalignment": 3,
+    "layouttype": 0,
+    "name": "kony.ui.Box",
+    "parent": "popupAdminSearchby",
+    "pf": "popupAdminSearchby",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

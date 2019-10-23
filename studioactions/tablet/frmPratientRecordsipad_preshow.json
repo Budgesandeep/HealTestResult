@@ -1,0 +1,41 @@
+{
+    "AS_Form_e1db9b9dd58e4201889b831688f43f72": {
+        "id": "AS_Form_e1db9b9dd58e4201889b831688f43f72",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPratientRecordsipad_preshow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": "",
+            "KUID": "29d5bb05d3ed43388b36d9044efe616d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d522e1b3ac934a0785ee9035c463a3c9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeConnectionStatus",
+            "display": "changeConnectionStatus",
+            "inputparams": [{
+                "name": "isOnLine"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___ce6292ba4db34c269005854d7bba4e39",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hideSearchDropdown",
+            "display": "hideSearchDropdown",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "AS_Button_04051d11df744448a9aad762965b6c63": {
+        "id": "AS_Button_04051d11df744448a9aad762965b6c63",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_534db44321b04bf0a731ebef7c62d186",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_showMostRecentPhysicianOrders",
+            "display": "frmPatientSummary_showMostRecentPhysicianOrders",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

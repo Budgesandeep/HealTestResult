@@ -1,0 +1,65 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "79dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_skin_": "sa1111ea6188450386950c0abff2a271",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m02093c4dd894f348876d9028e856d80",
+        "m417ac0068324a6fbd1c2ac78182dda5",
+        "m4ceea124dca4a28b7b49e0cb0d0e9d0"
+    ],
+    "children": [
+        "fcuserinfo",
+        "fccontacthelp",
+        "fctask",
+        "fcsubmenu"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcheaderright",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d48eb7a275424e8390a3ee7ad3090f21",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcmstheaderold",
+    "pf": "masterheaderold",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

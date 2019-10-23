@@ -1,0 +1,35 @@
+{
+    "AS_Form_0c664f35327546b4863fedf71b37bc3c": {
+        "id": "AS_Form_0c664f35327546b4863fedf71b37bc3c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_onTouchEnd_ipad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmViewTasksNew",
+            "type": "forms",
+            "platform": "",
+            "KUID": "15b91c763b4247dcbffb17a1665e772c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___7df055a3ec72467e9afb01cc7e075150",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasksNew_onTouchEnd_call",
+            "display": "frmViewTasksNew_onTouchEnd_call",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

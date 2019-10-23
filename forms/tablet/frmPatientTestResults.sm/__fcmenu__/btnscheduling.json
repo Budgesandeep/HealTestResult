@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s591dcd3a2c6408ebc2c73c5ad212969",
+    "_srcKuid_": "d1c21d5d2a1842d4bfdda63bbcd8bc1a",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "btnscheduling",
+        "left": "0dp",
+        "text": "Button",
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "btnscheduling",
+    "instanceOf": "d1c21d5d2a1842d4bfdda63bbcd8bc1a",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m5e988bf004c4a5f9dddddcb6702d5b5",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "fcmenunine",
+    "pf": "frmPatientTestResults",
+    "topLevelInstanceKUID": "m210b1743ec340b5bf3e8c37127c1c64",
+    "wType": "Button"
+}

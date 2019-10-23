@@ -1,0 +1,30 @@
+{
+    "AS_Button_a385fb70063b4d8589d776e218c75164": {
+        "id": "AS_Button_a385fb70063b4d8589d776e218c75164",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupcreatetask",
+            "type": "popups",
+            "platform": null,
+            "KUID": "fb4940ff2497423a99a826a58af0af5b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___89b039d9a41a4b75b8d59d4a569fb39e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

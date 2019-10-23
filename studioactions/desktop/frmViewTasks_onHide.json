@@ -1,0 +1,28 @@
+{
+    "AS_Form_ae2a733c0fff418a8de8ed5fe14d3efe": {
+        "id": "AS_Form_ae2a733c0fff418a8de8ed5fe14d3efe",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasks_onHide",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "d493fbc8f7f943c48f5705954bffc978"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f46411a6c76d4b149e9d2da8bd5decfc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_closeSideMenu",
+            "display": "menu_closeSideMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

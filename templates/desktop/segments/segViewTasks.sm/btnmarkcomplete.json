@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "8%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb3db159d2ee4e8a9f353fd27a15d82e",
+    "_text_": "Mark as Complete",
+    "_top_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "135dp"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sce916e12269462d8178af01399f4b38"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "s154caf876e94df0916b14a33d343599"
+    },
+    "displaytext": true,
+    "id": "btnmarkcomplete",
+    "ide_onClick": "AS_Button_30725be1dbf94aea845e07d26295796a",
+    "info": null,
+    "isvisible": false,
+    "kuid": "44ef115962044363aeb4d108e646701b",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer0cddca5c7ce6e4a",
+    "pf": "segViewTasks",
+    "wType": "Button",
+    "zindex": 1
+}

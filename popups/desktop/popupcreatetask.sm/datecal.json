@@ -1,0 +1,129 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calendar.png",
+    "__id": "popupcreatetask_datecal",
+    "__input": "datecal",
+    "_data_": null,
+    "_date_": [
+        "8",
+        "2",
+        "2017"
+    ],
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        1,
+        1,
+        1
+    ],
+    "_placeholder_": "MM/DD/YYYY",
+    "_skin_": "sbfea216ed5f46679d1a376ca29aee8a",
+    "_startG": [
+        0,
+        "2",
+        "2017"
+    ],
+    "advview": "default",
+    "calendaricon": "calendar.png",
+    "canUpdateUI": true,
+    "containerweight": 28,
+    "contentalignment": 5,
+    "currentSelectedMonth": 1,
+    "currentSelectedyearMonth": [
+        "February",
+        " 2017"
+    ],
+    "datecomponents": [
+        "8",
+        "2",
+        "2017"
+    ],
+    "dateeditable": true,
+    "dateformat": "MM/dd/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": "8",
+    "daytextalignmentincell": 5,
+    "desktopweb": {
+        "calendarIcon": "calendar.png"
+    },
+    "disabledSkins": {
+        "gridCellInactiveDaysSkin": "s4f3cd10853e422abbbb89768c21b96e"
+    },
+    "displayedMonths": [
+        2,
+        2017
+    ],
+    "donotUpdateContainerWeight": false,
+    "entereddate": [
+        "8",
+        "2",
+        "2017"
+    ],
+    "format": "MM/dd/yyyy",
+    "formatteddate": "02/08/2017",
+    "gridCellSkin": "sa1a20fb88d14f92867d0acebd55085f",
+    "gridSkin": "se92042607ee4b73ac316d0ff371a252",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 15,
+    "id": "datecal",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e8a2e4f737bf4650b4a56f1a94bdd337",
+    "luadate": [
+        "8",
+        "12",
+        "2016"
+    ],
+    "minutes": 35,
+    "month": "2",
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "paddInPixel": [
+        0,
+        5.1,
+        5.1,
+        5.1
+    ],
+    "paddinginpixel": false,
+    "pagedate": "/2017",
+    "parent": "hboxduedate",
+    "pf": "popupcreatetask",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "seconds": 22,
+    "selectdate": "//2017",
+    "startDay": 0,
+    "viewconfig": {
+        "gridConfig": {
+            "gridCellSelectedSkin": "s20a5c32968e4c7d9fb5f8b46c3eda87",
+            "gridCellSkin": "sa1a20fb88d14f92867d0acebd55085f",
+            "gridCellTodaySkin": "s962ab0506a344a1b8f030b286152eaa",
+            "gridCellWeekendSkin": "s9eb291c84ca4c47b447ae2de9912f05",
+            "gridSkin": "se92042607ee4b73ac316d0ff371a252"
+        },
+        "gridconfig": ""
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": "2017"
+}

@@ -1,0 +1,29 @@
+{
+    "AS_Button_8d7b1663616e45c8b224a4461c95b48e": {
+        "id": "AS_Button_8d7b1663616e45c8b224a4461c95b48e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_pagination_Previous",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f026c28f14647bd84e6085de5abce9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___5651e3c1771a4224a3c135ec67c15575",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdmin_onClickPrevious_Pagination",
+            "display": "frmAdmin_onClickPrevious_Pagination",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

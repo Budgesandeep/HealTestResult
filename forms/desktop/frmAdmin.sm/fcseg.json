@@ -1,0 +1,72 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "68%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_right_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_skin_": "s326f2a7939848fe99556b2e6f811587",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "96%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "fcfacilitylisthdr",
+        "lblnorecords",
+        "segfacilitylist",
+        "lnseglast",
+        "lblSeperator1",
+        "lblSeperator2",
+        "lblSeperator3",
+        "lblSeperator4",
+        "lblSeperator5",
+        "lblSeperator6",
+        "lblSeperator7",
+        "lblSeperator8"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcseg",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f50ce687d6f8475c80b29d30c9025616",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fscbody",
+    "pf": "frmAdmin",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 6
+}

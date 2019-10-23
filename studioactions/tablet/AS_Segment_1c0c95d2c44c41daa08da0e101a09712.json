@@ -1,0 +1,27 @@
+{
+    "AS_Segment_1c0c95d2c44c41daa08da0e101a09712": {
+        "id": "AS_Segment_1c0c95d2c44c41daa08da0e101a09712",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_cc02a6e8217f442da15c17976c369229",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientListAndSummary_searchPatient",
+            "display": "frmPatientListAndSummary_searchPatient",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

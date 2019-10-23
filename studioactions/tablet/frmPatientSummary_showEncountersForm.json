@@ -1,0 +1,28 @@
+{
+    "AS_Button_d5c83c445b7c4be48a959a51a800e7f2": {
+        "id": "AS_Button_d5c83c445b7c4be48a959a51a800e7f2",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_showEncountersForm",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_7c928cc06c9545b2af0890770951a164",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmEncounters_showForm",
+            "display": "frmEncounters_showForm",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

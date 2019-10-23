@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "57b264680220427488db5f716f9f982d",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "bottom": "10%",
+        "centerY": "50%",
+        "height": {
+            "type": "string",
+            "value": "35dp"
+        },
+        "id": "imglogo",
+        "imageScaleMode": 1,
+        "imageWhenFailed": "healogics_logo.png",
+        "imageWhileDownloading": "healogics_logo.png",
+        "left": "30dp",
+        "src": "healogics_logo.png",
+        "width": {
+            "type": "string",
+            "value": "176dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imglogo",
+    "instanceOf": "57b264680220427488db5f716f9f982d",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m146e004d82342b58f4e9553cd0897aa",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fcheaderleft",
+    "pf": "frmConflictResolve",
+    "topLevelInstanceKUID": "m22fc4232785416bb4366c49191b2fa2",
+    "wType": "Image"
+}

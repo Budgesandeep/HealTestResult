@@ -1,0 +1,63 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "298dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "629dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa1111ea6188450386950c0abff2a271",
+    "_top_": {
+        "type": "string",
+        "value": "41dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "34.86%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "CopyLabel0afc990be6f4c4f",
+        "FlexGroup0d51932b1eb2843",
+        "CopyFlexGroup0fc6d0387cca641",
+        "CopyFlexGroup0hea75f7cdd194e",
+        "CopyFlexGroup0be26dc369f134f",
+        "FlexContainer0ccc449f7ade44b"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "defaultunit": 3,
+    "enablescrolling": true,
+    "id": "FlexContainer0a11e90f4538d4b",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b9792c5abdc447d29f74723cf8b17f75",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fccreatenotification",
+    "pf": "frmNotificationDashboard",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

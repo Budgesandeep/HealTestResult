@@ -1,0 +1,61 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "18%"
+    },
+    "_skin_": "s6cc4c34dac448b5984b1afb430d31d7",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s26055a0ee294015b896725cdd71e17a"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "sa17c5bf68014a3f93fb266388b726ff"
+    },
+    "displaytext": true,
+    "id": "imgdown10",
+    "ide_onClick": "AS_Button_87c2c6228db44f34b793413a12131c7a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "3d3d1b0ab4d94339a57b7b1716b9e8c9",
+    "name": "kony.ui.Button",
+    "parent": "fcTransmissionPrecautions",
+    "pf": "frmPatientList",
+    "wType": "Button",
+    "zindex": 1
+}

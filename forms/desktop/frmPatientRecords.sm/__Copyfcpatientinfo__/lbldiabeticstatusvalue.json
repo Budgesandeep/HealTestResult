@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8495de19ae14478a4519885873b7c18",
+    "_srcKuid_": "m2cf52928893468ebb777507ec9e6659",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lbldiabeticstatusvalue",
+        "left": {
+            "type": "string",
+            "value": "13.50%"
+        },
+        "text": "Type II Diabetes",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "80%"
+        },
+        "zIndex": 1
+    },
+    "id": "lbldiabeticstatusvalue",
+    "instanceOf": "m2cf52928893468ebb777507ec9e6659",
+    "isvisible": true,
+    "kuid": "m37a408ec5784e6693fa9c79e79d4aa4",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "FlexContainer0i2cfee5f99c245",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

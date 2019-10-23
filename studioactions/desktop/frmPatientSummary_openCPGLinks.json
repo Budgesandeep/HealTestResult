@@ -1,0 +1,35 @@
+{
+    "AS_Button_5fdb82c57089419f88c406c810262438": {
+        "id": "AS_Button_5fdb82c57089419f88c406c810262438",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_openCPGLinks",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___813367df3cf14df5b502595e2b976a85",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_btnOpenCPGLinksClick",
+            "display": "frmPatientSummary_btnOpenCPGLinksClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

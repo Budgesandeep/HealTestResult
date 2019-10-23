@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7d79e6e54a441d3a41f1caf37b15220",
+    "_srcKuid_": "md3f0bc820aa4d31afeb3f443e46c19a",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lblteritaryinsurance",
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Teritary insurance:",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "50dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "45%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblteritaryinsurance",
+    "instanceOf": "md3f0bc820aa4d31afeb3f443e46c19a",
+    "isvisible": true,
+    "kuid": "m47803beea634ca694c4c6d3c968d4b4",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo3",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

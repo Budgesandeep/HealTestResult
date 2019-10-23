@@ -1,0 +1,67 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sdc8c4951f324f918778354dee7f2d82",
+    "_top_": {
+        "type": "string",
+        "value": "170dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "98%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "fctasklisthdrbox",
+        "fcviewtaskhdr",
+        "segviewtasks",
+        "lblseparator1",
+        "lblseparator2",
+        "lblseparator3",
+        "lblseparator4",
+        "lblseparator5",
+        "lblseparator6",
+        "lblseparator7",
+        "lblhorzsptr"
+    ],
+    "clipbounds": false,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fctaskbody",
+    "info": null,
+    "isvisible": true,
+    "kuid": "17acb1891d014437be2f58d0b272dc14",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcbody",
+    "pf": "frmViewTasksNew",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 3
+}

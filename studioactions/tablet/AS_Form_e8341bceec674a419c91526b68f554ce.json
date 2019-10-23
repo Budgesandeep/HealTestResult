@@ -1,0 +1,37 @@
+{
+    "AS_Form_e8341bceec674a419c91526b68f554ce": {
+        "id": "AS_Form_e8341bceec674a419c91526b68f554ce",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "d238422dd90d4211b3ab81fe2a212bcb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_preShow_i341531ed64c44f6938a12c3db3a4732",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "changeConnectionStatus",
+            "display": "changeConnectionStatus",
+            "inputparams": [{
+                "name": "isOnLine"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION__ide_preShow_bc53edd81f914691b85784dd8761f350",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hideSearchDropdown",
+            "display": "hideSearchDropdown",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

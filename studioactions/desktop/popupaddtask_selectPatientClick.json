@@ -1,0 +1,28 @@
+{
+    "AS_Button_a7d078457f5e4355806d8e611680594d": {
+        "id": "AS_Button_a7d078457f5e4355806d8e611680594d",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupaddtask_selectPatientClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "popups",
+            "platform": "",
+            "KUID": "2c50359740cf40149cfc381afceec625"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___32c928e539e24b5db207837f003125f5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupaddtask_selectpatient",
+            "display": "popupaddtask_selectpatient",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

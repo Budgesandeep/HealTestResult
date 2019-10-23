@@ -1,0 +1,32 @@
+{
+    "AS_Button_e938ef1ee2b34b2e88a5c7d088057f2b": {
+        "id": "AS_Button_e938ef1ee2b34b2e88a5c7d088057f2b",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_button_saveStepData",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___1fe4c64924ca4f5286d8ed7adad9f20b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_btnSaveClick",
+            "display": "frmPatientSummary_btnSaveClick",
+            "inputparams": [{
+                "name": "param",
+                "value": "\"save\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

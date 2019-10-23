@@ -1,0 +1,79 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizTextBox2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "81%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "16.03%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        3,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "User Name",
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "sb88b7867e464239a24dadee3f2f99b5",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "82%"
+    },
+    "autocapitalize": "none",
+    "autocomplete": false,
+    "autocorrect": false,
+    "autofilter": false,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerheight": "",
+    "containerheightmode": 1,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "focusskin": "sb88b7867e464239a24dadee3f2f99b5",
+    "id": "txtusername",
+    "ide_onDone": "AS_TextField_b1d2b55ead184533886a7da0659bcbb4",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "keyboardActionLabel": 4,
+            "pasteboardType": 4,
+            "showCloseButton": false
+        }
+    },
+    "isvisible": true,
+    "keyboardactionlabel": 4,
+    "keyboardtype": "A",
+    "kuid": "9e22b8bae2f5465c93aa4682f63cfc78",
+    "maxtextlength": 32,
+    "mode": "A",
+    "name": "kony.ui.TextBox2",
+    "parent": "fcuser",
+    "pasteboardtype": 1,
+    "pf": "frmLogin",
+    "securetextentry": false,
+    "textinputmode": "A",
+    "viewtype": "default",
+    "wType": "TextField",
+    "zindex": 1
+}

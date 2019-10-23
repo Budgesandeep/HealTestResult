@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scdb84b003ba4e34b9759e13008dc48f",
+    "_srcKuid_": "96e72c1c4ba14835b955d669f11482f1",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "rchfacility",
+        "left": "0%",
+        "text": "Facility: AA007 Training Facility Facility: AA007 Training Facility Facility: AA007 Training Facility Facility: AA007 Training Facility Facility: AA007 Training Facility ",
+        "top": "2dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "rchfacility",
+    "instanceOf": "96e72c1c4ba14835b955d669f11482f1",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "me4e8d3cc444495da67f434001e0c8db",
+    "masterInstance": true,
+    "name": "kony.ui.RichText",
+    "parent": "fcusername",
+    "pf": "frmApps",
+    "topLevelInstanceKUID": "m36bf25c73b94b70ab8923509427c290",
+    "wType": "RichText"
+}

@@ -1,0 +1,28 @@
+{
+    "AS_Button_5244d913f8c84c39bbcac973099a9f82": {
+        "id": "AS_Button_5244d913f8c84c39bbcac973099a9f82",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_sideMenu_showLanding",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f026c28f14647bd84e6085de5abce9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___eacc8791ba1445f58a4c6fa77c56d7d9",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showLandingScreen",
+            "display": "showLandingScreen",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

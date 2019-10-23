@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_d4525bd996634e57a98a28fafc852d92": {
+        "id": "AS_FlexContainer_d4525bd996634e57a98a28fafc852d92",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "seg9StepHealing",
+            "type": "templates",
+            "platform": "",
+            "KUID": "d73f0c0f8fcd4b13adefed9c2841d576"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

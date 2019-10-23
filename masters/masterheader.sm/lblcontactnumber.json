@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s03a52d667dc4d75b6a139b3465feb12",
+    "_text_": "1-866-412-3680 ",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "65%"
+    },
+    "childInstances": [
+        "m66e0973a6784a3eb33aa5254834e4d3",
+        "mea58a9b25a34ca8abcdfe351ff585b3",
+        "mc6a9890d8d648f1a885fdae7939f7a0",
+        "m746462b11eb4233a06e612c9b023cef",
+        "mfeb97c0f7fc4ee6b36a04d970a81401",
+        "mf3edaaf45cf4b77a0dd5705c1897a7f",
+        "m12392f0d43744b586399aba8d6750e8",
+        "m1a46299e54740de89d9a2c62f292631",
+        "m88c7cdb23e346a0a5e2d4290aac0e34",
+        "m43895f7f6f548f0862c84d965da478f",
+        "ma2745803a0f444292a5ce2d84580fe6",
+        "mbb76032b8df4d4db43f1b68df1c4f7b",
+        "m373d6cd8ae8489185ec565fcfa09201",
+        "me70985efb1243c1832d73206fd6cb5b"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblcontactnumber",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "1306787e1535458dade859f0d241bc64",
+    "name": "kony.ui.Label",
+    "parent": "fccontacthelp",
+    "pf": "masterheader",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

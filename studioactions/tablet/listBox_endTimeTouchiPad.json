@@ -1,0 +1,35 @@
+{
+    "AS_ListBox_d69b10c8add849bba7e630e7b6da1da2": {
+        "id": "AS_ListBox_d69b10c8add849bba7e630e7b6da1da2",
+        "type": "ACTION_SEQUENCE",
+        "name": "listBox_endTimeTouchiPad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b526ab5507da48db813646be1b5fcaab",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_endTimeSelected",
+            "display": "frmNotificationDashboard_endTimeSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

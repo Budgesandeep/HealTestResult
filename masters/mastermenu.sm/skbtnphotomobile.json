@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "64dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc6ca3322fe34826ad11e44a6686441c",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "me0f90c7219a4f47bac985a6e8d7b5b7",
+        "mcd6b130a585444ea1a7fd9113023215",
+        "m6af7bac3cca4fc4816e708b4a27ef6d",
+        "m460c4ca9a0848a6b592f9ab524a41c1",
+        "m228d52c1aac4dfda11918965d4eade2",
+        "m57e36c5a05d43899890dcd44973463a"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "secc5901e0ab4b62ab261e0513371d11"
+        }
+    },
+    "displaytext": false,
+    "focusskin": "s69fb2f2cb7a455aa3fd95a4d42e5933",
+    "id": "skbtnphotomobile",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5c320a9edeef44acb4ca97e374b9dcb5",
+    "name": "kony.ui.Button",
+    "parent": "fcmenufive",
+    "pf": "mastermenu",
+    "wType": "Button",
+    "zindex": 1
+}

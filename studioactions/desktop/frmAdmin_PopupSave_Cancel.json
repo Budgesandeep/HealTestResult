@@ -1,0 +1,23 @@
+{
+    "AS_Button_68b83347346a4b4f997f7188113598ae": {
+        "id": "AS_Button_68b83347346a4b4f997f7188113598ae",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_PopupSave_Cancel",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___71208cc0a35b41b0ae4d7a8f2393d853",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupAdmin_Cancel",
+            "display": "popupAdmin_Cancel",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

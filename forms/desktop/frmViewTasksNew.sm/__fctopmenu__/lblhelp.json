@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_srcKuid_": "9559e0f22f024dd7a1a1d09a42e9a69a",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblhelp",
+        "left": {
+            "type": "string",
+            "value": "35dp"
+        },
+        "text": "Help",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblhelp",
+    "instanceOf": "9559e0f22f024dd7a1a1d09a42e9a69a",
+    "isvisible": true,
+    "kuid": "m32148e1f2b544baa2cc09b72c7da8b6",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fchelp",
+    "pf": "frmViewTasksNew",
+    "topLevelInstanceKUID": "m205549e0e934338a642f66bd4540c79",
+    "wType": "Label"
+}

@@ -1,0 +1,38 @@
+{
+    "AS_Segment_4f1a7d9c8f4146de89b878f78db3ce89": {
+        "id": "AS_Segment_4f1a7d9c8f4146de89b878f78db3ce89",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSwitchFacility_segswitchfacility_onRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmSwitchFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f1bbfb796cb44a289f99041d537885c4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bed31d5bed36469ab8269b15d9341697",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectFacility_onRowClick",
+            "display": "selectFacility_onRowClick",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

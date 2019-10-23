@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_ffd041edbf0c4dcbba5d5592fb57170e": {
+        "id": "AS_FlexContainer_ffd041edbf0c4dcbba5d5592fb57170e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segpatientlistnew",
+            "type": "templates",
+            "platform": "",
+            "KUID": "663b8a1041c041ab832bdc418558c92f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___763b89d641934585a7f6eb626d7b9958",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientDashboard",
+            "display": "showPatientDashboard",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

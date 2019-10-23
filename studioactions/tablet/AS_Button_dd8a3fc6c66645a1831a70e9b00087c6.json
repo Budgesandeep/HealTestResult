@@ -1,0 +1,27 @@
+{
+    "AS_Button_dd8a3fc6c66645a1831a70e9b00087c6": {
+        "id": "AS_Button_dd8a3fc6c66645a1831a70e9b00087c6",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_j1d4bf23c8814396a5d78b017d911c5e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_editNotification",
+            "display": "frmNotificationDashboard_editNotification",
+            "inputparams": [{
+                "name": "selected",
+                "value": " context"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

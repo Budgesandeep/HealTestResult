@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scdb84b003ba4e34b9759e13008dc48f",
+    "_srcKuid_": "a05a8ba4446549348f07de847ea5d2c5",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "18dp"
+        },
+        "id": "rchwelcome",
+        "left": "0%",
+        "text": "Welcome <b> James </b>\n",
+        "top": "8dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "rchwelcome",
+    "instanceOf": "a05a8ba4446549348f07de847ea5d2c5",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m6ae4795ccea463684e3139d3fba3840",
+    "masterInstance": true,
+    "name": "kony.ui.RichText",
+    "parent": "fcusername",
+    "pf": "frmWCCDashboard",
+    "topLevelInstanceKUID": "m181e2a648cb4e558de15871a80ccf65",
+    "wType": "RichText"
+}

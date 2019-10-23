@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "14%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6cc4c34dac448b5984b1afb430d31d7",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s26055a0ee294015b896725cdd71e17a"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "sa17c5bf68014a3f93fb266388b726ff"
+    },
+    "displaytext": true,
+    "id": "imagedown5",
+    "ide_onClick": "AS_Image_c20bc676ccee460a8e672657eb88957d",
+    "info": null,
+    "isvisible": true,
+    "kuid": "i2bf634fce7e450db0d2cd09460f27f8",
+    "name": "kony.ui.Button",
+    "parent": "fchuddletools",
+    "pf": "frmAdmin",
+    "wType": "Button",
+    "zindex": 1
+}

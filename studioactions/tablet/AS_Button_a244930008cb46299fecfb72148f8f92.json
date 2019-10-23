@@ -1,0 +1,27 @@
+{
+    "AS_Button_a244930008cb46299fecfb72148f8f92": {
+        "id": "AS_Button_a244930008cb46299fecfb72148f8f92",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupSwitchFacility",
+            "type": "popups",
+            "platform": null,
+            "KUID": "6c50b8bbc1f64d1e85ed2678062840c7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_7951824b8eac4bd2ab7c76b423a0641e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "SwitchFacility_UpdateFacility",
+            "display": "SwitchFacility_UpdateFacility",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

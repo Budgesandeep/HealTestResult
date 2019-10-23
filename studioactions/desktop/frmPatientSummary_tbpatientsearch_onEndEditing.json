@@ -1,0 +1,32 @@
+{
+    "AS_TextField_20a44614dd724e26a69c60da84e4cb36": {
+        "id": "AS_TextField_20a44614dd724e26a69c60da84e4cb36",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_tbpatientsearch_onEndEditing",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f2e6948a009c478a8f1c6abd414390c7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onSearchEnd",
+            "display": "frmPatientList_onSearchEnd",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

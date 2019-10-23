@@ -1,0 +1,57 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s512f4e8d36f4cad9ae140b3120b9feb",
+    "_srcKuid_": "ma2f984994cc4c318c931a75b4a2cf55",
+    "canUpdateUI": true,
+    "children": [
+        "fcPrint",
+        "fcExportPdf",
+        "fcExportExcel"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "fcPrintMenu",
+        "layoutType": 4,
+        "right": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "-1dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "150dp"
+        }
+    },
+    "id": "fcPrintMenu",
+    "instanceOf": "ma2f984994cc4c318c931a75b4a2cf55",
+    "isTopFlexInstance": true,
+    "isvisible": true,
+    "kuid": "m3a7ff3d9f1842f68d6c9dd7539f94e2",
+    "layouttype": 4,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcprintshow",
+    "pf": "frmViewTasksNew",
+    "vizProps": {
+        "hide": true,
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

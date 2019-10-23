@@ -1,0 +1,87 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCustom",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "460dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "android": {
+        "render": false
+    },
+    "canUpdateUI": true,
+    "containerweight": 0,
+    "customProperties": {
+        "data": "Data",
+        "subtitle": "SubTitle",
+        "title": "Title",
+        "tooltip": "Tooltip",
+        "xAxis": "xAxis",
+        "yAxis": "yAxis"
+    },
+    "cwEvents": [],
+    "cwid": "jsSPACustomWidget9830854892",
+    "id": "tpmultiline1",
+    "info": null,
+    "ipad": {
+        "render": false
+    },
+    "iphone": {
+        "render": false
+    },
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "deb09413ca034957acaf9071424b7e57",
+    "name": "highchartmultiline-kony.ui",
+    "nameSpaceIndex": 0,
+    "parent": "fcchart",
+    "pf": "frmPatientSummary",
+    "platformKey": "spa",
+    "tabrcandroid": {
+        "render": false
+    },
+    "wType": "TPW",
+    "watchos": {
+        "render": false
+    },
+    "widgetIndex": 0,
+    "windows10": {
+        "render": false
+    },
+    "windows8": {
+        "render": false
+    },
+    "winphone10": {
+        "render": false
+    },
+    "winphone8": {
+        "render": false
+    },
+    "zindex": 1
+}

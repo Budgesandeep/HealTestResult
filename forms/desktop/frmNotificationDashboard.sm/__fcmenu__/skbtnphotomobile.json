@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc6ca3322fe34826ad11e44a6686441c",
+    "_srcKuid_": "5c320a9edeef44acb4ca97e374b9dcb5",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "skbtnphotomobile",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "Button",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "skbtnphotomobile",
+    "instanceOf": "5c320a9edeef44acb4ca97e374b9dcb5",
+    "isvisible": true,
+    "kuid": "m4f80649bcce4ee3b2f7e5e54d7fa83e",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "fcmenufive",
+    "pf": "frmNotificationDashboard",
+    "topLevelInstanceKUID": "m345f535cf6446feb3b8223f9458116c",
+    "wType": "Button"
+}

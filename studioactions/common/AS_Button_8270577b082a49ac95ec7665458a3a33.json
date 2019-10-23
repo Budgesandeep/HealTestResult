@@ -1,0 +1,27 @@
+{
+    "AS_Button_8270577b082a49ac95ec7665458a3a33": {
+        "id": "AS_Button_8270577b082a49ac95ec7665458a3a33",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "mastermenu",
+            "type": "masters",
+            "KUID": "ece4e70548614acebb6edf369b19b24f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___24efca423e7542af93579d915057fa45",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "getFilter",
+            "display": "getFilter",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_d20a6e91403e4ff1bedd22a24af1cd54": {
+        "id": "AS_Button_d20a6e91403e4ff1bedd22a24af1cd54",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupuploadstatus_btnok_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupuploadstatus",
+            "type": "popups",
+            "platform": null,
+            "KUID": "a6b21a233df14a6d833444ac49360e48"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_bf6ddae86e5a4437b390e829cb2b8a3f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popupuploadstatus.dismiss();",
+            "callbackType": null
+        }]
+    }
+}

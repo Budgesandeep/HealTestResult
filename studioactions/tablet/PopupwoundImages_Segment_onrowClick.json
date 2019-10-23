@@ -1,0 +1,28 @@
+{
+    "AS_Segment_6f70070265864e57a92ba62e881204f2": {
+        "id": "AS_Segment_6f70070265864e57a92ba62e881204f2",
+        "type": "ACTION_SEQUENCE",
+        "name": "PopupwoundImages_Segment_onrowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_966181f0380e43908efa17a682c56f5f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onWoundSelection",
+            "display": "onWoundSelection",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

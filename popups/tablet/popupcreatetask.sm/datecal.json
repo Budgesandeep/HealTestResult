@@ -1,0 +1,102 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calendar.png",
+    "__id": "popupaddtask_datecal",
+    "__input": "datecal",
+    "_data_": null,
+    "_date_": [
+        null,
+        null,
+        null
+    ],
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        1,
+        1,
+        1
+    ],
+    "_placeholder_": "MM/DD/YYYY",
+    "_skin_": "sbfea216ed5f46679d1a376ca29aee8a",
+    "_startG": [
+        0,
+        "12",
+        "2016"
+    ],
+    "advview": "default",
+    "calendaricon": "calendar.png",
+    "canUpdateUI": true,
+    "containerweight": 24,
+    "contentalignment": 5,
+    "datecomponents": null,
+    "dateeditable": true,
+    "dateformat": "MM/dd/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": null,
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        12,
+        2016
+    ],
+    "donotUpdateContainerWeight": false,
+    "entereddate": null,
+    "format": "MM/dd/yyyy",
+    "formatteddate": null,
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": null,
+    "id": "datecal",
+    "info": null,
+    "isvisible": true,
+    "kuid": "cc065ace39764be3acd7de8dc5a4a714",
+    "luadate": [
+        "8",
+        "12",
+        "2016"
+    ],
+    "minutes": null,
+    "month": null,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "paddInPixel": [
+        0,
+        5.74,
+        5.74,
+        5.74
+    ],
+    "paddinginpixel": false,
+    "pagedate": "/2016",
+    "parent": "hboxduedate",
+    "pf": "popupcreatetask",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "seconds": null,
+    "selectdate": "//2016",
+    "startDay": 0,
+    "viewconfig": {
+        "gridConfig": {},
+        "gridconfig": ""
+    },
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": null
+}

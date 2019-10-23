@@ -1,0 +1,29 @@
+{
+  "background_color": "efefefff",
+  "bg_type": "one",
+  "border_color": "d1d1d1ff",
+  "border_radius": 5,
+  "border_style": "custom",
+  "border_type": 0,
+  "border_width": 1,
+  "desktopweb": {
+    "bottom_left_border_color": "d1d1d1ff",
+    "bottom_left_border_style": "plain",
+    "bottom_left_border_width": 1,
+    "bottom_right_border_color": "d1d1d1ff",
+    "bottom_right_border_style": "plain",
+    "bottom_right_border_width": 1,
+    "customCSS": "border: 1px solid #d1d1d1;\n-webkit-border-radius: 5px;\nborder-radius: 5px;\ncolor: #000000;\nbackground-color: #efefef;\ncursor:pointer;",
+    "isCustomCSSEnabled": true,
+    "isForked": true,
+    "top_left_border_color": "d1d1d1ff",
+    "top_left_border_style": "plain",
+    "top_left_border_width": 1,
+    "top_right_border_color": "d1d1d1ff",
+    "top_right_border_style": "plain",
+    "top_right_border_width": 1
+  },
+  "isDefaultSkin": false,
+  "kuid": "sebe79a0d415427eabce0f681e5aa562",
+  "wType": "FlexContainer"
+}

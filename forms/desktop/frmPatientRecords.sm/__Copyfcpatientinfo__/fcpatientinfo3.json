@@ -1,0 +1,61 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s94ea975972e47e59838807a209c44e2",
+    "_srcKuid_": "m23e2c1cfb314e3ebfd3c48508314a23",
+    "canUpdateUI": true,
+    "children": [
+        "lblsecondaryinsurance",
+        "lblteritaryinsurance",
+        "lblnextapptdate",
+        "lblsecondaryinsurancevalue",
+        "lblteritaryinsurancevalue",
+        "lblnextapptvalue",
+        "lblprimaryinsurances",
+        "lblprimaryinsurancesvalue",
+        "lblweeksoftreatment",
+        "lblweeksoftreatmentvalue"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "fcpatientinfo3",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "72%"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "26%"
+        },
+        "zIndex": 1
+    },
+    "id": "fcpatientinfo3",
+    "instanceOf": "m23e2c1cfb314e3ebfd3c48508314a23",
+    "isvisible": true,
+    "kuid": "m7326c27f96a4d369b0cb6c0601bf49a",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "FlexContainer0cb1ca31d6ed94d",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "FlexContainer"
+}

@@ -1,0 +1,54 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s74f433f4a7c4a4cb741b318faa8d377",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s3624c9b7c8f4f019787f6bd46519dd9"
+        }
+    },
+    "displaytext": false,
+    "focusskin": "s74f433f4a7c4a4cb741b318faa8d377",
+    "id": "btnscheduling",
+    "info": null,
+    "isvisible": true,
+    "kuid": "i263be3f2d2b4578816b7cd6072f9f91",
+    "name": "kony.ui.Button",
+    "parent": "fcrowtwo",
+    "pf": "frmApps",
+    "wType": "Button",
+    "zindex": 1
+}

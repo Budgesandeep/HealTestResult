@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_e19b61fcf8904e9cb6fb84bc7cfb17cc": {
+        "id": "AS_FlexContainer_e19b61fcf8904e9cb6fb84bc7cfb17cc",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_fcadminsearchbypopup_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f026c28f14647bd84e6085de5abce9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9fda8d5fabac4682972764dcf1ca0c0d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdmin_setSkinSearchByPopup",
+            "display": "frmAdmin_setSkinSearchByPopup",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

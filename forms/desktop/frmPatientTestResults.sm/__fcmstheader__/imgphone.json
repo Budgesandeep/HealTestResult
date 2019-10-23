@@ -1,0 +1,42 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "5681b126526c44df95c3ea4f7b512b3d",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "imgphone",
+        "imageScaleMode": 1,
+        "imageWhileDownloading": "phoneicon.png",
+        "left": 13,
+        "src": "phoneicon.png",
+        "top": "28dp",
+        "width": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgphone",
+    "instanceOf": "5681b126526c44df95c3ea4f7b512b3d",
+    "isdatareferenced": false,
+    "isvisible": false,
+    "kuid": "m00926a052294d329a8c5fcccb8ded99",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fccontacthelp",
+    "pf": "frmPatientTestResults",
+    "topLevelInstanceKUID": "m16b6c1b06eb4f09b8658482808a897b",
+    "wType": "Image"
+}

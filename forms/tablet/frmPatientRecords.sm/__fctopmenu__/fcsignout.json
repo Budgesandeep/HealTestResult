@@ -1,0 +1,55 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0486f18541d4eeca1dfa643713e14ed",
+    "_srcKuid_": "b0f4a6e002474b14a900be83b8fb4e44",
+    "canUpdateUI": true,
+    "children": [
+        "imgsignout",
+        "lblsignout",
+        "lblmenuline"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        },
+        "id": "fcsignout",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 2
+    },
+    "id": "fcsignout",
+    "ide_onClick": "AS_FlexContainer_717f744818c149a1a85fbc46f637c745",
+    "instanceOf": "b0f4a6e002474b14a900be83b8fb4e44",
+    "isvisible": true,
+    "kuid": "mbedfce1cbf048338d0b5526817ee35c",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fctopmenu",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m4e2e07a23fd43a1a05e9ee152a6d225",
+    "wType": "FlexContainer"
+}

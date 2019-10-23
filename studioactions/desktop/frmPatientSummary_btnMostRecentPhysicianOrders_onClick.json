@@ -1,0 +1,29 @@
+{
+    "AS_Button_e9281603353e4c9ba5a8cc967b956327": {
+        "id": "AS_Button_e9281603353e4c9ba5a8cc967b956327",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_btnMostRecentPhysicianOrders_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a9530f2dc42e4d0081432411841b70d6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_showMostRecentPhysicianOrders",
+            "display": "frmPatientSummary_showMostRecentPhysicianOrders",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

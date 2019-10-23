@@ -1,0 +1,21 @@
+{
+    "AS_Button_5e859e034be24dc8a5616a63a2431254": {
+        "id": "AS_Button_5e859e034be24dc8a5616a63a2431254",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segFacilityList",
+            "type": "templates",
+            "platform": "",
+            "KUID": "bc44894c3ed04a20a70b41b93fa9f827"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

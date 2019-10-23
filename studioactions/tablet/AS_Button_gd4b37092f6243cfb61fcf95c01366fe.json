@@ -1,0 +1,23 @@
+{
+    "AS_Button_gd4b37092f6243cfb61fcf95c01366fe": {
+        "id": "AS_Button_gd4b37092f6243cfb61fcf95c01366fe",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ed02d379c6b945bcac6eb7321e4d50e6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(isIpad && !SYNC_CONSTANTS.isAppOffline){///Only work when the app is in online mode\n  if(SYNC_CONSTANTS.isSyncInProgress == true){\n    com.healogics.utility.displayAlert(\"Sync in Progress. Please try after some time.\");\n  }else{\n    \n    if(userInfo.headerAccessToken!=null && userInfo.headerAccessToken!=\"\"){\n      \n      SYNC_CONSTANTS.isSyncInProgress = true;\n      searchPatient_closeSearchList();\t\n      com.healogics.utility.showLoading(\"Updating Data!\"); \n      modSyncScopes_offline_initialAndDeltaScopes();\n      syncInitialDownload(sync_successCallBack, sync_errorCallBack);\n    \n    }else{\n      var error_label = ERROR_CONSTANTS.SESSION_EXPIRED_MESSAGE;\n      loginModule.showLoginScreen(error_label);\n    }\n    \n    \n  }\n}\n\n",
+            "callbackType": null
+        }]
+    }
+}

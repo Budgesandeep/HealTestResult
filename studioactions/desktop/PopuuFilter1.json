@@ -1,0 +1,32 @@
+{
+    "AS_Button_4a861511b83c49cba0250917a0b4a20f": {
+        "id": "AS_Button_4a861511b83c49cba0250917a0b4a20f",
+        "type": "ACTION_SEQUENCE",
+        "name": "PopuuFilter1",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___26d41d3a8e3541579d5eb76796f3f382",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_show_sortpopup",
+            "display": "frmPatientList_show_sortpopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

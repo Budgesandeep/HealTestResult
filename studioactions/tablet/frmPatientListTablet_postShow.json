@@ -1,0 +1,29 @@
+{
+    "AS_Form_a41eb23146f64977aac0eb431a94edd1": {
+        "id": "AS_Form_a41eb23146f64977aac0eb431a94edd1",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientListTablet_postShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "6a5ac136946645f392c3702ef128575e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2b61b67862004bbebdf69276aa60e556",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_PostShow",
+            "display": "frmPatientList_PostShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

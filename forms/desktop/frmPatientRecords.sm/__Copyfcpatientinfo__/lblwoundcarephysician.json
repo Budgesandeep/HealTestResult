@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7d79e6e54a441d3a41f1caf37b15220",
+    "_srcKuid_": "m8dc87547242473ea0dd63789bd7b9dd",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lblwoundcarephysician",
+        "left": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Wound Care Physician:",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "50%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblwoundcarephysician",
+    "instanceOf": "m8dc87547242473ea0dd63789bd7b9dd",
+    "isvisible": true,
+    "kuid": "m6745efecd98449f89b3417c6cfaf675",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo2",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

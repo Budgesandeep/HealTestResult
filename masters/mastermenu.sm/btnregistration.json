@@ -1,0 +1,62 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "64dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb65473ae20e4683bb9903f046abf9aa",
+    "_text_": "Button",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m5ac98d822ab485486aa25378dd98d7f",
+        "mf7e047206b64fd391ac6bb07ba107a2",
+        "m9fe07bad36d441f8b70a56e10a54606",
+        "m0fac0f9b6fa4f36bbb40677f7635f8b",
+        "m4665606f2174582a6dc6095b4c348f8",
+        "m3b850cd540f4a79a3b560ca5b30763e"
+    ],
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sbcf8d1cb8df48608c78449b347747f4"
+        }
+    },
+    "displaytext": false,
+    "focusskin": "s90bd9a07e004bcaad137ba22a803e64",
+    "id": "btnregistration",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fe26cbbfcc144561bc22db835bc5a25a",
+    "name": "kony.ui.Button",
+    "parent": "fcmenseven",
+    "pf": "mastermenu",
+    "wType": "Button",
+    "zindex": 1
+}

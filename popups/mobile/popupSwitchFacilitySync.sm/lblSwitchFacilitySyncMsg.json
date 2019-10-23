@@ -1,0 +1,44 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        2,
+        0,
+        0
+    ],
+    "_skin_": "sb281e27a74e4c058cca736735f2ec67",
+    "_text_": "Are you sure you want to Switch Facility ?",
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "lblSwitchFacilitySyncMsg",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "d2db150f25e94bec84f07c8e6e4f640e",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddinginpixel": false,
+    "parent": "vboxSwitchFacilitySync",
+    "pf": "popupSwitchFacilitySync",
+    "tooltip": "",
+    "wType": "Label"
+}

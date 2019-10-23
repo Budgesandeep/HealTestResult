@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s5d810be5c9f421e9bcc2f7cee7800df",
+    "_text_": "Welcome <b>Wendy Grube!</b> Please select your facility:\n\n",
+    "_top_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "45%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "richtextHead",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bf0c21ba81694b4f92f886279c7365c1",
+    "name": "kony.ui.RichText",
+    "parent": "fcloginmainbody",
+    "pf": "frmSelectFacility",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se13bb61e12c471a87dbd881ea39ca94",
+    "_srcKuid_": "cc71ed9b31364b6e9eaa39409f30c1e2",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "rtregsymbol",
+        "left": "0dp",
+        "text": "&reg;",
+        "top": "25dp",
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "rtregsymbol",
+    "instanceOf": "cc71ed9b31364b6e9eaa39409f30c1e2",
+    "isdatareferenced": false,
+    "isvisible": false,
+    "kuid": "mf12a1c44d3545dbb277f2f91d34a144",
+    "masterInstance": true,
+    "name": "kony.ui.RichText",
+    "parent": "fcheaderleft",
+    "pf": "frmLanding",
+    "topLevelInstanceKUID": "ma7d9bb9055f466785d3906defd56c05",
+    "wType": "RichText"
+}

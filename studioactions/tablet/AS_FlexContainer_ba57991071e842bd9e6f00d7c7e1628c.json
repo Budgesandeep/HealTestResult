@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_ba57991071e842bd9e6f00d7c7e1628c": {
+        "id": "AS_FlexContainer_ba57991071e842bd9e6f00d7c7e1628c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "a3e98be0596b45ad9a99906fafbb058a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___24f1ce49ceb94e88a9a0ba44e97f6468",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segPatientListSelectedCoulmn",
+            "display": "segPatientListSelectedCoulmn",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

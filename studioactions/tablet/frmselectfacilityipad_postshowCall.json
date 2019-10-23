@@ -1,0 +1,31 @@
+{
+    "AS_Form_j51a5206f86b46a2a6aa53da7744a79e": {
+        "id": "AS_Form_j51a5206f86b46a2a6aa53da7744a79e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmselectfacilityipad_postshowCall",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "0c07a8810ac54e34bb2b02a891bd8b1c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___eedbbd8868684e298927faaa41ff0c3b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "displayAppVersion",
+            "display": "displayAppVersion",
+            "inputparams": [{
+                "name": "currentForm"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

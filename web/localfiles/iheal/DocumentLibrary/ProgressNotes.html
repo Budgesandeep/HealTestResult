@@ -1,0 +1,530 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="head"><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="X-UA-Compatible" content="IE=edge" /><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2aa4f2a399","applicationID":"12314312","transactionName":"NVJTYEVTXxIDW0QMDgwYcGdnHVUOAU1dAA8WW1hWRVNDGE1OWQAWBlhSQVpXXxVMWUMVGQ==","queueTime":0,"applicationTime":2022,"ttGuid":"DE03A2F0777BBB33","agent":""}</script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+    <base target="_self" />
+    <title>
+	Test2, Jeff2(1234567)
+</title>
+    <script language="javascript" type="text/javascript" src="../include/jquery-latest.js%253FVersion=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/CommonMethods.js%253FVersion=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/CenteredDivMethods.js%253FVersion=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/SecurityMethods.js%253FVersion=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/PatientMedicationMethods.js%253FVersion=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/DynamicValidationMethods.js%253FVersion=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/jquery.positioning.js%253FVersion=5.0.110"></script>
+    <script language="javascript" type="text/javascript" src="../include/bootstrap.min.js%253FVersion=5.0.110"></script>
+
+    <link id="lnkHtmlDiffStylesheet" href="../styles/iHeal/HtmlDiff.css%253FVersion=5.0.110" rel="stylesheet" type="text/css" /><link id="lnkPrint1" href="../styles/PrintDetails/BaseTheme.css%253FVersion=5.0.110" rel="stylesheet" type="text/css" /><link id="lnkPrint2" href="../styles/PrintDetails/CustomClasses.css%253FVersion=5.0.110" rel="stylesheet" type="text/css" /><link id="Link3" href="../styles/DocumentLibrary/DocumentLibrary.css%253FVersion=5.0.110" rel="Stylesheet" type="text/css" /><link id="lnkExtraStyleSheet" rel="Stylesheet" type="text/css" media="all" href="http://ihealinternal.prod.nhsinc.net//styles/SiteSpecificThemes/ihealinternal.prod.nhsinc.net.screen.css%253FVersion=5.0.110" /><link href="../styles/bootstrap-popup-only.css%253FVersion=5.0.110" rel="stylesheet" type="text/css" media="all" /><style id="litPrintSize" type="text/css">@media print
+{
+body, .DT { 
+	font-size: 9px;
+	line-height: 9px;
+ font-family: ;
+}
+
+.cg h2, .fakeContentGroupTitle {
+	font-size: 10px;
+	line-height: 10px;
+ font-family: ;
+}
+	
+.fakeContentGroupTitle  {
+	font-size: 10px;
+	line-height: 10px;		
+ font-family: ;
+}	
+	
+.scg h2 {
+	font-size: 9px;
+	line-height: 9px;
+ font-family: ;
+}
+
+.PrintButtons {
+	font-size: 11px;	
+ font-family: ;
+}	
+	
+h4 { 
+	font-size: 11px; 
+ font-family: ;
+}
+.cgH2Mimick {  
+	font-size: 10px; 
+ font-family: ;
+}
+.ProviderDeliverableFontWrapper, .ProviderDeliverableFontWrapper .DT {
+		font-size: 12px;
+		line-height: 1.2;
+   font-family: ;
+	}
+
+	.ProviderDeliverableFontWrapper h2,.ProviderDeliverableFontWrapper .viewPort h2, .ProviderDeliverableFontWrapper .cg h2, .ProviderDeliverableFontWrapper .fakeContentGroupTitle, .ProviderDeliverableFontWrapper .scg h2 {
+		font-size: 13px;
+		line-height: 1.2;
+   font-family: ;
+	}
+	
+
+	.ProviderDeliverableFontWrapper .PrintButtons {
+		font-size: 13px;	
+   font-family: ;
+	}	
+	
+	.ProviderDeliverableFontWrapper h4 {
+	font-size: 13px;
+	font-weight: bold;
+ font-family: ;
+	}
+
+	.ProviderDeliverableFontWrapper .cgH2Mimick	{ 
+	font-weight: bold;
+	font-size: 13px;	
+ font-family: ;
+	}	
+	
+	/* Big big print for patients */
+   .PatientDeliverableFontWrapper, .PatientDeliverableFontWrapper .DT {
+		font-size: 12pt;
+		line-height: 1.2;
+   font-family: ;
+	}
+
+	.PatientDeliverableFontWrapper h2, .PatientDeliverableFontWrapper .viewPort h3, .PatientDeliverableFontWrapper .cg h2, .PatientDeliverableFontWrapper .fakeContentGroupTitle {
+		font-size: 13pt;
+		line-height: 1.2;
+   font-family: ;
+	}
+	
+	.PatientDeliverableFontWrapper .scg h2 {
+		font-size: 13pt;
+		line-height: 1.2
+   font-family: ;
+	}
+
+	.PatientDeliverableFontWrapper .PrintButtons {
+		font-size: 13pt;	
+   font-family: ;
+	}	
+	
+	.PatientDeliverableFontWrapper h4 {
+	font-size: 13pt;
+	font-weight: bold;
+ font-family: ;
+	}
+
+	.PatientDeliverableFontWrapper .cgH2Mimick	{ 
+	font-weight: bold;
+	font-size: 13pt;	
+ font-family: ;
+	}
+
+.viewPort h2 {
+	font-size: 10px;
+	line-height:1.2;
+ font-family: ;
+}
+}
+</style>
+    <style type="text/css">
+        .compareFrom
+        {
+            color: #999; background-color:#FEC8C8;
+        }
+        .compareTo
+        {
+            background-color: #cfc;
+        }
+        .diff-view 
+        {
+            overflow-y:auto;
+        }
+
+        .scroll::-webkit-scrollbar {
+            width: 12px;
+        }
+
+        .scroll::-webkit-scrollbar-track {
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+            border-radius: 10px;
+        }
+
+        .scroll::-webkit-scrollbar-thumb {
+            border-radius: 10px;
+            -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+        }
+
+ 
+    </style>
+    <script language="javascript" type="text/javascript">
+        var documentID, documentName, patientID, visitID, visitDate;
+        
+        $(function () {
+            $('#lnkPrintDocument').click(function () { Print(documentID, documentName, patientID, visitID, visitDate); });
+            $('#lnkCloseWindow').click(function () { window.close(); });
+            $('#CurrentTab').click(ShowCurrentTab);
+            $('#OldVersionTab').click(ShowOldVersionTab);
+            $('#TabsContainer select').change(function () {
+                if (this.value != "-1")
+                    $("#OldVersionContent div.viewPort:first").load('ViewerHTMLFactory.aspx%253FDocumentID=' + this.value, ShowOldVersionTab);
+            });
+
+            $("select[name$='selectCompareFrom'], select[name$='selectCompareTo']").on("change", function () {
+                var compareFromSelect = $("select[name$='selectCompareFrom']");
+                var compareToSelect = $("select[name$='selectCompareTo']");
+
+                if (compareFromSelect.val() == compareToSelect.val()) {
+                    $("#compareFromReference").removeClass("compareFrom");
+                    $("#compareToReference").removeClass("compareTo");
+                }
+                else {
+                    $("#compareFromReference").addClass("compareFrom");
+                    $("#compareToReference").addClass("compareTo");
+                }
+
+                $("#compareFromReference").html(compareFromSelect.find("option:selected").text());
+                $("#compareToReference").html(compareToSelect.find("option:selected").text());
+                $("#diffView").load('ViewerDiffHTMLFactory.aspx%253FfromDocumentId=' + compareFromSelect.val() + '&toDocumentId=' + compareToSelect.val());
+            });
+            $("#compareModal").on("show.bs.modal", function (e) {
+                setTimeout(function () {
+                    var modal = $("#compareModal");
+                    var height = $(window).height() * 0.9;
+                    var titleHeight = modal.find(".modal-header").outerHeight();
+                    var footerHeight = modal.find(".modal-footer").outerHeight();
+                    var bodyHeight = height - titleHeight - footerHeight;
+                    modal.find(".modal-body").height(bodyHeight);
+                    modal.find("#diffView").height(bodyHeight - modal.find("#diffHeader").outerHeight() - 15);
+                }, 800);
+                $("select[name$='selectCompareFrom'] option").eq(1).attr("selected", "").parent().triggerHandler("change");
+            });
+
+            $(document).on("screen:locked", function () {
+                setTimeout(function () { $("#compareModal").modal("hide"); }, 100);                
+            });
+
+        });
+        function ShowCurrentTab() {
+            $('.OldVersionOnly').css('display', 'none');
+            $('.CurrentVersionOnly').css('display', '');
+            $('#CurrentTab').addClass('active');
+            $('#OldVersionTab').removeClass('active');
+        }
+        function ShowOldVersionTab() {
+            if ($('#TabsContainer select:first')[0].value != "-1") {
+                $('.CurrentVersionOnly').css('display', 'none');
+                $('.OldVersionOnly').css('display', '');
+                $('#CurrentTab').removeClass('active');
+                $('#OldVersionTab').addClass('active');
+                var ddlChangeTrail = $('#TabsContainer select:first')[0];
+                var selectedText = ddlChangeTrail.options[ddlChangeTrail.selectedIndex].text;
+                $('#divOldVersionWarning span:first').html(selectedText + '<br />** Not a Current Record **');
+            }
+        }
+    </script>
+</head>
+<body id="PrintForm">
+    <div id="divHideContent" class="WholePage">
+        <form name="form1" method="post" action="ViewDocument.aspx%253FDocumentID=RDnoe04mRwPt4a9S5v4F8Q==" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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" />
+
+
+<script type="text/javascript">
+//<![CDATA[
+var NetHealth = new Object;
+NetHealth.uid = 'jqgF6HwPc%2fk%3d';
+NetHealth.fid = 'rpALtEm4sYY%3d';
+var PUBLIC_PAGES_FOLDER_URL = '/PublicPages';
+//]]>
+</script>
+
+<script src="../WebResource.axd%253Fd=L--OzeA6gmjdcSvGKpHMPz_oP6zw34PNSgOsxgge0_W_f_ZAq3odl0F9p_McslRnQoAFmn9BUIPNB0UOPnUy5q066zfDy_e3gf6O3-eRimtFq6InoupSQ3E8JdifgkcsXYB704y96Fvr_4T-Lao7NjeXY3KTL2ouQQPxEjHhbcjDzwTt0&amp;t=636312268980000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+documentID = 'RDnoe04mRwPt4a9S5v4F8Q%3d%3d';
+documentName = 'Progress Note';
+patientID = 'aJJrfsMPziw%3d';
+visitID = 'u5QKGHp3yxY95%2fEbK0BmyA%3d%3d';
+visitDate = '4/19/2017';
+ADMIN_FOLDER_URL = '/Admin';
+$(function(){ DocumentLibrary.JSONFactoryPath = '/DocumentLibrary/DocumentJSONFactory.aspx';});addEvent(window, 'load', function(){SESSION_CLIENT_MINUTES_BEFORE_TIMEOUT = 30;}, false);//]]>
+</script>
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="C7D9E874" />
+        <div id="pnlFontSizeWrapper">
+	
+            <div class="PrintPageMain">
+                <div id="printButtons" class="centered HideOnPrint PrintButtons">
+                    <a id="lnkPrintDocument" href="javascript:void(null);">
+                        <img style="vertical-align: middle;" src="../images/icn_print.gif" />
+                        <span style="vertical-align: middle;">Print</span> </a>&nbsp; <a id="lnkCloseWindow"
+                            href="javascript:void(null);"><span style="color: Red; font-weight: bolder; vertical-align: middle;">
+                                x</span> <span style="vertical-align: middle;">Close</span> </a>
+                </div>
+                <table>
+                <thead>
+                    <tr>
+                        <td>
+                            <span id="lblPrintHeader">Test2, Jeff2 (1234567)</span>
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>
+                <table width="100%">
+                    <thead>
+                        <tr>
+                            <td>
+                                
+                            </td>
+                        </tr>
+                    </thead>
+                    <tfoot>
+                        <tr>
+                            <td>
+                                
+                            </td>
+                        </tr>
+                    </tfoot>
+                    <tbody>
+                        <tr>
+                            <td>                                
+                                
+                                
+                                <div id="divOldVersionWarning" class="OldVersionOnly centered" style="display: none">
+                                    <span style="font-weight: bold; color: Red">&nbsp;</span>
+                                </div>
+                                <div id="viewPort" class="viewPort CurrentVersionOnly">
+
+
+<style>
+	.attestation {
+		width: 80%;
+		margin-top: 10px !important;
+		margin-bottom: 5px !important;
+		margin-left: auto !important;
+		margin-right: auto !important;
+	}
+
+	.attestation > hr {
+		width: 75%;
+		margin-top: 3px;
+		margin-bottom: 3px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+	.attestation > div {
+		text-align: center;
+	}
+</style>
+
+<div id="ctl04_ucDocPropViewer">
+<!--Control:ASP.documentlibrary_viewers_documentpropertiesviewer_documentpropertiesviewer_4_ascx-->
+<div id="ctl04_ctl00_divMigratedWarning" class="center" style="display:none">
+    <span id="ctl04_ctl00_spanMigratedWarningCurrent1" style="font-weight:bold;color:Red;display:none">** </span>
+    <span style="font-weight:bold;color:Red">This document represents migrated data. Not a Current Document</span>
+    <span id="ctl04_ctl00_spanMigratedWarningCurrent2" style="font-weight:bold;color:Red;display:none"> **</span>
+</div>
+<h2 id="ctl04_ctl00_headerDocumentName" class="contentGroupTitle">Progress Note Details</h2>
+<hr id="ctl04_ctl00_headerUnderLine" class="contentGroupTitleUnderLine"/>
+<table class="DocumentPropertiesViewer">
+    <tr>
+        <td class="LeftColumn">
+            <table id="ctl04_ctl00_tblLeftColumn">
+		<tr>
+			<td><span class="patIDLabel">Patient Name:</span></td>
+			<td><span class="DT">Test2, Jeff2</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Medical Record Number:</span></td>
+			<td><span class="DT">1234567</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Date of Birth/Sex:</span></td>
+			<td><span class="DT">1/1/1950 (67 y.o. Male)</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Primary Care Physician:</span></td>
+			<td><span class="DT">Mickey, Test MD</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Referring Physician:</span></td>
+			<td><span class="DT">Mickey, Test MD</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Weeks in Treatment:</span></td>
+			<td><span class="DT">0</span></td>
+		</tr>
+	</table>
+	
+        </td>
+        <td class="RightColumn">
+            <table id="ctl04_ctl00_tblRightColumn">
+		<tr>
+			<td><span class="patIDLabel">Date of Service:</span></td>
+			<td><span class="DT">4/19/2017&nbsp;9:00 AM</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Patient Account Number:</span></td>
+			<td><span class="DT"></span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Treating RN:</span></td>
+			<td><span class="DT">Nightengale, Nurse</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Other Clinician:</span></td>
+			<td><span class="DT">Ratchet, Nurse</span></td>
+		</tr>
+		<tr>
+			<td><span class="patIDLabel">Treating Physician/Extender:</span></td>
+			<td><span class="DT">Donald, Mouse</span></td>
+		</tr>
+	</table>
+	
+        </td>
+    </tr>
+</table>
+
+</div>
+<div id="ctl04_cgSubjective" class="cg">
+		<h2>Subjective</h2><div id="ctl04_cgSubjectivechildDiv" class="cgBodyNoBG">
+			
+    <span id="ctl04_cgSubjective_lblSubjective"><p><br /><span style="font-weight: bold; text-decoration: underline;">Chief Complaint</span><br />Information obtained from Patient<br />Pt is seen today for bilateral ulcers. Pt has ulcer on left calf which patient states developed gradually. Pt also has ulcer on right heel.<br /><br /><br /><span style="font-weight: bold; text-decoration: underline;">History of Present Illness (HPI)</span><br />The following HPI elements were documented for the patient's wound:<br />Location: Patient has a right foot ulcer and left leg ulcer <br />Quality: Pt states pain is constant but gets worse with movement <br />Severity: Pat's pain is a 5 of 10 <br />Duration: 2 weeks <br />Timing: With touch and rest <br />Context: Both wounds developed gradually over time <br />Associated Signs and Symptoms: Pt has hx of DM Type I as well as PAD <br /><br /><br /><br /><span style="font-weight: bold; text-decoration: underline;">Wound History</span><br />Patient presents with 1 open wound that has been present for approximately 2 Months. Patient has been treating wound in the following manner: Peroxide. Laboratory tests have not been performed in the last month. Patient reportedly has not tested positive for an antibiotic resistant organism. Patient reportedly has not tested positive for osteomyelitis. Patient reportedly has not had testing performed to evaluate circulation in the legs. <br /> <br /> <span style="font-weight: bold; text-decoration: underline;">Patient History</span><br />Information obtained from Patient.<br /><br /><span style="font-weight: bold; text-decoration: underline;">Allergies</span><br />morphine (Severity: Moderate, Reaction: Hives)<br /><br /><br /><span style="font-weight: bold; text-decoration: underline;">Family History</span><br />Hypertension - Maternal Grandparents, Paternal Grandparents, <br />No family history of Cancer, Diabetes, Heart Disease, Hereditary Spherocytosis, Kidney Disease, Lung Disease, Seizures, Stroke, Thyroid Problems, Tuberculosis.<br /><br /><span style="font-weight: bold; text-decoration: underline;">Social History</span><br />Former smoker, Marital Status - Married, Alcohol Use - Never, Drug Use - No History, Caffeine Use - Moderate.<br /><br /><span style="font-weight: bold; text-decoration: underline;">Medical History</span><br /><span style="font-weight: bold;">Eyes</span><br />Patient has history of Cataracts, Glaucoma<br /><span style="font-weight: bold;">Ear/Nose/Mouth/Throat</span><br />Denies history of Chronic sinus problems/congestion, Middle ear problems<br /><span style="font-weight: bold;">Hematologic/Lymphatic</span><br />Patient has history of Anemia<br />Denies history of Hemophilia, Human Immunodeficiency Virus, Lymphedema, Sickle Cell Disease<br /><span style="font-weight: bold;">Respiratory</span><br />Denies history of Aspiration, Asthma, Chronic Obstructive Pulmonary Disease (COPD), Pneumothorax, Sleep Apnea, Tuberculosis<br /><span style="font-weight: bold;">Cardiovascular</span><br />Patient has history of Congestive Heart Failure, Hypertension<br />Denies history of Angina, Arrhythmia, Coronary Artery Disease, Deep Vein Thrombosis, Hypotension, Myocardial Infarction, Peripheral Arterial Disease, Peripheral Venous Disease, Phlebitis, Vasculitis<br /><span style="font-weight: bold;">Gastrointestinal</span><br />Denies history of Cirrhosis , Colitis, Crohn&rsquo;s, Hepatitis A, Hepatitis B, Hepatitis C<br /><span style="font-weight: bold;">Endocrine</span><br />Patient has history of Type I Diabetes<br />Denies history of Type II Diabetes<br /><span style="font-weight: bold;">Genitourinary</span><br />Denies history of End Stage Renal Disease<br /><span style="font-weight: bold;">Immunological</span><br />Denies history of Lupus Erythematosus, Raynaud&rsquo;s, Scleroderma<br /><span style="font-weight: bold;">Integumentary (Skin)</span><br />Denies history of History of Burn<br /><span style="font-weight: bold;">Musculoskeletal</span><br />Denies history of Gout, Rheumatoid Arthritis, Osteoarthritis, Osteomyelitis<br /><span style="font-weight: bold;">Neurologic</span><br />Denies history of Dementia, Neuropathy, Quadriplegia, Paraplegia, Seizure Disorder<br /><span style="font-weight: bold;">Oncologic</span><br />Denies history of Received Chemotherapy, Received Radiation<br /><span style="font-weight: bold;">Psychiatric</span><br />Denies history of Anorexia/bulimia<br /><br /> <br /> <br /><br /></p><br><br></span>
+
+		</div><div></div>
+	</div>
+<div id="ctl04_cgObjective" class="cg">
+		<h2>Objective</h2><div id="ctl04_cgObjectivechildDiv" class="cgBodyNoBG">
+			
+    <span id="ctl04_cgObjective_lblObjective"><p><br /><span style="font-weight: bold;">Constitutional<br /></span>Vitals Time Taken: 9:00 AM, Height: 72 in, Weight: 200 lbs, BMI: 27.1, Temperature: 98.2 &deg;F, Pulse: 76 bpm, Respiratory Rate: 18 breaths/min, Blood Pressure: 118/70 mmHg, Capillary Blood Glucose: 92 mg/dl, Pulse Oximetry: 98 %. <br /><br /><br /><span style="font-weight: bold;">Integumentary (Hair, Skin)</span><br />Wound #1 status is Open. Original cause of wound was Gradually Appeared. <span class="notAttested">The wound is currently classified as a Partial Thickness wound with etiologies of Venous Leg Ulcer and Diabetic Wound/Ulcer of the Lower Extremity and</span> is located on the Right,Medial Lower Leg. The wound measures 2cm length x 2cm width x 1.2cm depth; 3.142cm^2 area and 3.77cm^3 volume. There is a small amount of sanguinous drainage noted. The wound margin is distinct with the outline attached to the wound base. There is small (1-33%) red granulation within the wound bed. There is a small (1-33%) amount of necrotic tissue within the wound bed including Adherent Slough. The periwound skin appearance did not exhibit: Callus, Crepitus, Excoriation, Fluctuance, Friable, Induration, Localized Edema, Rash, Scarring, Dry/Scaly, Maceration, Moist, Atrophie Blanche, Cyanosis, Ecchymosis, Hemosiderin Staining, Mottled, Pallor, Rubor, Erythema. <br /><br />Wound #2 status is Open. Original cause of wound was Blister. <span class="notAttested">The wound is currently classified as a Grade 2 wound with etiology of Diabetic Wound/Ulcer of the Lower Extremity and</span> is located on the Lateral Calcaneus. The wound measures 1.4cm length x 1.2cm width x 0.8cm depth; 1.319cm^2 area and 1.056cm^3 volume. There is fat exposed. There is a medium amount of serosanguineous drainage noted. The wound margin is distinct with the outline attached to the wound base. There is small (1-33%) red granulation within the wound bed. There is a medium (34-66%) amount of necrotic tissue within the wound bed including Eschar and Adherent Slough. The periwound skin appearance exhibited: Mottled. The periwound skin appearance did not exhibit: Callus, Crepitus, Excoriation, Fluctuance, Friable, Induration, Localized Edema, Rash, Scarring, Dry/Scaly, Maceration, Moist, Atrophie Blanche, Cyanosis, Ecchymosis, Hemosiderin Staining, Pallor, Rubor, Erythema. <br /><br /></p><br><br></span>
+
+		</div><div></div>
+	</div>
+
+
+
+<div id="ctl04_cgAssessment" class="cg">
+		<h2>Assessment</h2><div id="ctl04_cgAssessmentchildDiv" class="cgBodyNoBG">
+			
+    <span id="ctl04_cgAssessment_lblAssessment"><p><br /><strong><span style="text-decoration: underline;">Active Problems</span></strong><br /><span style="text-decoration: underline;">ICD-10</span><br />E10.621 - Type 1 diabetes mellitus with foot ulcer<br /><br /><br /></p><br><br></span>
+
+		</div><div></div>
+	</div>
+<div id="ctl04_cgProcedures" class="cg">
+		<h2>Procedures</h2><div id="ctl04_cgProcedureschildDiv" class="cgBodyNoBG">
+			
+    <span id="ctl04_cgProcedures_lblProcedures"><p><br /><span style="font-weight: bold;">Wound #1<br /></span>Wound #1 is a Venous Leg Ulcer located on the Right,Medial Lower Leg . There was a Skin/Subcutaneous Tissue Debridement (11042-11047) debridement with total area of 4 sq cm performed by Donald, Mouse. with the following instrument(s): Blade to remove Viable and Non-Viable tissue/material including Fibrin/Slough, Skin, and Subcutaneous after achieving pain control using Lidocaine 2% Topical Gel. A time out was conducted prior to the start of the procedure. A Minimum amount of bleeding was controlled with Pressure. The procedure was tolerated well with a pain level of 5 throughout and a pain level of 2 following the procedure. Post Debridement Measurements: 2cm length x 2cm width x 1.6cm depth; 5.027cm^3 volume.<br /><span style="font-weight: bold;">Post procedure Diagnosis Wound #1: Same as Pre-Procedure</span><br /><br /><br />Wound #1 is a Venous Leg Ulcer located on the Right,Medial Lower Leg . There was a Double Layer Compression Therapy Procedure by Nightengale, Nurse, RN.<br /><span style="font-weight: bold;">Post procedure Diagnosis Wound #1: Same as Pre-Procedure</span><br /><br /><br /><span style="font-weight: bold;">Wound #2<br /></span>Wound #2 is a Diabetic Wound/Ulcer of the Lower Extremity located on the Lateral Calcaneus . There was a Double Layer Compression Therapy Procedure by Nightengale, Nurse, RN.<br /><span style="font-weight: bold;">Post procedure Diagnosis Wound #2: Same as Pre-Procedure</span><br /><br /><br /></p><br><br></span>
+
+		</div><div></div>
+	</div>
+<div id="ctl04_cgPlan" class="cg">
+		<h2>Plan</h2><div id="ctl04_cgPlanchildDiv" class="cgBodyNoBG">
+			
+    <span id="ctl04_cgPlan_lblPlan"><p><br /><span style="font-weight: bold;">Follow-up Appointments:<br /></span>Wound #1 Right,Medial Lower Leg:<br />&nbsp;&nbsp;Return Appointment in 1 week.<br />Wound #2 Lateral Calcaneus:<br />&nbsp;&nbsp;Return Appointment in 1 week.<br /><span style="font-weight: bold;">Dressing Change Frequency:<br /></span>Wound #1 Right,Medial Lower Leg:<br />&nbsp;&nbsp;Change Dressing every other day.<br />Wound #2 Lateral Calcaneus:<br />&nbsp;&nbsp;Change Dressing every other day.<br /><span style="font-weight: bold;">Primary Wound Dressing:<br /></span>Wound #1 Right,Medial Lower Leg:<br />&nbsp;&nbsp;Collagen <br />Wound #2 Lateral Calcaneus:<br />&nbsp;&nbsp;Collagen <br /><span style="font-weight: bold;">Secondary Dressing:<br /></span>Wound #1 Right,Medial Lower Leg:<br />&nbsp;&nbsp;Foam<br />Wound #2 Lateral Calcaneus:<br />&nbsp;&nbsp;Foam<br /><span style="font-weight: bold;">Services and Therapies ordered were: <br /></span>Toe pressures (TBI), Arterial Studies- Unilateral, Venous Duplex Doppler, TcPO2, normobaric<br /><span style="font-weight: bold;">Consults ordered were: <br /></span>Vascular<br /><br /><br /><br /></p><br><br></span>
+
+		</div><div></div>
+	</div>
+
+<br />
+<div><h2 class="fakeContentGroupTitle">Electronic Signature(s)</h2></div>
+<div id="ctl07_unsigned">Unsigned</div>
+                    </div>
+                                <div id="OldVersionContent" class="OldVersionOnly" style="display: none;">
+                                    <div class="viewPort">
+                                        &nbsp;</div>
+                                </div>
+                                <div class="CurrentVersionOnly" id="auditTrail">
+                                    
+                                    
+<div class="centered">
+    <br />
+    <span id="ctl09_lblEnteredBy"><b>Entered By:</b> Rockett, Jeffrey on 04/19/2017 21:29:14</span>
+    <br />
+</div>
+                                    
+                                </div>
+                                
+
+<div id="signatureLines" class="signatureLines">
+    
+    <table id="ctl10_tblSignature" width="100%" cellpadding="1" cellspacing="1">
+		<tr>
+			<td class="signatureDesc">
+                    Signature(s):
+                </td>
+			<td class="signatureDate">
+                    Date(s):
+                </td>
+		</tr>
+	</table>
+	
+</div>
+                                
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                </td>
+                    </tr>
+                </tbody>
+            </table>
+            </div>
+        
+</div>
+        </form>
+
+        
+    </div>
+
+
+    
+    <!-- Modal -->
+<div class="modal fade" id="compareModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+        <h4 class="modal-title" id="myModalLabel">Compare Document Revisions</h4>
+      </div>
+      <div class="modal-body">
+          <div id="diffHeader">
+            <div>
+                <div>
+                    <div>
+                        Compare from: 
+                        <select name="selectCompareFrom" id="selectCompareFrom">
+</select>
+                    </div>
+                
+                    <div>
+                        Compare to: 
+                        <span style="padding-left: 18px;">
+                            <select name="selectCompareTo" id="selectCompareTo">
+</select>
+                        </span>
+                    </div>
+                </div>
+            </div>
+            <div>
+                  Comparing <span id="compareFromReference" class="compareFrom"></span> with <span id="compareToReference" class="compareTo"></span> 
+              </div>
+           </div>
+            <div id="diffView" class="viewPort diff-view scroll">
+
+            </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>

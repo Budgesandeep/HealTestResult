@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "_skin_": "s83dbab24ae44f83922161e51318e97c",
+    "_text_": "Allergies:",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "13%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m8e48911b5ab4ce5b61cd20b4b964c4f",
+        "m2ac70685b9a40d1ad829238a0416b76",
+        "ma79da51d4c34a28821e4e59b41dd9c5",
+        "m84b0f2dbfc2428d92c62fcef4040649",
+        "m10a5868888e48aeba3d39e74b9f7a9a",
+        "md188c9f23e9414caf21532ec507faf7",
+        "meb175d1d73d46c78e413f6fb748d3a5",
+        "mb8bbe9a92d344c7affc11b4e33942dc",
+        "m139d4a4350f4565bc9b659ac3f6b2d7"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblallergies",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "070dd8fb9bcd4b5bbcfc7386fa1453b6",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfofooter",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

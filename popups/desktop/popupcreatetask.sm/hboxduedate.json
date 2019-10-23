@@ -1,0 +1,39 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        1,
+        0,
+        1
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "scd97a16660f4a04bc0d512085a22dc0",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblduedate",
+        "datecal"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "hboxduedate",
+    "info": null,
+    "isvisible": true,
+    "kuid": "72f232b4553f4ac8a984cf459d9d0748",
+    "layouttype": 0,
+    "name": "kony.ui.Box",
+    "paddinginpixel": false,
+    "parent": "vboxaddtask",
+    "pf": "popupcreatetask",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "edbb613411aa49838a56ca1988ff4d9b",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "imgsettings",
+        "imageScaleMode": 1,
+        "left": {
+            "type": "string",
+            "value": "3dp"
+        },
+        "src": "settings.png",
+        "width": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgsettings",
+    "instanceOf": "edbb613411aa49838a56ca1988ff4d9b",
+    "isvisible": true,
+    "kuid": "mb59ad3394b3494b81cd6afa74948578",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fcsettings",
+    "pf": "frmPatientTestResults",
+    "topLevelInstanceKUID": "md5074ccd26e4e88ae46662e725c1c47",
+    "wType": "Image"
+}

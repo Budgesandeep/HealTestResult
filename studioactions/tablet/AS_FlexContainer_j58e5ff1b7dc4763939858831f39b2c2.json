@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_j58e5ff1b7dc4763939858831f39b2c2": {
+        "id": "AS_FlexContainer_j58e5ff1b7dc4763939858831f39b2c2",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": null,
+            "KUID": "c9c4befa577c47bb99a002501ea8c1e6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a9c9c203c7ca4553891c306c55ef895a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientDashboard",
+            "display": "showPatientDashboard",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

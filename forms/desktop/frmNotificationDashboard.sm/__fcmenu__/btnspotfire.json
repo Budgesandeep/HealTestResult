@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "se532b5ce10c462185851d1b556f202b",
+    "_srcKuid_": "44684becdb4e48939bd65c7d272189dc",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "btnspotfire",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "Button",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "btnspotfire",
+    "instanceOf": "44684becdb4e48939bd65c7d272189dc",
+    "isvisible": true,
+    "kuid": "m5c6c8a8c123406292271a28ddc2d3d1",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "fcmenutweleve",
+    "pf": "frmNotificationDashboard",
+    "topLevelInstanceKUID": "m345f535cf6446feb3b8223f9458116c",
+    "wType": "Button"
+}

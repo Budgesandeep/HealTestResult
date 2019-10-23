@@ -1,0 +1,211 @@
+﻿
+.DocumentPropertiesEditor, .DocumentPropertiesViewer
+{
+	width:100%;
+}
+
+table.DocumentPropertiesEditor td.LeftColumn, table.DocumentPropertiesEditor td.RightColumn
+{
+	vertical-align:top;
+}
+
+table.DocumentPropertiesViewer td.LeftColumn, table.DocumentPropertiesViewer td.RightColumn
+{
+	vertical-align:top;
+}
+
+.graybackground
+{
+	background-color:#F7F8FA;
+    border-bottom:1px dotted #A0A8B3;
+    border-top:1px solid #A0A8B3;
+}
+
+.PrintPageMain
+{
+    line-height:1.2;
+}
+
+
+
+
+
+/* Reset for viewPort */
+.viewPort,
+.viewPort div, .viewPort span, .viewPort h2, .viewPort a, 
+.viewPort dl, .viewPort dt, .viewPort dd, .viewPort ol, .viewPort ul, .viewPort li,
+.viewPort tbody, .viewPort tfoot, .viewPort thead, .viewPort tr, .viewPort th, .viewPort td
+{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;	
+	background: transparent;
+	line-height:1.2;
+}
+
+/*  Misc viewPort Styles */
+.viewPort h2
+{        
+    font-size:14px;        
+    color:#000000;    
+    padding-top:10px;
+    border-bottom:1px solid #000000;
+}
+
+.viewPort .patIDLabel
+{
+    font-weight:bold;
+}
+
+.viewPort .DT
+{
+    color:#000000;
+}
+
+.viewPort .vd
+{    
+    background-image:url("../../images/vertical_rule.gif");
+    background-position:center center;
+    background-repeat:repeat-y;
+}
+
+.viewPort ol
+{
+	padding-left: 4px;
+}
+
+/*  HBO Specific Styles */
+.viewPort .treatmentDetails 
+{
+    border-collapse:collapse;    
+    width:99%;
+}
+
+.viewPort .treatmentDetails th 
+{
+    background-color:#C5CAD0;
+    border:1px solid #999999;
+    font-weight:bold;
+}
+
+.viewPort .treatmentDetails td 
+{
+    border:1px solid #999999;        
+    text-align:center;    
+}
+
+.viewPort ul
+{ 
+	margin-top: 0px;
+	padding-left: 15px;
+}
+
+.viewPort li
+{ 
+  padding-left: 0; 
+  margin-left: 20px; 
+}
+
+.viewPort .ShowBullet
+{
+  list-style: disc outside;
+}
+
+/* TCOM Specific Styles */
+.viewPort .inv {
+    background-color:Transparent !IMPORTANT; /* Hate to use it but had to in order to override a previous !IMPORTANT */
+    color:#000000;    
+}
+
+/*Treatment Notes Specific Styles */
+.viewPort .cgBodyNoBGTreatmentNotes, .viewPort .scgBodyNoBGTreatmentNotes
+{
+	padding-top: 0px;
+	padding-left: 4px;
+	padding-right: 2px;
+	padding-bottom: 0px;
+}
+
+.viewPort .scgBodyNoBGTreatmentNotes 
+{
+	padding: 0 4px;	
+}
+
+.viewPort .cgBodyNoBGTreatmentNotes
+{
+  padding: 1px 2px 0 4px;
+}
+
+.viewPort .scgTreatmentNotes 
+{
+	margin-left: 15px;
+}
+
+.viewPort .cgBodyNoBGTreatmentNotes h2
+{
+	padding-top: 3px;
+}
+
+/*Multi Chart Notes Specific Styles*/
+.viewPort .SearchResults
+{
+    border-bottom: 1px solid #a0a8b3;
+	empty-cells: show;
+	
+	border-collapse: collapse;					
+	border-left: 1px solid #c5cad0!important;	
+	border-right: 1px solid #c5cad0!important;	
+}
+
+.viewPort .SearchResults td
+{
+    border-top: 1px solid #c5cad0;    /* Removed none as style for IE7 compatability Mike*/
+	border-bottom: 1px solid #c5cad0; /* Removed none as style for IE7 compatability Mike*/
+	border-right: 1px solid #c5cad0;
+	border-left: 1px solid #c5cad0;
+}
+
+.viewPort .SearchResults th
+{
+    border-top: none;
+	border-bottom: none;
+	border-right: 1px solid #c5cad0; 	
+	border-left: 1px solid #c5cad0;	
+}
+
+ .viewPort .SearchResults tr
+ {	
+	border-bottom: 1px solid #C5CAD0;	
+ }
+ 
+ .viewPort .cgBodyNoBGMultiChartNotes
+ {	
+	border-top: 2px solid #00238A;	
+	padding-top: 10px; 
+	padding-left: 10px;
+	padding-right: 10px;	
+	padding-bottom: 20px;		
+}
+
+.viewPort .MultiImages { text-align: center; }
+.viewPort .MultiImages img
+{ 
+	display: block;
+	border: none 0px !important;	
+	padding: 0!important;
+	margin: 0 auto 5px auto!important;
+	text-align: center!important;
+}
+
+.viewPort .MultiHeader
+{
+	font-size: 11px;
+	font-weight: bold;	
+}
+
+.viewPort .MultiChartWrapper
+{
+	width: 99.2%;		
+}

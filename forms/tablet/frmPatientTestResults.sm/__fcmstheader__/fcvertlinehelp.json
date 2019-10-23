@@ -1,0 +1,50 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8be2544c0e64c169deae00feaa26904",
+    "_srcKuid_": "0e77e1dd436d468cae84c586d03d61e9",
+    "canUpdateUI": true,
+    "children": [],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        },
+        "id": "fcvertlinehelp",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "15dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "zIndex": 1
+    },
+    "id": "fcvertlinehelp",
+    "instanceOf": "0e77e1dd436d468cae84c586d03d61e9",
+    "isvisible": true,
+    "kuid": "m48374166da04537845d6bb0c739fb90",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fccontacthelp",
+    "pf": "frmPatientTestResults",
+    "topLevelInstanceKUID": "m71ea3e8782847089a41f99c9befc2ea",
+    "wType": "FlexContainer"
+}

@@ -1,0 +1,51 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "57b264680220427488db5f716f9f982d",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "bottom": {
+            "type": "string",
+            "value": "10%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "string",
+            "value": "35dp"
+        },
+        "id": "imglogo",
+        "imageScaleMode": 1,
+        "imageWhenFailed": "healogics_logo.png",
+        "imageWhileDownloading": "healogics_logo.png",
+        "left": {
+            "type": "string",
+            "value": "30dp"
+        },
+        "src": "healogics_logo.png",
+        "width": {
+            "type": "string",
+            "value": "176dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imglogo",
+    "instanceOf": "57b264680220427488db5f716f9f982d",
+    "isvisible": true,
+    "kuid": "m2e60ca1224a4c459d533fc8b4b080a2",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fcheaderleft",
+    "pf": "frmPatientTestResults",
+    "topLevelInstanceKUID": "m71ea3e8782847089a41f99c9befc2ea",
+    "wType": "Image"
+}

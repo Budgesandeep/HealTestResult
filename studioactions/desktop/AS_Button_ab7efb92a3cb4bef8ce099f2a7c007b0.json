@@ -1,0 +1,18 @@
+{
+    "AS_Button_ab7efb92a3cb4bef8ce099f2a7c007b0": {
+        "id": "AS_Button_ab7efb92a3cb4bef8ce099f2a7c007b0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewTasksNew",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bfb191a286c647a0b17af3319a39e54b"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

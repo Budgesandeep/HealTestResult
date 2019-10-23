@@ -1,0 +1,48 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s1e1f589bb99419197427656ddf80701",
+    "_srcKuid_": "bb5f0e377ff6459eb3dcca88d6e76e73",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [
+        "lbltaskcount"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "centerX": "70%",
+        "centerY": "30%",
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "24dp"
+        },
+        "id": "inboxcircle",
+        "layoutType": 2,
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "width": {
+            "type": "string",
+            "value": "24dp"
+        },
+        "zIndex": 1
+    },
+    "id": "inboxcircle",
+    "instanceOf": "bb5f0e377ff6459eb3dcca88d6e76e73",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m0a788b7a8a1425e9dafcc7c7b3461d8",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fctaskcount",
+    "pf": "frmNotificationDashboard",
+    "topLevelInstanceKUID": "m43e78b74c914cd2b1130d9763d2b8e4",
+    "wType": "FlexContainer"
+}

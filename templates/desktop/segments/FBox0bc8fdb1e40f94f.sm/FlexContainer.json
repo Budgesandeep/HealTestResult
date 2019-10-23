@@ -1,0 +1,70 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_height_": {
+        "type": "string",
+        "value": "53dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa1111ea6188450386950c0abff2a271",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "11%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblpatientname",
+        "lblpatientmsrstatus"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sc7a69c7b2a5448c993ef880c865f670"
+        }
+    },
+    "enablescrolling": true,
+    "id": "FlexContainer",
+    "ide_onClick": "AS_FlexContainer_c971f05975fe4290b7e0d147f4b2b3bd",
+    "info": null,
+    "isSegmentChild": true,
+    "isvisible": true,
+    "kuid": "ffe86181dc1e42d9ac4991dbdbcfa088",
+    "layouttype": 4,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcSegPatientList",
+    "pf": "FBox0bc8fdb1e40f94f",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

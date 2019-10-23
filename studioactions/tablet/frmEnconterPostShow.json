@@ -1,0 +1,38 @@
+{
+    "AS_Form_3b05f01a891f4929abfcf8c47407a1a0": {
+        "id": "AS_Form_3b05f01a891f4929abfcf8c47407a1a0",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmEnconterPostShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "aff0e22661a84ff18e2172ef3f676cde"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___726a7197e09f43a1b0390ef40fcb5972",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hideFormMenu",
+            "display": "hideFormMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___e4cab69c650046a787ab768750ca58c7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "encounters_renderGraphicalView",
+            "display": "encounters_renderGraphicalView",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_35cd05d997fa4033a6978f7ae953ad56": {
+        "id": "AS_FlexContainer_35cd05d997fa4033a6978f7ae953ad56",
+        "type": "ACTION_SEQUENCE",
+        "name": "FrmPatienSummary_FlexContainer_onClickNotes",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___4a53d00eef8248e48938b2a58a450753",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_showpopupnotes",
+            "display": "frmPatientSummary_showpopupnotes",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

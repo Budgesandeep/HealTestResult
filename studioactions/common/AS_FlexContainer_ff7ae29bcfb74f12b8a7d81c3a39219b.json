@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_ff7ae29bcfb74f12b8a7d81c3a39219b": {
+        "id": "AS_FlexContainer_ff7ae29bcfb74f12b8a7d81c3a39219b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "masterheaderold",
+            "type": "masters",
+            "KUID": "5b6f549504be45a7b888471691b5dd4f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___bba0d94badf04a08939a3636eaa31c2a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSubMenu",
+            "display": "menu_toggleSubMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

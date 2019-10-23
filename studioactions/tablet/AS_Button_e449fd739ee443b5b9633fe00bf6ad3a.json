@@ -1,0 +1,29 @@
+{
+    "AS_Button_e449fd739ee443b5b9633fe00bf6ad3a": {
+        "id": "AS_Button_e449fd739ee443b5b9633fe00bf6ad3a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d168d91e1ff54481a67c8a7c906d9ef9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a7395b12321444459e89439ad2b1ea4f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_btnSaveClick",
+            "display": "frmPatientSummary_btnSaveClick",
+            "inputparams": [{
+                "name": "param"
+            }],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

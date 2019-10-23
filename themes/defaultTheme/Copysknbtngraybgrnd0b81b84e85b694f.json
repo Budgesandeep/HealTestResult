@@ -1,0 +1,173 @@
+{
+  "android": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  },
+  "background_color": "56a9ddff",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "bottom_left_border_color": "ffffffff",
+    "bottom_left_border_radius": 10,
+    "bottom_left_border_style": "rc",
+    "bottom_left_border_width": 0,
+    "bottom_right_border_color": "ffffffff",
+    "bottom_right_border_radius": 10,
+    "bottom_right_border_style": "rc",
+    "bottom_right_border_width": 0,
+    "customCSS": "cursor:pointer;",
+    "font_color": "3c3c3cff",
+    "font_name": "calibri",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true,
+    "shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "inner": false,
+      "nm": 0,
+      "x": 0,
+      "y": 0
+    },
+    "text_shadow": {
+      "br": 0,
+      "color": "000000ff",
+      "nm": 0,
+      "x": 0,
+      "y": 0
+    },
+    "top_left_border_color": "d1d1d1ff",
+    "top_left_border_radius": "5",
+    "top_left_border_style": "rc",
+    "top_left_border_width": "1",
+    "top_right_border_color": "ffffffff",
+    "top_right_border_radius": 10,
+    "top_right_border_style": "rc",
+    "top_right_border_width": 0
+  },
+  "font_color": "ffffffff",
+  "font_name": "Helvetica",
+  "font_size": 148,
+  "font_style": "normal",
+  "font_weight": "normal",
+  "ipad": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "font_color": "3c3c3cff",
+    "font_name": "calibri",
+    "font_size": 100,
+    "isForked": true
+  },
+  "iphone": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  },
+  "kuid": "s96c8bda01954091a6f8d9995c5a46cf",
+  "spaan": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "border_type": 0,
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "border_type": 0,
+    "font_color": "3c3c3cff",
+    "font_name": "calibri",
+    "font_size": 100,
+    "isForked": true
+  },
+  "spabb": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "border_type": 0,
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  },
+  "spaip": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "border_type": 0,
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  },
+  "spaipad": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "border_type": 0,
+    "font_color": "3c3c3cff",
+    "font_name": "calibri",
+    "font_size": 100,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "border_type": 0,
+    "font_color": "3c3c3cff",
+    "font_name": "calibri",
+    "font_size": 100,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "border_type": 0,
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  },
+  "wType": "Button",
+  "watchos": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  },
+  "windows8": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  },
+  "winphone8": {
+    "background_color": "efefefff",
+    "bg_type": "one",
+    "font_color": "3c3c3cff",
+    "font_size": 100,
+    "isForked": true
+  }
+}

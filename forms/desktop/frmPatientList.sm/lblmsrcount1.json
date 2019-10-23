@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf356d0a07c441ff8da76ccd07d87738",
+    "_text_": "12",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "55%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sf356d0a07c441ff8da76ccd07d87738"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "sf356d0a07c441ff8da76ccd07d87738",
+    "id": "lblmsrcount1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f0ff7844d6f149eb81ca4f06372e1763",
+    "name": "kony.ui.Button",
+    "parent": "fcMsr2",
+    "pf": "frmPatientList",
+    "wType": "Button",
+    "zindex": 1
+}

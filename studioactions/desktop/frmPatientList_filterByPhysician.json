@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_257aebd995b74110821cfea1a33236c0": {
+        "id": "AS_FlexContainer_257aebd995b74110821cfea1a33236c0",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_filterByPhysician",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "0602ade0f56d44d399a07dabb337da25"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___22356783fda94ec0ace95114b9e9f25c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segPatientListSelectedCoulmn",
+            "display": "segPatientListSelectedCoulmn",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

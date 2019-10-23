@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfbaebba43c04bffaffbaee9f2bfd580",
+    "_text_": "Select",
+    "_top_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "92%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sb65b513974142b0a20fd3031f838da1",
+    "id": "btnselectfacility",
+    "ide_onClick": "AS_Button_bdbedf6915814654b05ecce43f3dad2c",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "84c55e44a8564f2eb966c6191ae4ff8a",
+    "name": "kony.ui.Button",
+    "parent": "fcFacilities",
+    "pf": "frmSwitchFacility",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

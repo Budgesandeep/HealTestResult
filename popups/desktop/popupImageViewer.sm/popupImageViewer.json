@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizForm",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s8f292aa8a4b4755a591e6e30dc34408",
+    "_title_": null,
+    "addWidgetsdone": false,
+    "allboxes": [],
+    "android": {
+        "psp": {
+            "windowSoftInputMode": 2
+        }
+    },
+    "canUpdateUI": true,
+    "children": [
+        "hboxviewer"
+    ],
+    "containerheight": 90,
+    "containerheightreference": 3,
+    "containerweight": 90,
+    "currentLocale": "default",
+    "desktopweb": {
+        "psp": {
+            "titleBarConfig": {
+                "closeIcon": "",
+                "maxIcon": "",
+                "minIcon": ""
+            }
+        }
+    },
+    "device": "desktopweb",
+    "displayorientation": 3,
+    "enabledforidletimeout": false,
+    "id": "popupImageViewer",
+    "info": null,
+    "initdone": false,
+    "inputaccessoryviewtype": 4,
+    "ismodal": true,
+    "isvisible": true,
+    "kuid": "ff4873b0bdfc4b5baf2936c09cc1a889",
+    "name": "kony.ui.Popup",
+    "paddinginpixel": false,
+    "platform": "desktopweb",
+    "prevDevice": "desktopweb",
+    "prevPlatform": "desktopweb",
+    "retainscrollposition": false,
+    "shellCSS": "desktop",
+    "titlebar": true,
+    "transparencybehindthepopup": 100,
+    "wType": "Popup"
+}

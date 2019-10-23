@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s484dfa7657d410195d7f9169ef38586",
+    "_srcKuid_": "387879e762dc42f9a17c7cbd8cf64331",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "btsmbilling",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "Button",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "btsmbilling",
+    "instanceOf": "387879e762dc42f9a17c7cbd8cf64331",
+    "isvisible": true,
+    "kuid": "m495f00812124f73ad28b57d45ecb700",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "fcmenusix",
+    "pf": "frmPatientList",
+    "topLevelInstanceKUID": "m2659e5c94ac4316b14055e995aa6bd5",
+    "wType": "Button"
+}

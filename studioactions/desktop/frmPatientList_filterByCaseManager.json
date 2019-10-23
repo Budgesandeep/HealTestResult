@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_9aa8e3b1611641c89b044bf0dc873547": {
+        "id": "AS_FlexContainer_9aa8e3b1611641c89b044bf0dc873547",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_filterByCaseManager",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "0602ade0f56d44d399a07dabb337da25"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c7a7d41e80db4d37bf1941fed1c1feac",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segPatientListSelectedCoulmn",
+            "display": "segPatientListSelectedCoulmn",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

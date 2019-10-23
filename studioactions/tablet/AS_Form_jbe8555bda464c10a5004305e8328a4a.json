@@ -1,0 +1,28 @@
+{
+    "AS_Form_jbe8555bda464c10a5004305e8328a4a": {
+        "id": "AS_Form_jbe8555bda464c10a5004305e8328a4a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___g0476e7c5a3f4053bb08039fe1a28f0d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_PostShow",
+            "display": "frmNotificationDashboard_PostShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

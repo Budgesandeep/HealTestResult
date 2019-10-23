@@ -1,0 +1,54 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0486f18541d4eeca1dfa643713e14ed",
+    "_srcKuid_": "dc4e182c69604a749196391e195f5642",
+    "canUpdateUI": true,
+    "children": [
+        "imgsettings",
+        "lblsettings"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        },
+        "id": "fcsettings",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 2
+    },
+    "id": "fcsettings",
+    "ide_onClick": "AS_FlexContainer_6b5ec0bbac6142a893527d61458ddb62",
+    "instanceOf": "dc4e182c69604a749196391e195f5642",
+    "isvisible": false,
+    "kuid": "me93f1c2619f4de6a9cc3054d9719e10",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fctopmenu",
+    "pf": "frmViewTasksNew",
+    "topLevelInstanceKUID": "m205549e0e934338a642f66bd4540c79",
+    "wType": "FlexContainer"
+}

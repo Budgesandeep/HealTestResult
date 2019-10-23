@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_55048bb4d48544118a2057e17d25b737": {
+        "id": "AS_FlexContainer_55048bb4d48544118a2057e17d25b737",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segwounddetails",
+            "type": "templates",
+            "platform": null,
+            "KUID": "b09ec26a26b8403bb0ccebeb6445a98f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_0d44c4b28ff34fe4a6bba0060db6a2fe",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_onWoundFollowUpClick",
+            "display": "frmPatientSummary_onWoundFollowUpClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

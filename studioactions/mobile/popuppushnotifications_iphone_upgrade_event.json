@@ -1,0 +1,29 @@
+{
+    "AS_Button_iac91bb23f1546caaf26ea6405db0092": {
+        "id": "AS_Button_iac91bb23f1546caaf26ea6405db0092",
+        "type": "ACTION_SEQUENCE",
+        "name": "popuppushnotifications_iphone_upgrade_event",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupPushNotifications",
+            "type": "popups",
+            "platform": null,
+            "KUID": "d553ad97f8d647ef912d51c29e45e8ab"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a40c96b9020a430bb153dd2271bc8122",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "_openAppStoreLink",
+            "display": "_openAppStoreLink",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

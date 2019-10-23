@@ -1,0 +1,27 @@
+{
+    "AS_Button_b140f7cbc55d4764a7e599309ff0546b": {
+        "id": "AS_Button_b140f7cbc55d4764a7e599309ff0546b",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_breadcrum_sideMenuClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "476b8fb01b9f4332a3aed88ac14b67f2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b244054cd32044d799c3a15fcaf2b74b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSideMenu",
+            "display": "menu_toggleSideMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

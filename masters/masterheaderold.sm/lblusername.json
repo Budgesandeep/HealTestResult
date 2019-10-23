@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s03a52d667dc4d75b6a139b3465feb12",
+    "_text_": "Wendy Grube,",
+    "_top_": {
+        "type": "string",
+        "value": "3dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m442397b0adf46bf93103ebfd0ed8e6e",
+        "m0c66858630c4329be3fa20730f2cae1",
+        "ma6453ace4b34192b2ecd997d6a2c5be"
+    ],
+    "containerweight": 100,
+    "contentalignment": 7,
+    "id": "lblusername",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": false,
+    "kuid": "6fdf2e6064d04c3189a29ac18ad8ff9d",
+    "name": "kony.ui.Label",
+    "parent": "fcusername",
+    "pf": "masterheaderold",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

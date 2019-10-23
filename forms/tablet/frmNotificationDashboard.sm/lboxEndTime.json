@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "11.50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        1,
+        0,
+        1,
+        0
+    ],
+    "_skin_": "s915921c9a894036a80829b72e2f8972",
+    "_top_": {
+        "type": "string",
+        "value": "4dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "tablet",
+        "formID": "frmNotificationDashboard",
+        "platform": "ipad",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "dropdownimage": "caret_down.png",
+    "focusskin": "s915921c9a894036a80829b72e2f8972",
+    "groupcells": false,
+    "id": "lboxEndTime",
+    "ide_onSelection": "AS_ListBox_hdb22b44715a41a9b08a57742d0e7948",
+    "ide_onTouchStart": "AS_ListBox_d69b10c8add849bba7e630e7b6da1da2",
+    "info": null,
+    "ipad": {
+        "viewType": 0
+    },
+    "isvisible": true,
+    "kuid": "j7cde793f38d45d4bb54272098fc29c3",
+    "masterdata": [
+        [
+            "lb1",
+            "00:00"
+        ],
+        [
+            "lb2",
+            "12:30"
+        ],
+        [
+            "lb3",
+            "01:00"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "paddinginpixel": false,
+    "parent": "CopyFlexGroup0be26dc369f134f",
+    "pf": "frmNotificationDashboard",
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}

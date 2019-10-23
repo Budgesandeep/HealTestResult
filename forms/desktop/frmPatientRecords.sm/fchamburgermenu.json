@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1.50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s44c2019b3e845419d8115948245ebf7",
+    "_top_": {
+        "type": "string",
+        "value": "15dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s6045ba6d23a477aa426369e15daea2c"
+        }
+    },
+    "enablescrolling": true,
+    "focusskin": "sd5cd025f0b04592b680802fef03273f",
+    "id": "fchamburgermenu",
+    "ide_onClick": "AS_FlexContainer_bca9281f3d3844ec90f66b432fc5546a",
+    "info": null,
+    "isvisible": true,
+    "kuid": "9dbc72274165479791f4f2b5e00b7799",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcbodyheader",
+    "pf": "frmPatientRecords",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

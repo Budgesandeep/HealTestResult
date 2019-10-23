@@ -1,0 +1,28 @@
+{
+    "AS_Form_af4e5e8347304da89cad5d8e7ebfdf86": {
+        "id": "AS_Form_af4e5e8347304da89cad5d8e7ebfdf86",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d5f0ec45feea4bac9285286ef5b56f6d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "populateNotificationList",
+            "display": "populateNotificationList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

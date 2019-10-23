@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_f532413eedd048909474cf8f5abbe482": {
+        "id": "AS_FlexContainer_f532413eedd048909474cf8f5abbe482",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmSwitchFacility_fcback_onclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSwitchFacility",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f1bbfb796cb44a289f99041d537885c4"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___96a8bfee28084c0c8c8e470a77b71dd8",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClick_back",
+            "display": "onClick_back",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

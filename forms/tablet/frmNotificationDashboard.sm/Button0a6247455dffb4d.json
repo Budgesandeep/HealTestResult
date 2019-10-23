@@ -1,0 +1,51 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "37dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "52%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s09401c01b50415fbaa98862bc6aa52f",
+    "_text_": "+ Add Notification",
+    "_top_": {
+        "type": "string",
+        "value": "13dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s09401c01b50415fbaa98862bc6aa52f",
+    "id": "Button0a6247455dffb4d",
+    "ide_onClick": "AS_Button_b7598941eef2458ba62c8e40cb696370",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c4b6517eef0748c6a251e0b92ac440a8",
+    "name": "kony.ui.Button",
+    "parent": "fcpatienthdrbox",
+    "pf": "frmNotificationDashboard",
+    "wType": "Button",
+    "zindex": 1
+}

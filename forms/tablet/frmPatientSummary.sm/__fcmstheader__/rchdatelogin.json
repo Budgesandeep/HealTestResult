@@ -1,0 +1,40 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scdb84b003ba4e34b9759e13008dc48f",
+    "_srcKuid_": "fc0058f89b1b4b2c9dca3621ebc6ba86",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "18dp"
+        },
+        "id": "rchdatelogin",
+        "left": "0%",
+        "text": "December 5<sup>th</sup>, 2016",
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "rchdatelogin",
+    "instanceOf": "fc0058f89b1b4b2c9dca3621ebc6ba86",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "mb43afc033e741a48aa6b377e6e70be6",
+    "masterInstance": true,
+    "name": "kony.ui.RichText",
+    "parent": "fcusername",
+    "pf": "frmPatientSummary",
+    "topLevelInstanceKUID": "m5ad896e195048f4bc1ffd172dea4196",
+    "wType": "RichText"
+}

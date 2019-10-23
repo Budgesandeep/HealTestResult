@@ -1,0 +1,62 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s34420aead684ddba76e0b2846bc5d19",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "lblactual2",
+        "lbltarget2",
+        "lblMetricsLine2",
+        "fcMeasures2",
+        "CopylblHeadLine0dbb87edabbce4e",
+        "CopylblHeadLine026944e095e8746"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxmetrics2",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "6c220c0dabaf4b5c889470b49151214c",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcmetrics",
+    "pf": "frmWCCDashboard",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

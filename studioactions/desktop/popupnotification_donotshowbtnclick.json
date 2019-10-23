@@ -1,0 +1,31 @@
+{
+    "AS_Button_ae31b6eea4fa4b11884621397112bc2d": {
+        "id": "AS_Button_ae31b6eea4fa4b11884621397112bc2d",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupnotification_donotshowbtnclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "segPushNotificationForPopup",
+            "type": "templates",
+            "platform": null,
+            "KUID": "a18baf9fa9714fa18b4b6e37a7420198"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e452b08883944d2ea091634faa87770e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupnotification_doNotShowButtonHandler",
+            "display": "popupnotification_doNotShowButtonHandler",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

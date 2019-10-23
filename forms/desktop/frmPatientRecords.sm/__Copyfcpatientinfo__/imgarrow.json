@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sa6dee3fec8f4cc2bb055eefa3c0d3c3",
+    "_srcKuid_": "m0150f140e3845edb2e9ca42a0194330",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerX": {
+            "type": "string",
+            "value": "50%"
+        },
+        "centerY": {
+            "type": "string",
+            "value": "45%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "imgarrow",
+        "imageScaleMode": 1,
+        "src": "headerarrow.png",
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "imgarrow",
+    "instanceOf": "m0150f140e3845edb2e9ca42a0194330",
+    "isvisible": true,
+    "kuid": "mbb20b0fde9b4b228fc20ab40b72c0c7",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fcpatientinfoarrow",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Image"
+}

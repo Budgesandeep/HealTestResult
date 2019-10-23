@@ -1,0 +1,25 @@
+{
+    "AS_Button_d73bbf04c367491b9ced73c2ed079b7b": {
+        "id": "AS_Button_d73bbf04c367491b9ced73c2ed079b7b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "bbd3da3a8fe1433684456a0103e8e1c6"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_2ba6b0c0c05f49ae979b7c0f7f7edcad",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientDashboard",
+            "display": "showPatientDashboard",
+            "inputparams": [],
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "AS_FlexContainer_78bffa330e9a4b3e9765be405f21a92c": {
+        "id": "AS_FlexContainer_78bffa330e9a4b3e9765be405f21a92c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_header_showLandingScreen",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "sourceObj": {
+            "itemKUID": "5b6f549504be45a7b888471691b5dd4f",
+            "widgetKUID": "10012846562346608f217f43ee55ca3a",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": []
+    }
+}

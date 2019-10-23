@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_c2d92598ce5a4c3eb6ada938aae8d097": {
+        "id": "AS_FlexContainer_c2d92598ce5a4c3eb6ada938aae8d097",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_fcpatient_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2dadc999bf6b45babe7b7fd8757e2f92"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a35e5cd4513a414c93f914df6a8e6b29",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_togglePatientInfo",
+            "display": "frmPatientSummary_togglePatientInfo",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "AS_Button_8ab114acd4ae4db99be4978948a91d2e": {
+        "id": "AS_Button_8ab114acd4ae4db99be4978948a91d2e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segpatientlistnew",
+            "type": "templates",
+            "platform": "",
+            "KUID": "663b8a1041c041ab832bdc418558c92f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b43597068ef64d2e934f6a8775546cc0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientDashboard",
+            "display": "showPatientDashboard",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

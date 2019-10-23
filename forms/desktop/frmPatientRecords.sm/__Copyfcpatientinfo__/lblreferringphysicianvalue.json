@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8495de19ae14478a4519885873b7c18",
+    "_srcKuid_": "mac1298bf1474127877e37ca34186ef8",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "lblreferringphysicianvalue",
+        "right": {
+            "type": "string",
+            "value": "0%"
+        },
+        "text": "Karen Phelps",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "75dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "50%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblreferringphysicianvalue",
+    "instanceOf": "mac1298bf1474127877e37ca34186ef8",
+    "isvisible": true,
+    "kuid": "mfd51620801d48e0afd3e28d4b15acc7",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo2",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

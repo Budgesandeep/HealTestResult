@@ -1,0 +1,41 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        2,
+        0
+    ],
+    "_padding_": [
+        0,
+        4,
+        0,
+        3
+    ],
+    "_skin_": "sfc9d8806e11416a85961e54b0fcd304",
+    "_text_": "Yes",
+    "canUpdateUI": true,
+    "containerweight": 25,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "sfc9d8806e11416a85961e54b0fcd304",
+    "id": "btnyes",
+    "ide_onClick": "AS_Button_73f86e2a5150432db9c0e72a0f5646a4",
+    "info": null,
+    "isvisible": true,
+    "kuid": "039d75b75ed34402a25237da19609773",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        0,
+        4.44,
+        0,
+        4.44
+    ],
+    "paddinginpixel": false,
+    "parent": "hboxoptions",
+    "pf": "popuplogout",
+    "showprogressindicator": false,
+    "wType": "Button"
+}

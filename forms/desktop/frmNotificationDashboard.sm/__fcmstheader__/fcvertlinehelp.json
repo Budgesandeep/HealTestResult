@@ -1,0 +1,46 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s8be2544c0e64c169deae00feaa26904",
+    "_srcKuid_": "0e77e1dd436d468cae84c586d03d61e9",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        },
+        "id": "fcvertlinehelp",
+        "layoutType": 2,
+        "left": "0dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "15dp",
+        "width": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "zIndex": 1
+    },
+    "id": "fcvertlinehelp",
+    "instanceOf": "0e77e1dd436d468cae84c586d03d61e9",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "me2831e15cf14704ac0c4fcf9c391e0e",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fccontacthelp",
+    "pf": "frmNotificationDashboard",
+    "topLevelInstanceKUID": "m43e78b74c914cd2b1130d9763d2b8e4",
+    "wType": "FlexContainer"
+}

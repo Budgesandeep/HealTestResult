@@ -1,0 +1,18 @@
+{
+    "AS_ListBox_ff458c1a9e4343f387568f036da31ccc": {
+        "id": "AS_ListBox_ff458c1a9e4343f387568f036da31ccc",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_listBox_selectResult",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "2c036a328549447d974633eb128be102"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "AS_Button_d7c153fbb12b419f96fa9db92b0b3549": {
+        "id": "AS_Button_d7c153fbb12b419f96fa9db92b0b3549",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupregister_btnyes_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___4214591181e3485986d628436f6d05d7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerPopup_click",
+            "display": "registerPopup_click",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

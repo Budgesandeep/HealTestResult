@@ -1,0 +1,33 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        2,
+        1,
+        2,
+        0
+    ],
+    "_skin_": "s1029b89923c45e996082902985ac235",
+    "_text_": "RichText",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblInfo",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fea6aa499b324079bf8333220cae44af",
+    "margininpixel": false,
+    "name": "kony.ui.RichText",
+    "paddinginpixel": false,
+    "parent": "vboxInfo",
+    "pf": "popupInfo",
+    "wType": "RichText",
+    "widgetalignment": 5
+}

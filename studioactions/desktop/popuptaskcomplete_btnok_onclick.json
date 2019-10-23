@@ -1,0 +1,31 @@
+{
+    "AS_Button_ffca81d6c9d54cf08ef9440e5a74f9f5": {
+        "id": "AS_Button_ffca81d6c9d54cf08ef9440e5a74f9f5",
+        "type": "ACTION_SEQUENCE",
+        "name": "popuptaskcomplete_btnok_onclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "popups",
+            "platform": "",
+            "KUID": "7c36de4e553e4ce0a8219d6b5a5406c2"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___5ffeaceabc4f4be49f6ed525a7913c8d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

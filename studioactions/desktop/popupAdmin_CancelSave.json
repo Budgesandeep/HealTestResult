@@ -1,0 +1,24 @@
+{
+    "AS_Button_f55ef444bea74da7a3befed7f13d19fd": {
+        "id": "AS_Button_f55ef444bea74da7a3befed7f13d19fd",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupAdmin_CancelSave",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "popups",
+            "platform": "",
+            "KUID": "e7088b63bc4f47a4bfa56efd8ec31817"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "DISMISS_POPUP___067271805a5447729c8530ce8aadca6e",
+            "type": "DISMISS_POPUP",
+            "popupKUID": "e7088b63bc4f47a4bfa56efd8ec31817",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

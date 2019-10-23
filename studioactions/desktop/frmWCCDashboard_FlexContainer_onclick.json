@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_235dd8492ccf48dc8e0ae7860c25cccb": {
+        "id": "AS_FlexContainer_235dd8492ccf48dc8e0ae7860c25cccb",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_FlexContainer_onclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___982a74303c4247bbb833fdf510e98433",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_toggleSideMenu",
+            "display": "menu_toggleSideMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

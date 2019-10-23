@@ -1,0 +1,21 @@
+{
+    "AS_Button_d116e14b4d40463ebcdd6ad9c459d1a3": {
+        "id": "AS_Button_d116e14b4d40463ebcdd6ad9c459d1a3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_849e9c84c136471d8a6b0fe917c28bfc",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmEncounters_showForm",
+            "display": "frmEncounters_showForm",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

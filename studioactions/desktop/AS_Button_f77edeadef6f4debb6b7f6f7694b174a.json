@@ -1,0 +1,21 @@
+{
+    "AS_Button_f77edeadef6f4debb6b7f6f7694b174a": {
+        "id": "AS_Button_f77edeadef6f4debb6b7f6f7694b174a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_g5a840d5c79e4be0a3f1bad838070593",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupnotification_okayButtonHandler",
+            "display": "popupnotification_okayButtonHandler",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

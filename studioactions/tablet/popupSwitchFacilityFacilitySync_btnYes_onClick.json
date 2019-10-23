@@ -1,0 +1,38 @@
+{
+    "AS_Button_aa8b3e271daf4897b3e6941caba3ca50": {
+        "id": "AS_Button_aa8b3e271daf4897b3e6941caba3ca50",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupSwitchFacilityFacilitySync_btnYes_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupSwitchFacilitySync",
+            "type": "popups",
+            "platform": "",
+            "KUID": "eeffb814df4146f9a01b3e47edaa167c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___a3645d3a1eab4c6990653078be2ed49e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET__g0f8da287dc34024aa493744014b6748",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "if(isIpad){\n  if(isSearchFacility){\n    clearSearchFacilityText();\n  }\n  frmSelectFacility.show();\n}",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

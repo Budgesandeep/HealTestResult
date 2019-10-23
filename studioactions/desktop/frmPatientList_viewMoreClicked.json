@@ -1,0 +1,32 @@
+{
+    "AS_Button_41db03baff3a43d1b13575f37a0c3904": {
+        "id": "AS_Button_41db03baff3a43d1b13575f37a0c3904",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_viewMoreClicked",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e7ed4e10b82b4747ba32dbe4d819caa5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "viewOptionClickedModified",
+            "display": "viewOptionClickedModified",
+            "inputparams": [{
+                "name": "eventName",
+                "value": "\"btnViewMore\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

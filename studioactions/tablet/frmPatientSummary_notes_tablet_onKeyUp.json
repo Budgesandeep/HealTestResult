@@ -1,0 +1,32 @@
+{
+    "AS_TextArea_a85c8bc347224613bf7c27e86ff908ed": {
+        "id": "AS_TextArea_a85c8bc347224613bf7c27e86ff908ed",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_notes_tablet_onKeyUp",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d168d91e1ff54481a67c8a7c906d9ef9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f8d5f2dfca7d4ff1a636468221666a9e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_notes_onKeyUp",
+            "display": "frmPatientSummary_notes_onKeyUp",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

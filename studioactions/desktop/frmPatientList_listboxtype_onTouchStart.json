@@ -1,0 +1,35 @@
+{
+    "AS_ListBox_0084a7907f654a85af6ffa7ee3337729": {
+        "id": "AS_ListBox_0084a7907f654a85af6ffa7ee3337729",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_listboxtype_onTouchStart",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___3329698ccc2e43ae81c776fd0a3c185a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "clear_PatientList",
+            "display": "clear_PatientList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

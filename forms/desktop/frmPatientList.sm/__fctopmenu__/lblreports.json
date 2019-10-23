@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_srcKuid_": "85cb257965f24941be41566f04b9d8b5",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblreports",
+        "left": "35dp",
+        "text": "Switch Facility",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblreports",
+    "instanceOf": "85cb257965f24941be41566f04b9d8b5",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m562f7b28d734f0a9beb2caddf6d99c1",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcreports",
+    "pf": "frmPatientList",
+    "topLevelInstanceKUID": "m7e390e51f7f44f6b48043e91c8c5cb1",
+    "wType": "Label"
+}

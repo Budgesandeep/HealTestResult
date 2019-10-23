@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_22eff8a60dbe4684ba4fd40c1aecfac3": {
+        "id": "AS_FlexContainer_22eff8a60dbe4684ba4fd40c1aecfac3",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTask_fccomplete_onclick2",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "f629107492c540169ce5f08734a38fd9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e1f8e2a5c40945319ae18fd3fca01eba",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasks_onClick_Complete",
+            "display": "frmViewTasks_onClick_Complete",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "AS_Button_825fd5e33f35436fab5b56ea26927536": {
+        "id": "AS_Button_825fd5e33f35436fab5b56ea26927536",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmEncounters_Button_onBcPatientListClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_26960cab03c84d019135995e77727575",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dashboard_showPatientList",
+            "display": "dashboard_showPatientList",
+            "inputparams": [{
+                "name": "str"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

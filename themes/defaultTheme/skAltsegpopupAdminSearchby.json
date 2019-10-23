@@ -1,0 +1,15 @@
+{
+  "background_color": "efefefff",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "font_name": "calibri"
+  },
+  "font_color": "333333",
+  "isDefaultSkin": false,
+  "kuid": "s9169a2894ff4e0e8fbaf59dbf9ba4fe",
+  "wType": "Segment"
+}

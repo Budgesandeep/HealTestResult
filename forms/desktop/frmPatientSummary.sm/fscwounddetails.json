@@ -1,0 +1,69 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "1.50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s512f4e8d36f4cad9ae140b3120b9feb",
+    "_top_": {
+        "type": "string",
+        "value": "1%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "97%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "children": [
+        "fcwounddetailsheader",
+        "lblheaderseparator",
+        "lblnodatatxt",
+        "segwoundfeaturetypes",
+        "fcsegData",
+        "fcwoundslist",
+        "fcMstPrintMenu2",
+        "btnmostrecentphysicianorders",
+        "txtfTemp"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fscwounddetails",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b094943dd9c74fe280fb6e423cc12f9f",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fscbody",
+    "pf": "frmPatientSummary",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

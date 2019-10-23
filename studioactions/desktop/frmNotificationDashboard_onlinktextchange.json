@@ -1,0 +1,35 @@
+{
+    "AS_TextField_c637dde2bae740a599ddcb88a5c1e96d": {
+        "id": "AS_TextField_c637dde2bae740a599ddcb88a5c1e96d",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmNotificationDashboard_onlinktextchange",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f965c254d41a487284425bab8fb1af10"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ead94225a180415c89b68eecd9b1fe1e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_textBoxEditing",
+            "display": "frmNotificationDashboard_textBoxEditing",
+            "inputparams": [{
+                "name": "eventObj",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

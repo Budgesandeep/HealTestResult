@@ -1,0 +1,21 @@
+{
+    "AS_Button_a28baa9efb594e3b82fb3ed2fb0cd34c": {
+        "id": "AS_Button_a28baa9efb594e3b82fb3ed2fb0cd34c",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_90c0e6e4b243427f904ceb76a06286d2",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "validate_Notes",
+            "display": "validate_Notes",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Form_c7095bf96d7e4c48b895e5d0fd6cdbb0": {
+        "id": "AS_Form_c7095bf96d7e4c48b895e5d0fd6cdbb0",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmEncounters_onHide",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "876d38c2de1848c78efa56e8dcb9c8d5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onHide_43ab5dd51443430bbe70d61239771fec",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_closeSideMenu",
+            "display": "menu_closeSideMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

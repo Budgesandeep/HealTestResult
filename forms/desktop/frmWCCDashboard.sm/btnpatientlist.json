@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s240b1d7c22740519b8482a8330d94df",
+    "_text_": "Patient List",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "se76e0f4fc164461a20ee08052bff756"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s763294beccd46eb9373add0f5a7b98c",
+    "id": "btnpatientlist",
+    "ide_onClick": "AS_Button_eaf00fc9ca61425689e0e3d5be677fda",
+    "info": null,
+    "isvisible": true,
+    "kuid": "4372514739fb4c65bb25be97d2b3a1eb",
+    "name": "kony.ui.Button",
+    "parent": "fcsubhdrlinks",
+    "pf": "frmWCCDashboard",
+    "wType": "Button",
+    "zindex": 1
+}

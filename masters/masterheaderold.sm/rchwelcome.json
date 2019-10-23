@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizRichText",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "60dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scdb84b003ba4e34b9759e13008dc48f",
+    "_text_": "Welcome <b> James </b>\n\n",
+    "_width_": {
+        "type": "string",
+        "value": "78%"
+    },
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "35%"
+    },
+    "childInstances": [
+        "m19aba7f073c41a4a1fdc336eb4cd601",
+        "m6bacfa404e94e7c8f45150777a06f9c",
+        "mc020a36b16141aab3195967cbbddc96",
+        "mc37a51af87347a093ac9f14161ccfb4",
+        "m27794b520804d8d8a81983f258f341f",
+        "m102789c2b824d828ef4388d2e721165",
+        "me6f00bdffea4e029ff91217b958a217",
+        "m38c3ea4d4804f1e86f1b78f2040acaa",
+        "m1d5294dfbae45c29accbed96298c759"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "rchwelcome",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fda980c31461482bbc0dcf6bb5367fff",
+    "name": "kony.ui.RichText",
+    "parent": "fcuserinfo",
+    "pf": "masterheaderold",
+    "wType": "RichText",
+    "widgetalignment": 5,
+    "zindex": 1
+}

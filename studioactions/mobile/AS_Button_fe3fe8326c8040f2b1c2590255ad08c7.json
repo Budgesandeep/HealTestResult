@@ -1,0 +1,21 @@
+{
+    "AS_Button_fe3fe8326c8040f2b1c2590255ad08c7": {
+        "id": "AS_Button_fe3fe8326c8040f2b1c2590255ad08c7",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_f86abed432cb42059d009ab81fc1ab7c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "stopSyncSession",
+            "display": "stopSyncSession",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,164 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "btnOnHoverResult": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "btnTestResultAttachment": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "View Document"
+            },
+            "btnTestResultDescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblLine1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblLine2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblLine3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblLine4": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTestResultDateOrdered": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "03/21/2017"
+            },
+            "lblTestResultResults": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblTestResultsDateCompleted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "03/21/2017"
+            },
+            "txtRichTestResult": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Please raise a Kony ticket for CO-126 Hover capability"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "25%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "101dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "73%"
+    },
+    "alternaterowskin": "s89929f1e9b346e58cd0b35db55e0163",
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "disabledSkins": {},
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentTestResultsDocuments",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "d9bb4c41b85745bb9efbb4caaa89d9e0",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "paddinginpixel": false,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "fcTestResults",
+    "pf": "frmPatientTestResults",
+    "retainselection": false,
+    "rowTemplateId": "g2a715b98b8d4546873f6a4930fc9b7a",
+    "rowcounter": 0,
+    "rowfocusskin": "s00ab971316d457ab74508aa12f2b715",
+    "rowskin": "s7b20a2835be4a73b7d21d3d9884fbcf",
+    "rowtemplate": "flxTestResultsList",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "adadad00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "btnOnHoverResult": "btnOnHoverResult",
+        "btnTestResultAttachment": "btnTestResultAttachment",
+        "btnTestResultDescription": "btnTestResultDescription",
+        "fcTestResultAttachment": "fcTestResultAttachment",
+        "fcTestResultDescription": "fcTestResultDescription",
+        "flxDateCompleted": "flxDateCompleted",
+        "flxDateOrdered": "flxDateOrdered",
+        "flxTestResultResults": "flxTestResultResults",
+        "flxTestResultsList": "flxTestResultsList",
+        "lblLine1": "lblLine1",
+        "lblLine2": "lblLine2",
+        "lblLine3": "lblLine3",
+        "lblLine4": "lblLine4",
+        "lblTestResultDateOrdered": "lblTestResultDateOrdered",
+        "lblTestResultResults": "lblTestResultResults",
+        "lblTestResultsDateCompleted": "lblTestResultsDateCompleted",
+        "txtRichTestResult": "txtRichTestResult"
+    },
+    "widgetskin": "s251ab0f6d8f4743965acb53d91fe552",
+    "zindex": 1
+}

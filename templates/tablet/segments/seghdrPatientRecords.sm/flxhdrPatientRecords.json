@@ -1,0 +1,47 @@
+{
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sf8895f2fe9042cdb69966204e72cb3b",
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "FlexContainer024244a21dc8646",
+        "CopyFlexContainer0d881677bd1e74b",
+        "CopyFlexContainer02de5c3b0559744"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "flxhdrPatientRecords",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "70ea22f7296242ed9bf2cea3d873c513",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "seghdrPatientRecords",
+    "pf": "seghdrPatientRecords",
+    "snapgridsize": "10",
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

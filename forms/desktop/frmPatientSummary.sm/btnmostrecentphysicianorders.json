@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "3.50%"
+    },
+    "_skin_": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "_text_": "Most Recent Physician Orders",
+    "_top_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "24%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s22e930b1db24c2a93ec1def531259de"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s8f5692d4cf44808ac19db6ca1a60dfa",
+    "id": "btnmostrecentphysicianorders",
+    "ide_onClick": "AS_Button_e9281603353e4c9ba5a8cc967b956327",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5f4cd852b63f4bea9811aa24eca3cb77",
+    "name": "kony.ui.Button",
+    "parent": "fcsegData",
+    "pf": "frmPatientSummary",
+    "wType": "Button",
+    "zindex": 1
+}

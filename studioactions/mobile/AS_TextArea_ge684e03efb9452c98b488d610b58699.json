@@ -1,0 +1,24 @@
+{
+    "AS_TextArea_ge684e03efb9452c98b488d610b58699": {
+        "id": "AS_TextArea_ge684e03efb9452c98b488d610b58699",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a47cd5c8b4344d0fb6212b46230e40b1"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

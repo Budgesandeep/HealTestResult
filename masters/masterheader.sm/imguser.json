@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "12dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "user.png",
+    "_width_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "me05f8cce55141cc819bc96a1e16e9b2",
+        "m44ba3094fc146bfab642cfb31c12a0b",
+        "m5e72cad848c47fd8f287941e4fa3b24",
+        "m9d14dc8ecc948288dd8b15230bc43ec",
+        "medab592ce174a968549ef88d693dd69",
+        "m8ed2cc306be4b61aba730c31067fed4",
+        "m9a2ee74641a47f9b13f29810cc73876",
+        "md30e2d92e974fdc9377b92288a88c47",
+        "mb4493f4acd54af096875d2a6d4dc025",
+        "m4df5a7106014c9eb2d159d846b1c877",
+        "m33b470605a34aa59d194d3eb1e2a1e9",
+        "mb0c2a9b46fd44ef9fe6bc7b4e29bc97",
+        "m56f3fd5effd407aac0d010d006bdf98",
+        "m89585082e534561afc1cf45b465fb6e"
+    ],
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "formID": "masterheader",
+        "platform": "desktopweb",
+        "templateType": "masters",
+        "topLevelBox": null
+    },
+    "id": "imguser",
+    "imagescalemode": 1,
+    "imagewhenfailed": "user.png",
+    "imagewhiledownloading": "user.png",
+    "info": null,
+    "invokedProperty": "src",
+    "isvisible": true,
+    "kuid": "afa036907d9a405f87fd3994510a8743",
+    "name": "kony.ui.Image2",
+    "parent": "fcuserinfo",
+    "pf": "masterheader",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

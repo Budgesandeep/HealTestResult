@@ -1,0 +1,27 @@
+{
+    "AS_Form_ea20b05608804242a106d1fc40b0eb36": {
+        "id": "AS_Form_ea20b05608804242a106d1fc40b0eb36",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_postShow_event",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_postShow_280c5c228afd410989204bb7a799947f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_PostShow",
+            "display": "frmPatientList_PostShow",
+            "inputparams": [],
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

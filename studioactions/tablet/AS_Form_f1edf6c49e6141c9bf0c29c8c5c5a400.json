@@ -1,0 +1,26 @@
+{
+    "AS_Form_f1edf6c49e6141c9bf0c29c8c5c5a400": {
+        "id": "AS_Form_f1edf6c49e6141c9bf0c29c8c5c5a400",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "ac8bcf5656e047a3bc3e5e81a0dd9ffb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_postShow_f0010f5004ae429a9b0bcf47cc56fb7c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_postShowfunc",
+            "display": "frmPatientRecords_postShowfunc",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

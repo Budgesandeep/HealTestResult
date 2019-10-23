@@ -1,0 +1,42 @@
+{
+    "AS_FlexContainer_f3e8ddbf9b2248d1b3a7e6484dfd19f3": {
+        "id": "AS_FlexContainer_f3e8ddbf9b2248d1b3a7e6484dfd19f3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f026c28f14647bd84e6085de5abce9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ANCHOR_POPUP___d7ae4a1502a94547858c95bac9ca66d6",
+            "type": "ANCHOR_POPUP",
+            "popupId": "popupAdminSearchby",
+            "formId": "frmAdmin",
+            "widgetId": "fcadminsearchby",
+            "anchorPoint": "bottom",
+            "popupKUID": "b561a14bc2b34b56b6cd46359591d6f4",
+            "formKUID": "7f026c28f14647bd84e6085de5abce9d",
+            "widgetKUID": "6dd9e04d60a94580ab10e09dd8048b87",
+            "forkedPlatform": "all",
+            "parentId": null,
+            "callbackType": null,
+            "widgetPath": "frmAdmin.fcadminsearchby"
+        }, {
+            "id": "DISPLAY_POPUP___f4bf4f02386045f5986a3d08c06b2813",
+            "type": "DISPLAY_POPUP",
+            "popupId": "popupAdminSearchby",
+            "popupKUID": "b561a14bc2b34b56b6cd46359591d6f4",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": null,
+            "callbackType": null,
+            "enableMappingEditor": true
+        }]
+    }
+}

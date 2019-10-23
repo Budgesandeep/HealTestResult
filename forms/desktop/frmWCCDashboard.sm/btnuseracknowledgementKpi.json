@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s240b1d7c22740519b8482a8330d94df",
+    "_text_": "User Acknowledgement",
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "se76e0f4fc164461a20ee08052bff756"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s763294beccd46eb9373add0f5a7b98c",
+    "id": "btnuseracknowledgementKpi",
+    "ide_onClick": "AS_Button_7d637c6180a7430e89087031ff7452ec",
+    "info": null,
+    "isvisible": true,
+    "kuid": "3833c7827b62413a9d7b6541b07e7aa4",
+    "name": "kony.ui.Button",
+    "parent": "fscbody",
+    "pf": "frmWCCDashboard",
+    "wType": "Button",
+    "zindex": 1
+}

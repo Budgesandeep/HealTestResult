@@ -1,0 +1,11 @@
+{
+  "background_image": "threelinearrow.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "isDefaultSkin": false,
+  "kuid": "s2feb2384d5c4e5b9f4f8f9afff273cf",
+  "wType": "FlexContainer"
+}

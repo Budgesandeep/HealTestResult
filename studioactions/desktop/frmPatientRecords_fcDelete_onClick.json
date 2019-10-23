@@ -1,0 +1,35 @@
+{
+    "AS_FlexContainer_feacb2262bdb4b119d715336a0757edf": {
+        "id": "AS_FlexContainer_feacb2262bdb4b119d715336a0757edf",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_fcDelete_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segDocumentList",
+            "type": "templates",
+            "platform": "",
+            "KUID": "c3842b422b84461f9b763561326de87b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2bb1899393554bb78b8887cdf585b41d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_deleteDocument",
+            "display": "frmPatientRecords_deleteDocument",
+            "inputparams": [{
+                "name": "context",
+                "value": " context"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

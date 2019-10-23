@@ -1,0 +1,49 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s0486f18541d4eeca1dfa643713e14ed",
+    "_srcKuid_": "668bcf621b7d40da9fee191b819161ee",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [
+        "imgreports",
+        "lblreports"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "45dp"
+        },
+        "id": "fcreports",
+        "layoutType": 2,
+        "left": "0dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 2
+    },
+    "id": "fcreports",
+    "ide_onClick": "AS_FlexContainer_5c6720b9ef324256879da60243ab853d",
+    "instanceOf": "668bcf621b7d40da9fee191b819161ee",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m6f96e8eaed04acf8dd3d996d4210f20",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fctopmenu",
+    "pf": "frmWCCDashboard",
+    "topLevelInstanceKUID": "mb0c61b2746e4fa4ae5d29491a5c8f92",
+    "wType": "FlexContainer"
+}

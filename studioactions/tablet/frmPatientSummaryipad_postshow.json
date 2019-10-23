@@ -1,0 +1,68 @@
+{
+    "AS_Form_53076a2b3c8247fc9bf0156ba45151c7": {
+        "id": "AS_Form_53076a2b3c8247fc9bf0156ba45151c7",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummaryipad_postshow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d168d91e1ff54481a67c8a7c906d9ef9"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_postShow_4085becae5cc4b399fb24f60137ca483",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "registerTimeout",
+            "display": "registerTimeout",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION__ide_postShow_73f0e3cb7b1342f985b244b9f41905bf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hideFormMenu",
+            "display": "hideFormMenu",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION__ide_postShow_4bdce860d6f643e2b712649178ac3549",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "load_headerdata",
+            "display": "load_headerdata",
+            "inputparams": [{
+                "name": "currentForm"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___6058347028b643e5b1a1d778ed4842ca",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_resetFormData",
+            "display": "frmPatientSummary_resetFormData",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___c7982c5dfbac4efcb54351c5e1a22a07",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "patientSummaryPostShow",
+            "display": "patientSummaryPostShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

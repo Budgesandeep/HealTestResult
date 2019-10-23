@@ -1,0 +1,38 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s145b1126db14216abcc7a9c08d8e413",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lblHeader"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "id": "hboxTitle",
+    "info": null,
+    "isvisible": true,
+    "kuid": "6c46527c79c5416083fbe115cf8d2cc1",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "parent": "vboxSwitchFacility",
+    "pf": "popupSwitchFacility",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

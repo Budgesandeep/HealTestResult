@@ -1,0 +1,97 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizCheckBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb138b6f3475436c9de5475e64ed2e4e",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sd1eb2a5106a475786b23beb5e72fa26"
+        }
+    },
+    "id": "CheckBoxGroupFilterPopUp",
+    "ide_onSelection": "AS_CheckBoxGroup_3b33280f9eb9496da0eb39c39cf9696d",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "iphone": {
+        "psp": {
+            "viewType": 4
+        }
+    },
+    "isvisible": true,
+    "itemorientation": "vertical",
+    "kuid": "a21e8600c5284df69080d520d0acb01c",
+    "margininpixel": false,
+    "masterdata": [
+        [
+            "cbg1",
+            "Checkbox"
+        ],
+        [
+            "cbg2",
+            "Checkbox"
+        ],
+        [
+            "cbg3",
+            "Checkbox"
+        ],
+        [
+            "Key849",
+            "Value"
+        ],
+        [
+            "Key463",
+            "Value"
+        ],
+        [
+            "Key479",
+            "Value"
+        ],
+        [
+            "Key659",
+            "Value"
+        ],
+        [
+            "Key400",
+            "Value"
+        ],
+        [
+            "Key326",
+            "Value"
+        ]
+    ],
+    "name": "kony.ui.CheckBoxGroup",
+    "orientation": "vertical",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "ScrollBox0fbb558316eb440",
+    "pf": "popupsortandfilter",
+    "selectedkey": null,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewtype": 0,
+    "wType": "CheckBoxGroup",
+    "widgetalignment": 4
+}

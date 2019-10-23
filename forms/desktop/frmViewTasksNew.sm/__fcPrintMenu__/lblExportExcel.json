@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_srcKuid_": "2f7461d6f1ce4f208335543960b0d36d",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": {
+            "type": "string",
+            "value": "50%"
+        },
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblExportExcel",
+        "left": {
+            "type": "string",
+            "value": "35dp"
+        },
+        "text": "Export Excel",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblExportExcel",
+    "instanceOf": "2f7461d6f1ce4f208335543960b0d36d",
+    "isvisible": true,
+    "kuid": "maaaf919999542bda57f5bd208810ce4",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcExportExcel",
+    "pf": "frmViewTasksNew",
+    "topLevelInstanceKUID": "m3a7ff3d9f1842f68d6c9dd7539f94e2",
+    "wType": "Label"
+}

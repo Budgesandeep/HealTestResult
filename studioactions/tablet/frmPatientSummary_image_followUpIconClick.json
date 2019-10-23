@@ -1,0 +1,37 @@
+{
+    "AS_Image_7986e5df893e4d52ab9ebd4e56239d69": {
+        "id": "AS_Image_7986e5df893e4d52ab9ebd4e56239d69",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_image_followUpIconClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "2c036a328549447d974633eb128be102"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___3527c4ae509f40d68e0127903cfadb65",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_followUpFieldClick",
+            "display": "frmPatientSummary_followUpFieldClick",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

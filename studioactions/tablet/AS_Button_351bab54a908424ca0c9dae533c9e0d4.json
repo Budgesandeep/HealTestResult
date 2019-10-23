@@ -1,0 +1,24 @@
+{
+    "AS_Button_351bab54a908424ca0c9dae533c9e0d4": {
+        "id": "AS_Button_351bab54a908424ca0c9dae533c9e0d4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_d1867d9880504392957330462d0d9a4b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasks_onClick_Complete",
+            "display": "frmViewTasks_onClick_Complete",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

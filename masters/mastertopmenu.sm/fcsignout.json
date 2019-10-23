@@ -1,0 +1,75 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s0486f18541d4eeca1dfa643713e14ed",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "ma49d108271044009f93a8a1983d7dbd",
+        "mf859ab926364ab6991327c54895f964",
+        "m12f477bce6545c9adf040d0f398086c",
+        "mfd5afea83ba45278ae01319fccf0094",
+        "mf048c0c64aa4062918452f785f9b334",
+        "m92a2d9eaab44975ab8a0e1d3363fd08",
+        "mcfed69fc9ca4d8a978c093b717c3946",
+        "m941476719e54fe1aa40d45311c6a363"
+    ],
+    "children": [
+        "imgsignout",
+        "lblsignout",
+        "lblmenuline"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s679c73ca2144ce7beed99f8efa4534f"
+        }
+    },
+    "enablescrolling": true,
+    "id": "fcsignout",
+    "ide_onClick": "AS_FlexContainer_779f0b711ddb4f4fb61a8078ce6c3bd6",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b0f4a6e002474b14a900be83b8fb4e44",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fctopmenu",
+    "pf": "mastertopmenu",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 2
+}

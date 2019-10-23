@@ -1,0 +1,48 @@
+{
+    "AS_Button_e10bfb575d47479d856c83d2b87765ba": {
+        "id": "AS_Button_e10bfb575d47479d856c83d2b87765ba",
+        "type": "ACTION_SEQUENCE",
+        "name": "sidemenu_systemnotificationclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "f965c254d41a487284425bab8fb1af10"
+        },
+        "sourceObj": {
+            "itemKUID": "ece4e70548614acebb6edf369b19b24f",
+            "widgetKUID": "e6bacd78fe30442b92411bd5860e8a7f",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___db48d56534734ebd8e573bb51b5cd1e0",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_PostShow",
+            "display": "frmNotificationDashboard_PostShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "NAMED_ACTION____a69ea7ba46bf43c596b8e73911cc2f5f",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_Button_ab7ab38888854e648fe58aaa2438a1a3",
+            "display": "AS_Button_ab7ab38888854e648fe58aaa2438a1a3",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

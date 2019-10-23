@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc6ca3322fe34826ad11e44a6686441c",
+    "_srcKuid_": "5c320a9edeef44acb4ca97e374b9dcb5",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "skbtnphotomobile",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "Button",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "skbtnphotomobile",
+    "instanceOf": "5c320a9edeef44acb4ca97e374b9dcb5",
+    "isvisible": true,
+    "kuid": "m6af7bac3cca4fc4816e708b4a27ef6d",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "fcmenufive",
+    "pf": "frmPatientSummary",
+    "topLevelInstanceKUID": "mf158f3fb90f46449f4dfdf15da72727",
+    "wType": "Button"
+}

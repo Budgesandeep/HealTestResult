@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "47%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfc9d8806e11416a85961e54b0fcd304",
+    "_text_": "Search",
+    "_top_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sf1af344cb5548ff97748f3d59046e43"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "sfc9d8806e11416a85961e54b0fcd304",
+    "id": "btnadminsearch",
+    "ide_onClick": "AS_Button_a4439baa4d3e4af4ad00ac37f3b005c3",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e1f52eccae9f45bea6bc5365fe3ade9a",
+    "name": "kony.ui.Button",
+    "parent": "fcadminsearch",
+    "pf": "frmAdmin",
+    "wType": "Button",
+    "zindex": 3
+}

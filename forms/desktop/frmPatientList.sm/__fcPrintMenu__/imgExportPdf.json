@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "273220bea8dd4b98a349ad7bd657b535",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "id": "imgExportPdf",
+        "imageScaleMode": 1,
+        "left": "3dp",
+        "src": "pdf.png",
+        "width": {
+            "type": "string",
+            "value": "25dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgExportPdf",
+    "instanceOf": "273220bea8dd4b98a349ad7bd657b535",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "mac91a76c4a449f8b5ab197cbacbca03",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fcExportPdf",
+    "pf": "frmPatientList",
+    "topLevelInstanceKUID": "m38e9a21b918467aba27103ccbd77046",
+    "wType": "Image"
+}

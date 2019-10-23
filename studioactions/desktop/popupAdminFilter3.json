@@ -1,0 +1,37 @@
+{
+    "AS_Image_709336afde0c46b4809ab3f2f807e0f8": {
+        "id": "AS_Image_709336afde0c46b4809ab3f2f807e0f8",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupAdminFilter3",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___92a0d80cbbde48a8ae3e91d95a70a005",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmFacilityList_show_sortpopup",
+            "display": "frmFacilityList_show_sortpopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

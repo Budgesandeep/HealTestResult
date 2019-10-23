@@ -1,0 +1,110 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "__id": "frmNotificationDashboard_calEndDate",
+    "__input": "calEndDate",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": "29/3/2019",
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "11.50%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sbfea216ed5f46679d1a376ca29aee8a",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "40%"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        29,
+        3,
+        2019,
+        0,
+        0,
+        0
+    ],
+    "dateeditable": true,
+    "dateformat": "MM/dd/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": 29,
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        3,
+        2019
+    ],
+    "entereddate": [
+        29,
+        3,
+        2019,
+        0,
+        0,
+        0
+    ],
+    "focusskin": "sbfea216ed5f46679d1a376ca29aee8a",
+    "format": "MM/dd/yyyy",
+    "formatteddate": "03/29/2019",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 0,
+    "id": "calEndDate",
+    "ide_onSelection": "AS_Calendar_gab068f075fd46fca4e4d47936c97e3c",
+    "ide_onTouchStart": "AS_Calendar_i0e2e8adbe84411f9abff3220ba4aeb8",
+    "info": null,
+    "isvisible": true,
+    "kuid": "f5694dad1cf64b2c93be353866a6b4f1",
+    "minutes": 0,
+    "month": 3,
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "pagedate": "/2019",
+    "parent": "CopyFlexGroup0be26dc369f134f",
+    "pf": "frmNotificationDashboard",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "seconds": 0,
+    "selectdate": "//2019",
+    "startDay": 0,
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": 2019,
+    "zindex": 1
+}

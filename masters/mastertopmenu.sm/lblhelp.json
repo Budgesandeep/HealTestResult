@@ -1,0 +1,75 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_text_": "Help",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "childInstances": [
+        "m627ead515174414a9f99d31f1ff16af",
+        "m8c082c825ac4bec913fca55842a16d9",
+        "mb7d0a6e8c54408e9e9a24ba1192afe6",
+        "mf2bf6cfc8244facba311544db894a7c",
+        "me811292772e40c5aab9385ce201a826",
+        "me743b4b5d1d4606ad94460f1cb03303",
+        "mf992c2a3b984fae8b8c9c3718e2774a",
+        "m17cdd217f934e3dbad99ac0b122b8b6"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblhelp",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "9559e0f22f024dd7a1a1d09a42e9a69a",
+    "name": "kony.ui.Label",
+    "parent": "fchelp",
+    "pf": "mastertopmenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

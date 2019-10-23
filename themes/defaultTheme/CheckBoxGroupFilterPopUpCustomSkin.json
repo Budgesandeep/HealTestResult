@@ -1,0 +1,113 @@
+{
+  "android": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "background_color": "ffffffff",
+  "bg_type": "one",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "customCSS": "font :  normal   bold   16.0px   calibri ;\ncolor: #424242;\nbackground-color: #ffffff;\ndisplay: block !important;",
+    "font_name": "calibri",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "fontSizeInPx": false,
+  "font_color": "424242ff",
+  "font_name": "Helvetica",
+  "font_size": 100,
+  "font_style": "normal",
+  "font_weight": "bold",
+  "ipad": {
+    "font_name": "Calibri-Bold",
+    "font_size": 100,
+    "isForked": false
+  },
+  "iphone": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "isDefaultSkin": false,
+  "kiosk": {
+    "font_name": "GenericMonospace",
+    "font_size": 100,
+    "isForked": false
+  },
+  "kuid": "sb138b6f3475436c9de5475e64ed2e4e",
+  "spaan": {
+    "customCSS": "font :  normal   bold   16.0px   calibri ;\ncolor: #424242;\nbackground-color: #ffffff;\ndisplay: block !important;",
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaandroidtablet": {
+    "customCSS": "font :  normal   bold   16.0px   calibri ;\ncolor: #424242;\nbackground-color: #ffffff;\ndisplay: block !important;",
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spabb": {
+    "customCSS": "font :  normal   bold   16.0px   calibri ;\ncolor: #424242;\nbackground-color: #ffffff;\ndisplay: block !important;",
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaip": {
+    "customCSS": "font :  normal   bold   16.0px   calibri ;\ncolor: #424242;\nbackground-color: #ffffff;\ndisplay: block !important;",
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spaipad": {
+    "customCSS": "font :  normal   bold   16.0px   calibri ;\ncolor: #424242;\nbackground-color: #ffffff;\ndisplay: block !important;",
+    "font_name": "Calibri-Bold",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spawindowstablet": {
+    "customCSS": "font :  normal   bold   16.0px   calibri ;\ncolor: #424242;\nbackground-color: #ffffff;\ndisplay: block !important;",
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "spawinphone8": {
+    "customCSS": "font :  normal   bold   16.0px   calibri ;\ncolor: #424242;\nbackground-color: #ffffff;\ndisplay: block !important;",
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isCustomCSSEnabled": true,
+    "isForked": true
+  },
+  "tabrcandroid": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "wType": "CheckBoxGroup",
+  "watchos": {
+    "font_name": "Helvetica",
+    "font_size": 100,
+    "isForked": false
+  },
+  "windows8": {
+    "font_name": "GenericMonospace",
+    "font_size": 100,
+    "isForked": false
+  },
+  "winphone8": {
+    "font_name": "GenericMonospace",
+    "font_size": 100,
+    "isForked": false
+  }
+}

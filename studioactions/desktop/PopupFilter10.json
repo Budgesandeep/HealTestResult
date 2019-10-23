@@ -1,0 +1,32 @@
+{
+    "AS_Button_87c2c6228db44f34b793413a12131c7a": {
+        "id": "AS_Button_87c2c6228db44f34b793413a12131c7a",
+        "type": "ACTION_SEQUENCE",
+        "name": "PopupFilter10",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___c06c8f1afa6b4fcca5b0c11c5d4790a3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_show_sortpopup",
+            "display": "frmPatientList_show_sortpopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_text_": "Dec 5th, 2016",
+    "_width_": {
+        "type": "string",
+        "value": "58.33%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "35dp"
+    },
+    "childInstances": [
+        "mcc656330f7942489c1a5009b2cf633d",
+        "mc6ae863118e47a596319c485dd4ab13",
+        "m46eb4d747cd416a828d2dd6a4a6bce9"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lbldatelogin",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": false,
+    "kuid": "bca20d9cab3a48cf8bcab28d31a9eb28",
+    "name": "kony.ui.Label",
+    "parent": "fcusername",
+    "pf": "masterheaderold",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

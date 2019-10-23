@@ -1,0 +1,32 @@
+{
+    "AS_CheckBoxGroup_37dba95bdefb4c79a2dadfecb41d4ed5": {
+        "id": "AS_CheckBoxGroup_37dba95bdefb4c79a2dadfecb41d4ed5",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdministration_Filtercheckbox_Onselect",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupAdminSortFilter",
+            "type": "popups",
+            "platform": null,
+            "KUID": "3d6611cd03724cb68943b89d374d26d1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___39bb47e8b1854cb7bfbe0826692103ce",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupFilter_checkBox_onSelection1",
+            "display": "popupFilter_checkBox_onSelection1",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

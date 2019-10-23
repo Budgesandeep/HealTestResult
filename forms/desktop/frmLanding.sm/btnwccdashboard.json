@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s6f24497cbed4352a9dcdb1df95fe4ba",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "160dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "30%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sfdb814248c34f809beb1e3b330127e8"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s6f24497cbed4352a9dcdb1df95fe4ba",
+    "id": "btnwccdashboard",
+    "ide_onClick": "AS_Button_3bf21698f9c74b4b823685f2daa8c5c7",
+    "info": null,
+    "isvisible": true,
+    "kuid": "d4228fca9b614258b677a85c4f1fc24a",
+    "name": "kony.ui.Button",
+    "parent": "fcrowone",
+    "pf": "frmLanding",
+    "wType": "Button",
+    "zindex": 1
+}

@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sc09aca31d4e4664b5a2c73e6c01da48",
+    "_text_": "",
+    "_width_": {
+        "type": "string",
+        "value": "30dp"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {}
+    },
+    "disabledSkins": {
+        "focusSkin": "sc09aca31d4e4664b5a2c73e6c01da48",
+        "hoverSkin": "sce916e12269462d8178af01399f4b38"
+    },
+    "displaytext": true,
+    "id": "btncheckbox1",
+    "ide_onClick": "AS_Button_5a6d44e821ba436a92ed31c9b92d7db0",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ab4b133bf0634aa08160cd38cbf5c419",
+    "name": "kony.ui.Button",
+    "parent": "fchuddletools",
+    "pf": "segFacilityList",
+    "wType": "Button",
+    "zindex": 1
+}

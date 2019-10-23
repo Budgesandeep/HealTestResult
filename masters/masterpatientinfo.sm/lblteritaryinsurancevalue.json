@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "sa8abdf651b14f72be81ff5983d75713",
+    "_text_": "Yes",
+    "_top_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "55%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m6fe7259027f4702b92358d3d8ab998c",
+        "m876d49312474dec8016588b775dedb5",
+        "maf00f81e15847ef8e081e3e7cc0df1c",
+        "m74e56ea254340babb7bde0a796ea2e1",
+        "m08d19f06de64cd9be489a9986bdeaf7",
+        "m0cb3551197148d9a339a116264dec16",
+        "m44af20e6d444c19ba00430abf93f5c5",
+        "md01b4424fe74fc7bdca56a639f5e3e0",
+        "m73d7cd7c1e5445bb268027d69bb7c5b"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblteritaryinsurancevalue",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "1de83e79c7294559ad2d864bd739714a",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo3",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

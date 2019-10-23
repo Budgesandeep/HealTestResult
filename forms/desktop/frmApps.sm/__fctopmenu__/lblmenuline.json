@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd6b5cdfa284490f8070f616fc5cd242",
+    "_srcKuid_": "96bc579301804c0199ab37b81a3a1229",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "bottom": "1dp",
+        "height": {
+            "type": "string",
+            "value": "1dp"
+        },
+        "id": "lblmenuline",
+        "left": "0dp",
+        "text": "",
+        "textStyle": {},
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 3
+    },
+    "id": "lblmenuline",
+    "instanceOf": "96bc579301804c0199ab37b81a3a1229",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m8a9ad0cb5564d139454ea15ec876575",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcsignout",
+    "pf": "frmApps",
+    "topLevelInstanceKUID": "md98944d1d18454e99fae6c28868c980",
+    "wType": "Label"
+}

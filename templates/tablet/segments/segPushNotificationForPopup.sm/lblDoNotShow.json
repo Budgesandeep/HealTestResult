@@ -1,0 +1,44 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s57cd065423d477ea536fefa04fb4196",
+    "_text_": "Do not show this message again",
+    "_wrapping_": 2,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 65,
+    "contentalignment": 4,
+    "donotUpdateContainerWeight": false,
+    "id": "lblDoNotShow",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "g538bea9d57b48998d8fae0515f51712",
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "hboxDoNotShow",
+    "pf": "segPushNotificationForPopup",
+    "tooltip": "",
+    "wType": "Label"
+}

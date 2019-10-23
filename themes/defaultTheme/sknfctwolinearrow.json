@@ -1,0 +1,11 @@
+{
+  "background_image": "twolinearrow.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "isDefaultSkin": false,
+  "kuid": "s1483b02660843ff9e8c5fab8b8bc5b6",
+  "wType": "FlexContainer"
+}

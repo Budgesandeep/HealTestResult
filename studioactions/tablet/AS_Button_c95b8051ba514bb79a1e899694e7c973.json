@@ -1,0 +1,18 @@
+{
+    "AS_Button_c95b8051ba514bb79a1e899694e7c973": {
+        "id": "AS_Button_c95b8051ba514bb79a1e899694e7c973",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupSwitchFacilitySync",
+            "type": "popups",
+            "platform": "",
+            "KUID": "eeffb814df4146f9a01b3e47edaa167c"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

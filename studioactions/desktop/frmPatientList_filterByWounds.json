@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_a58903ea167a494ea3d4c73267f5098e": {
+        "id": "AS_FlexContainer_a58903ea167a494ea3d4c73267f5098e",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_filterByWounds",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "0602ade0f56d44d399a07dabb337da25"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___5af365a901f3468482750c45145bf137",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segPatientListSelectedCoulmn",
+            "display": "segPatientListSelectedCoulmn",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

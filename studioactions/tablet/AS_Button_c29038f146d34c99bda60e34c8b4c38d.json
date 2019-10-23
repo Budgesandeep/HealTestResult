@@ -1,0 +1,26 @@
+{
+    "AS_Button_c29038f146d34c99bda60e34c8b4c38d": {
+        "id": "AS_Button_c29038f146d34c99bda60e34c8b4c38d",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_c8ba4e9c744f48978e38bbdf3aaef711",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_Clear_All_filter",
+            "display": "frmPatientList_Clear_All_filter",
+            "inputparams": [],
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

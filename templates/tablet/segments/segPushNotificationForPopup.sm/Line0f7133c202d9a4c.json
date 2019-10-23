@@ -1,0 +1,31 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLine",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7fa1d0db218428c9902b56d0b4494c5",
+    "_thickness_": 1,
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerWeightLocked": false,
+    "containerweight": 100,
+    "id": "Line0f7133c202d9a4c",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c6e17b248a2f4fb5887890b7c2b84125",
+    "name": "kony.ui.Line",
+    "parent": "vboxNotification",
+    "pf": "segPushNotificationForPopup",
+    "wType": "Line"
+}

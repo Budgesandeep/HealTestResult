@@ -1,0 +1,201 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "btnmarkcomplete": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lbldatecompleted": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lbldatecreated": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblduedate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline1": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline2": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline3": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline4": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline5": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline6": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline7": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblline8": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblnotes": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblpatientname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lbltasks": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblwoundnumber": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "alternaterowskin": "s89929f1e9b346e58cd0b35db55e0163",
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segviewtasks",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "8cf14104fdd6461f888272b12cf4f236",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "fctaskbody",
+    "pf": "frmViewTasksNew",
+    "retainselection": false,
+    "rowTemplateId": "b5114c4da9ef47568e48de5e5b6d0001",
+    "rowcounter": 0,
+    "rowfocusskin": "s1424a1698dd48bc8967d8eeb4b44c33",
+    "rowskin": "sb40fc88c0ca4d888db9510b56a4a907",
+    "rowtemplate": "fcviewtask",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "e3e3e300",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer003bf4c58a6f648": "FlexContainer003bf4c58a6f648",
+        "FlexContainer01cdc97ef9e1243": "FlexContainer01cdc97ef9e1243",
+        "FlexContainer071f487a8c34642": "FlexContainer071f487a8c34642",
+        "FlexContainer0ad9260b685b747": "FlexContainer0ad9260b685b747",
+        "FlexContainer0b56dbe2f0c6e47": "FlexContainer0b56dbe2f0c6e47",
+        "FlexContainer0c76bf83ca0b343": "FlexContainer0c76bf83ca0b343",
+        "FlexContainer0cddca5c7ce6e4a": "FlexContainer0cddca5c7ce6e4a",
+        "FlexContainer0f5b4c782f0824d": "FlexContainer0f5b4c782f0824d",
+        "btnmarkcomplete": "btnmarkcomplete",
+        "fcdatecompleted": "fcdatecompleted",
+        "fcdatecreated": "fcdatecreated",
+        "fcduedate": "fcduedate",
+        "fcnotes": "fcnotes",
+        "fcpatientname": "fcpatientname",
+        "fcstatus": "fcstatus",
+        "fctasks": "fctasks",
+        "fcviewtask": "fcviewtask",
+        "fcwoundnumber": "fcwoundnumber",
+        "lbldatecompleted": "lbldatecompleted",
+        "lbldatecreated": "lbldatecreated",
+        "lblduedate": "lblduedate",
+        "lblline1": "lblline1",
+        "lblline2": "lblline2",
+        "lblline3": "lblline3",
+        "lblline4": "lblline4",
+        "lblline5": "lblline5",
+        "lblline6": "lblline6",
+        "lblline7": "lblline7",
+        "lblline8": "lblline8",
+        "lblnotes": "lblnotes",
+        "lblpatientname": "lblpatientname",
+        "lblstatus": "lblstatus",
+        "lbltasks": "lbltasks",
+        "lblwoundnumber": "lblwoundnumber"
+    },
+    "zindex": 1
+}

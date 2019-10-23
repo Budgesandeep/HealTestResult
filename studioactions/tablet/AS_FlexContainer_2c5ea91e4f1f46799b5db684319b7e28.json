@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_2c5ea91e4f1f46799b5db684319b7e28": {
+        "id": "AS_FlexContainer_2c5ea91e4f1f46799b5db684319b7e28",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb14c6f9d5a447179393e04161a90a24"
+        },
+        "sourceObj": {
+            "itemKUID": "5b6f549504be45a7b888471691b5dd4f",
+            "widgetKUID": "10012846562346608f217f43ee55ca3a",
+            "evt": "onClick"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

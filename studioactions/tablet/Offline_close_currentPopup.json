@@ -1,0 +1,32 @@
+{
+    "AS_Button_b68be4ffcb3d47909e6e0b53189a63a8": {
+        "id": "AS_Button_b68be4ffcb3d47909e6e0b53189a63a8",
+        "type": "ACTION_SEQUENCE",
+        "name": "Offline_close_currentPopup",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupCorruptedData",
+            "type": "popups",
+            "platform": "",
+            "KUID": "64c5dcde57cd4ee6b5d0f10cffa39575"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ee811161bfaa44ddbe590efe9eb30d0d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

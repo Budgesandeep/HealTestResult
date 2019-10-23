@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "sa1b50d3a9864609981babd6937db754",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "lbpopupAdminSearchbyBluebookID"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s5fb0b97b5c94ccdb790c78f26686158",
+            "ide_onHover": "AS_HBox_02d06c6dfbd841bfb31b7b01aa075e3e"
+        }
+    },
+    "disabledSkins": {},
+    "id": "hboxpopupBluebookID",
+    "ide_onClick": "AS_HBox_29f75ba7bab544e8a024564d2a671782",
+    "info": null,
+    "isvisible": true,
+    "kuid": "5d26449ac66b448bad852670d36270bc",
+    "layoutalignment": 3,
+    "layouttype": 0,
+    "name": "kony.ui.Box",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "vboxpopupAdminSearchby",
+    "pf": "popupAdminSearchby",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

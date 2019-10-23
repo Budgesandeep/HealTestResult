@@ -1,0 +1,117 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "btnEdit": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Edit"
+            },
+            "lblcreatedby": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "asdasdas"
+            },
+            "lbldescription": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "asjkdhjashd aksjhdakjshdkjashdjakshdjkashjkdhsakjdhasjhdajkshdkajshdajskhdjkashdjashdjahskdajshjdkashkjdhasjkdhasjkdhasjkdhsjkadhkasjhdsajkdhsajhdjkashdjksad"
+            },
+            "lblnotificationdate": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "03/20/2010"
+            },
+            "lblstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Inactive"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_indicator_": "none",
+    "_left_": "0dp",
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": "0dp",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "00",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segnotificationlist",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "fc69b895689b4c5db8432e31160fa7a1",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "fcsegnotificationlist",
+    "pf": "frmNotificationDashboard",
+    "retainselection": false,
+    "rowTemplateId": "d464b9e354f6408ab3d88169f853e3bb",
+    "rowcounter": 0,
+    "rowfocusskin": "s1424a1698dd48bc8967d8eeb4b44c33",
+    "rowskin": "sb40fc88c0ca4d888db9510b56a4a907",
+    "rowtemplate": "Copyfcnotificationlisthdr0if626c45cfc54f",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Copyfcnotificationlisthdr0if626c45cfc54f": "Copyfcnotificationlisthdr0if626c45cfc54f",
+        "Copyfctransferstatus0e1b3a80c5b1946": "Copyfctransferstatus0e1b3a80c5b1946",
+        "btnEdit": "btnEdit",
+        "fccasemanager": "fccasemanager",
+        "fchealper": "fchealper",
+        "fcnotificationdate": "fcnotificationdate",
+        "fctransferstatus": "fctransferstatus",
+        "lblcreatedby": "lblcreatedby",
+        "lbldescription": "lbldescription",
+        "lblnotificationdate": "lblnotificationdate",
+        "lblstatus": "lblstatus"
+    },
+    "zindex": 3
+}

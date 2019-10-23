@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s391b2e92520492cbd587d280ff7d999",
+    "_srcKuid_": "657c4efb59634fbda29b9395e09cd83e",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerX": "45%",
+        "centerY": "50%",
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lbltaskcount",
+        "text": "13",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lbltaskcount",
+    "instanceOf": "657c4efb59634fbda29b9395e09cd83e",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m725840eecdb49c1a03521284ce88c23",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "inboxcircle",
+    "pf": "frmConflictResolve",
+    "topLevelInstanceKUID": "m22fc4232785416bb4366c49191b2fa2",
+    "wType": "Label"
+}

@@ -1,0 +1,23 @@
+{
+    "AS_ListBox_c26e96ccaf8b4fa2b80a47a753d0aac3": {
+        "id": "AS_ListBox_c26e96ccaf8b4fa2b80a47a753d0aac3",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_Search_onSelect",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___adc6e9e111fd44fd9c9dc6465201c82f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdmin_OnSearchTypeSelection",
+            "display": "frmAdmin_OnSearchTypeSelection",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "downarrowwhite.png",
+    "canUpdateUI": true,
+    "containerweight": 13,
+    "context": {
+        "channel": "desktop",
+        "ispercent": true,
+        "platform": "desktopweb",
+        "templateType": "popups",
+        "topLevelBox": false
+    },
+    "donotUpdateContainerWeight": false,
+    "id": "imgdownarrow",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "6890f0cbc9224fefaa59fb8bb82ff059",
+    "name": "kony.ui.Image2",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "hboxdescending",
+    "pf": "popupsortandfilter",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

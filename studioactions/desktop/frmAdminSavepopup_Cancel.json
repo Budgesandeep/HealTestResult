@@ -1,0 +1,31 @@
+{
+    "AS_Button_94eb6382b7bc41ceade9e9e0d58df0a5": {
+        "id": "AS_Button_94eb6382b7bc41ceade9e9e0d58df0a5",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdminSavepopup_Cancel",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "5dae280578ae45fd9512ca264e1a534c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___5443375c36a34f528bcf868eea53817d",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmAdmin",
+            "formKUID": "7f026c28f14647bd84e6085de5abce9d",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": "",
+            "navigationObj": "{\n    \"_meta_\": {\n        \"eventName\": \"\",\n        \"widgetId\": \"\"\n    }\n}",
+            "isCustomInput": false
+        }]
+    }
+}

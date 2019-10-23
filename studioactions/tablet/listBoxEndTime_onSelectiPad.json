@@ -1,0 +1,29 @@
+{
+    "AS_ListBox_hdb22b44715a41a9b08a57742d0e7948": {
+        "id": "AS_ListBox_hdb22b44715a41a9b08a57742d0e7948",
+        "type": "ACTION_SEQUENCE",
+        "name": "listBoxEndTime_onSelectiPad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f43ea6f4431748e095ea4da6759d4814",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_endTimeSelected",
+            "display": "frmNotificationDashboard_endTimeSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

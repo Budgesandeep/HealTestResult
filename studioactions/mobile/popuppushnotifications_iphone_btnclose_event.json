@@ -1,0 +1,28 @@
+{
+    "AS_Button_ieae404ab78b46b6a0c9e242fae0eb09": {
+        "id": "AS_Button_ieae404ab78b46b6a0c9e242fae0eb09",
+        "type": "ACTION_SEQUENCE",
+        "name": "popuppushnotifications_iphone_btnclose_event",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupPushNotifications",
+            "type": "popups",
+            "platform": null,
+            "KUID": "d553ad97f8d647ef912d51c29e45e8ab"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_de2465bc2080476f9f5db8c39cb6a025",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "_closePushNotificaitonsPopup",
+            "display": "_closePushNotificaitonsPopup",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

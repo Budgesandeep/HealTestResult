@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "_skin_": "s7d79e6e54a441d3a41f1caf37b15220",
+    "_srcKuid_": "mc88f873e6d54bdb8a68417503df3e64",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblallergies",
+        "left": {
+            "type": "string",
+            "value": "17%"
+        },
+        "text": "Allergies:",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "13%"
+        },
+        "zIndex": 1
+    },
+    "id": "lblallergies",
+    "instanceOf": "mc88f873e6d54bdb8a68417503df3e64",
+    "isvisible": true,
+    "kuid": "m453877381c6458181489e9dda9939bd",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfofooter",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

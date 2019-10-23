@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_srcKuid_": "85cb257965f24941be41566f04b9d8b5",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "50%",
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblreports",
+        "left": "35dp",
+        "text": "Switch Facility",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblreports",
+    "instanceOf": "85cb257965f24941be41566f04b9d8b5",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m0fa6816c02c460a856672e287333f01",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcreports",
+    "pf": "frmWCCDashboard",
+    "topLevelInstanceKUID": "mb0c61b2746e4fa4ae5d29491a5c8f92",
+    "wType": "Label"
+}

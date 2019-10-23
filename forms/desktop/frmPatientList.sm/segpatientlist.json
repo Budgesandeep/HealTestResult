@@ -1,0 +1,502 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Copylblline0ce112e327b7c46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0d30e270639d841": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0e330e7a1762d4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ee0be844baa241": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0f2b045b192c243": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0g1f44f46216d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0h755b71d7d6b47": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0id5e45ebbfe944": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPrecautions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transmission-Based Precautions"
+            },
+            "lblappttype": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Appt. Type"
+            },
+            "lblcasemanager": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case Manager"
+            },
+            "lblhealper": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Advanced Procedures"
+            },
+            "lblnextappt": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Next Appt."
+            },
+            "lblpatientmsrstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblpatientname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Patient"
+            },
+            "lblphysician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Physician"
+            },
+            "lbltransferstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer Status"
+            },
+            "lblweeks": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weeks"
+            },
+            "lblwounds": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wounds"
+            }
+        },
+        {
+            "Copylblline0ce112e327b7c46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0d30e270639d841": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0e330e7a1762d4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ee0be844baa241": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0f2b045b192c243": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0g1f44f46216d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0h755b71d7d6b47": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0id5e45ebbfe944": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPrecautions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transmission-Based Precautions"
+            },
+            "lblappttype": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Appt. Type"
+            },
+            "lblcasemanager": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case Manager"
+            },
+            "lblhealper": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Advanced Procedures"
+            },
+            "lblnextappt": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Next Appt."
+            },
+            "lblpatientmsrstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblpatientname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Patient"
+            },
+            "lblphysician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Physician"
+            },
+            "lbltransferstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer Status"
+            },
+            "lblweeks": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weeks"
+            },
+            "lblwounds": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wounds"
+            }
+        },
+        {
+            "Copylblline0ce112e327b7c46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0d30e270639d841": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0e330e7a1762d4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ee0be844baa241": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0f2b045b192c243": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0g1f44f46216d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0h755b71d7d6b47": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0id5e45ebbfe944": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPrecautions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transmission-Based Precautions"
+            },
+            "lblappttype": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Appt. Type"
+            },
+            "lblcasemanager": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case Manager"
+            },
+            "lblhealper": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Advanced Procedures"
+            },
+            "lblnextappt": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Next Appt."
+            },
+            "lblpatientmsrstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblpatientname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Patient"
+            },
+            "lblphysician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Physician"
+            },
+            "lbltransferstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer Status"
+            },
+            "lblweeks": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weeks"
+            },
+            "lblwounds": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wounds"
+            }
+        },
+        {
+            "Copylblline0ce112e327b7c46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0d30e270639d841": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0e330e7a1762d4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ee0be844baa241": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0f2b045b192c243": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0g1f44f46216d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0h755b71d7d6b47": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0id5e45ebbfe944": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPrecautions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transmission-Based Precautions"
+            },
+            "lblappttype": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Appt. Type"
+            },
+            "lblcasemanager": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case Manager"
+            },
+            "lblhealper": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Advanced Procedures"
+            },
+            "lblnextappt": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Next Appt."
+            },
+            "lblpatientmsrstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblpatientname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Patient"
+            },
+            "lblphysician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Physician"
+            },
+            "lbltransferstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer Status"
+            },
+            "lblweeks": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weeks"
+            },
+            "lblwounds": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wounds"
+            }
+        },
+        {
+            "Copylblline0ce112e327b7c46": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0d30e270639d841": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0e330e7a1762d4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0ee0be844baa241": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0f2b045b192c243": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0g1f44f46216d48": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0h755b71d7d6b47": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "Copylblline0id5e45ebbfe944": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": ""
+            },
+            "lblPrecautions": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transmission-Based Precautions"
+            },
+            "lblappttype": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Appt. Type"
+            },
+            "lblcasemanager": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Case Manager"
+            },
+            "lblhealper": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Advanced Procedures"
+            },
+            "lblnextappt": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Next Appt."
+            },
+            "lblpatientmsrstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblpatientname": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Patient"
+            },
+            "lblphysician": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Physician"
+            },
+            "lbltransferstatus": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Transfer Status"
+            },
+            "lblweeks": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Weeks"
+            },
+            "lblwounds": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Wounds"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "135dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "alternaterowskin": "s89929f1e9b346e58cd0b35db55e0163",
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "04",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "b99674a4c3c54b0f9e00add65db4cba6",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segpatientlist",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "30c8c8fba9164361a8713383825ca6d1",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "fcpatientlistcontainer",
+    "pf": "frmPatientList",
+    "retainselection": false,
+    "rowTemplateId": "b99674a4c3c54b0f9e00add65db4cba6",
+    "rowcounter": 4,
+    "rowfocusskin": "s1424a1698dd48bc8967d8eeb4b44c33",
+    "rowskin": "sb40fc88c0ca4d888db9510b56a4a907",
+    "rowtemplate": "FBox0bc8fdb1e40f94f",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "e3e3e300",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "vizProps": {},
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "FlexContainer": "FlexContainer",
+        "fcSegPatientList": "fcSegPatientList",
+        "lblPrecautions": "lblPrecautions",
+        "lblappttype": "lblappttype",
+        "lblcasemanager": "lblcasemanager",
+        "lblhealper": "lblhealper",
+        "lblnextappt": "lblnextappt",
+        "lblpatientmsrstatus": "lblpatientmsrstatus",
+        "lblpatientname": "lblpatientname",
+        "lblphysician": "lblphysician",
+        "lbltransferstatus": "lbltransferstatus",
+        "lblweeks": "lblweeks",
+        "lblwounds": "lblwounds"
+    },
+    "zindex": 1
+}

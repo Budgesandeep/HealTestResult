@@ -1,0 +1,43 @@
+{
+    "AS_Form_13300cb6e4184d35811bfa000fabe2da": {
+        "id": "AS_Form_13300cb6e4184d35811bfa000fabe2da",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "6a5ac136946645f392c3702ef128575e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___1b4e22cd57074d6b87d2a6a58c00cd72",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_TouchEnd",
+            "display": "frmPatientList_TouchEnd",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "INVOKE_FUNCTION___99f3ed2610784fe18adc4bb1cb225f6d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "hideFormMenu",
+            "display": "hideFormMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

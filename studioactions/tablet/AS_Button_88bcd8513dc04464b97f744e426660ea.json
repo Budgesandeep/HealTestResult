@@ -1,0 +1,21 @@
+{
+    "AS_Button_88bcd8513dc04464b97f744e426660ea": {
+        "id": "AS_Button_88bcd8513dc04464b97f744e426660ea",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_668a05ccd5b94753a4590af249dfda1a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showLandingScreen",
+            "display": "showLandingScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

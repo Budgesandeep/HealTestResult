@@ -1,0 +1,22 @@
+{
+    "AS_Button_8471a87d8dba41b3b00ddcb1d9722e8d": {
+        "id": "AS_Button_8471a87d8dba41b3b00ddcb1d9722e8d",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_btnhome_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_6b9ae40d97874ecfadde3eafb7c77a59",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showLandingScreen",
+            "display": "showLandingScreen",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

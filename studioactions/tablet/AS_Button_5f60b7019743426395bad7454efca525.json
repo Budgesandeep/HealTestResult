@@ -1,0 +1,30 @@
+{
+    "AS_Button_5f60b7019743426395bad7454efca525": {
+        "id": "AS_Button_5f60b7019743426395bad7454efca525",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segadditionalCPGlinks",
+            "type": "templates",
+            "platform": "",
+            "KUID": "43b79ad7145c445b81676d7423c7bc56"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___3abb07135fa54634ab83bd2a8da33a84",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_openAdditionalCPGLinks",
+            "display": "frmPatientSummary_openAdditionalCPGLinks",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

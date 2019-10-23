@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_379732ddc12841279737bf05cbd5ca90": {
+        "id": "AS_FlexContainer_379732ddc12841279737bf05cbd5ca90",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupwoundimages_FlexContainer_onClose",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___771cc8a3bdbc4f99ab4b31c135d5a2d3",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popup_close",
+            "display": "popup_close",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

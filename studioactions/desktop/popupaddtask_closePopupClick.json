@@ -1,0 +1,28 @@
+{
+    "AS_VBox_7dce3f38aa4e4e76b17e9372437baefc": {
+        "id": "AS_VBox_7dce3f38aa4e4e76b17e9372437baefc",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupaddtask_closePopupClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "popups",
+            "platform": "",
+            "KUID": "2c50359740cf40149cfc381afceec625"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___f36a9300cd804bac898345dec4aeb047",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popup_close",
+            "display": "popup_close",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

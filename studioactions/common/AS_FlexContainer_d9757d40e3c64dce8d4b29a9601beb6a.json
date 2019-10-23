@@ -1,0 +1,23 @@
+{
+    "AS_FlexContainer_d9757d40e3c64dce8d4b29a9601beb6a": {
+        "id": "AS_FlexContainer_d9757d40e3c64dce8d4b29a9601beb6a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "mastermenu",
+            "type": "masters",
+            "KUID": "ece4e70548614acebb6edf369b19b24f"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

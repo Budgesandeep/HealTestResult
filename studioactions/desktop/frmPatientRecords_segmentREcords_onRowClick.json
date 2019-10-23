@@ -1,0 +1,35 @@
+{
+    "AS_Segment_a723b34b9bc64bd2bf9d11800c0547de": {
+        "id": "AS_Segment_a723b34b9bc64bd2bf9d11800c0547de",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_segmentREcords_onRowClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2dadc999bf6b45babe7b7fd8757e2f92"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___136f83b04f5e4b91aa5f4f6954a3e33e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_segRecords_onRowClick",
+            "display": "frmPatientRecords_segRecords_onRowClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

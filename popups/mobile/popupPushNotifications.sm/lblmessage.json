@@ -1,0 +1,43 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "_margin_": [
+        2,
+        2,
+        2,
+        2
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb281e27a74e4c058cca736735f2ec67",
+    "_text_": "New Version of the WoundSuite application is availalbe on App Store. Please download.",
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblmessage",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "da649f5225aa4f7dab313d25afbfaf73",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "parent": "vboxpushnotifications",
+    "pf": "popupPushNotifications",
+    "tooltip": "",
+    "wType": "Label"
+}

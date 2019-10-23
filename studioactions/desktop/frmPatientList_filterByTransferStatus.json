@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_a007fce624a1442eb09640ada5adaaa1": {
+        "id": "AS_FlexContainer_a007fce624a1442eb09640ada5adaaa1",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_filterByTransferStatus",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "0602ade0f56d44d399a07dabb337da25"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___75b0cf88408c4e3997c344b261fbb32e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segPatientListSelectedCoulmn",
+            "display": "segPatientListSelectedCoulmn",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

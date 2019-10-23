@@ -1,0 +1,33 @@
+{
+    "AS_Segment_9afb1857922b4ba5a7463aee9c3d8442": {
+        "id": "AS_Segment_9afb1857922b4ba5a7463aee9c3d8442",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": null,
+            "KUID": "6a5ac136946645f392c3702ef128575e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_f0a8261ceac84c6dafe8c753c23c90de",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatienList_onSearchSegmentClick",
+            "display": "frmPatienList_onSearchSegmentClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

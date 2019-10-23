@@ -1,0 +1,15 @@
+{
+  "background_image": "divider.png",
+  "bg_type": "image",
+  "border_color": "000000ff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "desktopweb": {
+    "background_image": "graybg256x40.png",
+    "bg_type": "image"
+  },
+  "isDefaultSkin": false,
+  "kuid": "s6c15a9d905d437b90d0e7c8b111db20",
+  "wType": "HBox"
+}

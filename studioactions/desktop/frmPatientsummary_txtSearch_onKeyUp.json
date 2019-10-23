@@ -1,0 +1,29 @@
+{
+    "AS_TextField_7c77cb4191d445a5a17e8755011d7d29": {
+        "id": "AS_TextField_7c77cb4191d445a5a17e8755011d7d29",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientsummary_txtSearch_onKeyUp",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___74f81d7db40345f3887aa2935a5d59e1",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_onSearchStart",
+            "display": "frmPatientList_onSearchStart",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

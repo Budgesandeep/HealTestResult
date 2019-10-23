@@ -1,0 +1,28 @@
+{
+    "AS_Button_48013cff4e214c6987beaf73696e6ffa": {
+        "id": "AS_Button_48013cff4e214c6987beaf73696e6ffa",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupaddtask_btnSaveClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "popups",
+            "platform": "",
+            "KUID": "2c50359740cf40149cfc381afceec625"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___612c2f99ae2a4a47b4f0392a65dcc59d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupaddtask_onSave",
+            "display": "popupaddtask_onSave",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

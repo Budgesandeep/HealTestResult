@@ -1,0 +1,31 @@
+{
+    "AS_FlexContainer_028fffd9c04d4eb0ae9ec13ae82b88bb": {
+        "id": "AS_FlexContainer_028fffd9c04d4eb0ae9ec13ae82b88bb",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupcreatetask_fcfollowup_onclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "da61f72f86b9458aaf5b430af727c9ea"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ea2163d90bf04ff6b6162652567cc805",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_onWoundFollowUpClick",
+            "display": "frmPatientSummary_onWoundFollowUpClick",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

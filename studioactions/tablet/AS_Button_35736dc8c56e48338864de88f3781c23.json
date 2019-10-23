@@ -1,0 +1,21 @@
+{
+    "AS_Button_35736dc8c56e48338864de88f3781c23": {
+        "id": "AS_Button_35736dc8c56e48338864de88f3781c23",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_8dde66e602474b46883ec2d887f7dccf",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "Review_MSR",
+            "display": "Review_MSR",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

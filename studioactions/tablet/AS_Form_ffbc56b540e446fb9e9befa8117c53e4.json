@@ -1,0 +1,33 @@
+{
+    "AS_Form_ffbc56b540e446fb9e9befa8117c53e4": {
+        "id": "AS_Form_ffbc56b540e446fb9e9befa8117c53e4",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g05ad9ee8e5346a186c5b346a773ce78"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onTouchEnd_c7d466d398394041ba65a43239536f44",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_onTouchEnd_call",
+            "display": "frmPatientRecords_onTouchEnd_call",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

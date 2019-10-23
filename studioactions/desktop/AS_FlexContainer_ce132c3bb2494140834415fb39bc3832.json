@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_ce132c3bb2494140834415fb39bc3832": {
+        "id": "AS_FlexContainer_ce132c3bb2494140834415fb39bc3832",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "ad458ece1370499881946c49908c1c58"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___20028b56fd324293b1785f2db40ee6b5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_showHideFcWoundDescription",
+            "display": "frmPatientSummary_showHideFcWoundDescription",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

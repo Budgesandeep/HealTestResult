@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_d57351cb92ec4acf87530e23c7bb8117": {
+        "id": "AS_FlexContainer_d57351cb92ec4acf87530e23c7bb8117",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_filterByAdvancedProcudures",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "0602ade0f56d44d399a07dabb337da25"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___8bf2ec9c4d344b4dbe2f7e6b33ced492",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segPatientListSelectedCoulmn",
+            "display": "segPatientListSelectedCoulmn",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

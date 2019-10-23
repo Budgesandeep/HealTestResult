@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizScrollBox",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        5,
+        0,
+        0,
+        0
+    ],
+    "_percent_": false,
+    "_position_": 3,
+    "_skin_": "se66698efcf54b5293326c79e1c2d70c",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "CheckBoxGroupFilterPopUp"
+    ],
+    "containerheight": 100,
+    "containerheightreference": 2,
+    "containerweight": 100,
+    "contextmenu": null,
+    "enablescrollbypage": false,
+    "id": "ScrollBox0fbb558316eb440",
+    "info": null,
+    "isvisible": true,
+    "kuid": "6516b27713b845f9a4b291483f309d79",
+    "layoutalignment": 3,
+    "margininpixel": false,
+    "name": "kony.ui.ScrollBox",
+    "paddInPixel": [
+        9.5,
+        0,
+        9.5,
+        0
+    ],
+    "paddinginpixel": false,
+    "parent": "vboxsortandfilter",
+    "pf": "popupsortandfilter",
+    "scrollbar": "scrollbar",
+    "scrolldirection": 2,
+    "scrollingevents": null,
+    "showscrollbars": true,
+    "totalWt": 100,
+    "wType": "ScrollBox",
+    "widgetalignment": 5
+}

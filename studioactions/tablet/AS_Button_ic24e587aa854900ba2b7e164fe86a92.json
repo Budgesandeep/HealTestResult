@@ -1,0 +1,24 @@
+{
+    "AS_Button_ic24e587aa854900ba2b7e164fe86a92": {
+        "id": "AS_Button_ic24e587aa854900ba2b7e164fe86a92",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "6a5ac136946645f392c3702ef128575e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__ife21eccb7b141eebd698150aad83223",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "CalltodayspatentList(eventobject);",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

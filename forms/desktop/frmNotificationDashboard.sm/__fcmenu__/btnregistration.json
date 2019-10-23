@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sb65473ae20e4683bb9903f046abf9aa",
+    "_srcKuid_": "fe26cbbfcc144561bc22db835bc5a25a",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "string",
+            "value": "64dp"
+        },
+        "id": "btnregistration",
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "text": "Button",
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        },
+        "zIndex": 1
+    },
+    "id": "btnregistration",
+    "instanceOf": "fe26cbbfcc144561bc22db835bc5a25a",
+    "isvisible": true,
+    "kuid": "m203c88f45124e2e8f63aa4e328374cd",
+    "masterInstance": true,
+    "name": "kony.ui.Button",
+    "parent": "fcmenseven",
+    "pf": "frmNotificationDashboard",
+    "topLevelInstanceKUID": "m345f535cf6446feb3b8223f9458116c",
+    "wType": "Button"
+}

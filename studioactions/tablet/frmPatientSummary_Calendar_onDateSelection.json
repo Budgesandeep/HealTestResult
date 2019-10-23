@@ -1,0 +1,36 @@
+{
+    "AS_Calendar_a0c040a8753c44df960759b8bd6420cf": {
+        "id": "AS_Calendar_a0c040a8753c44df960759b8bd6420cf",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_Calendar_onDateSelection",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "boolean",
+            "name": "isValidDateSelected"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "2c036a328549447d974633eb128be102"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___71b8985bd41d4c3da0192abd9a0b2931",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_calendarDateOnSelection",
+            "display": "frmPatientSummary_calendarDateOnSelection",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }, {
+                "name": "fromWhere"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

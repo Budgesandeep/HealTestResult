@@ -1,0 +1,72 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "sa1111ea6188450386950c0abff2a271",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "27%"
+    },
+    "allboxes": [],
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "childInstances": [
+        "m50b09dc182f4d9f81400d2c4d32b44d",
+        "mf663b2674ce4de8ac24b63393618ba4",
+        "m3bdf8bc8c504aa88edb295bbfa69f29",
+        "m8736372971646ecb2a9f2ab8d8ac74a"
+    ],
+    "children": [
+        "lblmedicalrecordnumber",
+        "lblcareapproach",
+        "lblabileft",
+        "lblabiright",
+        "lblmedicalrecordnumbervalue",
+        "lblcareapproachvalue",
+        "lblabileftvalue",
+        "lblabirightvalue",
+        "lbldiabeticstatus",
+        "lbldiabeticstatusvalue"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fcpatientinfo1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "188ab937b0d04cb88eb4ab7ea562b829",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcpatientinfodetails",
+    "pf": "masterpatientinfo",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

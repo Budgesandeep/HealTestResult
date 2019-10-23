@@ -1,0 +1,50 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "seb867c438694538a79c0558ef187085",
+    "_text_": "",
+    "canUpdateUI": true,
+    "containerweight": 3,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sce916e12269462d8178af01399f4b38"
+        }
+    },
+    "disabledSkins": {
+        "focusSkin": "sa17c5bf68014a3f93fb266388b726ff"
+    },
+    "displaytext": true,
+    "donotUpdateContainerWeight": false,
+    "id": "btnclosepdf",
+    "ide_onClick": "AS_Button_bf13b5ddbcb24ed7ad0577229b702386",
+    "info": null,
+    "isvisible": true,
+    "kuid": "c1934ceeaf0f45b1857d860ec06c596d",
+    "margininpixel": false,
+    "name": "kony.ui.Button",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddinginpixel": false,
+    "parent": "HBox0f663b4ccd16b45",
+    "pf": "popuppdfviewer",
+    "wType": "Button",
+    "widgetalignment": 5
+}

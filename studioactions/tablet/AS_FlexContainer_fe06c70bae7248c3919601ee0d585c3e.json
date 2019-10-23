@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_fe06c70bae7248c3919601ee0d585c3e": {
+        "id": "AS_FlexContainer_fe06c70bae7248c3919601ee0d585c3e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_b687cabd0cd242c491a044a5ad8ea348",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_showSegWounds",
+            "display": "frmPatientSummary_showSegWounds",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

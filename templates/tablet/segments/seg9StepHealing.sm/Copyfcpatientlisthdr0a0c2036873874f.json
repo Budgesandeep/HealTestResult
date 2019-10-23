@@ -1,0 +1,64 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "75dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s4b03b48ec8c4e0f9515253ab76f8ca3",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "Copyfcpatientname0ea4ef81d8e5242",
+        "Copyfccasemanager0b75655a502cf47",
+        "Copyfcphysician0geceeffc178c4c",
+        "Copyfcnextappt0b55fed96880248",
+        "Copyfcappttype0ca7a61042ca240",
+        "Copyfcwounds0i1c7b6d91ba541",
+        "Copyfcweeks0be4aa86ec1ab43"
+    ],
+    "clipbounds": true,
+    "containerId": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "Copyfcpatientlisthdr0a0c2036873874f",
+    "info": null,
+    "isTemplate": true,
+    "isvisible": true,
+    "kuid": "d190375f545447bc9b3073e746297000",
+    "layouttype": 3,
+    "name": "kony.ui.FlexContainer",
+    "parent": "Copyfcninestephealing0ae2c3d29793e43",
+    "pf": "seg9StepHealing",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Form_ca6b5362560142b3b0c1a2031f4aa680": {
+        "id": "AS_Form_ca6b5362560142b3b0c1a2031f4aa680",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_deviceBackHandler",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewTasksNew",
+            "type": "forms",
+            "platform": "",
+            "KUID": "bfb191a286c647a0b17af3319a39e54b"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__e7ec4fdb5c9345c1a4aff0585e5b22be",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "taskListModule.formBackHandler();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "AS_TextField_e43e0595bae840908afc99f605494413": {
+        "id": "AS_TextField_e43e0595bae840908afc99f605494413",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_txtresult_ontextchange",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmLogin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "efa63e013ac343628ece37d3f15d5b1c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b97b0786637e4d4bb473f7d34b63186b",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_onresultTextChange",
+            "display": "frmPatientSummary_onresultTextChange",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

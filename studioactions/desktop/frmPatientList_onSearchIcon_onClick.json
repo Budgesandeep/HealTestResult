@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_e3ad0e5215304390a963b9690e251bfa": {
+        "id": "AS_FlexContainer_e3ad0e5215304390a963b9690e251bfa",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_onSearchIcon_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ae1d59fe1db9461dbf07f8400762f07c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickSearchClose",
+            "display": "onClickSearchClose",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

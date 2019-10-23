@@ -1,0 +1,32 @@
+{
+    "AS_TextArea_b0c4d98d05d642f48d2ef631af34a3ca": {
+        "id": "AS_TextArea_b0c4d98d05d642f48d2ef631af34a3ca",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_notesOnKeyUp",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientSummary",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d2b035bdc3244abe985a9a15b903ba1f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ec9af06abd5a4575ad076a003ea495b6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_notes_onKeyUp",
+            "display": "frmPatientSummary_notes_onKeyUp",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

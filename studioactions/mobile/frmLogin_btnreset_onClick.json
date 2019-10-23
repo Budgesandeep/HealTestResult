@@ -1,0 +1,22 @@
+{
+    "AS_Button_j1babfc6bf61412c9984334df719c154": {
+        "id": "AS_Button_j1babfc6bf61412c9984334df719c154",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmLogin_btnreset_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_j88c46b22e8d4ebc9942a1770ce95946",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmLogin_forgotPasswordClick",
+            "display": "frmLogin_forgotPasswordClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

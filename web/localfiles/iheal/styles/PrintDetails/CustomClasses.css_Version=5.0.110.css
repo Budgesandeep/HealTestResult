@@ -1,0 +1,1112 @@
+/* shortcut to set on a table if you want all of table cells to be vertical-align: top; */
+/* Don't use this if decendent tables / controls will be affected */
+/* this should be at the top of the css file so everything overrides it */
+.vtAllTD td  
+{
+	vertical-align: top;
+	/*line-height: 20px;  hack to make text boxss look like they line up - lets not use this for now.*/
+}
+
+.MainCalendar td
+{
+	border-top: none;	
+	border-bottom: none;
+	border-right: 1px solid #c5cad0;
+	border-left: 1px solid #c5cad0;
+}
+ 
+ .MainCalendar th
+ {
+	border-top: none;
+	border-bottom: none;
+	border-right: 1px solid #c5cad0; 	
+	border-left: 1px solid #c5cad0;
+ } 
+ 
+ .MainCalendarFooter
+ {	
+	border-top: 1px solid #a0a8b3;	
+	padding-top: 10px;	
+ }
+ 
+ .MainCalendar tr
+ {		
+	border-bottom: 1px solid #ECEDEF;
+ }
+ 
+ /* Mike D. Added for basic table layout in reports with gridlines.*/
+.Report 
+{
+	border-top: none;	
+	border-bottom: none;
+	border-right: 1px solid #c5cad0;
+	border-left: 1px solid #c5cad0;
+}
+ .Report td
+{
+	border-top: none;	
+	border-bottom: none;
+	border-right: 1px solid #c5cad0;
+	border-left: 1px solid #c5cad0;
+}
+.Report .th
+{
+	border-top: none;	
+	border-bottom: none;
+	border-right: 1px solid #c5cad0;
+	border-left: 1px solid #c5cad0;
+}
+ 
+ 
+ 
+ 
+
+.RoomView
+{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.WeeklyCalendar
+{
+	padding: 0;
+	margin: 0;	
+	margin-left: auto;
+	margin-right: auto;	
+	width: 710px;
+}
+.WeeklyCalendar td 
+{
+	border: none;
+	border-bottom: 1px solid #a0A8B3;
+	border-right: 1px solid #a0A8B3;
+    text-align: center;
+    white-space: normal;
+    width: 70px;  /* no, it doesn't add up to 710, but it works... *shrugs* */
+ }
+ 
+ .WeeklyCalendar th
+ {
+	border: none;
+	border-bottom: 1px solid #a0A8B3;
+	border-right: 1px solid #a0A8B3;
+	text-align: center;
+	white-space: normal;	    
+	width: 70px;
+	
+ }
+  
+ .WeeklyCalendar span, .WeeklyCalendar td span, .WeeklyCalendar th span
+ {
+	display: block;
+	padding: 0;
+	margin: 0;
+	text-indent: 0;	
+	max-width: 86px;
+	margin-left: auto; 
+	margin-right: auto;
+ }
+ 
+ .MainCalendarWrapper /* Used in Print Calendar By Date Range Page */
+{
+	width:95%; 
+	margin-left: auto; 
+	margin-right: auto; 
+	margin-bottom: 10px; 
+	clear: both; 
+	text-align: center;
+}
+
+
+.z /* Zebra Stripes for gridview alternating row */
+{
+	background-color: #ECEDEF;		
+	text-align: center;
+}
+
+.x /* Zebra Stripes for gridview regular row */
+{
+	background-color: #fff;
+	text-align: center;
+	
+}
+
+/* Added since we should be styling the td not the tr */
+tr.z td /* Zebra Stripes for gridview alternating row */
+{
+	background-color: #ECEDEF;		
+	text-align: center;
+}
+
+tr.x td /* Zebra Stripes for gridview regular row */
+{
+	background-color: #fff;
+	text-align: center;
+}
+
+.CalendarHeader, .CalendarHeader th
+{
+	background-image: url(../../images/th_bg.gif);
+	background-color: #aaa;
+	color: #fff;		
+	height: 25px;
+	
+	text-decoration: none;	
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.CalendarHeaderAlignLeft
+{
+	background-image: url(../../images/th_bg.gif);
+	background-color: #aaa;
+	color: #fff;		
+	height: 25px;
+	
+	text-decoration: none;	
+	font-size: 11px;
+	font-weight: bold;
+	text-align: left;
+}
+
+
+/*TODO : Check the order of these pseudo-selectors in different browsers - I think one may be out of order*/
+.CalendarHeader a, .CalendarHeader a:link, .CalendarHeader a:hover, .CalendarHeader a:visited
+{
+	color: #fff;
+	font-weight: bold;
+}
+
+
+.RightHalf
+{
+	float: right; 	
+	margin: 0;
+	padding: 0;		
+	vertical-align: top;
+}
+
+.LeftHalf
+{
+	float: left; 
+	margin: 0;
+	padding: 0;	
+	vertical-align: top;	
+}
+
+.center
+{
+	text-align: center;	
+}
+
+.cen
+{
+	margin-left: auto; 
+	margin-right: auto;	
+}
+
+.subItem
+{
+    padding-left: 1.5em !important;
+    text-indent: 0; 
+}
+
+table.subItem
+{
+	text-indent: 1.5em;
+}
+
+.CalendarRecurringScheduleWrap
+{
+	text-align: center; 
+	margin-bottom: 10px;
+}
+
+.NoPatients
+{
+	background-color: White !important; 	
+}
+
+.ConflictingItem
+{	
+	/* Do not display: block here, it will break in firefox */	
+	background-color: #fcc;	
+	border: 1px solid black;	
+	padding: 0;
+	margin: 0;	
+}
+
+
+.FacilityAdminGridView
+{
+	margin:auto;
+	width:600px;
+	text-align:center;
+	padding-top:15px;
+	padding-bottom:15px;
+}
+
+
+.PatientActivityVisitDetails td
+{
+	width:25%;
+}
+
+.patIDWrapper
+{
+	width: 100%;		
+}
+
+.DT /* Detail Text */
+{
+	color: #000;
+	font-family: Verdana;
+	font-weight: normal;
+	text-decoration: none;
+}
+.cellPad
+{	
+	padding-top: 0px; 
+	padding-left: 2px;
+	padding-right: 2px;	
+	padding-bottom: 0px;		
+}
+
+.PopUp
+{
+	padding: 0;
+	padding-bottom: 20px;		
+	border: 2px solid #00238a;		
+	background-color: #fff;
+}
+.PopUp h2
+{	
+	text-indent: 18px;
+	margin: 0;
+	margin-bottom: 20px;
+	background-color: #00238a;
+	color: #fff;
+	font-size: 13px;
+	font-weight: bold;
+	text-align: center;
+	vertical-align: top;
+	line-height: 20px;
+}
+
+.PopUpBody, .PopUpBodyNoBg
+{
+	margin: 0 20px;
+	padding: 10px;
+	border-top: 1px solid #a0a8b3;
+	border-bottom: 1px dotted #a0a8b3;	
+}
+
+.PopUpBody
+{
+	background-color: #ecedef;
+}
+
+.PopUpFooter
+{
+	text-align: center; 
+	margin-top: 10px; 
+	margin-bottom: 10px;
+}
+
+.PopUpFooter *
+{
+	vertical-align: top;
+}
+
+
+.standardWindow
+{
+	 background-color:White;
+     border: 2px solid #00238a;		
+}
+
+.standardWindow img, .standardWindow input
+{
+	/* border: none; */
+}
+
+.standardWindow table, .standardWindow tr
+{	
+	padding: 0;
+	margin: 0;
+}
+
+.standardWindow table
+{
+	width:100%;
+	border-collapse: collapse;
+	margin-bottom: 20px;
+	
+}
+
+.standardWindow th, .standardWindow td
+{	
+	font-size: 14px;	
+	line-height: 16px;
+}
+
+.standardWindow th
+{	
+	background-color:#00238a;
+	text-decoration:none;
+	color:White;
+	padding-top:2px;
+	padding-bottom:2px;
+	padding-left:0;
+	padding-right:0;
+	margin:0;
+	clear:both;	
+}
+
+.standardWindow th span.windowTitle
+{
+	clear:left;
+	text-align: left;
+}
+
+.standardWindow th span.closeButton
+{	
+	clear: right;
+	text-align: right;	
+}
+
+.standardWindow th a
+{
+	text-decoration: none;
+	font-weight: bold;
+	color: White;
+}
+
+.fakeDropDown
+{
+	 background-color:White;
+	 border-bottom: solid 1px black;
+	 border-right: solid 1px black;
+	 border-top: solid 1px #738eac;
+	 border-left: solid 1px #a0a8b3;
+}
+
+.fakeDropDown ul
+{
+	list-style-type:none;
+	margin:0;
+	padding:0;
+}
+
+.fakeDropDown li
+{
+	margin: 0;
+	padding: 0;
+}
+
+.fakeDropDown li a
+{
+	display:block;
+	margin: 0;
+	padding: 0px 3px 0px 3px;	
+}
+
+.fakeDropDown li hr
+{	
+	border:none;
+	background-color: #DDDDDD;
+	color:#DDDDDD;
+	height: 1px;
+	margin: 0;
+	padding: 0px 3px 0px 3px;	
+}
+
+.fakeDropDown a:hover
+{
+	 color:White;
+	 background-color: #00238A;
+	 text-decoration: none;
+}
+
+.fakeDropDown a.highlighted
+{
+	color:White;
+	background-color: #00238A;
+	text-decoration: none;
+}
+
+.adminDataList
+{
+	border: solid 1px black;	
+}
+
+.adminDataList th
+{
+	text-decoration:none;
+	color:White;
+	background-color: #738eac;
+}
+
+.adminDataList th.MainHeader
+{
+	background-color: #DDDDDD;
+	color: #000000;
+}
+
+.adminDataList td
+{
+	text-align:center;
+}
+
+.adminGridView
+{
+	border: solid 1px black;	
+}
+
+.adminGridView tr
+{
+	height:25px;
+}
+
+.adminGridView th
+{
+	text-decoration:none;
+	color:White;
+	background-color: #738eac;
+}
+
+.adminGridView td
+{
+	width:25%;
+}
+
+.printHeader td
+{
+	width:33%;
+}
+
+.printFooter td
+{
+	width:33%;
+}
+
+.signatureLines
+{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+.signatureLines td.signatureDesc
+{
+	border-bottom: 1px solid;
+	width:80%;
+	font-weight:bold;
+}
+
+.signatureLines td.signatureDate
+{
+	border-bottom: 1px solid;
+	width:20%;
+	font-weight:bold;
+}
+
+.Alphabet
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.Alphabet a
+{
+
+	display: inline-block;
+	background-color: White;
+	border: 1px solid #999;
+	padding: 4px;
+	margin: 1px;
+}
+
+.Alphabet a:hover
+{
+	background-color: #00238A;
+	border: 1px solid #000;
+	text-decoration: none;
+	color: #fff;
+}
+
+.Alphabet a:active
+{
+	background-color: #ff8000;
+}
+
+.menuRow
+{	
+	margin-top:0px;		
+	border-left: none; 
+	border-right: none;
+}
+
+.menuSpacer
+{
+	width:10px;
+	background-color:#738eac;
+}
+
+.menuContent
+{
+	background-color: transparent;
+	background-image: url(../../images/SubMenuBG.gif);
+	background-position: top right;
+	background-repeat: no-repeat;				
+	
+	text-indent: 11px;
+	margin: 0;
+	padding: 0;		
+	width: 760px;
+	color: #fff;	
+	
+	margin-top: -1px;	
+}
+* html .menuContent
+{
+	padding-bottom: 1px;
+}
+
+.menuContent a, .menuContent a:Visited
+{
+	color: #fff;
+}
+
+.menuContent a:hover
+{
+	color: #4595FA;
+}
+
+.staticMenuItem
+{	
+	font-family: Verdana;
+	font-size: 11px;
+	text-decoration: none;	
+		
+	padding-left:2px;
+	padding-top:4px;
+	padding-right:4px;
+	padding-bottom:4px;	
+}
+
+.staticMenuItem a
+{
+	color: #fff;	
+}
+.staticMenuItem a:hover
+{
+	color: #4595FA;
+}
+.staticMenuItem:visited
+{
+	color: #fff;
+}
+.staticMenuItemHover
+{
+	color: #4595FA;
+}
+
+.dynamicMenuItem
+{
+	color:#FFF;
+	background-color:#002182;	
+	padding-left:2px;
+	padding-top:4px;	
+	padding-right:4px;
+	padding-bottom:4px;
+}
+
+.dynamicMenuItem a
+{
+	color: #fff;
+	padding: 5px;		
+}
+.hoverMenuItem a:hover
+{
+	color: #4595FA !important;
+	background-color: #00238a;
+}
+.hoverMenuItem a:visited
+{
+	color: #fff;	
+}
+
+.hoverMenuItem
+{
+	color: #4595FA !important;		
+	background-color: #00238a;
+}
+
+.selectedMenuItem
+{
+	background-color:Aqua;
+}
+
+.AJAXSearchResults
+{
+	background: #FFF;
+	position: absolute;	
+	height: 200px;
+}
+
+.fadeTextBoxText
+{
+	color:#CCCCCC;
+}
+
+.patHR
+{
+	color: #c5cad0; 
+	background-color: #c5cad0; 
+	height: 1px; 
+	border: none;	
+}
+
+.RecurringSchedule
+{
+	margin-top: 0px; padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: #f7f8fa;		
+	border-top: 2px solid #a0a8b3;	
+	border-top: 2px solid #00238A;		
+	border-bottom: 1px dotted #a0a8b3;
+	padding-left:10px; padding-right: 10px;			
+}
+
+.setGroup
+{
+	float: right;
+	display: block;  
+	border: 1px solid #00238A; 
+  	padding: 5px; 
+	background-color: White;
+    margin-top: 5px; 
+    margin-bottom: 10px; 
+}
+
+#prevEntries
+{
+	text-indent: 20px;
+	margin-bottom: 0;
+	margin-top: 3px;  /* TODO : this may break IE's spacing */
+}
+
+
+#PrintForm
+{	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 3em;
+	padding: 0;
+	color: #000;
+	background:none;	
+	width: 688px; /* TODO : I don't know why this value works, but it does */	
+}
+
+#divPrintForm
+{	
+	border: none;
+	padding: 0;
+	margin: 0;
+}
+
+.ErrorLabel
+{
+	font-weight:bold;
+	text-align:left;
+}
+
+
+.SearchResults 
+{
+	border-bottom: 1px solid #a0a8b3;
+	empty-cells: show;
+	
+	border-collapse: collapse;					/* Added By Wil 5/22/2007 */
+	border-left: 1px solid #c5cad0!important;	/* Added By Wil 5/22/2007 */
+	border-right: 1px solid #c5cad0!important;	/* Added By Wil 5/22/2007 */
+}
+
+
+.SearchResults td
+{
+	border-top: 1px solid #c5cad0;    /* Removed none as style for IE7 compatability Mike*/
+	border-bottom: 1px solid #c5cad0; /* Removed none as style for IE7 compatability Mike*/
+	border-right: 1px solid #c5cad0;
+	border-left: 1px solid #c5cad0;
+}
+ 
+ .SearchResults th
+ {
+	border-top: none;
+	border-bottom: none;
+	border-right: 1px solid #c5cad0; 	
+	border-left: 1px solid #c5cad0;
+ }
+
+
+
+.CgTable {
+	border-top: none;	
+	border-bottom: 1px solid #c5cad0;
+	border-right: 1px solid #c5cad0;
+	border-left: 1px solid #c5cad0;
+	border-collapse:collapse;
+	
+}
+ 
+ /* Using as datalist header */
+ .DlAdminHeader
+{
+	
+	border-top: 1px solid #c5cad0;
+	border-bottom: none;
+	border-right: 1px solid #c5cad0; 	
+	border-left: 1px solid #c5cad0;
+}
+
+
+ 
+ 
+ /* Same as .SearchResults th, but can be used if a header row is using td's instead of th's */
+ .SearchResultsHeader
+ {
+	border-top: none;
+	border-bottom: none;
+	border-right: 1px solid #c5cad0; 	
+	border-left: 1px solid #c5cad0;
+	background-image: url(../../images/th_bg.gif);
+	background-color: #aaa;
+	color: #fff;		
+	height: 25px;	
+	text-decoration: none;	
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+ } 
+ /*
+ .SearchResultsFooter
+ {	
+	border-top: 1px solid #a0a8b3;
+	padding-top: 10px;	
+ }
+*/ 
+
+ .SearchResults tr
+ {	
+	border-bottom: 1px solid #C5CAD0;	
+ }
+ 
+ .SearchResults th
+{
+	background-image: url(../../images/th_bg.gif);
+	background-color: #aaa;
+	color: #fff;		
+	height: 25px;	
+	text-decoration: none;	
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.SearchResults .NoBorder td
+{	
+	border-right: none; 	
+	border-left: none;
+}
+
+.NoBorderCell
+{
+	border-right: none;
+	border-left: none;
+	border-top: none;
+	border-bottom:none;
+}
+
+
+.SearchResults th a:link, .SearchResults th a:visited
+{
+	color: #fff;
+}
+
+.SearchResultsHeader
+{	
+	background-image: url(../../images/th_bg.gif);
+	background-color: #aaa;
+	color: #fff;		
+	height: 25px;	
+	text-decoration: none;	
+	font-size: 11px;
+	font-weight: bold;
+	text-align: center;	
+}
+.SearchResultsEdit td, .SearchResultsEdit th, .SearchResultsEdit table, .SearchResultsEdit tr
+{
+	border: none;	
+}
+
+.SearchResultsEdit .cpBorder 
+{ 
+	border:solid thin #808080; 
+}
+
+ .SearchResultsEdit 
+{		
+	border-top: none!important;
+	border-bottom: none!important;
+	/*border-left: 1px solid #c5cad0!important;	
+	border-right: 1px solid #c5cad0!important;	*/	
+}
+
+
+.RecurringSelector, .RecurringSelector a:link, .RecurringSelector a:hover, .RecurringSelector a:visited
+{		
+	font-weight: bold; 
+	font-size: 14px;	
+	line-height: 21px;
+	color: #000;
+	letter-spacing: normal;
+}
+
+.ContentGroupTitle, .ContentGroupTitle a:link, .ContentGroupTitle a:hover, .ContentGroupTitle a:visited
+{		
+	font-weight: bold; 
+	font-size: 14px;	
+	line-height: 21px;
+	color: #000;
+	letter-spacing: normal;
+}
+
+
+#divDataEntryErrors
+{
+	margin-top: 1.75em;
+	margin-bottom: 1.75em;	
+}
+
+
+.offSetSubGroup
+{
+	background-color: #ECEDEF;
+	margin-left: 24px;	
+}
+
+.grayBG
+{
+	background-color: #ECEDEF;	
+}
+
+.treatmentDetails 
+{
+	margin-top: 2px;
+	border-collapse: collapse;	
+	/*	font-size: 10px;*/
+	width: 99%;
+}
+
+.treatmentDetails td
+{
+		border: 1px solid #999;
+		text-align: center;	
+		line-height: 12px;	
+		padding: 0;
+		margin: 0;
+		height: 12px;
+		width: 55px;
+	
+}
+.treatmentDetails th
+{
+	/*font-size: 9px; */
+	background-color: #c5cad0;
+	font-weight: bold;
+	border: 1px solid #999;		
+}
+/*
+.treatmentDetails input
+{	
+	background-color: #fff;
+	width: 97%;
+	border: none;
+	padding-top: 4px;
+	text-indent: 4px;
+	font-size: 12px;
+	height: 18px;
+	
+}*/
+.hiddenValidators, .hiddenValidators td, .hiddenValidators th
+{
+	border: none;
+	background-color: #fff;
+	
+}
+
+.gridLines, .gridLines td
+{
+	border-top: 1px solid #c5cad0;    
+	border-bottom: 1px solid #c5cad0; 
+	border-right: 1px solid #c5cad0;
+	border-left: 1px solid #c5cad0;
+}
+
+html>/**/body .TypeAheadWrapper 
+{
+	padding-bottom: 3px; 
+	/*HACK: Fixes Typeahead results encroaching on the search textbox in firefox, used in treatment notes & POC
+	        This will probably have to be re-visited when Internet Explorer v8 comes out*/
+}
+.left
+{
+	text-align: left;
+}
+.pl
+{
+	padding-left: 10px;
+}
+
+.POItem
+{
+	/*Bottom padding is handled by the textbox's validator*/
+	padding-top: 11px; 
+	margin-left: 24px; 
+	padding-left: 10px; 
+	padding-right: 10px;
+}
+
+.MedicationsLarge
+{
+	font-size: 12px;
+	line-height: 12px;	
+}
+
+.MultiWoundImages { text-align: center; }
+.MultiWoundImages img
+{ 
+	display: block;
+	border: none 0px !important;	
+	padding: 0!important;
+	margin: 0 auto 5px auto!important;
+	text-align: center!important;
+}
+
+.MultiWoundHeader
+{
+	font-size: 11px;
+	font-weight: bold;	
+}
+
+.MultiWoundChartWrapper
+{
+	width: 99.2%;		
+}
+	
+@media print
+{
+	.MultiWoundChartWrapper
+	{
+		width: 678px;		
+	}
+
+	.MultiWoundHeader { font-size: 10px; }
+	
+	.CalendarHeader, .CalendarHeader th
+	{
+		background-image: none;
+		background-color: #fff;
+		color: #000;		
+		font-size: 8px;
+	}
+
+	sup, SUP, sUP, sUp, suP, SUp {
+		height: 0;
+		line-height: 1px;
+		vertical-align: baseline;
+		_vertical-align: bottom;
+		position: relative;			
+		/* NOTE: WIL - to do sub, copy everything above, then in below, change bottom to top & 
+					   use value from parent's line height as the value*/	
+		bottom: 3px; 
+		font-size: 7px;		
+	}
+}
+
+/*Styles used in HBO Screening Checklist viewer*/
+.clear 
+{
+    clear:both;    
+}
+
+.floatleft 
+{
+    float:left;   
+}
+
+.hidden 
+{
+    display:none;   
+}
+
+.indent
+{
+    margin: 0px 0px 0px 20px !important;
+}
+
+.bold 
+{
+    font-weight:bold;    
+}
+
+.line-height 
+{
+    line-height:22px !important;
+}    
+
+.wait-list-area 
+{
+    padding:5px;
+}
+
+.wait-list-item-label 
+{
+    width:185px; 
+}
+
+.readonly 
+{
+    
+}
+
+/*End of styles used in HBO Screening Checklist viewer*/
+
+/* Clinical Summary */
+#clinicalSummaryContainer { line-height:1.2; }
+#clinicalSummaryContainer h2,#clinicalSummaryContainer h3 { border-bottom:1px solid #000000;}
+#clinicalSummaryContainer th, #clinicalSummaryContainer td { text-align:left; padding-right:20px; }
+#clinicalSummaryContainer .warning { display:block; color:#FF0000; margin:10px 0px; text-align:center; }
+#clinicalSummaryContainer .lastSent { display:block; font-style:italic; margin:10px 0px; text-align:center; }
+#clinicalSummaryContainer .section table, #clinicalSummaryContainer .section div { margin-left:10px; }
+#clinicalSummaryContainer .section table table { margin-left:25px; }
+#clinicalSummaryContainer #detailsContainer .label { float:left; font-weight:bold; margin-left:10px;width:160px;}
+#clinicalSummaryContainer #detailsContainer .value { float:left; width:160px;}
+
+
+/* Clinical Summary on Discharge Information */
+.clinicalSummaryRecipients table { width:100%; margin-left:15px; }
+.clinicalSummaryRecipients th, .clinicalSummaryRecipients td{ text-align:left; }
+/*Styling for the Rich Text Editor*/
+
+.RichTextEditor
+{
+    line-height:1 !important;
+}
+
+.clickable{cursor:pointer;}
+

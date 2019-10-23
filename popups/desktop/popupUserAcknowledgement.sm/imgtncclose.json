@@ -1,0 +1,43 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "_base64_": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_src_": "closepopup.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "desktop",
+        "ispercent": true,
+        "platform": "desktopweb",
+        "templateType": "popups",
+        "topLevelBox": false
+    },
+    "id": "imgtncclose",
+    "imagescalemode": 1,
+    "info": null,
+    "invokedProperty": "src",
+    "ispercent": true,
+    "isvisible": true,
+    "kuid": "b8d59270c18d4ef6bfff06dc1433b5c8",
+    "margininpixel": false,
+    "name": "kony.ui.Image2",
+    "paddinginpixel": false,
+    "parent": "vboxtncclose",
+    "pf": "popupUserAcknowledgement",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5
+}

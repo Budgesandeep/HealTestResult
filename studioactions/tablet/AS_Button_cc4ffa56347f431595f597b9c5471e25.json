@@ -1,0 +1,18 @@
+{
+    "AS_Button_cc4ffa56347f431595f597b9c5471e25": {
+        "id": "AS_Button_cc4ffa56347f431595f597b9c5471e25",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmConflictResolve",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c57f1ccc3bf940bbafbe60b3b671edfe"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

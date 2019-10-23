@@ -1,0 +1,35 @@
+{
+    "AS_Button_ab64e78517f84e74aec92f4b60662d2f": {
+        "id": "AS_Button_ab64e78517f84e74aec92f4b60662d2f",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_segFacility_Checkbox2",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segFacilityList",
+            "type": "templates",
+            "platform": "",
+            "KUID": "bc44894c3ed04a20a70b41b93fa9f827"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___2130eb93436648458ae2481da59bd56a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdmin_checkbox2",
+            "display": "frmAdmin_checkbox2",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

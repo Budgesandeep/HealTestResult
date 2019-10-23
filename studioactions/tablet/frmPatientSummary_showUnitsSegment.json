@@ -1,0 +1,22 @@
+{
+    "AS_Button_e941beaeeaf3407b8b0329bb0b12f113": {
+        "id": "AS_Button_e941beaeeaf3407b8b0329bb0b12f113",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientSummary_showUnitsSegment",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_e4704bf3190e466f87c0974ceb27f7c6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_showSegUnits",
+            "display": "frmPatientSummary_showSegUnits",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

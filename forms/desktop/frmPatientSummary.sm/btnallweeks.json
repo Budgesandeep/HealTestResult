@@ -1,0 +1,59 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "45dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0.00%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s7e54bc1b1944d058506074047df7d54",
+    "_text_": "All",
+    "_top_": {
+        "type": "string",
+        "value": "2dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "17%"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sce916e12269462d8178af01399f4b38"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s796686126a44a64ab13f16648f747e6",
+    "id": "btnallweeks",
+    "ide_onClick": "AS_Button_f84e16bc94c148bca684c900d4478070",
+    "info": null,
+    "isvisible": true,
+    "kuid": "fdec66a74f8a4a32a2ddde4cb9b885f1",
+    "name": "kony.ui.Button",
+    "parent": "fccharttimeline",
+    "pf": "frmPatientSummary",
+    "wType": "Button",
+    "zindex": 1
+}

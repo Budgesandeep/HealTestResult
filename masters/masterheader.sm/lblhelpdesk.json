@@ -1,0 +1,81 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sdeb87f91b9741d68039bd376dd0b328",
+    "_text_": "Helpdesk",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "35%"
+    },
+    "childInstances": [
+        "mbce5f9f887045bcad0d196ff57b14f3",
+        "m8633099defb40b797023709611f201e",
+        "m8f1eb4280a642909a38bcafe6d127fb",
+        "m3ef89200f2d41b7bdd55ad73060be25",
+        "m31c30e2025144a5a91a44bd2e22bf17",
+        "mabe5ab818a342a9843b0d025538b456",
+        "m42a02868246412b93b07ac7d085a2a0",
+        "m6454b88ed3146f9a64c18e118dfd064",
+        "mbbc2b8ad9e44d3e830055ed7d437f0f",
+        "m9a8b1f1be51400a93fac06035bd1042",
+        "m36e48d74c6643679af28871482faceb",
+        "m015cadf1be64373b4025e92a45aef47",
+        "m886c76f95e64902aa1a261bdd66ace5",
+        "m333a1e9fc734eb7a8f55b5c2a0bf824"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblhelpdesk",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "baaa63870c5046f08e6857b5ed643330",
+    "name": "kony.ui.Label",
+    "parent": "fccontacthelp",
+    "pf": "masterheader",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

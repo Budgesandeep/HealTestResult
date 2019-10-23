@@ -1,0 +1,32 @@
+{
+    "AS_FlexContainer_ba14bffc1e524962b3b0b89eb8cf8125": {
+        "id": "AS_FlexContainer_ba14bffc1e524962b3b0b89eb8cf8125",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_fclogout_onclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a47cd5c8b4344d0fb6212b46230e40b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___d6b5019822be4a72b41c40a550d3ba73",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onMenuOptionsClick",
+            "display": "onMenuOptionsClick",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

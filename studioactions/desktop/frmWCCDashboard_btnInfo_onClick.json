@@ -1,0 +1,32 @@
+{
+    "AS_Button_750e06c9b2544049907da1b49aa1ebce": {
+        "id": "AS_Button_750e06c9b2544049907da1b49aa1ebce",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_btnInfo_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___3c247406ef1c47bcb9f6d3e12b63a5ed",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPopupInfo",
+            "display": "showPopupInfo",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

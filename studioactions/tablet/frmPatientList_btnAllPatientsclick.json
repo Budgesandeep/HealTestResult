@@ -1,0 +1,22 @@
+{
+    "AS_Button_f4860c16a80b4d20a372e8f0d9d084e3": {
+        "id": "AS_Button_f4860c16a80b4d20a372e8f0d9d084e3",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_btnAllPatientsclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ca6ce7112c454d218e15008b59720617",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "patientList_allPatientDashboard",
+            "display": "patientList_allPatientDashboard",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

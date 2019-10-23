@@ -1,0 +1,24 @@
+{
+    "AS_Button_d2a27b96818b44d7932777055861adce": {
+        "id": "AS_Button_d2a27b96818b44d7932777055861adce",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2dadc999bf6b45babe7b7fd8757e2f92"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__bda60c1729a442c9a9c55b38f1d73607",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmPatientTestResults_showForm();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

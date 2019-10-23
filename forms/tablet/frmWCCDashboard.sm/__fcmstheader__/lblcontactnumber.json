@@ -1,0 +1,41 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s03a52d667dc4d75b6a139b3465feb12",
+    "_srcKuid_": "1306787e1535458dade859f0d241bc64",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerY": "65%",
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblcontactnumber",
+        "left": "20dp",
+        "text": "1-866-412-3680 ",
+        "textStyle": {},
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblcontactnumber",
+    "instanceOf": "1306787e1535458dade859f0d241bc64",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m1a46299e54740de89d9a2c62f292631",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fccontacthelp",
+    "pf": "frmWCCDashboard",
+    "topLevelInstanceKUID": "m181e2a648cb4e558de15871a80ccf65",
+    "wType": "Label"
+}

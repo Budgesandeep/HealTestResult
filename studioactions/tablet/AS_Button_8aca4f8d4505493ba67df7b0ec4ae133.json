@@ -1,0 +1,27 @@
+{
+    "AS_Button_8aca4f8d4505493ba67df7b0ec4ae133": {
+        "id": "AS_Button_8aca4f8d4505493ba67df7b0ec4ae133",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmSelectFacility",
+            "type": "forms",
+            "platform": null,
+            "KUID": "0c07a8810ac54e34bb2b02a891bd8b1c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___e7609b1c684d4752af79cf19b2728485",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "SwitchFacility_UpdateFacility",
+            "display": "SwitchFacility_UpdateFacility",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": false,
+            "source": "module"
+        }]
+    }
+}

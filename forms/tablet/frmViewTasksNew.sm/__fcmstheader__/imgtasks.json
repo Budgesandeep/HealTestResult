@@ -1,0 +1,44 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scbda1b6e03f4b429e87cb85b8d1f892",
+    "_srcKuid_": "5111612010dd4e839f221a11f6abddb5",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "centerX": "50%",
+        "centerY": "50%",
+        "height": {
+            "type": "string",
+            "value": "40dp"
+        },
+        "id": "imgtasks",
+        "imageScaleMode": 1,
+        "imageWhileDownloading": "tasks.png",
+        "left": "20dp",
+        "src": "tasklistheader.png",
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "32dp"
+        },
+        "zIndex": 1
+    },
+    "id": "imgtasks",
+    "instanceOf": "5111612010dd4e839f221a11f6abddb5",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m03373366ca045b8be292ec8f7c6a59f",
+    "masterInstance": true,
+    "name": "kony.ui.Image2",
+    "parent": "fctaskcount",
+    "pf": "frmViewTasksNew",
+    "topLevelInstanceKUID": "mb3e00871d6945bc8acd5a67cbebc6f4",
+    "wType": "Image"
+}

@@ -1,0 +1,27 @@
+{
+    "AS_Button_ab7ab38888854e648fe58aaa2438a1a3": {
+        "id": "AS_Button_ab7ab38888854e648fe58aaa2438a1a3",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "mastermenu",
+            "type": "masters",
+            "KUID": "ece4e70548614acebb6edf369b19b24f"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___abeda64f7b1d4f4e9b650c87a1a290af",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_show",
+            "display": "frmNotificationDashboard_show",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

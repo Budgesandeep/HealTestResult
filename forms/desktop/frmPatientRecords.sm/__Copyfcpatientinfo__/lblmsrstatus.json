@@ -1,0 +1,45 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s69819fe70d64e0d9549cc1c5491442b",
+    "_srcKuid_": "ma2fbfefa876436895453ffc0c9dd2b9",
+    "canUpdateUI": true,
+    "context": {},
+    "dataDiffs": {
+        "height": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "id": "lblmsrstatus",
+        "left": {
+            "type": "string",
+            "value": "4%"
+        },
+        "text": "MSR",
+        "textStyle": {},
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "ref",
+            "value": "preferred"
+        },
+        "zIndex": 1
+    },
+    "id": "lblmsrstatus",
+    "instanceOf": "ma2fbfefa876436895453ffc0c9dd2b9",
+    "isvisible": true,
+    "kuid": "m9ff59ea64e04930b98c6443465cf48a",
+    "masterInstance": true,
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfofooter",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m5cf13a746e14f018a4aacda29e1ee4c",
+    "wType": "Label"
+}

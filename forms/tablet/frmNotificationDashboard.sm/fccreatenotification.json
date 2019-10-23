@@ -1,0 +1,61 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "530dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s088037159484b259f1dfa4e68be581f",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100.03%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "children": [
+        "fcFacilityList",
+        "Button0g1882ea7fecb4d",
+        "CopyButton0da4e7f8b49c64b",
+        "FlexContainer0a11e90f4538d4b",
+        "FlexContainer0h98f0e1b741c4e"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "enablescrolling": true,
+    "id": "fccreatenotification",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ed0d711d9da44bf2baa80770b3c44e38",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcnotification",
+    "pf": "frmNotificationDashboard",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 10
+}

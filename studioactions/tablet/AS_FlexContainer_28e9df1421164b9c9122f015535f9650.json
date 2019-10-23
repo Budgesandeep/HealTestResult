@@ -1,0 +1,21 @@
+{
+    "AS_FlexContainer_28e9df1421164b9c9122f015535f9650": {
+        "id": "AS_FlexContainer_28e9df1421164b9c9122f015535f9650",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a151f52a3ae847a5b91587650d3ed7ab",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientSummary_showSegUnits",
+            "display": "frmPatientSummary_showSegUnits",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

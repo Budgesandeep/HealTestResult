@@ -1,0 +1,47 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "scb1155363fd4faa99975184a99b1885",
+    "_srcKuid_": "d7fdbdd7efc847338580e4749655f81d",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [
+        "btnsmcommunity"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "52dp"
+        },
+        "id": "fcmenueight",
+        "layoutType": 2,
+        "left": "0dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "100.00%"
+        },
+        "zIndex": 1
+    },
+    "id": "fcmenueight",
+    "instanceOf": "d7fdbdd7efc847338580e4749655f81d",
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "maefb2cd09a245eaac1b677544f3b1fb",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcmenu",
+    "pf": "frmPatientRecords",
+    "topLevelInstanceKUID": "m738b346430a4ddda5b7b73c57a2b787",
+    "wType": "FlexContainer"
+}

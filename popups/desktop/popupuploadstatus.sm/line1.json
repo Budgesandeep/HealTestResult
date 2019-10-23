@@ -1,0 +1,29 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLine",
+    "DNDConfig": null,
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf82c614b25a4bb9a86c0a1216858fd3",
+    "_thickness_": 1,
+    "canUpdateUI": true,
+    "containerWeightLocked": false,
+    "containerweight": 100,
+    "id": "line1",
+    "info": null,
+    "isvisible": true,
+    "kuid": "bb48df63a0f14a73a344290808c87bf8",
+    "name": "kony.ui.Line",
+    "parent": "vboxok",
+    "pf": "popupuploadstatus",
+    "wType": "Line"
+}

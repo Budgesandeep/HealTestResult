@@ -1,0 +1,49 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd4070a8158946ab885a01b58653133f",
+    "_text_": "Encounters",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1f3bb39c54441eb8f998c4e3e0df0af",
+    "id": "btnencounters",
+    "info": null,
+    "isvisible": false,
+    "kuid": "da5e107cf2e54152979723c0627d7b10",
+    "name": "kony.ui.Button",
+    "parent": "fctreatmentbar",
+    "pf": "frmPatientRecords",
+    "wType": "Button",
+    "zindex": 1
+}

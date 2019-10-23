@@ -1,0 +1,35 @@
+{
+    "AS_Button_j658009196a94adc83b58c5421b1933a": {
+        "id": "AS_Button_j658009196a94adc83b58c5421b1933a",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": null,
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_a2c786c34ea74ebfaf5f5e9d9588c56d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "viewOptionClicked",
+            "display": "viewOptionClicked",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": "  eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET_ide_onClick_c7cf8bd88f204027ac4a6ea6a8b4e8ba",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.print(\"view all clicked\");",
+            "callbackType": null
+        }]
+    }
+}

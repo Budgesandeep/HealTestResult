@@ -1,0 +1,32 @@
+{
+    "AS_TextField_fc97bda7dd784abc85daa5bdfc21ef95": {
+        "id": "AS_TextField_fc97bda7dd784abc85daa5bdfc21ef95",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupswitchfacility_searchFacility_onTextChange",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "contextObj": {
+            "name": "popupSwitchFacility",
+            "type": "popups",
+            "platform": "",
+            "KUID": "6c50b8bbc1f64d1e85ed2678062840c7"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___h79eac505b9c447596524244489ec6de",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "selectFacility_search",
+            "display": "selectFacility_search",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

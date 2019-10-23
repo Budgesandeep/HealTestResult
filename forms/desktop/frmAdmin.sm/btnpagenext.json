@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "36dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "4%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sfc9d8806e11416a85961e54b0fcd304",
+    "_text_": "Next",
+    "_top_": {
+        "type": "string",
+        "value": "6dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {}
+    },
+    "disabledSkins": {
+        "hoverSkin": "sf1af344cb5548ff97748f3d59046e43"
+    },
+    "displaytext": true,
+    "focusskin": "sfc9d8806e11416a85961e54b0fcd304",
+    "id": "btnpagenext",
+    "ide_onClick": "AS_Button_f6b6d12d2f3846e4b4f5cebca1dfa602",
+    "info": null,
+    "isvisible": true,
+    "kuid": "366c00659b014a69bbba4675a938fdd5",
+    "name": "kony.ui.Button",
+    "parent": "FlexContainer0a3bf80e31c7648",
+    "pf": "frmAdmin",
+    "wType": "Button",
+    "zindex": 3
+}

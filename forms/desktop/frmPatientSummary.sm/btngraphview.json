@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "2%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s42fe545e3ee4604805669306b2a401e",
+    "_text_": "Button",
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s1ec3bf33d514e7c85f4bc319971567d"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": false,
+    "focusskin": "s42fe545e3ee4604805669306b2a401e",
+    "id": "btngraphview",
+    "ide_onClick": "AS_Button_6541e84a897d434c8c50f3ea576d1c27",
+    "info": null,
+    "isvisible": true,
+    "kuid": "453ab8cfac2b47dda74e84987b584362",
+    "name": "kony.ui.Button",
+    "parent": "fcviewchoice",
+    "pf": "frmPatientSummary",
+    "wType": "Button",
+    "zindex": 1
+}

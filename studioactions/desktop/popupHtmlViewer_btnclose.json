@@ -1,0 +1,18 @@
+{
+    "AS_Button_ede5515286ba48a4b32ae82bada72e56": {
+        "id": "AS_Button_ede5515286ba48a4b32ae82bada72e56",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupHtmlViewer_btnclose",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_b6fcc19103aa4028a62dc4d95306e2b6",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popupHTMLviewer.dismiss();",
+            "callbackType": null
+        }]
+    }
+}

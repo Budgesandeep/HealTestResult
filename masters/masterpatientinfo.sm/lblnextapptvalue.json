@@ -1,0 +1,76 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "25dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "0%"
+    },
+    "_skin_": "sa8abdf651b14f72be81ff5983d75713",
+    "_text_": "12/08/2016",
+    "_top_": {
+        "type": "string",
+        "value": "100dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "55%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "m095682fd0234a88abf9241b0ae61666",
+        "mf4c0bb6682a40119ff6bf2505f8bd69",
+        "m0f33ccbf3434832ad471d75af430da3",
+        "m90f64d67d5444c885ad6d0bfb20020c",
+        "mac82dcc2b3a4f9788dbbe2e5b733649",
+        "me97bf8ecb894b3d892c1d9f6e3e22a1",
+        "m98184085bd043549669eb0cf75815b5",
+        "m5976d641527465b903e9d471e9a2ab8",
+        "mf8140a4f58d427d98ca83e58a2ca7f7"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblnextapptvalue",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "132d5d7ad8f245fc9440a4163fbde170",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfo3",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

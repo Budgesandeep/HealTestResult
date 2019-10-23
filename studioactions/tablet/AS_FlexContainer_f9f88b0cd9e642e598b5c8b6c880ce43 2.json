@@ -1,0 +1,29 @@
+{
+    "AS_FlexContainer_f9f88b0cd9e642e598b5c8b6c880ce43": {
+        "id": "AS_FlexContainer_f9f88b0cd9e642e598b5c8b6c880ce43",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "segpatientlisthdr",
+            "type": "templates",
+            "platform": "",
+            "KUID": "a3e98be0596b45ad9a99906fafbb058a"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9c598dfadd1046a09463cf1f282b420c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segPatientListSelectedCoulmn",
+            "display": "segPatientListSelectedCoulmn",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null
+        }]
+    }
+}

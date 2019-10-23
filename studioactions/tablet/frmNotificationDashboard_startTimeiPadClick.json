@@ -1,0 +1,29 @@
+{
+    "AS_ListBox_dd185ddeb554444ebb291d955dc7eb35": {
+        "id": "AS_ListBox_dd185ddeb554444ebb291d955dc7eb35",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmNotificationDashboard_startTimeiPadClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmNotificationDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb21cd3315e84b88b2112c9a6f3164bb"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___j87e38533a444248b15d5c3e0bbf186e",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmNotificationDashboard_startTimeSelected",
+            "display": "frmNotificationDashboard_startTimeSelected",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

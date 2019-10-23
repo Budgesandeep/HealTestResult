@@ -1,0 +1,24 @@
+
+{
+/*
+    "NSAppTransportSecurity" :
+    {
+        "NSAllowsArbitraryLoads" : true ,
+        "NSExceptionDomains" :
+            {
+                "example.com" :
+                    {
+                        "NSIncludesSubdomains" : true ,
+                        "NSExceptionAllowsInsecureHTTPLoads" : true
+                    }
+            }
+    } ,
+ */
+    "NSCameraUsageDescription" : "Please enable access to the camera in order to capture documents",
+    "NSCalendarsUsageDescription" : "Wound Suite would like to access your device Calendar",
+    "NSPhotoLibraryUsageDescription" : "Wound Suite would like to access your device Photo Library",
+    "NSMicrophoneUsageDescription" : "Wound Suite would like to access your device Microphone",
+    "NSSiriUsageDescription" : "Wound Suite would like to access Siri",
+	"enablePeriodAtBeginningForTextBoxWidget" :true
+}
+

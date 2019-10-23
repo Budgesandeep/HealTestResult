@@ -1,0 +1,27 @@
+{
+    "AS_FlexContainer_b0b5f190e83e454bbad1e2778f3cb700": {
+        "id": "AS_FlexContainer_b0b5f190e83e454bbad1e2778f3cb700",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a47cd5c8b4344d0fb6212b46230e40b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_caa54bf8a9644bd4bb0c18996cff7086",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "onClickMenu_iPhone",
+            "display": "onClickMenu_iPhone",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

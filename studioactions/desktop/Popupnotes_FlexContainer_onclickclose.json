@@ -1,0 +1,25 @@
+{
+    "AS_FlexContainer_c40c8fb076ae49278a7b13daf7748657": {
+        "id": "AS_FlexContainer_c40c8fb076ae49278a7b13daf7748657",
+        "type": "ACTION_SEQUENCE",
+        "name": "Popupnotes_FlexContainer_onclickclose",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_06d885f9982540339369fe7a486fe0ae",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "dismiss_currentPopup",
+            "display": "dismiss_currentPopup",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

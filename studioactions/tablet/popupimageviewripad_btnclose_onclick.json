@@ -1,0 +1,25 @@
+{
+    "AS_Button_fd6f5a92d8f54cf1b79ce9d857f8a081": {
+        "id": "AS_Button_fd6f5a92d8f54cf1b79ce9d857f8a081",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupimageviewripad_btnclose_onclick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupImageViewer",
+            "type": "popups",
+            "platform": null,
+            "KUID": "g6e397ed10964c2791bc9e4567518374"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__aa52e32c8f5a47bdad2f55f630164d2e",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popupImageViewer.dismiss();",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

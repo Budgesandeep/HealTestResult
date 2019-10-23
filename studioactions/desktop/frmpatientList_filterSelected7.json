@@ -1,0 +1,33 @@
+{
+    "AS_Image_b4e14ca706c34ab28f4c25574fe12320": {
+        "id": "AS_Image_b4e14ca706c34ab28f4c25574fe12320",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmpatientList_filterSelected7",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": "",
+            "KUID": "56c1e97ccb21438aabe2e25446e10972"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___936fb5d6b07045e0b34dc90c57af35af",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "show_sortpopup",
+            "display": "show_sortpopup",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "AS_Button_g76f2951b6d2474c997d5c355ffc015e": {
+        "id": "AS_Button_g76f2951b6d2474c997d5c355ffc015e",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupimageviewer_btnclose",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onClick_ab46ccfd12c44c0692757a7153ad629f",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "popupImageViewer.dismiss();",
+            "callbackType": null
+        }]
+    }
+}

@@ -1,0 +1,51 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s512f4e8d36f4cad9ae140b3120b9feb",
+    "_srcKuid_": "ma2f984994cc4c318c931a75b4a2cf55",
+    "areflexpropsreferenced": false,
+    "canUpdateUI": true,
+    "children": [
+        "fcPrint",
+        "fcExportPdf",
+        "fcExportExcel"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "126dp"
+        },
+        "id": "fcPrintMenu2",
+        "layoutType": 4,
+        "right": "1dp",
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": "0dp",
+        "width": {
+            "type": "string",
+            "value": "150dp"
+        }
+    },
+    "id": "fcPrintMenu2",
+    "instanceOf": "ma2f984994cc4c318c931a75b4a2cf55",
+    "isTopFlexInstance": true,
+    "isdatareferenced": false,
+    "isvisible": true,
+    "kuid": "m71f9042be6740f49ccca9452f920a74",
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcMstPrintMenu2",
+    "pf": "frmPatientSummary",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

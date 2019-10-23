@@ -1,0 +1,32 @@
+{
+    "AS_Button_b754cf441bd942f8ada41e9e27d6d76c": {
+        "id": "AS_Button_b754cf441bd942f8ada41e9e27d6d76c",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdministration_Popupfilter_Apply",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupAdminSortFilter",
+            "type": "popups",
+            "platform": null,
+            "KUID": "3d6611cd03724cb68943b89d374d26d1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___3b5830ded8ef49f1af29d4e46491b7b6",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmAdministration_FilterPopup_Clear_Apply",
+            "display": "frmAdministration_FilterPopup_Clear_Apply",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

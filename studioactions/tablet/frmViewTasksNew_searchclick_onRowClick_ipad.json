@@ -1,0 +1,28 @@
+{
+    "AS_Segment_838d1089cf97486987dc86f7c6d3160d": {
+        "id": "AS_Segment_838d1089cf97486987dc86f7c6d3160d",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_searchclick_onRowClick_ipad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_b3f23df11e8649098deb04b1816d9013",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientListAndSummary_searchPatient",
+            "display": "frmPatientListAndSummary_searchPatient",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "AS_FlexContainer_440a0ad3bc51403aa637dc2523941446": {
+        "id": "AS_FlexContainer_440a0ad3bc51403aa637dc2523941446",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWCCDashboard_header_logout",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "c82ab20cb7c7449fb7404168051951b0"
+        },
+        "sourceObj": {
+            "itemKUID": "5b6f549504be45a7b888471691b5dd4f",
+            "widgetKUID": "b0565069651f4f72b781c0ab5836e352",
+            "evt": "onClick",
+            "platform": null
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAMED_ACTION____83ae3f853f6c430fa142813c2199fe72",
+            "type": "NAMED_ACTION",
+            "sequenceKUID": "AS_FlexContainer_095868930bb040d5a64fad8f86fe5205",
+            "display": "<>",
+            "inputparams": [{
+                "datatype": "collection",
+                "name": "eventobject",
+                "value": "eventobject"
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": false,
+            "isMasterInstanceAction": true
+        }]
+    }
+}

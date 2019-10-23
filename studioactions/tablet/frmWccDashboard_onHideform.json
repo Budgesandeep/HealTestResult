@@ -1,0 +1,29 @@
+{
+    "AS_Form_b881ff843a994f3784d503d985e95be8": {
+        "id": "AS_Form_b881ff843a994f3784d503d985e95be8",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmWccDashboard_onHideform",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmWCCDashboard",
+            "type": "forms",
+            "platform": "",
+            "KUID": "eb14c6f9d5a447179393e04161a90a24"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___68543508e932489e90f8d808f51d9779",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_closeSideMenu",
+            "display": "menu_closeSideMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

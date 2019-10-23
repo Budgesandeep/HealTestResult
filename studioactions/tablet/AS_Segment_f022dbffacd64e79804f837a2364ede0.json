@@ -1,0 +1,33 @@
+{
+    "AS_Segment_f022dbffacd64e79804f837a2364ede0": {
+        "id": "AS_Segment_f022dbffacd64e79804f837a2364ede0",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "number",
+            "name": "sectionNumber"
+        }, {
+            "datatype": "number",
+            "name": "rowNumber"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": null,
+            "KUID": "g05ad9ee8e5346a186c5b346a773ce78"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onRowClick_ie577a28c01541cd8f7926f899cf9c65",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_segRecords_onRowClick",
+            "display": "frmPatientRecords_segRecords_onRowClick",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

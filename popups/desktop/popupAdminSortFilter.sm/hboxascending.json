@@ -1,0 +1,53 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizHBox",
+    "DNDConfig": null,
+    "_margin_": [
+        10,
+        8,
+        10,
+        5
+    ],
+    "_orientation_": 1,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_position_": 3,
+    "_skin_": "s93f838d298d42da977199641e847c3b",
+    "allboxes": [],
+    "canUpdateUI": true,
+    "children": [
+        "vboxAZ",
+        "imgdownarrow",
+        "lblascending"
+    ],
+    "containerweight": 100,
+    "contextmenu": null,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "s689c82d1af445e2a671e33287127155"
+        }
+    },
+    "id": "hboxascending",
+    "ide_onClick": "AS_HBox_0e04ed5d1a4248b9aed3596efc13dacb",
+    "info": null,
+    "isvisible": true,
+    "kuid": "b996488a311f4a65a4f42d4c3db57a5a",
+    "layouttype": 0,
+    "margininpixel": false,
+    "name": "kony.ui.Box",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "paddinginpixel": false,
+    "parent": "vboxsorting",
+    "pf": "popupAdminSortFilter",
+    "wType": "HBox",
+    "widgetalignment": 1
+}

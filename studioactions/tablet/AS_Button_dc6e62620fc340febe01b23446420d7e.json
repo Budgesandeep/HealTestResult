@@ -1,0 +1,21 @@
+{
+    "AS_Button_dc6e62620fc340febe01b23446420d7e": {
+        "id": "AS_Button_dc6e62620fc340febe01b23446420d7e",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_ba5dcf3e68574dcd966982b1731560cd",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "_closePushNotificaitonsPopup",
+            "display": "_closePushNotificaitonsPopup",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

@@ -1,0 +1,80 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "80dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "20dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s7d45bf2820a43c7ae43389d63cae3be",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "10%"
+    },
+    "allboxes": [],
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "childInstances": [
+        "mc1d22ca4ec34a3b8ddfcaa90340d7e0",
+        "m1db9167043842a5a9c3d9f1a6f7da54",
+        "mea973a345f04eca907d9f92a87114b0",
+        "m02f88a0c72245769905eeef0bdce9c7",
+        "m8e8cdf3c0c54f18aee53c9d155984ed",
+        "m33a0aa87630483f82f1c1044df1e112",
+        "m22a3905a0854987a124e6fe551562cf",
+        "m72444211714408f968c89e505529bda",
+        "me0a581471ec4e5db1518542daa5cad4",
+        "ma9777c83b4047fe87b542f19422ecc6",
+        "m99f19d2f0ad4d69aba158f4ddcbdf35",
+        "mb43de0ddd38437689f0cf213ab05a01",
+        "m05828143921408a9f184088bdaf098a",
+        "m2dfba2a69f643b1b9c41f715064c7ce"
+    ],
+    "children": [
+        "imgtasks",
+        "inboxcircle"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sa4b6c2fae1b43caa5597b8ed6cf1128"
+        }
+    },
+    "enablescrolling": true,
+    "id": "fctaskcount",
+    "ide_onClick": "AS_FlexContainer_901573f75b454451bd4364e4879b8d21",
+    "info": null,
+    "isvisible": true,
+    "kuid": "14e199af5176447d8c6427bb5213ee1d",
+    "layouttype": 2,
+    "name": "kony.ui.FlexContainer",
+    "parent": "fcheaderright",
+    "pf": "masterheader",
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "wType": "FlexContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

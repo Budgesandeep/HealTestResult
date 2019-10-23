@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "1.50%"
+    },
+    "_skin_": "sf33ca943b794c7489d0db4843611ca3",
+    "_text_": "Last Sync: HH:MM DD/MM/YYYY",
+    "_width_": {
+        "type": "string",
+        "value": "42%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lbllastsync",
+    "info": null,
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": false,
+    "kuid": "c4c0d959752d47468e2c435845f77524",
+    "name": "kony.ui.Label",
+    "parent": "fcOnlineOfflineStatus",
+    "pf": "frmPatientDetails",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

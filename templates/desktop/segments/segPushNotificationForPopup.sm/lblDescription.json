@@ -1,0 +1,56 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "_margin_": [
+        0,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4b0b914d7074fd48aa913e589cd04a6",
+    "_text_": "adadasdhagdah jkasdhjkagsd g hgahsgdjh . hgashdg ahjsdgajhgs djahgdjas ajskhdkaj djdjkasjdhasjdhasjdhjakshd sadahskjdhaskjd asjkdshdjas kjdahsjkd 111 asdasdasdas asdasdasda jashdkasjdhasjkd as jksah djkashdkjas sa hdkajsdhasjkh dkjashdjkh djkashd kj",
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblDescription",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "e16cadc638c14987805f1a93681344eb",
+    "margininpixel": false,
+    "name": "kony.ui.Label",
+    "paddInPixel": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "parent": "hboxdesc",
+    "pf": "segPushNotificationForPopup",
+    "tooltip": "",
+    "wType": "Label"
+}

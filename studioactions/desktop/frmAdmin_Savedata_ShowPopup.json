@@ -1,0 +1,29 @@
+{
+    "AS_Button_e0511fe9a3ee466e9fd9898196bba9db": {
+        "id": "AS_Button_e0511fe9a3ee466e9fd9898196bba9db",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmAdmin_Savedata_ShowPopup",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmAdmin",
+            "type": "forms",
+            "platform": "",
+            "KUID": "7f026c28f14647bd84e6085de5abce9d"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9d3a40552a4741b7a2a5fdb70e7cb935",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "popupadmin_selectedSaveList",
+            "display": "popupadmin_selectedSaveList",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

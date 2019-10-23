@@ -1,0 +1,56 @@
+{
+    "__parentReadjusting__": false,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sf8895f2fe9042cdb69966204e72cb3b",
+    "_srcKuid_": "50c7592a69694f92acb38df6789216d8",
+    "canUpdateUI": true,
+    "children": [
+        "fcheaderleft",
+        "fcheaderright",
+        "fcheaderline"
+    ],
+    "context": {},
+    "dataDiffs": {
+        "clipBounds": true,
+        "enableScrolling": true,
+        "height": {
+            "type": "string",
+            "value": "80dp"
+        },
+        "id": "fcmstheader",
+        "layoutType": 2,
+        "left": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "snapGridSize": 10,
+        "snapToGrid": true,
+        "top": {
+            "type": "string",
+            "value": "0dp"
+        },
+        "width": {
+            "type": "string",
+            "value": "100%"
+        }
+    },
+    "id": "fcmstheader",
+    "instanceOf": "50c7592a69694f92acb38df6789216d8",
+    "isTopFlexInstance": true,
+    "isvisible": true,
+    "kuid": "m05e9f99d3054402be7bdccb8e99e8f9",
+    "layouttype": 2,
+    "masterInstance": true,
+    "name": "kony.ui.FlexContainer",
+    "parent": "frmPatientRecords",
+    "pf": "frmPatientRecords",
+    "vizProps": {
+        "hidewidgethierarchy": false
+    },
+    "wType": "FlexContainer"
+}

@@ -1,0 +1,25 @@
+{
+    "AS_Form_c1a1a84f08bf4868b1ae687e5252bf88": {
+        "id": "AS_Form_c1a1a84f08bf4868b1ae687e5252bf88",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmHomeCancel_Timer",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmHome",
+            "type": "forms",
+            "platform": "",
+            "KUID": "d9bc528d8e3a40d8b0e9930513508d69"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET__i3d4546716f34248a66331fa83740c4d",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "kony.timer.cancel(\"loadingTimer\"); ",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

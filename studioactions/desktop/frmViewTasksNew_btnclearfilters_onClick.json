@@ -1,0 +1,22 @@
+{
+    "AS_Button_27878179bec04587bbf969728d84cd86": {
+        "id": "AS_Button_27878179bec04587bbf969728d84cd86",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_btnclearfilters_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_6b4b7cf35fb246bd9161c0fe2a9db94f",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasksNew_Clear_All_filter",
+            "display": "frmViewTasksNew_Clear_All_filter",
+            "inputparams": [],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

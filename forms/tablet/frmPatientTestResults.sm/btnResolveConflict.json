@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s08d2506f34b4c27b5f2c5b4ff1fc653",
+    "_text_": "Conflicts   ",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s08d2506f34b4c27b5f2c5b4ff1fc653",
+    "id": "btnResolveConflict",
+    "ide_onClick": "AS_Button_afe21027033b4068900e98bcdeac65e7",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "showProgressIndicator": false
+        }
+    },
+    "isvisible": true,
+    "kuid": "fc6c78d4691347aeb1b505ddb693ba21",
+    "name": "kony.ui.Button",
+    "parent": "fcResolveConflict",
+    "pf": "frmPatientTestResults",
+    "showprogressindicator": false,
+    "wType": "Button",
+    "zindex": 1
+}

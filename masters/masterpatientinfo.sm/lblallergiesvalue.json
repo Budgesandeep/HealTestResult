@@ -1,0 +1,80 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_bottom_": {
+        "type": "string",
+        "value": "5dp"
+    },
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "30.30%"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        1
+    ],
+    "_skin_": "sa8abdf651b14f72be81ff5983d75713",
+    "_text_": "None Lorem ipsum dolor sit met, consetetur sadipscing eliter, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "58%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "childInstances": [
+        "me0f55af43094ab78ae784ddce7cfd9a",
+        "m9fe23c66d9543cbaed63546320f236c",
+        "mc38fb9e68614b07b408130888385781",
+        "m1e74a70ecf049a8b4a1763e5081cedf",
+        "mfcc19955b694c5a9a5e8a8cb3e8442c",
+        "m7a2648c3f8347e1b09d08307a61e007",
+        "m9fdca5d201c46f3a716ec34b95369aa",
+        "mb911b9831bf4fc18e36e6293dcba8a3",
+        "m9dce23670634b7788f65c9346f4515d"
+    ],
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "lblallergiesvalue",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "5ca8196acc15469e8268e741b330d766",
+    "name": "kony.ui.Label",
+    "parent": "fcpatientinfofooter",
+    "pf": "masterpatientinfo",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

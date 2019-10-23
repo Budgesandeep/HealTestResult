@@ -1,0 +1,29 @@
+{
+    "AS_Button_b6e991dbb691408a87cee5d597032257": {
+        "id": "AS_Button_b6e991dbb691408a87cee5d597032257",
+        "type": "ACTION_SEQUENCE",
+        "name": "popupDuplicateDocument_btnnoClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "popupDuplicateDocument",
+            "type": "popups",
+            "platform": null,
+            "KUID": "jf1d4dd93c04414a96b5e0215f7e9d4e"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___i90bbfbabdda419f947850e13756397d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_donotReplaceDuplicateDocument",
+            "display": "frmPatientRecords_donotReplaceDuplicateDocument",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

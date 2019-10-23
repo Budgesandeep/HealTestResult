@@ -1,0 +1,30 @@
+{
+    "AS_FlexContainer_774ccd50d6c14466bf6eb09ed175b816": {
+        "id": "AS_FlexContainer_774ccd50d6c14466bf6eb09ed175b816",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_filterByWeeks",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "type": "templates",
+            "platform": "",
+            "KUID": "0602ade0f56d44d399a07dabb337da25"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___9d165c99c3774d8c847eb04fc695124c",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "segPatientListSelectedCoulmn",
+            "display": "segPatientListSelectedCoulmn",
+            "inputparams": [],
+            "parentId": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

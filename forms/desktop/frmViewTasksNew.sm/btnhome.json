@@ -1,0 +1,55 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s23803215264423f81102854342fdf9c",
+    "_text_": "Home",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "sfb1d722711544e7a84d440ad73e5f86"
+        }
+    },
+    "displaytext": true,
+    "focusskin": "s23803215264423f81102854342fdf9c",
+    "id": "btnhome",
+    "ide_onClick": "AS_Button_0609b028a0f24e2288642869a0f64f97",
+    "info": null,
+    "isvisible": true,
+    "kuid": "0b0db05be63f432a95a2426f001f0523",
+    "name": "kony.ui.Button",
+    "parent": "fcbreadcrumb",
+    "pf": "frmViewTasksNew",
+    "wType": "Button",
+    "zindex": 1
+}

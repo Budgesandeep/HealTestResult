@@ -1,0 +1,37 @@
+{
+    "AS_Image_b67b13455a4044ecb530fc178f043655": {
+        "id": "AS_Image_b67b13455a4044ecb530fc178f043655",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientTestResults",
+            "type": "forms",
+            "platform": "",
+            "KUID": "aa7f99a77a224b3c988261551c1c3549"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ga1f4b73b6b944b9b7ee0af83f245ce7",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "sortTestResultSelection",
+            "display": "sortTestResultSelection",
+            "inputparams": [{
+                "name": "eventName",
+                "value": "\"D\""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

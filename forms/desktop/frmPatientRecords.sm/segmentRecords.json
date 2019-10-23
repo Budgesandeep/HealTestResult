@@ -1,0 +1,156 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "imgBackground": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "onelinearrownormal.png"
+            },
+            "imgUpload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "upload.png"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblRecordType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgBackground": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "onelinearrownormal.png"
+            },
+            "imgUpload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "upload.png"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblRecordType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        },
+        {
+            "imgBackground": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "onelinearrownormal.png"
+            },
+            "imgUpload": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "upload.png"
+            },
+            "lblLine": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "lblRecordType": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "10dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "22%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentRecords",
+    "ide_onRowClick": "AS_Segment_a723b34b9bc64bd2bf9d11800c0547de",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "bd26a28964d947e7835487fd67c37493",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "fcPatientRecords",
+    "pf": "frmPatientRecords",
+    "retainselection": false,
+    "rowTemplateId": "c9d3eb85d9884b238b32b39e9d505a8e",
+    "rowcounter": 2,
+    "rowfocusskin": "s1424a1698dd48bc8967d8eeb4b44c33",
+    "rowskin": "s89929f1e9b346e58cd0b35db55e0163",
+    "rowtemplate": "fcRecords",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s0298f0fd85b4102a44eee75eea4f738",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "ffffff00",
+    "separatorrequired": true,
+    "separatorthickness": 0,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "fcRecords": "fcRecords",
+        "fcUpload": "fcUpload",
+        "imgBackground": "imgBackground",
+        "imgUpload": "imgUpload",
+        "lblLine": "lblLine",
+        "lblRecordType": "lblRecordType"
+    },
+    "zindex": 1
+}

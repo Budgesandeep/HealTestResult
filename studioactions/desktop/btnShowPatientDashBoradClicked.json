@@ -1,0 +1,28 @@
+{
+    "AS_Button_2bfbc824a46a4f01853b5759ddad78ba": {
+        "id": "AS_Button_2bfbc824a46a4f01853b5759ddad78ba",
+        "type": "ACTION_SEQUENCE",
+        "name": "btnShowPatientDashBoradClicked",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "type": "forms",
+            "platform": null,
+            "KUID": "33b722e4b42d47f78917373ace1e4127"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b36bc79533f94d439696a0c9753bf59a",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "showPatientDashboard",
+            "display": "showPatientDashboard",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

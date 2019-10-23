@@ -1,0 +1,29 @@
+{
+    "AS_Form_4188d753f7c140c6ae2050e109bedb46": {
+        "id": "AS_Form_4188d753f7c140c6ae2050e109bedb46",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_onHide_event",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "14e9f5966f49403facbdb4ab9c8cbaa5"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___b5d147fe129a46c59dc77ec678799313",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "menu_closeSideMenu",
+            "display": "menu_closeSideMenu",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

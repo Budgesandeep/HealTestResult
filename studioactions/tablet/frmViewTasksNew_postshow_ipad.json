@@ -1,0 +1,29 @@
+{
+    "AS_Form_e9466a5fb30a49cebf420f0e8f2eed40": {
+        "id": "AS_Form_e9466a5fb30a49cebf420f0e8f2eed40",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_postshow_ipad",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmViewTasksNew",
+            "type": "forms",
+            "platform": "",
+            "KUID": "15b91c763b4247dcbffb17a1665e772c"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___83e413397e944595be69c74dbdba2f30",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmViewTasksNew_postShow",
+            "display": "frmViewTasksNew_postShow",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

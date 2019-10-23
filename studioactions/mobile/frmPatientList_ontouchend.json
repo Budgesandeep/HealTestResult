@@ -1,0 +1,35 @@
+{
+    "AS_Form_f90b0fba7c1d4bc788e924f009c49173": {
+        "id": "AS_Form_f90b0fba7c1d4bc788e924f009c49173",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientList_ontouchend",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "frmPatientList",
+            "type": "forms",
+            "platform": "",
+            "KUID": "a47cd5c8b4344d0fb6212b46230e40b1"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___ecf6b3a2a95a4cdebce5699ef4c8032d",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientList_iPhone_onTouchEnd",
+            "display": "frmPatientList_iPhone_onTouchEnd",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

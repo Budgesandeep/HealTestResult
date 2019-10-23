@@ -1,0 +1,25 @@
+{
+    "AS_FlexContainer_82d6f2486c584bc886eeb2355ef71e24": {
+        "id": "AS_FlexContainer_82d6f2486c584bc886eeb2355ef71e24",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmViewTasksNew_fcprint_onClick",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION__ide_onClick_1a1031668118417b80717a30a14a27a5",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "show_printMenu",
+            "display": "show_printMenu",
+            "inputparams": [{
+                "name": "eventobject",
+                "value": " eventobject"
+            }],
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

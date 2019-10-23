@@ -1,0 +1,29 @@
+{
+    "AS_Form_afcba20560ee4750b01990005279eb22": {
+        "id": "AS_Form_afcba20560ee4750b01990005279eb22",
+        "type": "ACTION_SEQUENCE",
+        "name": "frmPatientRecords_postShow",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "frmPatientRecords",
+            "type": "forms",
+            "platform": "",
+            "KUID": "2dadc999bf6b45babe7b7fd8757e2f92"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___88a25ba88a0a44a3aba08a3081658856",
+            "type": "INVOKE_FUNCTION",
+            "sequenceKUID": "frmPatientRecords_postShowfunc",
+            "display": "frmPatientRecords_postShowfunc",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }]
+    }
+}

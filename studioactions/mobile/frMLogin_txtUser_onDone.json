@@ -1,0 +1,21 @@
+{
+    "AS_TextField_b1d2b55ead184533886a7da0659bcbb4": {
+        "id": "AS_TextField_b1d2b55ead184533886a7da0659bcbb4",
+        "type": "ACTION_SEQUENCE",
+        "name": "frMLogin_txtUser_onDone",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "changedtext"
+        }],
+        "language": "js",
+        "actions": [{
+            "id": "ADD_SNIPPET_ide_onDone_9e05532672be432a8e5222a6eb0d47bf",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "frmLogin.txtpassword.text=\"\";\nfrmLogin.txtpassword.setFocus(true);\n//loginModule.ValidateCredentials();",
+            "callbackType": null
+        }]
+    }
+}

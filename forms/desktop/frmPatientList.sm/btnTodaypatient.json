@@ -1,0 +1,60 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_right_": {
+        "type": "string",
+        "value": "12%"
+    },
+    "_skin_": "s240b1d7c22740519b8482a8330d94df",
+    "_text_": "Today's Patients",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centery": {
+        "type": "string",
+        "value": "50%"
+    },
+    "containerweight": 100,
+    "contentalignment": 6,
+    "desktopweb": {
+        "psp": {
+            "hoverSkin": "se76e0f4fc164461a20ee08052bff756"
+        }
+    },
+    "disabledSkins": {},
+    "displaytext": true,
+    "focusskin": "s763294beccd46eb9373add0f5a7b98c",
+    "id": "btnTodaypatient",
+    "ide_onClick": "AS_Button_a92de14b61074899abd9c302de6671c7",
+    "info": null,
+    "isvisible": true,
+    "kuid": "e64dc9ea89f64bdfa25e6046a530e4d4",
+    "name": "kony.ui.Button",
+    "parent": "fcpatienthdrbox",
+    "pf": "frmPatientList",
+    "wType": "Button",
+    "zindex": 1
+}
