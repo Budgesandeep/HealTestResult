@@ -295,12 +295,3 @@ function sortOrderDateTestResultSelection(eventName){
     }
   frmPatientTestResults.forceLayout();
 }
-
-  
-   
-
-
-
-
-
-
